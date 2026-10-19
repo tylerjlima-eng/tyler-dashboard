@@ -16,7 +16,10 @@ jobs:
       - name: Commit snapshot
         run: |
           git config user.name "price-bot"; git config user.email "actions@users.noreply.github.com"
+          mkdir -p /tmp/out && cp -r data/prices.json data/history.json icons /tmp/out/
+          git fetch origin main && git reset --hard origin/main   # rebase onto any commits pushed during the run
+          cp /tmp/out/prices.json /tmp/out/history.json data/ && cp -r /tmp/out/icons .
           git add data/prices.json data/history.json icons
-          git diff --cached --quiet || git commit -m "Price snapshot $(date -u +%F)"
-          git push
+          git diff --cached --quiet || git commit -m "Price snapshot $(TZ=America/New_York date +%F)"
+          git push origin HEAD:main
           git push --force origin HEAD:gh-pages

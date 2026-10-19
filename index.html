@@ -1,0 +1,47 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0f172a"><title>Tyler's Card Desk</title><link rel="stylesheet" href="style.css"></head>
+<body><header><h1>🃏 Card Desk</h1><span id="upd" class="muted"></span></header>
+<main>
+<section id="t-market" class="tab on">
+ <div class="chips" id="catChips"></div>
+ <div class="row"><label>Grade <select id="grade"><option>Ungraded</option><option>PSA 10</option></select></label>
+ <label>Window <select id="win"><option value="30d">30d</option><option value="7d">7d</option><option value="1d">1d</option></select></label></div>
+ <h2>Top movers</h2><div id="movers" class="cards"></div>
+ <h2>Watchlist</h2><div id="watch"></div>
+ <details class="box"><summary>➕ Add a card to the watchlist</summary>
+  <p class="muted">Paste a PriceCharting / SportsCardsPro product URL. It's saved on this phone right away and starts getting daily prices once it's added to <code>data/watchlist.json</code> in the repo (the button below opens the GitHub editor with the line ready to paste).</p>
+  <input id="addName" placeholder="Name, e.g. Lugia V Alt Art #186"><select id="addCat"><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh</option><option value="sports">Sports</option></select>
+  <input id="addUrl" placeholder="https://www.pricecharting.com/game/..."><button id="addBtn">Add</button><pre id="addOut" class="muted"></pre></details>
+ <p class="muted small" id="srcNote"></p>
+</section>
+<section id="t-list" class="tab">
+ <h2>eBay listing draft</h2><p class="muted small">Seller: <b>ya_mothers_garage</b>. Drafts are saved on this device. Publishing needs eBay API keys + a small backend (see Setup).</p>
+ <label>Start from watchlist card <select id="lCard"><option value="">— custom —</option></select></label>
+ <input id="lPlayer" placeholder="Card / player name"><input id="lSet" placeholder="Year / set / number">
+ <div class="row"><select id="lCond"><option value="4000|Ungraded">Ungraded (eBay 4000)</option><option value="2750|Graded">Graded (eBay 2750)</option></select>
+ <select id="lGrader"><option>PSA</option><option>BGS</option><option>CGC</option><option>SGC</option></select><input id="lGrade" placeholder="Grade e.g. 10" style="width:6em"></div>
+ <select id="lRaw"><option>Near Mint or Better</option><option>Lightly Played (Excellent)</option><option>Moderately Played (Very Good)</option><option>Heavily Played (Poor)</option></select>
+ <input id="lCert" placeholder="Cert # (graded)"><textarea id="lNotes" placeholder="Notes: centering, flaws, extras…"></textarea>
+ <h3>Comps</h3><div id="comps" class="box"></div>
+ <textarea id="lManual" placeholder="Optional: paste recent sold prices you've seen (one per line or comma-separated)"></textarea>
+ <div id="suggest" class="box"></div>
+ <label>Price $ <input id="lPrice" type="number" step="0.01"></label>
+ <button id="gen">Generate title & description</button>
+ <label>Title (<span id="tLen">0</span>/80)<input id="lTitle" maxlength="80"></label><textarea id="lDesc" rows="8"></textarea>
+ <div class="row"><button id="saveDraft">Save draft</button><button id="copyDraft">Copy</button><button id="payload">eBay API payload</button></div>
+ <pre id="payloadOut" class="small"></pre><h3>Saved drafts</h3><div id="drafts"></div>
+</section>
+<section id="t-sched" class="tab">
+ <div class="row"><button id="prevM">‹</button><h2 id="mLabel" style="flex:1;text-align:center"></h2><button id="nextM">›</button></div>
+ <div id="cal" class="cal"></div><div class="chips" id="evChips"></div>
+ <h2 id="dayLabel">Upcoming</h2><div id="evList"></div>
+ <details class="box"><summary>➕ Add task / reminder</summary>
+ <input id="tTitle" placeholder="e.g. Ship PSA submission"><div class="row"><input id="tDate" type="date"><input id="tTime" type="time"></div>
+ <textarea id="tNote" placeholder="Notes"></textarea><button id="tAdd">Add</button></details>
+ <div class="row"><button id="icsAll">Export all (.ics)</button><button id="icsMine">Export my tasks (.ics)</button><button id="notif">Enable reminders</button></div>
+ <p class="muted small">Release/tournament/show dates are pre-loaded from public sources (tap an event for its link). Your tasks are stored on this device. Google Calendar sync isn't connected yet; for now, import the .ics file into Google Calendar.</p>
+</section>
+<section id="t-setup" class="tab"><div id="setupDoc">Loading…</div></section>
+</main>
+<nav><button data-t="market" class="on">📈<br>Markets</button><button data-t="list">🏷️<br>List</button><button data-t="sched">📅<br>Schedule</button><button data-t="setup">⚙️<br>Setup</button></nav>
+<script src="ebay.js"></script><script src="app.js"></script></body></html>

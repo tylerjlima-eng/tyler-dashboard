@@ -1,19 +1,30 @@
 name: Refresh prices
 on:
-  schedule: [{ cron: "17 11 * * *" }]   # daily ~7:17 AM ET (11:17 UTC)
+  schedule:
+    - cron: "17 11 * * *"   # primary: ~7:17 AM ET (11:17 UTC during EDT; 6:17 AM ET in winter)
+    - cron: "17 14 * * *"   # backup: ~10:17 AM ET; skipped automatically if the primary already ran
   workflow_dispatch: {}
 permissions: { contents: write }
-concurrency: { group: refresh, cancel-in-progress: false }
+concurrency: { group: refresh-prices, cancel-in-progress: false }   # one run at a time; later runs queue
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Skip backup run if prices are already fresh
+        id: fresh
+        if: github.event_name == 'schedule'
+        run: |
+          python3 -c "import json,datetime as d;u=d.datetime.fromisoformat(json.load(open('data/prices.json'))['updated']);age=(d.datetime.now(d.timezone.utc)-u).total_seconds()/3600;print('age_h',round(age,1));open('$GITHUB_OUTPUT','a').write('skip='+('true' if age<6 else 'false')+'\n')"
       - uses: actions/setup-python@v5
+        if: steps.fresh.outputs.skip != 'true'
         with: { python-version: "3.12" }
-      - run: pip install pillow && python scripts/make_icons.py
-      - run: python scripts/fetch_prices.py
+      - if: steps.fresh.outputs.skip != 'true'
+        run: pip install pillow && python scripts/make_icons.py
+      - if: steps.fresh.outputs.skip != 'true'
+        run: python scripts/fetch_prices.py
       - name: Commit snapshot
+        if: steps.fresh.outputs.skip != 'true'
         run: |
           git config user.name "price-bot"; git config user.email "actions@users.noreply.github.com"
           mkdir -p /tmp/out && cp -r data/prices.json data/history.json icons /tmp/out/
@@ -21,5 +32,6 @@ jobs:
           cp /tmp/out/prices.json /tmp/out/history.json data/ && cp -r /tmp/out/icons .
           git add data/prices.json data/history.json icons
           git diff --cached --quiet || git commit -m "Price snapshot $(TZ=America/New_York date +%F)"
+          git pull --rebase origin main || { git rebase --abort; git fetch origin main; git reset --hard origin/main; cp /tmp/out/prices.json /tmp/out/history.json data/; git add data; git commit -m "Price snapshot (retry)"; }
           git push origin HEAD:main
           git push --force origin HEAD:gh-pages

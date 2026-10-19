@@ -2,6 +2,7 @@
 """Daily price snapshot. Sources: PriceCharting / SportsCardsPro product pages (prices derived from
 completed eBay sales), YGOPRODeck API (TCGplayer/eBay/Cardmarket prices). Stdlib only. No secrets."""
 from concurrent.futures import ThreadPoolExecutor
+from zoneinfo import ZoneInfo
 import json, re, html, time, urllib.request, urllib.parse, datetime, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(ROOT, "data", *p)
@@ -43,24 +44,34 @@ def pct(a, b): return round((a - b) / b * 100, 1) if a and b else None
 def main():
     watch = json.load(open(D("watchlist.json")))
     hist = json.load(open(D("history.json"))) if os.path.exists(D("history.json")) else {}
-    today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    today = datetime.datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")  # snapshot day in Tyler's time zone
+    try:
+        P = json.load(open(D("prices.json"))); prev_updated = P.get("updated")
+        prev = {(i.get("path") or i.get("q")): i for i in P.get("items", []) if not i.get("stale_since") or True}
+    except Exception: prev, prev_updated = {}, None
     out, errors = [], []
     def grab(it):
         rec, errs = dict(it), []
-        for attempt in range(2):
+        for attempt in range(4):
             try: rec.update(pricecharting(it)); break
             except Exception as e:
-                if attempt: errs.append({"item": it["name"], "source": "pricecharting", "error": str(e)[:200]})
-                else: time.sleep(3)
+                if attempt == 3 or "redirected to search" in str(e):
+                    errs.append({"item": it["name"], "source": "pricecharting", "error": str(e)[:200]})
+                    old = prev.get(it.get("path") or it.get("q"))
+                    if old and old.get("prices"):  # carry forward last good values, clearly marked stale
+                        rec.update({k: old[k] for k in ("url", "title", "set", "prices", "monthly") if k in old}); rec["stale_since"] = old.get("stale_since") or prev_updated
+                    break
+                time.sleep(15 * (attempt + 1) if "429" in str(e) else 3)
+        time.sleep(1.5)
         if it.get("ygo"):
             try: rec["ygoprodeck"] = ygoprodeck(it["ygo"])
             except Exception as e: errs.append({"item": it["name"], "source": "ygoprodeck", "error": str(e)[:200]})
         return rec, errs
-    with ThreadPoolExecutor(4) as ex: fetched = list(ex.map(grab, watch))
+    with ThreadPoolExecutor(2) as ex: fetched = list(ex.map(grab, watch))
     for it, (rec, errs) in zip(watch, fetched):
         key = it.get("path") or it.get("q"); errors += errs
         p = rec.get("prices", {})
-        if p: hist.setdefault(key, {})[today] = {g: p[g] for g in ("Ungraded", "PSA 10") if g in p}
+        if p and not rec.get("stale_since"): hist.setdefault(key, {})[today] = {g: p[g] for g in ("Ungraded", "PSA 10") if g in p}
         days = sorted(hist.get(key, {}))
         def ago(n, g):
             t = (datetime.date.fromisoformat(today) - datetime.timedelta(days=n)).isoformat()

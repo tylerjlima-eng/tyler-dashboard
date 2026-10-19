@@ -1,0 +1,382 @@
+[
+ {
+  "id": "seed0",
+  "date": "2026-10-24",
+  "end": "2026-11-01",
+  "cat": "pokemon",
+  "title": "Pokémon Mega Evolution—Delta Reign prereleases",
+  "url": "https://www.pokemon.com/us/news/play-at-a-pokemon-tcg-mega-evolution-delta-reign-prerelease-event",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed1",
+  "date": "2026-10-24",
+  "end": "2026-10-25",
+  "cat": "pokemon",
+  "title": "Pokémon Puebla Regional",
+  "url": "https://rk9.gg/events/pokemon",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed2",
+  "date": "2026-10-31",
+  "end": "2026-11-01",
+  "cat": "pokemon",
+  "title": "Pokémon Gdansk Regional",
+  "url": "https://rk9.gg/events/pokemon",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed3",
+  "date": "2026-11-06",
+  "end": null,
+  "cat": "pokemon",
+  "title": "RELEASE: Pokémon Mega Evolution—Delta Reign",
+  "url": "https://www.pokemon.com/us/news/the-pokemon-tcg-mega-evolution-delta-reign-expansion-arrives-november-6-2026",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed4",
+  "date": "2026-11-14",
+  "end": "2026-11-15",
+  "cat": "pokemon",
+  "title": "Pokémon Buenos Aires Special Event",
+  "url": "https://www.pokebeach.com/2026/07/2027-pokemon-championship-series-event-schedule-and-changes-announced",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed5",
+  "date": "2026-11-20",
+  "end": "2026-11-22",
+  "cat": "pokemon",
+  "title": "Pokémon LAIC São Paulo",
+  "url": "https://laic.gg/",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed6",
+  "date": "2026-11-28",
+  "end": "2026-11-29",
+  "cat": "pokemon",
+  "title": "Pokémon Stuttgart Regional",
+  "url": "https://www.dittobase.com/championships/events",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed7",
+  "date": "2026-12-04",
+  "end": "2026-12-06",
+  "cat": "pokemon",
+  "title": "Pokémon Las Vegas Regional",
+  "url": "https://www.dittobase.com/championships/events",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed8",
+  "date": "2027-01-16",
+  "end": "2027-01-17",
+  "cat": "pokemon",
+  "title": "Pokémon Sydney Regional",
+  "url": "https://www.pokebeach.com/2026/07/2027-pokemon-championship-series-event-schedule-and-changes-announced",
+  "note": "preliminary",
+  "seed": true
+ },
+ {
+  "id": "seed9",
+  "date": "2027-01-23",
+  "end": "2027-01-24",
+  "cat": "pokemon",
+  "title": "Pokémon Mérida Regional",
+  "url": "https://www.pokebeach.com/2026/07/2027-pokemon-championship-series-event-schedule-and-changes-announced",
+  "note": "preliminary",
+  "seed": true
+ },
+ {
+  "id": "seed10",
+  "date": "2027-01-30",
+  "end": "2027-01-31",
+  "cat": "pokemon",
+  "title": "Pokémon Birmingham Regional",
+  "url": "https://www.pokebeach.com/2026/07/2027-pokemon-championship-series-event-schedule-and-changes-announced",
+  "note": "preliminary",
+  "seed": true
+ },
+ {
+  "id": "seed11",
+  "date": "2026-11-04",
+  "end": null,
+  "cat": "yugioh",
+  "title": "RELEASE: Yu-Gi-Oh Ultimate Tournament Pack 2",
+  "url": "https://yugipedia.com/wiki/2026",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed12",
+  "date": "2026-11-13",
+  "end": null,
+  "cat": "yugioh",
+  "title": "RELEASE: Yu-Gi-Oh Magnificent Maestros (OTS Nov 11)",
+  "url": "https://www.yugioh-card.com/en/products/mams/",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed13",
+  "date": "2026-12-04",
+  "end": null,
+  "cat": "yugioh",
+  "title": "RELEASE: Yu-Gi-Oh Glorious Victors (OTS Dec 2)",
+  "url": "https://www.yugioh-card.com/en/products/glvi/",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed14",
+  "date": "2027-01-29",
+  "end": null,
+  "cat": "yugioh",
+  "title": "RELEASE: Yu-Gi-Oh Immortal Phoenix",
+  "url": "https://www.yugioh-card.com/en/products/booster-pack/",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed15",
+  "date": "2026-10-21",
+  "end": null,
+  "cat": "sports",
+  "title": "Topps Heritage FB; Topps Holiday BB; Panini Obsidian FB",
+  "url": "https://www.sportscardmonthly.com/card-release-calendar/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed16",
+  "date": "2026-10-23",
+  "end": null,
+  "cat": "sports",
+  "title": "Panini Select Basketball Hobby; Topps Stadium Club WWE",
+  "url": "https://www.sportscardmonthly.com/card-release-calendar/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed17",
+  "date": "2026-10-28",
+  "end": null,
+  "cat": "sports",
+  "title": "Donruss Football; UD Stature Hockey",
+  "url": "https://www.sportscardmonthly.com/card-release-calendar/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed18",
+  "date": "2026-11-04",
+  "end": null,
+  "cat": "sports",
+  "title": "Topps Cosmic Chrome Baseball; Heritage FB Mega",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed19",
+  "date": "2026-11-05",
+  "end": null,
+  "cat": "sports",
+  "title": "2026-27 Topps Flagship Basketball (Mega Nov 12)",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed20",
+  "date": "2026-11-06",
+  "end": null,
+  "cat": "sports",
+  "title": "Topps Inception Football",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed21",
+  "date": "2026-11-11",
+  "end": null,
+  "cat": "sports",
+  "title": "Topps Museum Collection Baseball",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed22",
+  "date": "2026-11-13",
+  "end": null,
+  "cat": "sports",
+  "title": "Topps Midnight Football; Panini Three and Two Baseball",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "expected",
+  "seed": true
+ },
+ {
+  "id": "seed23",
+  "date": "2026-11-20",
+  "end": null,
+  "cat": "sports",
+  "title": "Leaf Spectacular Baseball",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "distributor date",
+  "seed": true
+ },
+ {
+  "id": "seed24",
+  "date": "2026-11-25",
+  "end": null,
+  "cat": "sports",
+  "title": "Panini Mangaverse Football",
+  "url": "https://www.sportscardmonthly.com/november-2026-sports-card-releases/",
+  "note": "distributor date",
+  "seed": true
+ },
+ {
+  "id": "seed25",
+  "date": "2026-10-24",
+  "end": "2026-10-25",
+  "cat": "show",
+  "title": "Collect-A-Con Dallas",
+  "url": "https://collectaconusa.com/dallas/",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed26",
+  "date": "2026-10-30",
+  "end": "2026-11-01",
+  "cat": "show",
+  "title": "DCS New Jersey (Edison)",
+  "url": "https://www.dallascardshow.com/2026schedule",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed27",
+  "date": "2026-11-05",
+  "end": "2026-11-08",
+  "cat": "show",
+  "title": "Dallas Card Show (Allen TX)",
+  "url": "https://www.dallascardshow.com/2026schedule",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed28",
+  "date": "2026-11-07",
+  "end": "2026-11-08",
+  "cat": "show",
+  "title": "Collect-A-Con Houston",
+  "url": "https://cardshows.io/organizers/collect-a-con-llc",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed29",
+  "date": "2026-11-13",
+  "end": "2026-11-15",
+  "cat": "show",
+  "title": "DCS Chicago (Schaumburg)",
+  "url": "https://www.dallascardshow.com/2026schedule",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed30",
+  "date": "2026-11-21",
+  "end": "2026-11-22",
+  "cat": "show",
+  "title": "Collect-A-Con Edison NJ",
+  "url": "https://cardshows.io/organizers/collect-a-con-llc",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed31",
+  "date": "2026-12-05",
+  "end": "2026-12-06",
+  "cat": "show",
+  "title": "Collect-A-Con San Antonio",
+  "url": "https://cardshows.io/organizers/collect-a-con-llc",
+  "note": "unconfirmed on organizer site",
+  "seed": true
+ },
+ {
+  "id": "seed32",
+  "date": "2026-12-11",
+  "end": "2026-12-13",
+  "cat": "show",
+  "title": "The Philly Show (Oaks PA)",
+  "url": "https://www.shoeboxdaily.com/shows",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed33",
+  "date": "2026-12-18",
+  "end": "2026-12-20",
+  "cat": "show",
+  "title": "DCS Houston",
+  "url": "https://www.dallascardshow.com/2026schedule",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed34",
+  "date": "2026-12-19",
+  "end": "2026-12-20",
+  "cat": "show",
+  "title": "Collect-A-Con Los Angeles",
+  "url": "https://www.shoeboxdaily.com/shows",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed35",
+  "date": "2027-01-14",
+  "end": "2027-01-17",
+  "cat": "show",
+  "title": "Dallas Card Show",
+  "url": "https://www.dallascardshow.com/2026schedule",
+  "note": "",
+  "seed": true
+ },
+ {
+  "id": "seed36",
+  "date": "2026-11-27",
+  "end": null,
+  "cat": "ebay",
+  "title": "Black Friday (eBay promo dates unconfirmed)",
+  "url": "https://www.valueaddedresource.net/ebay-holiday-2026-webinar-handbook/",
+  "note": "unconfirmed promos",
+  "seed": true
+ },
+ {
+  "id": "seed37",
+  "date": "2026-11-30",
+  "end": null,
+  "cat": "ebay",
+  "title": "Cyber Monday (eBay promo dates unconfirmed)",
+  "url": "https://www.valueaddedresource.net/ebay-holiday-2026-webinar-handbook/",
+  "note": "unconfirmed promos",
+  "seed": true
+ }
+]

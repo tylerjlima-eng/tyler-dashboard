@@ -35,7 +35,9 @@ def pricecharting(item):
             if k in GRADES: hist[GRADES[k]] = [[p[0] // 1000, p[1] / 100] for p in pts if p[1]][-13:]
     t = re.search(r"<title>([^<]+)", h)
     parts = [x.strip() for x in html.unescape(t.group(1)).split("|")] if t else []
-    return {"url": final.split("?")[0], "title": parts[0] if parts else None, "set": parts[1] if len(parts) > 1 else None, "prices": cur, "monthly": hist}
+    im = re.search(r'id="product_details".*?(https://storage\.googleapis\.com/images\.pricecharting\.com/\w+)/\d+\.jpg', h, re.S)
+    return {"img": im.group(1) + "/240.jpg" if im else None, "img_lg": im.group(1) + "/1600.jpg" if im else None,
+            "url": final.split("?")[0], "title": parts[0] if parts else None, "set": parts[1] if len(parts) > 1 else None, "prices": cur, "monthly": hist}
 def ygoprodeck(card_id, set_code):
     """Keyed on passcode + set_code (name lookups can return alt-art passcodes). set_price is a lowest ASKING price
     for that printing; "0" means missing."""
@@ -107,6 +109,14 @@ def main():
         if it.get("tcgdex") and (not rec.get("prices") or rec.get("stale_since")):  # fallback only when PriceCharting failed
             try: rec["tcgdex_cardmarket"] = tcgdex(it["tcgdex"])
             except Exception as e: errs.append({"item": it["name"], "source": "tcgdex", "error": str(e)[:200]})
+        if not rec.get("img"):  # image fallbacks: YGOPRODeck card art, TCGdex scan, else last known
+            if it.get("ygo_id"): rec["img"] = rec["img_lg"] = "https://images.ygoprodeck.com/images/cards_small/%d.jpg" % it["ygo_id"]
+            elif it.get("tcgdex"):
+                try:
+                    _, b = get("https://api.tcgdex.net/v2/en/cards/" + urllib.parse.quote(it["tcgdex"])); base = json.loads(b).get("image")
+                    if base: rec["img"], rec["img_lg"] = base + "/low.webp", base + "/high.webp"
+                except Exception: pass
+            if not rec.get("img") and prev.get(it.get("path") or it.get("q"), {}).get("img"): rec["img"] = prev[it.get("path") or it.get("q")]["img"]
         return rec, errs
     with ThreadPoolExecutor(2) as ex: fetched = list(ex.map(grab, watch))
     for it, (rec, errs) in zip(watch, fetched):

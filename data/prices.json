@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-19T03:53:00+00:00",
+ "updated": "2026-10-19T04:08:15+00:00",
  "items": [
   {
    "cat": "pokemon",
    "name": "Charizard #4 (Base Set)",
    "path": "pokemon-base-set/charizard-4",
    "tcgdex": "base1-4",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/hpgpcpsd42huitud/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/hpgpcpsd42huitud/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-base-set/charizard-4",
    "title": "Charizard #4 Prices",
    "set": "Pokemon Base Set",
@@ -345,13 +347,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 120.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -380,6 +382,8 @@
    "cat": "pokemon",
    "name": "Blastoise #2 (Base Set)",
    "path": "pokemon-base-set/blastoise-2",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fduultrrfpaofkxz/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fduultrrfpaofkxz/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-base-set/blastoise-2",
    "title": "Blastoise #2 Prices",
    "set": "Pokemon Base Set",
@@ -719,13 +723,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 19.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -754,6 +758,8 @@
    "cat": "pokemon",
    "name": "Venusaur #15 (Base Set)",
    "path": "pokemon-base-set/venusaur-15",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/jw45qdlqbx652hmf/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/jw45qdlqbx652hmf/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-base-set/venusaur-15",
    "title": "Venusaur #15 Prices",
    "set": "Pokemon Base Set",
@@ -1093,13 +1099,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 43.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -1128,6 +1134,8 @@
    "cat": "pokemon",
    "name": "Mewtwo #10 (Base Set)",
    "path": "pokemon-base-set/mewtwo-10",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/0374cd52bb22be6591b9807241107c22c6f72b2f071869c6e6342a156be99e10/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/0374cd52bb22be6591b9807241107c22c6f72b2f071869c6e6342a156be99e10/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-base-set/mewtwo-10",
    "title": "Mewtwo #10 Prices",
    "set": "Pokemon Base Set",
@@ -1467,13 +1475,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 16.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -1503,6 +1511,8 @@
    "name": "Umbreon VMAX #215 (Evolving Skies)",
    "path": "pokemon-evolving-skies/umbreon-vmax-215",
    "tcgdex": "swsh7-215",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/tbzk7g5d36blsr7e/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/tbzk7g5d36blsr7e/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-215",
    "title": "Umbreon VMAX #215 Prices",
    "set": "Pokemon Evolving Skies",
@@ -1842,13 +1852,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -9.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -1878,6 +1888,8 @@
    "name": "Rayquaza VMAX #218 (Evolving Skies)",
    "path": "pokemon-evolving-skies/rayquaza-vmax-218",
    "tcgdex": "swsh7-218",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/vmrc3cns3gy6ubqi/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/vmrc3cns3gy6ubqi/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-vmax-218",
    "title": "Rayquaza VMAX #218 Prices",
    "set": "Pokemon Evolving Skies",
@@ -2217,13 +2229,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 9.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -2253,6 +2265,8 @@
    "name": "Charizard ex #199 (151)",
    "path": "pokemon-scarlet-&-violet-151/charizard-ex-199",
    "tcgdex": "sv03.5-199",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/2z2r3eie25dtigmj/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/2z2r3eie25dtigmj/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charizard-ex-199",
    "title": "Charizard ex #199 Prices",
    "set": "Pokemon Scarlet & Violet 151",
@@ -2592,13 +2606,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -2628,6 +2642,8 @@
    "name": "Giratina VSTAR GG69 (Crown Zenith)",
    "path": "pokemon-crown-zenith/giratina-vstar-gg69",
    "tcgdex": "swsh12.5gg-GG69",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/xgwrvccftvhnxlzx/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/xgwrvccftvhnxlzx/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-crown-zenith/giratina-vstar-gg69",
    "title": "Giratina VSTAR #GG69 Prices",
    "set": "Pokemon Crown Zenith",
@@ -2967,13 +2983,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -3003,6 +3019,8 @@
    "name": "Giratina V #186 (Lost Origin)",
    "path": "pokemon-lost-origin/giratina-v-186",
    "tcgdex": "swsh11-186",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/e622ba2e940cc994306094e71915abe8dbe53a5ae6371eb2f2e969e2ba1b6e29/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/e622ba2e940cc994306094e71915abe8dbe53a5ae6371eb2f2e969e2ba1b6e29/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-v-186",
    "title": "Giratina V #186 Prices",
    "set": "Pokemon Lost Origin",
@@ -3342,13 +3360,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 9.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -9.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -3377,6 +3395,8 @@
    "cat": "pokemon",
    "name": "Lugia V #186 (Silver Tempest)",
    "path": "pokemon-silver-tempest/lugia-v-186",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/qpo3i3mlmiezitvq/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/qpo3i3mlmiezitvq/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-v-186",
    "title": "Lugia V #186 Prices",
    "set": "Pokemon Silver Tempest",
@@ -3716,13 +3736,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 17.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -3752,6 +3772,8 @@
    "name": "Gengar VMAX #271 (Fusion Strike)",
    "path": "pokemon-fusion-strike/gengar-vmax-271",
    "tcgdex": "swsh8-271",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/0a567e2f780e0f3a3bda3e169707d54bb8fbdf154a00f44fe77e6e598261a4bb/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/0a567e2f780e0f3a3bda3e169707d54bb8fbdf154a00f44fe77e6e598261a4bb/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-fusion-strike/gengar-vmax-271",
    "title": "Gengar VMAX #271 Prices",
    "set": "Pokemon Fusion Strike",
@@ -4091,13 +4113,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -4126,6 +4148,8 @@
    "cat": "pokemon",
    "name": "Charizard GX #SV49 (Hidden Fates)",
    "path": "pokemon-hidden-fates/charizard-gx-sv49",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/556d3eab00d5ea76807dad43a619f39614dcb774d5e4334f97567526fed14741/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/556d3eab00d5ea76807dad43a619f39614dcb774d5e4334f97567526fed14741/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-hidden-fates/charizard-gx-sv49",
    "title": "Charizard GX #SV49 Prices",
    "set": "Pokemon Hidden Fates",
@@ -4465,13 +4489,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -4501,6 +4525,8 @@
    "name": "Umbreon ex #161 (Prismatic Evolutions)",
    "path": "pokemon-prismatic-evolutions/umbreon-ex-161",
    "tcgdex": "sv08.5-161",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/i75h7boqafwuy5tk/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/i75h7boqafwuy5tk/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/umbreon-ex-161",
    "title": "Umbreon ex #161 Prices",
    "set": "Pokemon Prismatic Evolutions",
@@ -4840,13 +4866,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -4876,6 +4902,8 @@
    "name": "Charizard ex #234 (Paldean Fates)",
    "path": "pokemon-paldean-fates/charizard-ex-234",
    "tcgdex": "sv04.5-234",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/9d4a3f91cb9ecb11ea767406bd89509e1e675edad05f6f91f296efb3b66b357c/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/9d4a3f91cb9ecb11ea767406bd89509e1e675edad05f6f91f296efb3b66b357c/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-paldean-fates/charizard-ex-234",
    "title": "Charizard ex #234 Prices",
    "set": "Pokemon Paldean Fates",
@@ -5215,13 +5243,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -5251,6 +5279,8 @@
    "name": "Pikachu ex #238 (Surging Sparks)",
    "path": "pokemon-surging-sparks/pikachu-ex-238",
    "tcgdex": "sv08-238",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ivoxvamihqbx3puv/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ivoxvamihqbx3puv/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-238",
    "title": "Pikachu ex #238 Prices",
    "set": "Pokemon Surging Sparks",
@@ -5590,13 +5620,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -16.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -5627,6 +5657,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001",
    "ygo_id": 89631139,
    "ygo_set": "LOB-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/a16398d92c8d83e40b60b7115b6276f5d1b966a48eec48ad766dd3e3c3467120/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/a16398d92c8d83e40b60b7115b6276f5d1b966a48eec48ad766dd3e3c3467120/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001",
    "title": "Blue-Eyes White Dragon LOB-001 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -5977,13 +6009,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -6014,6 +6046,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005",
    "ygo_id": 36996508,
    "ygo_set": "LOB-005",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/c211c374228fa6ef80f497daa6278a2990a98c5ef6d586eedd2bdd5d735a672a/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/c211c374228fa6ef80f497daa6278a2990a98c5ef6d586eedd2bdd5d735a672a/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005",
    "title": "Dark Magician [1st Edition] LOB-005 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -6364,13 +6398,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 19.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -6401,6 +6435,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070",
    "ygo_id": 74677426,
    "ygo_set": "LOB-070",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/e256af59ff6a3344a0086067074065707a189d5acc48f41d385a38c0f82c2eff/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/e256af59ff6a3344a0086067074065707a189d5acc48f41d385a38c0f82c2eff/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070",
    "title": "Red-Eyes Black Dragon [1st Edition] LOB-070 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -6751,13 +6787,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 104.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -6788,6 +6824,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124",
    "ygo_id": 33396948,
    "ygo_set": "LOB-124",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/18d42a5eec5c2600e24915f93b9d1af9bdd9d55ec3071049da5a0ae318bd5da8/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/18d42a5eec5c2600e24915f93b9d1af9bdd9d55ec3071049da5a0ae318bd5da8/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124",
    "title": "Exodia the Forbidden One [1st Edition] LOB-124 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -7138,13 +7176,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 17.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -7173,6 +7211,8 @@
    "cat": "yugioh",
    "name": "Right Leg of the Forbidden One LOB-120",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ba0c2619210fa54fa9fad958ce8b38c354d0d8a09facf64a224fce5d12a02f62/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ba0c2619210fa54fa9fad958ce8b38c354d0d8a09facf64a224fce5d12a02f62/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120",
    "title": "Right Leg of the Forbidden One LOB-120 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -7512,13 +7552,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 6.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 131.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -7547,6 +7587,8 @@
    "cat": "yugioh",
    "name": "Left Arm of the Forbidden One LOB-123",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/xlbkpgnjwoi6e67j/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/xlbkpgnjwoi6e67j/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123",
    "title": "Left Arm of the Forbidden One LOB-123 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -7886,13 +7928,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 223.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -7921,6 +7963,8 @@
    "cat": "yugioh",
    "name": "Gaia the Fierce Knight LOB-006",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006",
    "title": "Gaia The Fierce Knight LOB-006 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -8260,13 +8304,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -8295,6 +8339,8 @@
    "cat": "yugioh",
    "name": "Blue-Eyes White Dragon SDK-001",
    "path": "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/4f4753a4580bf3bd2fb11cc7324bf00fa1a761ad015d55c30b5b7edc2d933432/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/4f4753a4580bf3bd2fb11cc7324bf00fa1a761ad015d55c30b5b7edc2d933432/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001",
    "title": "Blue-Eyes White Dragon SDK-001 Prices",
    "set": "YuGiOh Starter Deck: Kaiba",
@@ -8634,13 +8680,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 23.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -8669,6 +8715,8 @@
    "cat": "yugioh",
    "name": "Summoned Skull 1st Ed MRD-003",
    "path": "yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/1c24e54719f38ec8b07d43da1ff3f13077c5c29373dc25f01d97c00fb081db11/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/1c24e54719f38ec8b07d43da1ff3f13077c5c29373dc25f01d97c00fb081db11/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003",
    "title": "Summoned Skull [1st Edition] MRD-003 Prices",
    "set": "YuGiOh Metal Raiders",
@@ -9008,13 +9056,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -9043,6 +9091,8 @@
    "cat": "yugioh",
    "name": "Black Skull Dragon MRD-018",
    "path": "yugioh-metal-raiders/black-skull-dragon-mrd-018",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/22a9f943b3ebc429d6b91155a2b0f1f63a72adbef95a85b3fdac6e1223327125/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/22a9f943b3ebc429d6b91155a2b0f1f63a72adbef95a85b3fdac6e1223327125/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-metal-raiders/black-skull-dragon-mrd-018",
    "title": "Black Skull Dragon MRD-018 Prices",
    "set": "YuGiOh Metal Raiders",
@@ -9382,13 +9432,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -9417,6 +9467,8 @@
    "cat": "yugioh",
    "name": "Relinquished 1st Ed MRL-029",
    "path": "yugioh-magic-ruler/relinquished-1st-edition-mrl-029",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/81b6c73e83e97b5d219fcffe73f8b227e748cbbfd2a0dab6c09f16234b5dc072/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/81b6c73e83e97b5d219fcffe73f8b227e748cbbfd2a0dab6c09f16234b5dc072/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-magic-ruler/relinquished-1st-edition-mrl-029",
    "title": "Relinquished [1st Edition] MRL-029 Prices",
    "set": "YuGiOh Magic Ruler",
@@ -9756,13 +9808,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -9793,6 +9845,8 @@
    "path": "yugioh-magician's-force/dark-magician-girl-1st-edition-mfc-000",
    "ygo_id": 38033126,
    "ygo_set": "MFC-000",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/6w3g3eebftssxzkb/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/6w3g3eebftssxzkb/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-magician%27s-force/dark-magician-girl-1st-edition-mfc-000",
    "title": "Dark Magician Girl [1st Edition] MFC-000 Prices",
    "set": "YuGiOh Magician's Force",
@@ -10143,13 +10197,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 11.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -10178,6 +10232,8 @@
    "cat": "yugioh",
    "name": "Jinzo PSV-000",
    "path": "yugioh-pharaoh's-servant/jinzo-psv-000",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ad355477848dae4e71fa1d84194f921f360155efbbfe4cd26b3b9a20402ad770/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ad355477848dae4e71fa1d84194f921f360155efbbfe4cd26b3b9a20402ad770/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-pharaoh%27s-servant/jinzo-psv-000",
    "title": "Jinzo PSV-000 Prices",
    "set": "YuGiOh Pharaoh's Servant",
@@ -10517,13 +10573,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 9.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 24.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -10552,6 +10608,8 @@
    "cat": "yugioh",
    "name": "Yata-Garasu 1st Ed LOD-000",
    "path": "yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/b83acdc2e32799119a6c407c3ad8a569e515e72422c50b2c7ee2bfdd2f3d7ac2/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/b83acdc2e32799119a6c407c3ad8a569e515e72422c50b2c7ee2bfdd2f3d7ac2/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000",
    "title": "Yata-Garasu [1st Edition] LOD-000 Prices",
    "set": "YuGiOh Legacy of Darkness",
@@ -10891,13 +10949,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 11.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -10926,6 +10984,8 @@
    "cat": "yugioh",
    "name": "Ash Blossom & Joyous Spring QCSR RA01-EN008",
    "path": "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/b8f2ebb280e30ecdeaee8e9d1f0f30667d2a13a73b03eba3f85ad8d0cd9c8473/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/b8f2ebb280e30ecdeaee8e9d1f0f30667d2a13a73b03eba3f85ad8d0cd9c8473/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008",
    "title": "Ash Blossom & Joyous Spring [Quarter Century Secret Rare] RA01-EN008 Prices",
    "set": "YuGiOh 25th Anniversary Rarity Collection",
@@ -11265,13 +11325,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -11301,6 +11361,8 @@
    "sport": "NBA",
    "name": "Michael Jordan 1986 Fleer #57",
    "path": "basketball-cards-1986-fleer/michael-jordan-57",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/g6rm2ocsaugjzeot/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/g6rm2ocsaugjzeot/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/michael-jordan-57",
    "title": "Michael Jordan #57 Prices [Rookie]",
    "set": "1986 Fleer",
@@ -11640,13 +11702,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 9.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 35.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -11676,6 +11738,8 @@
    "sport": "NBA",
    "name": "Larry Bird 1986 Fleer #9",
    "path": "basketball-cards-1986-fleer/larry-bird-9",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrabbdj3wthw4mcvgy/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrabbdj3wthw4mcvgy/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/larry-bird-9",
    "title": "Larry Bird #9 Prices",
    "set": "1986 Fleer",
@@ -12015,13 +12079,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12051,6 +12115,8 @@
    "sport": "NBA",
    "name": "Magic Johnson 1986 Fleer #53",
    "path": "basketball-cards-1986-fleer/magic-johnson-53",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrz7znjmvllvduqy7c/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrz7znjmvllvduqy7c/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/magic-johnson-53",
    "title": "Magic Johnson #53 Prices",
    "set": "1986 Fleer",
@@ -12390,13 +12456,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12426,6 +12492,8 @@
    "sport": "NBA",
    "name": "Kobe Bryant 1996 Topps Chrome #138",
    "path": "basketball-cards-1996-topps-chrome/kobe-bryant-138",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ntdyha7srz2ocdgk/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ntdyha7srz2ocdgk/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1996-topps-chrome/kobe-bryant-138",
    "title": "Kobe Bryant #138 Prices [Rookie]",
    "set": "1996 Topps Chrome",
@@ -12765,13 +12833,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12801,6 +12869,8 @@
    "sport": "NBA",
    "name": "Kobe Bryant 1996 Topps #138",
    "path": "basketball-cards-1996-topps/kobe-bryant-138",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/35ftue6qtrlyjqbt/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/35ftue6qtrlyjqbt/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1996-topps/kobe-bryant-138",
    "title": "Kobe Bryant #138 Prices [Rookie]",
    "set": "1996 Topps",
@@ -13140,13 +13210,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -13176,6 +13246,8 @@
    "sport": "NBA",
    "name": "Kobe Bryant 1997 Metal Universe #81",
    "path": "basketball-cards-1997-metal-universe/kobe-bryant-81",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr7yqr5g4ui2jiyybp/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr7yqr5g4ui2jiyybp/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1997-metal-universe/kobe-bryant-81",
    "title": "Kobe Bryant #81 Prices",
    "set": "1997 Metal Universe",
@@ -13515,13 +13587,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 147.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -13551,6 +13623,8 @@
    "sport": "NBA",
    "name": "LeBron James 2003 Topps Chrome #111",
    "path": "basketball-cards-2003-topps-chrome/lebron-james-111",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/jsjnkycbdyvvujfi/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/jsjnkycbdyvvujfi/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2003-topps-chrome/lebron-james-111",
    "title": "LeBron James #111 Prices [Rookie]",
    "set": "2003 Topps Chrome",
@@ -13890,13 +13964,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -13926,6 +14000,8 @@
    "sport": "NBA",
    "name": "Stephen Curry 2009 Topps #321",
    "path": "basketball-cards-2009-topps/stephen-curry-321",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrrtz4m22hvzd5r4yw/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrrtz4m22hvzd5r4yw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2009-topps/stephen-curry-321",
    "title": "Stephen Curry #321 Prices [Rookie]",
    "set": "2009 Topps",
@@ -14265,13 +14341,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -14301,6 +14377,8 @@
    "sport": "NBA",
    "name": "Giannis Antetokounmpo 2013 Prizm #290",
    "path": "basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrzufcaxveaifjpjmt/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrzufcaxveaifjpjmt/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290",
    "title": "Giannis Antetokounmpo #290 Prices [Rookie]",
    "set": "2013 Panini Prizm",
@@ -14640,13 +14718,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -14676,6 +14754,8 @@
    "sport": "NBA",
    "name": "Jayson Tatum 2017 Prizm #16",
    "path": "basketball-cards-2017-panini-prizm/jayson-tatum-16",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrxvesfbaoybrwneeb/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxvesfbaoybrwneeb/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2017-panini-prizm/jayson-tatum-16",
    "title": "Jayson Tatum #16 Prices [Rookie]",
    "set": "2017 Panini Prizm",
@@ -15015,13 +15095,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -15051,6 +15131,8 @@
    "sport": "NBA",
    "name": "Luka Doncic 2018 Prizm #280",
    "path": "basketball-cards-2018-panini-prizm/luka-doncic-280",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrb3x62mjviz7hqvce/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrb3x62mjviz7hqvce/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2018-panini-prizm/luka-doncic-280",
    "title": "Luka Doncic #280 Prices [Rookie]",
    "set": "2018 Panini Prizm",
@@ -15390,13 +15472,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -15426,6 +15508,8 @@
    "sport": "NBA",
    "name": "Ja Morant 2019 Prizm #249",
    "path": "basketball-cards-2019-panini-prizm/ja-morant-249",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrkgagy5dwmhb3yk5r/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrkgagy5dwmhb3yk5r/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/ja-morant-249",
    "title": "Ja Morant #249 Prices [Rookie]",
    "set": "2019 Panini Prizm",
@@ -15765,13 +15849,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -15801,6 +15885,8 @@
    "sport": "NBA",
    "name": "Zion Williamson 2019 Prizm #248",
    "path": "basketball-cards-2019-panini-prizm/zion-williamson-248",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrzdfhy6utddrvas4a/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrzdfhy6utddrvas4a/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/zion-williamson-248",
    "title": "Zion Williamson #248 Prices [Rookie]",
    "set": "2019 Panini Prizm",
@@ -16140,13 +16226,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16176,6 +16262,8 @@
    "sport": "NBA",
    "name": "Anthony Edwards 2020 Prizm #258",
    "path": "basketball-cards-2020-panini-prizm/anthony-edwards-258",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrls53cmtskwfo3m3l/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrls53cmtskwfo3m3l/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/anthony-edwards-258",
    "title": "Anthony Edwards #258 Prices [Rookie]",
    "set": "2020 Panini Prizm",
@@ -16515,13 +16603,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 13.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16551,6 +16639,8 @@
    "sport": "NBA",
    "name": "Victor Wembanyama 2023 Prizm #136",
    "path": "basketball-cards-2023-panini-prizm/victor-wembanyama-136",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corruutfobstqidoziai/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corruutfobstqidoziai/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2023-panini-prizm/victor-wembanyama-136",
    "title": "Victor Wembanyama #136 Prices [Rookie]",
    "set": "2023 Panini Prizm",
@@ -16890,13 +16980,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16926,6 +17016,8 @@
    "sport": "NFL",
    "name": "Jim Brown 1958 Topps #62",
    "path": "football-cards-1958-topps/jim-brown-62",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrxw2ep5vesnnrowsw/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxw2ep5vesnnrowsw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-1958-topps/jim-brown-62",
    "title": "Jim Brown #62 Prices [Rookie]",
    "set": "1958 Topps",
@@ -17265,13 +17357,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -36.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -17301,6 +17393,8 @@
    "sport": "NFL",
    "name": "Joe Montana 1981 Topps #216",
    "path": "football-cards-1981-topps/joe-montana-216",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrtkftkibt7wgwjnug/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrtkftkibt7wgwjnug/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-1981-topps/joe-montana-216",
    "title": "Joe Montana #216 Prices [Rookie]",
    "set": "1981 Topps",
@@ -17640,13 +17734,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -24.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -17676,6 +17770,8 @@
    "sport": "NFL",
    "name": "Jerry Rice 1986 Topps #161",
    "path": "football-cards-1986-topps/jerry-rice-161",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/v7vx3mgxutld2hrd/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/v7vx3mgxutld2hrd/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-1986-topps/jerry-rice-161",
    "title": "Jerry Rice #161 Prices [Rookie]",
    "set": "1986 Topps",
@@ -18015,13 +18111,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18051,6 +18147,8 @@
    "sport": "NFL",
    "name": "Tom Brady 2000 Contenders Auto #144",
    "path": "football-cards-2000-playoff-contenders/tom-brady-autograph-144",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corru5iqzaiarj2g73sv/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corru5iqzaiarj2g73sv/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2000-playoff-contenders/tom-brady-autograph-144",
    "title": "Tom Brady [Autograph] #144 Prices [Rookie]",
    "set": "2000 Playoff Contenders",
@@ -18390,13 +18488,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18426,6 +18524,8 @@
    "sport": "NFL",
    "name": "Aaron Rodgers 2005 Topps #431",
    "path": "football-cards-2005-topps/aaron-rodgers-431",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr6wlwvlbp5ue62ady/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr6wlwvlbp5ue62ady/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2005-topps/aaron-rodgers-431",
    "title": "Aaron Rodgers #431 Prices [Rookie]",
    "set": "2005 Topps",
@@ -18765,13 +18865,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 6.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18801,6 +18901,8 @@
    "sport": "NFL",
    "name": "Patrick Mahomes 2017 Prizm #269",
    "path": "football-cards-2017-panini-prizm/patrick-mahomes-ii-269",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrusglfwzlg5u7li2s/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrusglfwzlg5u7li2s/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2017-panini-prizm/patrick-mahomes-ii-269",
    "title": "Patrick Mahomes II #269 Prices [Rookie]",
    "set": "2017 Panini Prizm",
@@ -19140,13 +19242,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -19176,6 +19278,8 @@
    "sport": "NFL",
    "name": "Christian McCaffrey 2017 Prizm #249",
    "path": "football-cards-2017-panini-prizm/christian-mccaffrey-249",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrb64gchbtt466vidy/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrb64gchbtt466vidy/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2017-panini-prizm/christian-mccaffrey-249",
    "title": "Christian McCaffrey #249 Prices [Rookie]",
    "set": "2017 Panini Prizm",
@@ -19461,13 +19565,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -19497,6 +19601,8 @@
    "sport": "NFL",
    "name": "Josh Allen 2018 Prizm #205",
    "path": "football-cards-2018-panini-prizm/josh-allen-205",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corry7cebqyosa3ekvjf/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corry7cebqyosa3ekvjf/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2018-panini-prizm/josh-allen-205",
    "title": "Josh Allen #205 Prices [Rookie]",
    "set": "2018 Panini Prizm",
@@ -19836,13 +19942,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 14.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 25.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -19872,6 +19978,8 @@
    "sport": "NFL",
    "name": "Lamar Jackson 2018 Prizm #212",
    "path": "football-cards-2018-panini-prizm/lamar-jackson-212",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrf3cdegz5rz7uvosu/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrf3cdegz5rz7uvosu/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2018-panini-prizm/lamar-jackson-212",
    "title": "Lamar Jackson #212 Prices [Rookie]",
    "set": "2018 Panini Prizm",
@@ -20211,13 +20319,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -20247,6 +20355,8 @@
    "sport": "NFL",
    "name": "Kyler Murray 2019 Prizm #301",
    "path": "football-cards-2019-panini-prizm/kyler-murray-301",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr5xsd7hqlsy5yldor/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr5xsd7hqlsy5yldor/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2019-panini-prizm/kyler-murray-301",
    "title": "Kyler Murray #301 Prices [Rookie]",
    "set": "2019 Panini Prizm",
@@ -20586,13 +20696,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -16.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -9.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -20622,6 +20732,8 @@
    "sport": "NFL",
    "name": "Joe Burrow 2020 Prizm #307",
    "path": "football-cards-2020-panini-prizm/joe-burrow-307",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrasp4utb65tjhgic2/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrasp4utb65tjhgic2/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/joe-burrow-307",
    "title": "Joe Burrow #307 Prices [Rookie]",
    "set": "2020 Panini Prizm",
@@ -20961,13 +21073,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -20997,6 +21109,8 @@
    "sport": "NFL",
    "name": "Justin Herbert 2020 Prizm #325",
    "path": "football-cards-2020-panini-prizm/justin-herbert-325",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr4lmldwnhau4gp2re/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr4lmldwnhau4gp2re/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/justin-herbert-325",
    "title": "Justin Herbert #325 Prices [Rookie]",
    "set": "2020 Panini Prizm",
@@ -21336,13 +21450,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -28.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -21372,6 +21486,8 @@
    "sport": "NFL",
    "name": "Ja'Marr Chase 2021 Prizm #337",
    "path": "football-cards-2021-panini-prizm/ja'marr-chase-337",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corryutigrdaiy2ehiqw/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corryutigrdaiy2ehiqw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2021-panini-prizm/ja%27marr-chase-337",
    "title": "Ja'Marr Chase #337 Prices [Rookie]",
    "set": "2021 Panini Prizm",
@@ -21711,13 +21827,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 17.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -21744,6 +21860,8 @@
    "sport": "NFL",
    "name": "C.J. Stroud 2023 Prizm #339",
    "path": "football-cards-2023-panini-prizm/c-j-stroud-339",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrxlxe2cw6655ewepg/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxlxe2cw6655ewepg/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2023-panini-prizm/c-j-stroud-339",
    "title": "C. J. Stroud #339 Prices [Rookie]",
    "set": "2023 Panini Prizm",
@@ -22083,13 +22201,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -22116,6 +22234,8 @@
    "sport": "NFL",
    "name": "Jayden Daniels 2024 Prizm #347",
    "path": "football-cards-2024-panini-prizm/jayden-daniels-347",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/vqxwiyzykvqizxes/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/vqxwiyzykvqizxes/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2024-panini-prizm/jayden-daniels-347",
    "title": "Jayden Daniels #347 Prices [Rookie]",
    "set": "2024 Panini Prizm",
@@ -22455,13 +22575,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -32.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -22491,6 +22611,8 @@
    "sport": "NFL",
    "name": "Caleb Williams 2024 Prizm #301",
    "path": "football-cards-2024-panini-prizm/caleb-williams-301",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrxpg6u6epkbzrgn76/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxpg6u6epkbzrgn76/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2024-panini-prizm/caleb-williams-301",
    "title": "Caleb Williams #301 Prices [Rookie]",
    "set": "2024 Panini Prizm",
@@ -22830,13 +22952,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -21.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -22866,6 +22988,8 @@
    "sport": "MLB",
    "name": "Willie Mays 1951 Bowman #305",
    "path": "baseball-cards-1951-bowman/willie-mays-305",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/u3ft7425ranmsnbq/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/u3ft7425ranmsnbq/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1951-bowman/willie-mays-305",
    "title": "Willie Mays #305 Prices [Rookie]",
    "set": "1951 Bowman",
@@ -23205,13 +23329,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -23241,6 +23365,8 @@
    "sport": "MLB",
    "name": "Mickey Mantle 1952 Topps #311",
    "path": "baseball-cards-1952-topps/mickey-mantle-311",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrti6cn5ll6nfk6aj6/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrti6cn5ll6nfk6aj6/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1952-topps/mickey-mantle-311",
    "title": "Mickey Mantle #311 Prices",
    "set": "1952 Topps",
@@ -23580,13 +23706,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -23616,6 +23742,8 @@
    "sport": "MLB",
    "name": "Willie Mays 1952 Topps #261",
    "path": "baseball-cards-1952-topps/willie-mays-261",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/mr4o5d6ifjrizwap/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/mr4o5d6ifjrizwap/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1952-topps/willie-mays-261",
    "title": "Willie Mays #261 Prices",
    "set": "1952 Topps",
@@ -23955,13 +24083,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 84.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 85.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -23991,6 +24119,8 @@
    "sport": "MLB",
    "name": "Hank Aaron 1954 Topps #128",
    "path": "baseball-cards-1954-topps/henry-'hank'-aaron-128",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/npnnsthqmynk24qw/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/npnnsthqmynk24qw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1954-topps/henry-%27hank%27-aaron-128",
    "title": "Henry 'Hank' Aaron #128 Prices [Rookie]",
    "set": "1954 Topps",
@@ -24330,13 +24460,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -23.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -24366,6 +24496,8 @@
    "sport": "MLB",
    "name": "Mark McGwire 1985 Topps #401",
    "path": "baseball-cards-1985-topps/mark-mcgwire-401",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrquaok2ebsq4pemnl/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrquaok2ebsq4pemnl/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1985-topps/mark-mcgwire-401",
    "title": "Mark McGwire #401 Prices [Rookie]",
    "set": "1985 Topps",
@@ -24705,13 +24837,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -24741,6 +24873,8 @@
    "sport": "MLB",
    "name": "Ken Griffey Jr. 1989 Upper Deck #1",
    "path": "baseball-cards-1989-upper-deck/ken-griffey-jr-1",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fu6g3bwjeni2m2py/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fu6g3bwjeni2m2py/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1989-upper-deck/ken-griffey-jr-1",
    "title": "Ken Griffey Jr. #1 Prices [Rookie]",
    "set": "1989 Upper Deck",
@@ -25080,13 +25214,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25116,6 +25250,8 @@
    "sport": "MLB",
    "name": "Derek Jeter 1993 SP Foil #279",
    "path": "baseball-cards-1993-sp/derek-jeter-foil-279",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/eufql2gqijx3me5o/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/eufql2gqijx3me5o/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1993-sp/derek-jeter-foil-279",
    "title": "Derek Jeter [Foil] #279 Prices [Rookie]",
    "set": "1993 SP",
@@ -25455,13 +25591,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25491,6 +25627,8 @@
    "sport": "MLB",
    "name": "Mike Trout 2011 Topps Update #US175",
    "path": "baseball-cards-2011-topps-update/mike-trout-us175",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr5ojn6uqqydomtonq/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr5ojn6uqqydomtonq/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2011-topps-update/mike-trout-us175",
    "title": "Mike Trout #US175 Prices [Rookie]",
    "set": "2011 Topps Update",
@@ -25830,13 +25968,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25866,6 +26004,8 @@
    "sport": "MLB",
    "name": "Aaron Judge 2017 Topps Update Rookie Debut #US99",
    "path": "baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrw4bzi2dkxk2wnlrz/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrw4bzi2dkxk2wnlrz/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99",
    "title": "Aaron Judge [Rookie Debut] #US99 Prices [Rookie]",
    "set": "2017 Topps Update",
@@ -26205,13 +26345,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -9.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -26241,6 +26381,8 @@
    "sport": "MLB",
    "name": "Shohei Ohtani 2018 Topps Update #US1",
    "path": "baseball-cards-2018-topps-update/shohei-ohtani-us1",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/hwh3axscpzefjvhr/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/hwh3axscpzefjvhr/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/shohei-ohtani-us1",
    "title": "Shohei Ohtani #US1 Prices [Rookie]",
    "set": "2018 Topps Update",
@@ -26580,13 +26722,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -26616,6 +26758,8 @@
    "sport": "MLB",
    "name": "Shohei Ohtani 2018 Topps Chrome Update #HMT1",
    "path": "baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ov7womdkogyhj7m7/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ov7womdkogyhj7m7/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1",
    "title": "Shohei Ohtani #HMT1 Prices [Rookie]",
    "set": "2018 Topps Chrome Update",
@@ -26955,13 +27099,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 6.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -26991,6 +27135,8 @@
    "sport": "MLB",
    "name": "Ronald Acuna Jr. 2018 Topps Update #US250",
    "path": "baseball-cards-2018-topps-update/ronald-acuna-jr-us250",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corroxmr7lcudms4m7pp/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corroxmr7lcudms4m7pp/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/ronald-acuna-jr-us250",
    "title": "Ronald Acuna Jr. #US250 Prices [Rookie]",
    "set": "2018 Topps Update",
@@ -27330,13 +27476,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -34.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -27366,6 +27512,8 @@
    "sport": "MLB",
    "name": "Pete Alonso 2019 Topps Update #US47",
    "path": "baseball-cards-2019-topps-update/pete-alonso-us47",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr3xbcvwjqzrh7ma3m/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr3xbcvwjqzrh7ma3m/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2019-topps-update/pete-alonso-us47",
    "title": "Pete Alonso #US47 Prices",
    "set": "2019 Topps Update",
@@ -27705,13 +27853,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -47.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -27738,6 +27886,8 @@
    "sport": "MLB",
    "name": "Julio Rodriguez 2022 Topps Update #US44",
    "path": "baseball-cards-2022-topps-update/julio-rodriguez-us44",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrchbrrsjk4irtmuka/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrchbrrsjk4irtmuka/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2022-topps-update/julio-rodriguez-us44",
    "title": "Julio Rodriguez #US44 Prices [Rookie]",
    "set": "2022 Topps Update",
@@ -28077,13 +28227,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28110,6 +28260,8 @@
    "sport": "MLB",
    "name": "Paul Skenes 2024 Topps Update #US100",
    "path": "baseball-cards-2024-topps-update/paul-skenes-us100",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/yc6h3q3ucf2gvhn6/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/yc6h3q3ucf2gvhn6/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-update/paul-skenes-us100",
    "title": "Paul Skenes #US100 Prices [Rookie]",
    "set": "2024 Topps Update",
@@ -28449,13 +28601,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28485,6 +28637,8 @@
    "name": "Lugia #9 (Neo Genesis)",
    "path": "pokemon-neo-genesis/lugia-9",
    "tcgdex": "neo1-9",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/8f5089e3fdf8cbc1847df3bbc8d1a3ba1a3ac227a21c149e97cd0f642e252f34/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/8f5089e3fdf8cbc1847df3bbc8d1a3ba1a3ac227a21c149e97cd0f642e252f34/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/lugia-9",
    "title": "Lugia #9 Prices",
    "set": "Pokemon Neo Genesis",
@@ -28824,13 +28978,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28860,6 +29014,8 @@
    "name": "Charizard VMAX #SV107 (Shining Fates)",
    "path": "pokemon-shining-fates/charizard-vmax-sv107",
    "tcgdex": "swsh4.5sv-SV107",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/88e180870f682b6b3689617d8171200cb35af8f183a8bf68507f34c1c3d0862a/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/88e180870f682b6b3689617d8171200cb35af8f183a8bf68507f34c1c3d0862a/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-shining-fates/charizard-vmax-sv107",
    "title": "Charizard VMAX #SV107 Prices",
    "set": "Pokemon Shining Fates",
@@ -29199,13 +29355,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 4.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -29235,6 +29391,8 @@
    "name": "Team Rocket's Mewtwo ex #231 (Destined Rivals)",
    "path": "pokemon-destined-rivals/team-rocket's-mewtwo-ex-231",
    "tcgdex": "sv10-231",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/72ewfeefuh2rvdl3/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/72ewfeefuh2rvdl3/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket%27s-mewtwo-ex-231",
    "title": "Team Rocket's Mewtwo ex #231 Prices",
    "set": "Pokemon Destined Rivals",
@@ -29574,13 +29732,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -29610,6 +29768,8 @@
    "name": "Mega Charizard X ex #125 (Phantasmal Flames)",
    "path": "pokemon-phantasmal-flames/mega-charizard-x-ex-125",
    "tcgdex": "me02-125",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fsbqea5aod5mejp5/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fsbqea5aod5mejp5/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/mega-charizard-x-ex-125",
    "title": "Mega Charizard X ex #125 Prices",
    "set": "Pokemon Phantasmal Flames",
@@ -29913,13 +30073,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -29949,6 +30109,8 @@
    "name": "Mega Charizard X ex #130 (Phantasmal Flames)",
    "path": "pokemon-phantasmal-flames/mega-charizard-x-ex-130",
    "tcgdex": "me02-130",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ddhdbtifd3a7uzh3/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ddhdbtifd3a7uzh3/1600.jpg",
    "url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/mega-charizard-x-ex-130",
    "title": "Mega Charizard X ex #130 Prices",
    "set": "Pokemon Phantasmal Flames",
@@ -30252,13 +30414,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -30289,6 +30451,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118",
    "ygo_id": 83764718,
    "ygo_set": "LOB-118",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/78fcdf00b8046fa1b2181041709d32d8b6e5cd14f074c6d3a2a2228ebe64f168/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/78fcdf00b8046fa1b2181041709d32d8b6e5cd14f074c6d3a2a2228ebe64f168/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118",
    "title": "Monster Reborn LOB-118 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -30639,13 +30803,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -30676,6 +30840,8 @@
    "path": "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119",
    "ygo_id": 55144522,
    "ygo_set": "LOB-119",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/e63b0699b953909717ea59f2e1fade2aa588bbff37a111057d74d53813bebe5f/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/e63b0699b953909717ea59f2e1fade2aa588bbff37a111057d74d53813bebe5f/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119",
    "title": "Pot of Greed LOB-119 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
@@ -31026,13 +31192,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -31063,6 +31229,8 @@
    "path": "yugioh-ghosts-from-the-past/dark-magician-gftp-en128",
    "ygo_id": 36996508,
    "ygo_set": "GFTP-EN128",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/a1819dc7bad18f3a6d5d670b265682b72be363b9bbb03fdf86e8d22f03599249/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/a1819dc7bad18f3a6d5d670b265682b72be363b9bbb03fdf86e8d22f03599249/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-ghosts-from-the-past/dark-magician-gftp-en128",
    "title": "Dark Magician GFTP-EN128 Prices",
    "set": "YuGiOh Ghosts From the Past",
@@ -31413,13 +31581,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -31450,6 +31618,8 @@
    "path": "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040",
    "ygo_id": 44508094,
    "ygo_set": "TDGS-EN040",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/927a1adba67562b9aa5f6c9b60a5e7ec15a0c37b2c8e8fc9c3dfc4e02ee73fab/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/927a1adba67562b9aa5f6c9b60a5e7ec15a0c37b2c8e8fc9c3dfc4e02ee73fab/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040",
    "title": "Stardust Dragon [Ghost Rare] TDGS-EN040 Prices",
    "set": "YuGiOh The Duelist Genesis",
@@ -31800,13 +31970,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -31837,6 +32007,8 @@
    "path": "yugioh-legendary-duelists-rage-of-ra/the-winged-dragon-of-ra-ghost-rare-led7-en000",
    "ygo_id": 10000011,
    "ygo_set": "LED7-EN000",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/806f12ec034e2a271550082969dd3e39df41655a8cab6aeaa2bb463c7f922fb1/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/806f12ec034e2a271550082969dd3e39df41655a8cab6aeaa2bb463c7f922fb1/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legendary-duelists-rage-of-ra/the-winged-dragon-of-ra-ghost-rare-led7-en000",
    "title": "The Winged Dragon Of Ra [Ghost Rare] LED7-EN000 Prices",
    "set": "YuGiOh Legendary Duelists: Rage of Ra",
@@ -32133,7 +32305,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -32165,6 +32337,8 @@
    "path": "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036",
    "ygo_id": 14558128,
    "ygo_set": "MACR-EN036",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fd5bf9e1a20f08688774b9cf14743e39e432bec6832a8f4747df1f33d71a062d/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fd5bf9e1a20f08688774b9cf14743e39e432bec6832a8f4747df1f33d71a062d/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036",
    "title": "Ash Blossom & Joyous Spring MACR-EN036 Prices",
    "set": "YuGiOh Maximum Crisis",
@@ -32515,13 +32689,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 148.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -32552,6 +32726,8 @@
    "path": "yugioh-dimension-force/ghost-belle-&-haunted-mansion-1st-edition-difo-en100",
    "ygo_id": 73642296,
    "ygo_set": "DIFO-EN100",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/246cc9f726adf242182c1ddeb675ee3851d643934e231ccf5e50a138170933e0/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/246cc9f726adf242182c1ddeb675ee3851d643934e231ccf5e50a138170933e0/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-dimension-force/ghost-belle-&-haunted-mansion-1st-edition-difo-en100",
    "title": "Ghost Belle & Haunted Mansion [1st Edition] DIFO-EN100 Prices",
    "set": "YuGiOh Dimension Force",
@@ -32902,13 +33078,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -32939,6 +33115,8 @@
    "path": "yugioh-dawn-of-majesty/stardust-dragon-1st-edition-dama-en100",
    "ygo_id": 44508094,
    "ygo_set": "DAMA-EN100",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/9659b2ea050ab9f4ed7aeb17f6c490729854044b6e5f54c21d4ad1b0095a60c4/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/9659b2ea050ab9f4ed7aeb17f6c490729854044b6e5f54c21d4ad1b0095a60c4/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-dawn-of-majesty/stardust-dragon-1st-edition-dama-en100",
    "title": "Stardust Dragon [1st Edition] DAMA-EN100 Prices",
    "set": "YuGiOh Dawn of Majesty",
@@ -33289,13 +33467,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -33326,6 +33504,8 @@
    "path": "yugioh-collectible-tins-2012/maxx-c-ct09-en012",
    "ygo_id": 23434538,
    "ygo_set": "CT09-EN012",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/3966f97fcf82a1d15ae910cbd6771d1c7c1825541cef11bc4facafa1220fbee4/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/3966f97fcf82a1d15ae910cbd6771d1c7c1825541cef11bc4facafa1220fbee4/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-collectible-tins-2012/maxx-c-ct09-en012",
    "title": "Maxx C CT09-EN012 Prices",
    "set": "YuGiOh Collectible Tins 2012",
@@ -33676,13 +33856,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 14.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -33713,6 +33893,8 @@
    "path": "yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102",
    "ygo_id": 42141493,
    "ygo_set": "MP25-EN102",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/dv5qok2oc6romgtn/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/dv5qok2oc6romgtn/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102",
    "title": "Mulcharmy Fuwalos MP25-EN102 Prices",
    "set": "YuGiOh 2025 Mega Pack Tin",
@@ -34060,13 +34242,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -34096,6 +34278,8 @@
    "sport": "NFL",
    "name": "Patrick Mahomes II 2017 Panini Donruss Optic #177",
    "path": "football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr2rxaksjnstj4pjit/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr2rxaksjnstj4pjit/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177",
    "title": "Patrick Mahomes II #177 Prices [Rookie]",
    "set": "2017 Panini Donruss Optic",
@@ -34435,13 +34619,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -34471,6 +34655,8 @@
    "sport": "NFL",
    "name": "Tom Brady 2000 Bowman Chrome #236",
    "path": "football-cards-2000-bowman-chrome/tom-brady-236",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/renec7wfkgqe3cib/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/renec7wfkgqe3cib/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2000-bowman-chrome/tom-brady-236",
    "title": "Tom Brady #236 Prices [Rookie]",
    "set": "2000 Bowman Chrome",
@@ -34810,13 +34996,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -34846,6 +35032,8 @@
    "sport": "NFL",
    "name": "Jalen Hurts 2020 Panini Prizm #343",
    "path": "football-cards-2020-panini-prizm/jalen-hurts-343",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/zekz6oluizop55jt/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/zekz6oluizop55jt/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/jalen-hurts-343",
    "title": "Jalen Hurts #343 Prices [Rookie]",
    "set": "2020 Panini Prizm",
@@ -35185,13 +35373,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -35221,6 +35409,8 @@
    "sport": "NFL",
    "name": "Cam Ward 2025 Panini Prizm #352",
    "path": "football-cards-2025-panini-prizm/cam-ward-352",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/3nrdmwxtad5zuzu6/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/3nrdmwxtad5zuzu6/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-2025-panini-prizm/cam-ward-352",
    "title": "Cam Ward #352 Prices [Rookie]",
    "set": "2025 Panini Prizm",
@@ -35468,13 +35658,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -35501,6 +35691,8 @@
    "sport": "NBA",
    "name": "LeBron James 2003 Topps #221",
    "path": "basketball-cards-2003-topps/lebron-james-221",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrave7qgyhvjx5dkoo/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrave7qgyhvjx5dkoo/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2003-topps/lebron-james-221",
    "title": "LeBron James #221 Prices [Rookie]",
    "set": "2003 Topps",
@@ -35840,13 +36032,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -35876,6 +36068,8 @@
    "sport": "NBA",
    "name": "Stephen Curry 2009 Topps Chrome #101",
    "path": "basketball-cards-2009-topps-chrome/stephen-curry-101",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/2tw47cuouxpeyuha/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/2tw47cuouxpeyuha/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2009-topps-chrome/stephen-curry-101",
    "title": "Stephen Curry #101 Prices [Rookie]",
    "set": "2009 Topps Chrome",
@@ -36215,13 +36409,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -36251,6 +36445,8 @@
    "sport": "NBA",
    "name": "Nikola Jokic 2015 Panini Prizm #335",
    "path": "basketball-cards-2015-panini-prizm/nikola-jokic-335",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/rs5w6zox6drpvftd/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/rs5w6zox6drpvftd/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2015-panini-prizm/nikola-jokic-335",
    "title": "Nikola Jokic #335 Prices [Rookie]",
    "set": "2015 Panini Prizm",
@@ -36590,13 +36786,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -36626,6 +36822,8 @@
    "sport": "NBA",
    "name": "LaMelo Ball 2020 Panini Prizm #278",
    "path": "basketball-cards-2020-panini-prizm/lamelo-ball-278",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corruz4ijun3afvnebz6/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corruz4ijun3afvnebz6/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/lamelo-ball-278",
    "title": "LaMelo Ball #278 Prices [Rookie]",
    "set": "2020 Panini Prizm",
@@ -36965,13 +37163,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -36998,6 +37196,8 @@
    "sport": "NBA",
    "name": "Cooper Flagg 2025 Topps Chrome #251",
    "path": "basketball-cards-2025-topps-chrome/cooper-flagg-251",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ffaoqaqof2r5gxiu/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ffaoqaqof2r5gxiu/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-2025-topps-chrome/cooper-flagg-251",
    "title": "Cooper Flagg #251 Prices [Rookie]",
    "set": "2025 Topps Chrome",
@@ -37281,13 +37481,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -37317,6 +37517,8 @@
    "sport": "NBA",
    "name": "Larry Bird / Julius Erving / Magic Johnson 1980 Topps #34/139/174 (panel) Bird / Erving / Magic panel",
    "path": "basketball-cards-1980-topps/larry-bird-julius-erving-magic-johnson-34-139-174",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrlv6da3exoykrpbrj/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrlv6da3exoykrpbrj/1600.jpg",
    "url": "https://www.sportscardspro.com/game/basketball-cards-1980-topps/larry-bird-julius-erving-magic-johnson-34-139-174",
    "title": "Larry Bird / Julius Erving / Magic Johnson #34 / 139 / 174 Prices [Rookie]",
    "set": "1980 Topps",
@@ -37656,13 +37858,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -37692,6 +37894,8 @@
    "sport": "MLB",
    "name": "Mike Trout 2009 Bowman Chrome Draft Picks & Prospects #BDPP89 Autograph",
    "path": "baseball-cards-2009-bowman-chrome-draft-picks-&-prospects/mike-trout-autograph-bdpp89",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corr2knww3s5wz6rz4h7/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corr2knww3s5wz6rz4h7/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2009-bowman-chrome-draft-picks-&-prospects/mike-trout-autograph-bdpp89",
    "title": "Mike Trout [Autograph] #BDPP89 Prices",
    "set": "2009 Bowman Chrome Draft Picks & Prospects",
@@ -38006,13 +38210,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -38042,6 +38246,8 @@
    "sport": "MLB",
    "name": "Shohei Ohtani 2018 Topps Chrome #150",
    "path": "baseball-cards-2018-topps-chrome/shohei-ohtani-150",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corronnlewzpqfsuxueg/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corronnlewzpqfsuxueg/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-chrome/shohei-ohtani-150",
    "title": "Shohei Ohtani #150 Prices [Rookie]",
    "set": "2018 Topps Chrome",
@@ -38381,13 +38587,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -38417,6 +38623,8 @@
    "sport": "MLB",
    "name": "Juan Soto 2018 Topps Update #US300",
    "path": "baseball-cards-2018-topps-update/juan-soto-us300",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/d4krifratupec7rf/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/d4krifratupec7rf/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/juan-soto-us300",
    "title": "Juan Soto #US300 Prices [Rookie]",
    "set": "2018 Topps Update",
@@ -38756,13 +38964,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -38792,6 +39000,8 @@
    "sport": "MLB",
    "name": "Aaron Judge 2017 Topps #287",
    "path": "baseball-cards-2017-topps/aaron-judge-287",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrq7vrk5gmnkbextga/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrq7vrk5gmnkbextga/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps/aaron-judge-287",
    "title": "Aaron Judge #287 Prices [Rookie]",
    "set": "2017 Topps",
@@ -39131,13 +39341,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 4.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -39167,6 +39377,8 @@
    "sport": "MLB",
    "name": "Vladimir Guerrero Jr. 2019 Topps Chrome #201",
    "path": "baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrxupaezm6mojoeqdv/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxupaezm6mojoeqdv/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201",
    "title": "Vladimir Guerrero Jr. #201 Prices [Rookie]",
    "set": "2019 Topps Chrome",
@@ -39506,13 +39718,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -39542,6 +39754,8 @@
    "sport": "MLB",
    "name": "Paul Skenes 2024 Topps Chrome Update #USC88",
    "path": "baseball-cards-2024-topps-chrome-update/paul-skenes-usc88",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/emj3bheblt5v7buj/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/emj3bheblt5v7buj/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-chrome-update/paul-skenes-usc88",
    "title": "Paul Skenes #USC88 Prices [Rookie]",
    "set": "2024 Topps Chrome Update",
@@ -39881,13 +40095,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -39917,6 +40131,8 @@
    "sport": "MLB",
    "name": "Jackson Holliday 2024 Topps Chrome Update #USC89",
    "path": "baseball-cards-2024-topps-chrome-update/jackson-holliday-usc89",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrh7sjm4ig3oquiwsd/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrh7sjm4ig3oquiwsd/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-chrome-update/jackson-holliday-usc89",
    "title": "Jackson Holliday #USC89 Prices [Rookie]",
    "set": "2024 Topps Chrome Update",
@@ -40216,13 +40432,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -40249,6 +40465,8 @@
    "sport": "MLB",
    "name": "Fernando Tatis Jr. 2018 Bowman Chrome Prospects #BCP-114",
    "path": "baseball-cards-2018-bowman-chrome-prospects/fernando-tatis-jr-bcp-114",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/w7m5bpmbtpeukxto/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/w7m5bpmbtpeukxto/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2018-bowman-chrome-prospects/fernando-tatis-jr-bcp-114",
    "title": "Fernando Tatis Jr. #BCP-114 Prices",
    "set": "2018 Bowman Chrome Prospects",
@@ -40534,13 +40752,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -40567,6 +40785,8 @@
    "sport": "MLB",
    "name": "Albert Pujols 2001 Bowman Chrome #340 Refractor Autograph",
    "path": "baseball-cards-2001-bowman-chrome/albert-pujols-refractor-autograph-340",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/corrnj6sh63flezawoqh/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrnj6sh63flezawoqh/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-2001-bowman-chrome/albert-pujols-refractor-autograph-340",
    "title": "Albert Pujols [Refractor Autograph] #340 Prices",
    "set": "2001 Bowman Chrome",
@@ -40906,13 +41126,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"

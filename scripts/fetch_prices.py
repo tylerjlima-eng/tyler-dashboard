@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Daily price snapshot. Sources: PriceCharting / SportsCardsPro product pages (prices derived from
 completed eBay sales), YGOPRODeck API (TCGplayer/eBay/Cardmarket prices). Stdlib only. No secrets."""
-import json, re, time, urllib.request, urllib.parse, datetime, os
+from concurrent.futures import ThreadPoolExecutor
+import json, re, html, time, urllib.request, urllib.parse, datetime, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(ROOT, "data", *p)
 UA = {"User-Agent": "Mozilla/5.0 (tyler-dashboard price snapshot; personal use)"}
@@ -15,6 +16,8 @@ def pricecharting(item):
     if item.get("path"): url = base + urllib.parse.quote(item["path"], safe="/&")
     else: url = "https://www.pricecharting.com/search-products?type=prices&q=" + urllib.parse.quote_plus(item["q"])
     final, h = get(url)
+    if "/game/" not in final and item.get("path"):
+        raise RuntimeError("product page not found (redirected to search) - check path")
     if "/game/" not in final:
         m = re.search(r'href="(https://www\.(?:pricecharting|sportscardspro)\.com)?(/game/[^"?#]+)"', h)
         if not m: raise RuntimeError("no product match")
@@ -29,8 +32,9 @@ def pricecharting(item):
     if m:
         for k, pts in json.loads(m.group(1)).items():
             if k in GRADES: hist[GRADES[k]] = [[p[0] // 1000, p[1] / 100] for p in pts if p[1]][-13:]
-    t = re.search(r"<title>([^<|]+)", h)
-    return {"url": final.split("?")[0], "title": t.group(1).strip() if t else None, "prices": cur, "monthly": hist}
+    t = re.search(r"<title>([^<]+)", h)
+    parts = [x.strip() for x in html.unescape(t.group(1)).split("|")] if t else []
+    return {"url": final.split("?")[0], "title": parts[0] if parts else None, "set": parts[1] if len(parts) > 1 else None, "prices": cur, "monthly": hist}
 def ygoprodeck(name):
     _, b = get("https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" + urllib.parse.quote(name))
     p = json.loads(b)["data"][0]["card_prices"][0]
@@ -41,13 +45,20 @@ def main():
     hist = json.load(open(D("history.json"))) if os.path.exists(D("history.json")) else {}
     today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
     out, errors = [], []
-    for it in watch:
-        key = it.get("path") or it.get("q"); rec = dict(it)
-        try: rec.update(pricecharting(it))
-        except Exception as e: errors.append({"item": it["name"], "source": "pricecharting", "error": str(e)[:200]})
+    def grab(it):
+        rec, errs = dict(it), []
+        for attempt in range(2):
+            try: rec.update(pricecharting(it)); break
+            except Exception as e:
+                if attempt: errs.append({"item": it["name"], "source": "pricecharting", "error": str(e)[:200]})
+                else: time.sleep(3)
         if it.get("ygo"):
             try: rec["ygoprodeck"] = ygoprodeck(it["ygo"])
-            except Exception as e: errors.append({"item": it["name"], "source": "ygoprodeck", "error": str(e)[:200]})
+            except Exception as e: errs.append({"item": it["name"], "source": "ygoprodeck", "error": str(e)[:200]})
+        return rec, errs
+    with ThreadPoolExecutor(4) as ex: fetched = list(ex.map(grab, watch))
+    for it, (rec, errs) in zip(watch, fetched):
+        key = it.get("path") or it.get("q"); errors += errs
         p = rec.get("prices", {})
         if p: hist.setdefault(key, {})[today] = {g: p[g] for g in ("Ungraded", "PSA 10") if g in p}
         days = sorted(hist.get(key, {}))
@@ -62,7 +73,7 @@ def main():
             d30 = ago(30, g)
             rec["change"][g] = {"1d": pct(now, ago(1, g)), "7d": pct(now, ago(7, g)), "30d": pct(now, d30) if d30 else pct(now, prevm),
                                 "30d_src": "daily snapshots" if d30 else ("PriceCharting monthly history (vs prior month point)" if prevm else None)}
-        out.append(rec); time.sleep(1)
+        out.append(rec)
     json.dump(hist, open(D("history.json"), "w"), separators=(",", ":"))
     json.dump({"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "items": out, "errors": errors}, open(D("prices.json"), "w"), indent=1)
     print(f"{len(out)} items, {len(errors)} errors"); [print(e) for e in errors]

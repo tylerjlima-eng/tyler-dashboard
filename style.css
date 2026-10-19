@@ -19,3 +19,5 @@ table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:7px 4px;b
 .ev{background:var(--card);border-radius:8px;padding:8px;margin:6px 0;border-left:4px solid #555}pre{white-space:pre-wrap;word-break:break-word;background:#0b1220;padding:8px;border-radius:8px;max-height:300px;overflow:auto}pre:empty{display:none}
 .chips{scrollbar-width:none}.chips::-webkit-scrollbar{display:none}
 .chip .dot{margin-right:5px}
+.spike{white-space:nowrap;display:inline-block}.spike.a{background:#22c55e}.spike.w{background:#86efac}.spike.d{background:#ef4444;color:#fff}.spike.dw{background:#fca5a5}
+#watch table{table-layout:auto}#watch td{word-break:break-word}html,body{overflow-x:hidden}

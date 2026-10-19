@@ -5,7 +5,7 @@
 - **Android (Chrome):** open the link, tap ⋮, then **Install app** (or **Add to Home screen**).
 
 ### Daily routine
-1. **Markets**: tap a category chip, switch the Grade (Ungraded / PSA 10) and Window (1d / 7d / 30d). Top movers are sorted by biggest move. **SPIKE** marks big moves (≥10% in 1d, 15% in 7d, 20% in 30d) on cards worth $10+; cards under $5 are left out of Top movers. Tap any card to open its price page.
+1. **Markets**: tap a category chip, switch the Grade (Ungraded / PSA 10) and Window (1d / 7d / 30d). Top movers are sorted by biggest move. **Spike / drop signals** list cards that are up 25% or more (WATCH) or 50% or more (ALERT), or down 25% or more (DROP WATCH) or 40% or more (DROP ALERT). Before you list or buy, check sold comps in eBay Terapeak. Tap any card to open its price page.
 2. **List**: pick a watchlist card (or type one in), set graded or raw, check the comps and suggested price, tap **Generate**, adjust the text, then **Copy** and paste it into the eBay app. **Save draft** keeps it on this phone.
 3. **Schedule**: tap a day to see its events, and use the chips to hide categories. Add your own tasks with **Add task**. **Export .ics** puts them into Google or Apple Calendar so you get real phone alerts.
 - Prices refresh automatically every morning around 7:15 AM ET. Pull down or reload to get the latest.
@@ -15,7 +15,9 @@
 ### What's live
 - **Markets**: daily price snapshots from PriceCharting / SportsCardsPro (values based on completed eBay sales) + YGOPRODeck (TCGplayer prices for Yu-Gi-Oh). A GitHub Action refreshes `data/prices.json` every morning (~7:17 AM ET).
 - **1d / 7d** changes fill in after the job has run for 1 / 7 days. **30d** uses PriceCharting's monthly history until 30 days of our own snapshots exist.
-- **Spike rule**: a move of at least 10% (1d), 15% (7d) or 20% (30d) on a card worth $10+ gets flagged. Cards under $5 are left out of Top movers.
+- **Spike rule** (from the price research): a 3-day median is compared against a baseline. The baseline is the median of our snapshots 8–37 days old, or PriceCharting's prior-month value at first. WATCH at +25%, ALERT at +50%, DROP WATCH at −25%, DROP ALERT at −40%. The move must also be at least max($5, 10% of the baseline). Cards with a baseline under $3 are skipped, and a one-day jump needs the next day's price to confirm it. The minimum-sales and outlier rules need individual sale prices; free PriceCharting pages only give smoothed guide values, so those rules start working once a sales source is added (Terapeak export, or the paid PriceCharting API).
+- **Watchlist**: 110 cards. Our own picks are merged with the price bot's 75 verified seed cards: Pokémon 20, Yu-Gi-Oh 25, NBA 21, NFL 20, MLB 24. Prices come from PriceCharting / SportsCardsPro. TCGdex (Cardmarket, in EUR) is the Pokémon fallback if PriceCharting fails; it's flagged "suspect" when its trend and 30-day average disagree by more than 10×.
+- **Data quirks**: YGOPRODeck prices are lowest *asking* prices, so we use that printing's set-code price, looked up by passcode + set code (a name lookup can return an alt-art passcode); a price of "0" means missing. pokemontcg.io is erroring or stale (its Cardmarket data was about 3.5 months old). TCGdex has some wrong price mappings. eBay sold-search pages return 403 to automated fetches.
 - **Add cards**: paste a pricecharting.com or sportscardspro.com product URL on the Markets tab, then add the line to `data/watchlist.json` on GitHub.
 
 ### eBay publishing (not connected yet)

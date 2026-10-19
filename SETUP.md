@@ -1,41 +1,29 @@
 # How to use
+- **Install:** iPhone: Share → **Add to Home Screen**. Android: ⋮ → **Install app**.
+- **Markets:** pick a category tab, search, sort, star ★ favorites, and tap any card for its price chart and all grades.
+- **Inventory:** tap **Scan card**, take a photo, confirm the match, then enter grade, qty and price paid.
+- **List:** pick a card → **Generate listing** → Copy into the eBay app.
+- **Schedule:** releases, tournaments and card shows. Add tasks, then **Export .ics** to your calendar.
 
-### Put it on your home screen
-- **iPhone (Safari):** open the link, tap Share, then **Add to Home Screen**.
-- **Android (Chrome):** open the link, tap ⋮, then **Install app** (or **Add to Home screen**).
+# Inventory & scanning
+- Inventory lives **in this browser on this device only** (IndexedDB). Use **Export CSV** to back it up or move it to another device. Photos stay on the device.
+- Cards that match a tracked card get the daily PriceCharting value for their grade. Other cards are priced live from YGOPRODeck (lowest ask) or TCGdex (TCGplayer market, or Cardmarket € if that's all there is), refreshed when you open the app, at most every 12 hours.
+- **Track daily** on a card opens a ready-to-paste line for `data/watchlist.json`.
+- Scanning uses on-device text recognition (Tesseract.js, downloaded on first use, about 10 MB). It reads card names, set codes like **LOB-001**, and numbers like **4/102**. Glare, holo foil, slabs and small print reduce accuracy, so always confirm the match. If the scan misses, type the name in the search box.
 
-### Daily routine
-1. **Markets**: tap a category chip, switch the Grade (Ungraded / PSA 10) and Window (1d / 7d / 30d). Top movers are sorted by biggest move. **Spike / drop signals** list cards that are up 25% or more (WATCH) or 50% or more (ALERT), or down 25% or more (DROP WATCH) or 40% or more (DROP ALERT). Before you list or buy, check sold comps in eBay Terapeak. Tap any card to open its price page.
-2. **List**: pick a watchlist card (or type one in), set graded or raw, check the comps and suggested price, tap **Generate**, adjust the text, then **Copy** and paste it into the eBay app. **Save draft** keeps it on this phone.
-3. **Schedule**: tap a day to see its events, and use the chips to hide categories. Add your own tasks with **Add task**. **Export .ics** puts them into Google or Apple Calendar so you get real phone alerts.
-- Prices refresh automatically every morning around 7:15 AM ET. Pull down or reload to get the latest.
+# Prices & signals
+- Prices come from PriceCharting / SportsCardsPro guide values (built from eBay sold listings) and refresh every morning around 7:15 AM ET. Card images come from the same pages, with YGOPRODeck / TCGdex as backup.
+- **Signals:** WATCH at +25%, SPIKE at +50%, DIP at −25%, DROP at −40%, measured with a 3-day median against a baseline. The baseline is the median of our snapshots 8–37 days old, or PriceCharting's prior month until we have enough history. A move needs at least $5 or 10% of the baseline. Cards under $3 are skipped, and one-day jumps need the next day to confirm. Minimum-sales and outlier rules wait for a sales feed (Terapeak export or the paid PriceCharting API).
+- **Data quirks:** YGOPRODeck prices are lowest *asking* prices and don't separate editions. pokemontcg.io is erroring or stale. TCGdex has some wrong mappings (we flag them "suspect"). eBay sold-search pages block automated fetches.
 
-# Setup & status
+# eBay publishing (not connected)
+1. eBay Developers Program account → **Production keyset** (App ID, Cert ID, Dev ID).
+2. Handle Marketplace Account Deletion notifications: subscribe, or opt out (https://developer.ebay.com/marketplace-account-deletion).
+3. RuName, then a one-time sign-in as ya_mothers_garage. That gives a user refresh token with `sell.inventory`, `sell.account` and `sell.fulfillment`.
+4. Business policies (fulfillment, payment, return) and an inventory location (`merchantLocationKey`).
+5. Flow: `createOrReplaceInventoryItem` → `createOffer` → `publishOffer`. Condition **2750** = graded, **4000** = raw. CCG singles category 183454.
+6. Keys go in a small backend (`worker/ebay-worker.js`, Cloudflare Workers free plan), never in this public site. Then set `EBAY.BACKEND_URL` in `ebay.js`.
 
-### What's live
-- **Markets**: daily price snapshots from PriceCharting / SportsCardsPro (values based on completed eBay sales) + YGOPRODeck (TCGplayer prices for Yu-Gi-Oh). A GitHub Action refreshes `data/prices.json` every morning (~7:17 AM ET).
-- **1d / 7d** changes fill in after the job has run for 1 / 7 days. **30d** uses PriceCharting's monthly history until 30 days of our own snapshots exist.
-- **Spike rule** (from the price research): a 3-day median is compared against a baseline. The baseline is the median of our snapshots 8–37 days old, or PriceCharting's prior-month value at first. WATCH at +25%, ALERT at +50%, DROP WATCH at −25%, DROP ALERT at −40%. The move must also be at least max($5, 10% of the baseline). Cards with a baseline under $3 are skipped, and a one-day jump needs the next day's price to confirm it. The minimum-sales and outlier rules need individual sale prices; free PriceCharting pages only give smoothed guide values, so those rules start working once a sales source is added (Terapeak export, or the paid PriceCharting API).
-- **Watchlist**: 110 cards. Our own picks are merged with the price bot's 75 verified seed cards: Pokémon 20, Yu-Gi-Oh 25, NBA 21, NFL 20, MLB 24. Prices come from PriceCharting / SportsCardsPro. TCGdex (Cardmarket, in EUR) is the Pokémon fallback if PriceCharting fails; it's flagged "suspect" when its trend and 30-day average disagree by more than 10×.
-- **Data quirks**: YGOPRODeck prices are lowest *asking* prices, so we use that printing's set-code price, looked up by passcode + set code (a name lookup can return an alt-art passcode); a price of "0" means missing. pokemontcg.io is erroring or stale (its Cardmarket data was about 3.5 months old). TCGdex has some wrong price mappings. eBay sold-search pages return 403 to automated fetches.
-- **Add cards**: paste a pricecharting.com or sportscardspro.com product URL on the Markets tab, then add the line to `data/watchlist.json` on GitHub.
-
-### eBay publishing (not connected yet)
-The List tab already builds the exact Sell Inventory API calls. To publish for real from **ya_mothers_garage**, you'll need:
-1. An **eBay Developers Program** account and a **Production keyset**: App ID (Client ID), Cert ID (Client Secret), Dev ID. https://developer.ebay.com
-2. Before the first production call, either subscribe to **Marketplace Account Deletion** notifications or opt out of them (https://developer.ebay.com/marketplace-account-deletion). The worker has a stub endpoint for this.
-3. A **RuName** (redirect URL name) on the keyset, then a one-time sign-in with ya_mothers_garage. That gives a **User refresh token** (about 18 months) with scopes `sell.inventory`, `sell.account` and `sell.fulfillment`. An Application token can't list items.
-4. **Business policies**: opt in to `SELLING_POLICY_MANAGEMENT`, then create fulfillment, payment and return policies. Publishing needs all three policy IDs.
-5. An **inventory location** (`createInventoryLocation`). Its `merchantLocationKey` is required for publishOffer.
-6. The flow is `createOrReplaceInventoryItem`, then `createOffer`, then `publishOffer`. Trading-card condition IDs: **2750 = graded** (descriptors: grader, grade, cert #), **4000 = ungraded** (card-condition descriptor). The CCG singles category is 183454. Get sports categories and aspects from the Taxonomy API.
-7. A small **backend** that keeps the secrets. This site is public and static, so secrets must never go in it. `worker/ebay-worker.js` is a ready Cloudflare Worker skeleton (free plan: Workers + Cron + D1). Store the keys with `wrangler secret put`, then set `EBAY.BACKEND_URL` in `ebay.js`.
-- Note: listings created through the Inventory API should then be edited through the Inventory API, not the old eBay tools.
-- **Comps**: eBay's sold-items API (Marketplace Insights) is restricted, so comps come from PriceCharting/SportsCardsPro, YGOPRODeck and any sold prices you paste in. The eBay Browse API (active listings) can be added once keys exist. The eBay sold-search page blocks automated fetches, so the List tab shows it as a link you tap.
-
-### Calendar
-- Q4 2026 Pokémon / Yu-Gi-Oh releases, tournaments, sports-card releases and card shows are pre-loaded from public sources, and every event links to its source. Dates marked "expected", "preliminary" or "unconfirmed" can change.
-- Your tasks are stored on this phone/browser only (not synced). Use **Export .ics** to add them to Google or Apple Calendar.
-- Google Calendar sync can be connected later. That needs a Google OAuth client and the same kind of backend.
-
-### Privacy
-- The repo is public, and it contains no keys or tokens. Drafts and tasks stay in your browser's local storage.
+# Calendar & privacy
+- Events are loaded from public sources, and each one links to its source. Tasks are saved on this device only. Google Calendar sync isn't connected yet; import the .ics file instead.
+- The repo is public and holds no keys. Drafts, tasks, favorites and inventory stay in your browser.

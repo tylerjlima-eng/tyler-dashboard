@@ -23,15 +23,18 @@ jobs:
         run: pip install pillow && python scripts/make_icons.py
       - if: steps.fresh.outputs.skip != 'true'
         run: python scripts/fetch_prices.py
+      - name: Spike engine (signals.json)
+        if: steps.fresh.outputs.skip != 'true'
+        run: python scripts/spike_engine.py --history data/history.json --prices data/prices.json --out data/signals.json
       - name: Commit snapshot
         if: steps.fresh.outputs.skip != 'true'
         run: |
           git config user.name "price-bot"; git config user.email "actions@users.noreply.github.com"
-          mkdir -p /tmp/out && cp -r data/prices.json data/history.json icons /tmp/out/
+          mkdir -p /tmp/out && cp -r data/prices.json data/history.json data/signals.json icons /tmp/out/
           git fetch origin main && git reset --hard origin/main   # rebase onto any commits pushed during the run
-          cp /tmp/out/prices.json /tmp/out/history.json data/ && cp -r /tmp/out/icons .
-          git add data/prices.json data/history.json icons
+          cp /tmp/out/prices.json /tmp/out/history.json /tmp/out/signals.json data/ && cp -r /tmp/out/icons .
+          git add data/prices.json data/history.json data/signals.json icons
           git diff --cached --quiet || git commit -m "Price snapshot $(TZ=America/New_York date +%F)"
-          git pull --rebase origin main || { git rebase --abort; git fetch origin main; git reset --hard origin/main; cp /tmp/out/prices.json /tmp/out/history.json data/; git add data; git commit -m "Price snapshot (retry)"; }
+          git pull --rebase origin main || { git rebase --abort; git fetch origin main; git reset --hard origin/main; cp /tmp/out/prices.json /tmp/out/history.json /tmp/out/signals.json data/; git add data; git commit -m "Price snapshot (retry)"; }
           git push origin HEAD:main
           git push --force origin HEAD:gh-pages

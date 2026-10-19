@@ -1,2 +1,3 @@
-# tyler-dashboard
-Tyler's mobile card dashboard: market trends, eBay listing helper, schedule
+# Tyler Card Desk
+Mobile dashboard: markets, eBay listing helper, schedule. See SETUP.md.
+Run locally: `python3 scripts/fetch_prices.py && python3 -m http.server`

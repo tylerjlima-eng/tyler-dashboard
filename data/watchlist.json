@@ -1,26 +1,434 @@
 [
-{"cat":"pokemon","name":"Charizard #4 (Base Set)","path":"pokemon-base-set/charizard-4"},
-{"cat":"pokemon","name":"Blastoise #2 (Base Set)","path":"pokemon-base-set/blastoise-2"},
-{"cat":"pokemon","name":"Venusaur #15 (Base Set)","path":"pokemon-base-set/venusaur-15"},
-{"cat":"pokemon","name":"Umbreon VMAX #215 (Evolving Skies)","path":"pokemon-evolving-skies/umbreon-vmax-215"},
-{"cat":"pokemon","name":"Charizard ex #199 (151)","path":"pokemon-scarlet-&-violet-151/charizard-ex-199"},
-{"cat":"pokemon","name":"Giratina VSTAR GG69 (Crown Zenith)","path":"pokemon-crown-zenith/giratina-vstar-gg69"},
-{"cat":"pokemon","name":"Umbreon ex #161 (Prismatic Evolutions)","path":"pokemon-prismatic-evolutions/umbreon-ex-161"},
-{"cat":"pokemon","name":"Charizard ex #234 (Paldean Fates)","path":"pokemon-paldean-fates/charizard-ex-234"},
-{"cat":"pokemon","name":"Pikachu ex #238 (Surging Sparks)","path":"pokemon-surging-sparks/pikachu-ex-238"},
-{"cat":"yugioh","name":"Blue-Eyes White Dragon LOB-001","path":"yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001","ygo":"Blue-Eyes White Dragon"},
-{"cat":"yugioh","name":"Dark Magician LOB-005","q":"dark magician lob-005","ygo":"Dark Magician"},
-{"cat":"yugioh","name":"Red-Eyes Black Dragon LOB-070","q":"red-eyes black dragon lob-070","ygo":"Red-Eyes Black Dragon"},
-{"cat":"yugioh","name":"Exodia the Forbidden One LOB-124","q":"exodia the forbidden one lob-124","ygo":"Exodia the Forbidden One"},
-{"cat":"yugioh","name":"Dark Magician Girl MFC-000","q":"dark magician girl mfc-000","ygo":"Dark Magician Girl"},
-{"cat":"yugioh","name":"Ash Blossom & Joyous Spring","q":"ash blossom joyous spring","ygo":"Ash Blossom & Joyous Spring"},
-{"cat":"sports","sport":"NBA","name":"Michael Jordan 1986 Fleer #57","path":"basketball-cards-1986-fleer/michael-jordan-57"},
-{"cat":"sports","sport":"NBA","name":"LeBron James 2003 Topps Chrome #111","path":"basketball-cards-2003-topps-chrome/lebron-james-111"},
-{"cat":"sports","sport":"NBA","name":"Luka Doncic 2018 Prizm #280","path":"basketball-cards-2018-panini-prizm/luka-doncic-280"},
-{"cat":"sports","sport":"NBA","name":"Victor Wembanyama 2023 Prizm #136","path":"basketball-cards-2023-panini-prizm/victor-wembanyama-136"},
-{"cat":"sports","sport":"NFL","name":"Patrick Mahomes 2017 Prizm #269","path":"football-cards-2017-panini-prizm/patrick-mahomes-ii-269"},
-{"cat":"sports","sport":"NFL","name":"Joe Burrow 2020 Prizm #307","path":"football-cards-2020-panini-prizm/joe-burrow-307"},
-{"cat":"sports","sport":"MLB","name":"Mickey Mantle 1952 Topps #311","path":"baseball-cards-1952-topps/mickey-mantle-311"},
-{"cat":"sports","sport":"MLB","name":"Mike Trout 2011 Topps Update #US175","path":"baseball-cards-2011-topps-update/mike-trout-us175"},
-{"cat":"sports","sport":"MLB","name":"Shohei Ohtani 2018 Topps Update #US1","path":"baseball-cards-2018-topps-update/shohei-ohtani-us1"}
+{
+"cat": "pokemon",
+"name": "Charizard #4 (Base Set)",
+"path": "pokemon-base-set/charizard-4"
+},
+{
+"cat": "pokemon",
+"name": "Blastoise #2 (Base Set)",
+"path": "pokemon-base-set/blastoise-2"
+},
+{
+"cat": "pokemon",
+"name": "Venusaur #15 (Base Set)",
+"path": "pokemon-base-set/venusaur-15"
+},
+{
+"cat": "pokemon",
+"name": "Mewtwo #10 (Base Set)",
+"path": "pokemon-base-set/mewtwo-10"
+},
+{
+"cat": "pokemon",
+"name": "Umbreon VMAX #215 (Evolving Skies)",
+"path": "pokemon-evolving-skies/umbreon-vmax-215"
+},
+{
+"cat": "pokemon",
+"name": "Rayquaza VMAX #218 (Evolving Skies)",
+"path": "pokemon-evolving-skies/rayquaza-vmax-218"
+},
+{
+"cat": "pokemon",
+"name": "Charizard ex #199 (151)",
+"path": "pokemon-scarlet-&-violet-151/charizard-ex-199"
+},
+{
+"cat": "pokemon",
+"name": "Giratina VSTAR GG69 (Crown Zenith)",
+"path": "pokemon-crown-zenith/giratina-vstar-gg69"
+},
+{
+"cat": "pokemon",
+"name": "Giratina V #186 (Lost Origin)",
+"path": "pokemon-lost-origin/giratina-v-186"
+},
+{
+"cat": "pokemon",
+"name": "Lugia V #186 (Silver Tempest)",
+"path": "pokemon-silver-tempest/lugia-v-186"
+},
+{
+"cat": "pokemon",
+"name": "Gengar VMAX #271 (Fusion Strike)",
+"path": "pokemon-fusion-strike/gengar-vmax-271"
+},
+{
+"cat": "pokemon",
+"name": "Charizard GX #SV49 (Hidden Fates)",
+"path": "pokemon-hidden-fates/charizard-gx-sv49"
+},
+{
+"cat": "pokemon",
+"name": "Umbreon ex #161 (Prismatic Evolutions)",
+"path": "pokemon-prismatic-evolutions/umbreon-ex-161"
+},
+{
+"cat": "pokemon",
+"name": "Charizard ex #234 (Paldean Fates)",
+"path": "pokemon-paldean-fates/charizard-ex-234"
+},
+{
+"cat": "pokemon",
+"name": "Pikachu ex #238 (Surging Sparks)",
+"path": "pokemon-surging-sparks/pikachu-ex-238"
+},
+{
+"cat": "yugioh",
+"name": "Blue-Eyes White Dragon LOB-001",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001",
+"ygo": "Blue-Eyes White Dragon"
+},
+{
+"cat": "yugioh",
+"name": "Dark Magician 1st Ed LOB-005",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005",
+"ygo": "Dark Magician"
+},
+{
+"cat": "yugioh",
+"name": "Red-Eyes Black Dragon 1st Ed LOB-070",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070",
+"ygo": "Red-Eyes Black Dragon"
+},
+{
+"cat": "yugioh",
+"name": "Exodia the Forbidden One 1st Ed LOB-124",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124",
+"ygo": "Exodia the Forbidden One"
+},
+{
+"cat": "yugioh",
+"name": "Right Leg of the Forbidden One LOB-120",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120"
+},
+{
+"cat": "yugioh",
+"name": "Left Arm of the Forbidden One LOB-123",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123"
+},
+{
+"cat": "yugioh",
+"name": "Gaia the Fierce Knight LOB-006",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006"
+},
+{
+"cat": "yugioh",
+"name": "Blue-Eyes White Dragon SDK-001",
+"path": "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001"
+},
+{
+"cat": "yugioh",
+"name": "Summoned Skull 1st Ed MRD-003",
+"path": "yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003"
+},
+{
+"cat": "yugioh",
+"name": "Black Skull Dragon MRD-018",
+"path": "yugioh-metal-raiders/black-skull-dragon-mrd-018"
+},
+{
+"cat": "yugioh",
+"name": "Relinquished 1st Ed MRL-029",
+"path": "yugioh-magic-ruler/relinquished-1st-edition-mrl-029"
+},
+{
+"cat": "yugioh",
+"name": "Dark Magician Girl 1st Ed MFC-000",
+"path": "yugioh-magician's-force/dark-magician-girl-1st-edition-mfc-000",
+"ygo": "Dark Magician Girl"
+},
+{
+"cat": "yugioh",
+"name": "Jinzo PSV-000",
+"path": "yugioh-pharaoh's-servant/jinzo-psv-000"
+},
+{
+"cat": "yugioh",
+"name": "Yata-Garasu 1st Ed LOD-000",
+"path": "yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000"
+},
+{
+"cat": "yugioh",
+"name": "Ash Blossom & Joyous Spring QCSR RA01-EN008",
+"path": "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008",
+"ygo": "Ash Blossom & Joyous Spring"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Michael Jordan 1986 Fleer #57",
+"path": "basketball-cards-1986-fleer/michael-jordan-57"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Larry Bird 1986 Fleer #9",
+"path": "basketball-cards-1986-fleer/larry-bird-9"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Magic Johnson 1986 Fleer #53",
+"path": "basketball-cards-1986-fleer/magic-johnson-53"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Kobe Bryant 1996 Topps Chrome #138",
+"path": "basketball-cards-1996-topps-chrome/kobe-bryant-138"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Kobe Bryant 1996 Topps #138",
+"path": "basketball-cards-1996-topps/kobe-bryant-138"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Kobe Bryant 1997 Metal Universe #81",
+"path": "basketball-cards-1997-metal-universe/kobe-bryant-81"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "LeBron James 2003 Topps Chrome #111",
+"path": "basketball-cards-2003-topps-chrome/lebron-james-111"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Stephen Curry 2009 Topps #321",
+"path": "basketball-cards-2009-topps/stephen-curry-321"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Giannis Antetokounmpo 2013 Prizm #290",
+"path": "basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Jayson Tatum 2017 Prizm #16",
+"path": "basketball-cards-2017-panini-prizm/jayson-tatum-16"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Luka Doncic 2018 Prizm #280",
+"path": "basketball-cards-2018-panini-prizm/luka-doncic-280"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Ja Morant 2019 Prizm #249",
+"path": "basketball-cards-2019-panini-prizm/ja-morant-249"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Zion Williamson 2019 Prizm #248",
+"path": "basketball-cards-2019-panini-prizm/zion-williamson-248"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Anthony Edwards 2020 Prizm #258",
+"path": "basketball-cards-2020-panini-prizm/anthony-edwards-258"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Victor Wembanyama 2023 Prizm #136",
+"path": "basketball-cards-2023-panini-prizm/victor-wembanyama-136"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Jim Brown 1958 Topps #62",
+"path": "football-cards-1958-topps/jim-brown-62"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Joe Montana 1981 Topps #216",
+"path": "football-cards-1981-topps/joe-montana-216"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Jerry Rice 1986 Topps #161",
+"path": "football-cards-1986-topps/jerry-rice-161"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Tom Brady 2000 Contenders Auto #144",
+"path": "football-cards-2000-playoff-contenders/tom-brady-autograph-144"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Aaron Rodgers 2005 Topps #431",
+"path": "football-cards-2005-topps/aaron-rodgers-431"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Patrick Mahomes 2017 Prizm #269",
+"path": "football-cards-2017-panini-prizm/patrick-mahomes-ii-269"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Christian McCaffrey 2017 Prizm #249",
+"path": "football-cards-2017-panini-prizm/christian-mccaffrey-249"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Josh Allen 2018 Prizm #205",
+"path": "football-cards-2018-panini-prizm/josh-allen-205"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Lamar Jackson 2018 Prizm #212",
+"path": "football-cards-2018-panini-prizm/lamar-jackson-212"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Kyler Murray 2019 Prizm #301",
+"path": "football-cards-2019-panini-prizm/kyler-murray-301"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Joe Burrow 2020 Prizm #307",
+"path": "football-cards-2020-panini-prizm/joe-burrow-307"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Justin Herbert 2020 Prizm #325",
+"path": "football-cards-2020-panini-prizm/justin-herbert-325"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Ja'Marr Chase 2021 Prizm #337",
+"path": "football-cards-2021-panini-prizm/ja'marr-chase-337"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "C.J. Stroud 2023 Prizm #339",
+"path": "football-cards-2023-panini-prizm/c-j-stroud-339"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Jayden Daniels 2024 Prizm #347",
+"path": "football-cards-2024-panini-prizm/jayden-daniels-347"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Caleb Williams 2024 Prizm #301",
+"path": "football-cards-2024-panini-prizm/caleb-williams-301"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Willie Mays 1951 Bowman #305",
+"path": "baseball-cards-1951-bowman/willie-mays-305"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Mickey Mantle 1952 Topps #311",
+"path": "baseball-cards-1952-topps/mickey-mantle-311"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Willie Mays 1952 Topps #261",
+"path": "baseball-cards-1952-topps/willie-mays-261"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Hank Aaron 1954 Topps #128",
+"path": "baseball-cards-1954-topps/henry-'hank'-aaron-128"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Mark McGwire 1985 Topps #401",
+"path": "baseball-cards-1985-topps/mark-mcgwire-401"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Ken Griffey Jr. 1989 Upper Deck #1",
+"path": "baseball-cards-1989-upper-deck/ken-griffey-jr-1"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Derek Jeter 1993 SP Foil #279",
+"path": "baseball-cards-1993-sp/derek-jeter-foil-279"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Mike Trout 2011 Topps Update #US175",
+"path": "baseball-cards-2011-topps-update/mike-trout-us175"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Aaron Judge 2017 Topps Update Rookie Debut #US99",
+"path": "baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Shohei Ohtani 2018 Topps Update #US1",
+"path": "baseball-cards-2018-topps-update/shohei-ohtani-us1"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Shohei Ohtani 2018 Topps Chrome Update #HMT1",
+"path": "baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Ronald Acuna Jr. 2018 Topps Update #US250",
+"path": "baseball-cards-2018-topps-update/ronald-acuna-jr-us250"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Pete Alonso 2019 Topps Update #US47",
+"path": "baseball-cards-2019-topps-update/pete-alonso-us47"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Julio Rodriguez 2022 Topps Update #US44",
+"path": "baseball-cards-2022-topps-update/julio-rodriguez-us44"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Paul Skenes 2024 Topps Update #US100",
+"path": "baseball-cards-2024-topps-update/paul-skenes-us100"
+}
 ]

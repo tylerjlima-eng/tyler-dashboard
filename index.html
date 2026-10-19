@@ -26,10 +26,10 @@
 </section>
 <!-- INVENTORY -->
 <section id="t-inv" class="tab">
- <div class="stats"><div><span>Value</span><b id="invVal">$0</b></div><div><span>Paid</span><b id="invCost">$0</b></div><div><span>Gain</span><b id="invGain">$0</b></div><div><span>Cards</span><b id="invN">0</b></div></div>
+ <div class="stats"><div><span>Value</span><b id="invVal">$0</b></div><div><span>Paid</span><b id="invCost">$0</b></div><div><span>Gain</span><b id="invGain">$0</b></div><div><span>Listed</span><b id="invN">$0</b></div></div>
  <div class="row"><label class="btn primary big" for="scanIn">📷 Scan card</label><input id="scanIn" type="file" accept="image/*" capture="environment" hidden>
   <button class="btn big" id="manualBtn">＋ Add manually</button></div>
- <div class="tools"><input id="invQ" type="search" placeholder="Search inventory…"><select id="invSort"><option value="value">Value ↓</option><option value="gain">Gain ↓</option><option value="name">Name</option><option value="date">Newest</option></select></div>
+ <div class="cats" id="invCats"></div><div class="small muted" id="invCnt"></div><div class="tools"><input id="invQ" type="search" placeholder="Search inventory…"><select id="invSort"><option value="value">Value ↓</option><option value="gain">Gain ↓</option><option value="name">Name</option><option value="date">Newest</option></select></div>
  <div id="invList"></div>
  <details class="more"><summary>Import / export</summary><div class="row"><button class="btn" id="csvOut">Export CSV</button><label class="btn" for="csvIn">Import CSV</label><input id="csvIn" type="file" accept=".csv,text/csv" hidden><button class="btn" id="refreshInv">Refresh prices</button></div>
   <p class="small muted">Inventory is saved in this browser only (per device). Export a CSV for backup or to move it to another device. Photos aren't included in the CSV.</p></details>

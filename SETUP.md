@@ -8,6 +8,7 @@
 # Inventory & scanning
 - Inventory lives **in this browser on this device only** (IndexedDB). Use **Export CSV** to back it up or move it to another device. Photos stay on the device.
 - Cards that match a tracked card get the daily PriceCharting value for their grade. Other cards are priced live from YGOPRODeck (lowest ask) or TCGdex (TCGplayer market, or Cardmarket € if that's all there is), refreshed when you open the app, at most every 12 hours.
+- **Importing eBay listings:** Import CSV accepts the `inventory-from-ebay.csv` export. Items show an **eBay $price** badge and link. Use **⚠ Check** to filter low-confidence parses and matches. Re-importing the file updates items by eBay item ID instead of duplicating them, and keeps your paid price, date and photo. Market values for cards that aren't tracked are a snapshot from the import date; use **Track daily** to add them to the daily update.
 - **Track daily** on a card opens a ready-to-paste line for `data/watchlist.json`.
 - Scanning uses on-device text recognition (Tesseract.js, downloaded on first use, about 10 MB). It reads card names, set codes like **LOB-001**, and numbers like **4/102**. Glare, holo foil, slabs and small print reduce accuracy, so always confirm the match. If the scan misses, type the name in the search box.
 

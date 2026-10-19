@@ -1,0 +1,2990 @@
+{
+ "generated": "2026-10-19T16:53:51+00:00",
+ "as_of": "2026-10-19",
+ "prices_updated": "2026-10-19T15:54:44+00:00",
+ "rule": "research/spike-rule.md",
+ "items": {
+  "pokemon-base-set/charizard-4": {
+   "name": "Charizard #4 (Base Set)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 333.7,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 27058.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-base-set/blastoise-2": {
+   "name": "Blastoise #2 (Base Set)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 99.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 9000.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-base-set/venusaur-15": {
+   "name": "Venusaur #15 (Base Set)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 64.94,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4959.92,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-evolving-skies/umbreon-vmax-215": {
+   "name": "Umbreon VMAX #215 (Evolving Skies)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1754.79,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 3830.69,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/charizard-ex-199": {
+   "name": "Charizard ex #199 (151)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 329.49,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1380.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-crown-zenith/giratina-vstar-gg69": {
+   "name": "Giratina VSTAR GG69 (Crown Zenith)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 268.58,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 510.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-prismatic-evolutions/umbreon-ex-161": {
+   "name": "Umbreon ex #161 (Prismatic Evolutions)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1021.31,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4824.68,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-paldean-fates/charizard-ex-234": {
+   "name": "Charizard ex #234 (Paldean Fates)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 254.87,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 719.76,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-surging-sparks/pikachu-ex-238": {
+   "name": "Pikachu ex #238 (Surging Sparks)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 252.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 761.04,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001": {
+   "name": "Blue-Eyes White Dragon LOB-001",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 86.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 5725.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1986-fleer/michael-jordan-57": {
+   "name": "Michael Jordan 1986 Fleer #57",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4525.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 392225.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2003-topps-chrome/lebron-james-111": {
+   "name": "LeBron James 2003 Topps Chrome #111",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2387.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 13813.62,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2018-panini-prizm/luka-doncic-280": {
+   "name": "Luka Doncic 2018 Prizm #280",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 52.94,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 204.0,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2023-panini-prizm/victor-wembanyama-136": {
+   "name": "Victor Wembanyama 2023 Prizm #136",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 69.42,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 359.09,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2017-panini-prizm/patrick-mahomes-ii-269": {
+   "name": "Patrick Mahomes 2017 Prizm #269",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 788.61,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 7022.18,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2020-panini-prizm/joe-burrow-307": {
+   "name": "Joe Burrow 2020 Prizm #307",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 12.56,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 109.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1952-topps/mickey-mantle-311": {
+   "name": "Mickey Mantle 1952 Topps #311",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 41959.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 10263808.3,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2011-topps-update/mike-trout-us175": {
+   "name": "Mike Trout 2011 Topps Update #US175",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 295.79,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 935.27,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-topps-update/shohei-ohtani-us1": {
+   "name": "Shohei Ohtani 2018 Topps Update #US1",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 116.25,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 482.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-base-set/mewtwo-10": {
+   "name": "Mewtwo #10 (Base Set)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 29.27,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4720.77,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-evolving-skies/rayquaza-vmax-218": {
+   "name": "Rayquaza VMAX #218 (Evolving Skies)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 999.77,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 2050.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-lost-origin/giratina-v-186": {
+   "name": "Giratina V #186 (Lost Origin)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 777.75,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 3150.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-silver-tempest/lugia-v-186": {
+   "name": "Lugia V #186 (Silver Tempest)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 456.2,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1250.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-fusion-strike/gengar-vmax-271": {
+   "name": "Gengar VMAX #271 (Fusion Strike)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 738.61,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 2297.65,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-hidden-fates/charizard-gx-sv49": {
+   "name": "Charizard GX #SV49 (Hidden Fates)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 599.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1412.48,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005": {
+   "name": "Dark Magician 1st Ed LOB-005",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 384.09,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 24608.12,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070": {
+   "name": "Red-Eyes Black Dragon 1st Ed LOB-070",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 607.33,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 26822.66,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124": {
+   "name": "Exodia the Forbidden One 1st Ed LOB-124",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 682.8,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 12211.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120": {
+   "name": "Right Leg of the Forbidden One LOB-120",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 21.13,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 722.98,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123": {
+   "name": "Left Arm of the Forbidden One LOB-123",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 15.75,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1700.63,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "day_jump": "pending confirmation",
+    "d1_pct": 66.5,
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006": {
+   "name": "Gaia the Fierce Knight LOB-006",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 15.2,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 549.07,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001": {
+   "name": "Blue-Eyes White Dragon SDK-001",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 25.88,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4800.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003": {
+   "name": "Summoned Skull 1st Ed MRD-003",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 253.74,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 5499.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-metal-raiders/black-skull-dragon-mrd-018": {
+   "name": "Black Skull Dragon MRD-018",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 25.17,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 588.13,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-magic-ruler/relinquished-1st-edition-mrl-029": {
+   "name": "Relinquished 1st Ed MRL-029",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 63.1,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1750.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-magician's-force/dark-magician-girl-1st-edition-mfc-000": {
+   "name": "Dark Magician Girl 1st Ed MFC-000",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 800.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 32854.1,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-pharaoh's-servant/jinzo-psv-000": {
+   "name": "Jinzo PSV-000",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 49.49,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1050.72,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000": {
+   "name": "Yata-Garasu 1st Ed LOD-000",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 87.68,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 2511.41,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008": {
+   "name": "Ash Blossom & Joyous Spring QCSR RA01-EN008",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 44.87,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 397.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1986-fleer/larry-bird-9": {
+   "name": "Larry Bird 1986 Fleer #9",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 79.16,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 8400.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1986-fleer/magic-johnson-53": {
+   "name": "Magic Johnson 1986 Fleer #53",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 55.52,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4250.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1996-topps-chrome/kobe-bryant-138": {
+   "name": "Kobe Bryant 1996 Topps Chrome #138",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1670.0,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 15758.75,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1996-topps/kobe-bryant-138": {
+   "name": "Kobe Bryant 1996 Topps #138",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 113.37,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 2537.48,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1997-metal-universe/kobe-bryant-81": {
+   "name": "Kobe Bryant 1997 Metal Universe #81",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 289.64,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 5752.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2009-topps/stephen-curry-321": {
+   "name": "Stephen Curry 2009 Topps #321",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1599.74,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 19100.38,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290": {
+   "name": "Giannis Antetokounmpo 2013 Prizm #290",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 164.89,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 650.62,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2017-panini-prizm/jayson-tatum-16": {
+   "name": "Jayson Tatum 2017 Prizm #16",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 20.76,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 97.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2019-panini-prizm/ja-morant-249": {
+   "name": "Ja Morant 2019 Prizm #249",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 27.45,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2019-panini-prizm/zion-williamson-248": {
+   "name": "Zion Williamson 2019 Prizm #248",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 23.44,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2020-panini-prizm/anthony-edwards-258": {
+   "name": "Anthony Edwards 2020 Prizm #258",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 10.11,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 146.44,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-1958-topps/jim-brown-62": {
+   "name": "Jim Brown 1958 Topps #62",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 453.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 101683.2,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-1981-topps/joe-montana-216": {
+   "name": "Joe Montana 1981 Topps #216",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 91.39,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 51240.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-1986-topps/jerry-rice-161": {
+   "name": "Jerry Rice 1986 Topps #161",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 53.75,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 71459.76,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2000-playoff-contenders/tom-brady-autograph-144": {
+   "name": "Tom Brady 2000 Contenders Auto #144",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 21121.12,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 297990.22,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2005-topps/aaron-rodgers-431": {
+   "name": "Aaron Rodgers 2005 Topps #431",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 18.91,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 271.65,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2017-panini-prizm/christian-mccaffrey-249": {
+   "name": "Christian McCaffrey 2017 Prizm #249",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 43.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 191.25,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2018-panini-prizm/josh-allen-205": {
+   "name": "Josh Allen 2018 Prizm #205",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 129.01,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 718.32,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2018-panini-prizm/lamar-jackson-212": {
+   "name": "Lamar Jackson 2018 Prizm #212",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 30.48,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 350.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2019-panini-prizm/kyler-murray-301": {
+   "name": "Kyler Murray 2019 Prizm #301",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.68,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 46.02,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2020-panini-prizm/justin-herbert-325": {
+   "name": "Justin Herbert 2020 Prizm #325",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 5.21,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 49.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2021-panini-prizm/ja'marr-chase-337": {
+   "name": "Ja'Marr Chase 2021 Prizm #337",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 63.75,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2023-panini-prizm/c-j-stroud-339": {
+   "name": "C.J. Stroud 2023 Prizm #339",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.94,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 28.23,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2024-panini-prizm/jayden-daniels-347": {
+   "name": "Jayden Daniels 2024 Prizm #347",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.85,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 50.75,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2024-panini-prizm/caleb-williams-301": {
+   "name": "Caleb Williams 2024 Prizm #301",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4.66,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 301.36,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1951-bowman/willie-mays-305": {
+   "name": "Willie Mays 1951 Bowman #305",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2315.6,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 584986.94,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1952-topps/willie-mays-261": {
+   "name": "Willie Mays 1952 Topps #261",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4709.3,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1157732.69,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1954-topps/henry-'hank'-aaron-128": {
+   "name": "Hank Aaron 1954 Topps #128",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2250.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 615362.82,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1985-topps/mark-mcgwire-401": {
+   "name": "Mark McGwire 1985 Topps #401",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 11.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 5031.34,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1989-upper-deck/ken-griffey-jr-1": {
+   "name": "Ken Griffey Jr. 1989 Upper Deck #1",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 96.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 5715.01,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-1993-sp/derek-jeter-foil-279": {
+   "name": "Derek Jeter 1993 SP Foil #279",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 136.18,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 254300.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99": {
+   "name": "Aaron Judge 2017 Topps Update Rookie Debut #US99",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 26.13,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 209.75,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1": {
+   "name": "Shohei Ohtani 2018 Topps Chrome Update #HMT1",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 249.7,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 909.12,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-topps-update/ronald-acuna-jr-us250": {
+   "name": "Ronald Acuna Jr. 2018 Topps Update #US250",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4.63,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 39.72,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2019-topps-update/pete-alonso-us47": {
+   "name": "Pete Alonso 2019 Topps Update #US47",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 0.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 19.15,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2022-topps-update/julio-rodriguez-us44": {
+   "name": "Julio Rodriguez 2022 Topps Update #US44",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 22.54,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2024-topps-update/paul-skenes-us100": {
+   "name": "Paul Skenes 2024 Topps Update #US100",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 93.37,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-neo-genesis/lugia-9": {
+   "name": "Lugia #9 (Neo Genesis)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 420.58,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 32100.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-shining-fates/charizard-vmax-sv107": {
+   "name": "Charizard VMAX #SV107 (Shining Fates)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 117.22,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 242.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-destined-rivals/team-rocket's-mewtwo-ex-231": {
+   "name": "Team Rocket's Mewtwo ex #231 (Destined Rivals)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 385.05,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 895.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-phantasmal-flames/mega-charizard-x-ex-125": {
+   "name": "Mega Charizard X ex #125 (Phantasmal Flames)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 650.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1466.44,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-phantasmal-flames/mega-charizard-x-ex-130": {
+   "name": "Mega Charizard X ex #130 (Phantasmal Flames)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 224.86,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1932.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118": {
+   "name": "Monster Reborn LOB-118",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 11.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 349.07,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119": {
+   "name": "Pot of Greed LOB-119",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 6.49,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 205.95,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-ghosts-from-the-past/dark-magician-gftp-en128": {
+   "name": "Dark Magician Ghost Rare GFTP-EN128",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 547.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 2425.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040": {
+   "name": "Stardust Dragon Ghost Rare TDGS-EN040",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 398.64,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 11667.32,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legendary-duelists-rage-of-ra/the-winged-dragon-of-ra-ghost-rare-led7-en000": {
+   "name": "Winged Dragon of Ra Ghost Rare LED7-EN000",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 165.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "flag": "insufficient_data",
+    "variant": "snapshot",
+    "n_snapshots": 0
+   }
+  },
+  "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036": {
+   "name": "Ash Blossom & Joyous Spring MACR-EN036",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 12.85,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 118.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-dimension-force/ghost-belle-&-haunted-mansion-1st-edition-difo-en100": {
+   "name": "Ghost Belle Starlight Rare 1st Ed DIFO-EN100",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 73.73,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 205.09,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-dawn-of-majesty/stardust-dragon-1st-edition-dama-en100": {
+   "name": "Stardust Dragon Starlight Rare 1st Ed DAMA-EN100",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 190.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 646.21,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-collectible-tins-2012/maxx-c-ct09-en012": {
+   "name": "Maxx \"C\" CT09-EN012",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 5.51,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 130.23,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102": {
+   "name": "Mulcharmy Fuwalos MP25-EN102",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 16.42,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 132.69,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177": {
+   "name": "Patrick Mahomes II 2017 Panini Donruss Optic #177",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 433.71,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1600.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2000-bowman-chrome/tom-brady-236": {
+   "name": "Tom Brady 2000 Bowman Chrome #236",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4002.86,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 22741.65,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2020-panini-prizm/jalen-hurts-343": {
+   "name": "Jalen Hurts 2020 Panini Prizm #343",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 4.44,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 54.05,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "football-cards-2025-panini-prizm/cam-ward-352": {
+   "name": "Cam Ward 2025 Panini Prizm #352",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.21,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 75.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2003-topps/lebron-james-221": {
+   "name": "LeBron James 2003 Topps #221",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 731.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 6441.99,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2009-topps-chrome/stephen-curry-101": {
+   "name": "Stephen Curry 2009 Topps Chrome #101",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 10356.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 48100.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2015-panini-prizm/nikola-jokic-335": {
+   "name": "Nikola Jokic 2015 Panini Prizm #335",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 197.35,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 985.28,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2020-panini-prizm/lamelo-ball-278": {
+   "name": "LaMelo Ball 2020 Panini Prizm #278",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 2.37,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 55.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2025-topps-chrome/cooper-flagg-251": {
+   "name": "Cooper Flagg 2025 Topps Chrome #251",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 21.05,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 299.13,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-1980-topps/larry-bird-julius-erving-magic-johnson-34-139-174": {
+   "name": "Larry Bird / Julius Erving / Magic Johnson 1980 Topps #34/139/174 (panel) Bird / Erving / Magic panel",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 845.96,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 87178.02,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2009-bowman-chrome-draft-picks-&-prospects/mike-trout-autograph-bdpp89": {
+   "name": "Mike Trout 2009 Bowman Chrome Draft Picks & Prospects #BDPP89 Autograph",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 5330.92,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 18912.62,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-topps-chrome/shohei-ohtani-150": {
+   "name": "Shohei Ohtani 2018 Topps Chrome #150",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 556.22,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1069.83,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-topps-update/juan-soto-us300": {
+   "name": "Juan Soto 2018 Topps Update #US300",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 7.31,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 38.21,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2017-topps/aaron-judge-287": {
+   "name": "Aaron Judge 2017 Topps #287",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 33.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 275.55,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201": {
+   "name": "Vladimir Guerrero Jr. 2019 Topps Chrome #201",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.4,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 40.05,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2024-topps-chrome-update/paul-skenes-usc88": {
+   "name": "Paul Skenes 2024 Topps Chrome Update #USC88",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 5.73,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 95.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2024-topps-chrome-update/jackson-holliday-usc89": {
+   "name": "Jackson Holliday 2024 Topps Chrome Update #USC89",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.5,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 29.15,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2018-bowman-chrome-prospects/fernando-tatis-jr-bcp-114": {
+   "name": "Fernando Tatis Jr. 2018 Bowman Chrome Prospects #BCP-114",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1.13,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 21.66,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "baseball-cards-2001-bowman-chrome/albert-pujols-refractor-autograph-340": {
+   "name": "Albert Pujols 2001 Bowman Chrome #340 Refractor Autograph",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 13500.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 168000.0,
+    "n_snapshots": 2,
+    "n_changes": 1,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-perfect-order/mega-zygarde-ex-124": {
+   "name": "Mega Zygarde ex #124",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 101.75,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 391.47,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/venusaur-ex-198": {
+   "name": "Venusaur ex #198",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 93.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 400.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/ivysaur-167": {
+   "name": "Ivysaur #167",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 39.29,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 260.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/charmeleon-169": {
+   "name": "Charmeleon #169",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 55.54,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 414.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/charmander-168": {
+   "name": "Charmander #168",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 87.29,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 577.5,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/zapdos-ex-192": {
+   "name": "Zapdos ex #192",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 10.82,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 82.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/mew-ex-205": {
+   "name": "Mew ex #205",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 26.24,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 211.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/caterpie-172": {
+   "name": "Caterpie #172",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 17.3,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 170.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-scarlet-&-violet-151/dragonair-181": {
+   "name": "Dragonair #181",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 45.23,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 230.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-destined-rivals/team-rocket's-meowth-203": {
+   "name": "Team Rocket's Meowth #203",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 21.13,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 182.5,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "pokemon-destined-rivals/team-rocket's-houndoom-191": {
+   "name": "Team Rocket's Houndoom #191",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 11.6,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 135.9,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-ske-001": {
+   "name": "Blue-Eyes White Dragon SKE-001",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.02,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 368.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-legendary-duelists-season-2/blue-eyes-white-dragon-lds2-en001": {
+   "name": "Blue-Eyes White Dragon LDS2-EN001",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.76,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 64.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-sdp-020": {
+   "name": "Blue-Eyes Toon Dragon SDP-020",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 3.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 103.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-starter-deck-joey/red-eyes-black-dragon-sdj-001": {
+   "name": "Red-Eyes B. Dragon SDJ-001",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 9.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1058.17,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "yugioh-2002-collector's-tin/sealed-tin": {
+   "name": "2002 Collector's Tin: Joey",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 597.25,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "flag": "insufficient_data",
+    "variant": "snapshot",
+    "n_snapshots": 0
+   }
+  },
+  "basketball-cards-2023-panini-hoops-premium-stock/victor-wembanyama-silver-prizm-108": {
+   "name": "Victor Wembanyama 2023-24 Hoops Premium Stock Silver Prizm #108 RC",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 41.58,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 399.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2023-panini-mosaic/victor-wembanyama-green-238": {
+   "name": "Victor Wembanyama 2023-24 Mosaic Green #238 RC",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 42.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 260.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2023-panini-select/victor-wembanyama-87": {
+   "name": "Victor Wembanyama 2023-24 Select Concourse #87 RC",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 15.75,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 124.12,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  },
+  "basketball-cards-2023-topps-chrome-roundball-royalty/victor-wembanyama-rr-26": {
+   "name": "Victor Wembanyama 2023-24 Topps Chrome Roundball Royalty #RR-26 RC",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 43.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 394.66,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-19",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+   }
+  }
+ }
+}

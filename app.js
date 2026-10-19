@@ -8,6 +8,9 @@ const PH="data:image/svg+xml,"+encodeURIComponent('<svg xmlns="http://www.w3.org
 const img=(src,cls="thumb")=>`<img class="${cls}" loading="lazy" src="${esc(src||PH)}" onerror="this.onerror=null;this.src='${PH}'" alt="">`;
 const CAT={all:"All",fav:"★ Starred",pokemon:"Pokémon",yugioh:"Yu-Gi-Oh",NBA:"NBA",NFL:"NFL",MLB:"MLB"};
 const ck=i=>i.sport||i.cat, key=i=>i.path||i.q;
+let SIGS=null;const fetchedET=i=>{const t=i?.stale_since||DATA?.updated;return t?(i?.stale_since?"stale since ":"fetched ")+new Date(t).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})+" ET":""};
+const guide30=(i,g)=>win=="30d"&&/monthly/.test(i.change?.[g||grade]?.["30d_src"]||"");
+const unconf=(i,g)=>{const s=i.signal?.[g||grade];return s?.day_jump&&/pending/.test(s.day_jump)?`<span class="unconf" title="one-day move, waiting for next day to confirm">unconfirmed ${s.d1_pct>0?"+":""}${s.d1_pct??""}% 1D</span>`:""};
 const FLN={SPIKE_ALERT:"SPIKE",SPIKE_WATCH:"WATCH",DROP_ALERT:"DROP",DROP_WATCH:"DIP"};
 const REPO_EDIT="https://github.com/tylerjlima-eng/tyler-dashboard/edit/main/data/watchlist.json";
 const GRADES=["Ungraded","Grade 7","Grade 8","Grade 9","Grade 9.5","PSA 10"];
@@ -19,7 +22,8 @@ function openSheet(html){$("#sheetC").innerHTML=html;$("#sheet").hidden=false;do
 function closeSheet(){$("#sheet").hidden=true;document.body.style.overflow=""}
 $("#sheet").addEventListener("click",e=>{if(e.target.closest("[data-close]"))closeSheet()});
 // ---------- data ----------
-Promise.all([fetch("data/prices.json?"+Date.now()).then(r=>r.json()),fetch("data/history.json?"+Date.now()).then(r=>r.json()).catch(()=>({}))]).then(([d,h])=>{
+Promise.all([fetch("data/prices.json?"+Date.now()).then(r=>r.json()),fetch("data/history.json?"+Date.now()).then(r=>r.json()).catch(()=>({})),fetch("data/signals.json?"+Date.now()).then(r=>r.json()).catch(()=>null)]).then(([d,h,sg])=>{
+ SIGS=sg;d.items.forEach(i=>{const x=sg?.items?.[i.path||i.q];i.signal=x?{Ungraded:x.Ungraded,"PSA 10":x["PSA 10"]}:{}});  // badges come only from spike_engine signals.json
  DATA=d;HIST=h;$("#upd").textContent="Updated "+new Date(d.updated).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})+" ET";
  renderMarket();fillCards();renderInv()}).catch(()=>{$("#groups").innerHTML='<div class="empty">No price data yet.</div>'});
 const favs=()=>new Set(LS.get("favs",[]));
@@ -38,17 +42,18 @@ function renderMarket(){const all=allItems(),f=favs(),q=$("#q").value.trim().toL
  const s=$("#sort").value,P=i=>i.prices?.[grade]??-1;
  its.sort(s=="name"?(a,b)=>a.name.localeCompare(b.name):s=="price"?(a,b)=>P(b)-P(a):s=="up"?(a,b)=>(chg(b)??-1e9)-(chg(a)??-1e9):s=="down"?(a,b)=>(chg(a)??1e9)-(chg(b)??1e9):(a,b)=>Math.abs(chg(b)??0)-Math.abs(chg(a)??0));
  const sig=its.filter(i=>FLN[i.signal?.[grade]?.flag]).sort((a,b)=>Math.abs(b.signal[grade].pct)-Math.abs(a.signal[grade].pct));
- $("#sigWrap").hidden=!sig.length;$("#sigN").textContent=sig.length;
- $("#signals").innerHTML=sig.map(i=>{const g=i.signal[grade];return `<div class="tile" data-k="${esc(key(i))}"><span class="flag ${g.flag}">${FLN[g.flag]}</span>${img(i.img,"")}<div class="nm">${esc(i.name)}</div><span class="num">${fmt(i.prices[grade])}</span> ${pill(g.pct)}</div>`}).join("");
+ $("#sigWrap").hidden=false;$("#sigN").textContent=sig.length;
+ const days=Math.max(0,...Object.values(HIST||{}).map(o=>Object.keys(o).length));
+ if(!sig.length){$("#signals").innerHTML=`<div class="building"><b>📈 Building history</b><span>${days} day${days==1?"":"s"} of daily snapshots so far. Real spike/drop signals start once each card has about a week of its own prices.</span></div>`}else $("#signals").innerHTML=sig.map(i=>{const g=i.signal[grade];return `<div class="tile" data-k="${esc(key(i))}"><span class="flag ${g.flag}">${FLN[g.flag]}</span>${img(i.img,"")}<div class="nm">${esc(i.name)}</div><span class="num">${fmt(i.prices[grade])}</span> ${pill(g.pct)}</div>`}).join("");
  const order=cat=="all"||cat=="fav"?["pokemon","yugioh","NBA","NFL","MLB"]:[cat];
  $("#groups").innerHTML=order.map(c=>{const g=its.filter(i=>ck(i)==c);if(!g.length)return"";
   return `<div class="grp"><h2><span class="dot" style="background:var(--${c})"></span>${CAT[c]} <span class="count">${g.length}</span></h2><div class="list">${g.map(row).join("")}</div></div>`}).join("")||'<div class="empty">No cards match.</div>';
  $$("[data-k]").forEach(el=>el.onclick=e=>{if(e.target.closest(".star"))return;detail(el.dataset.k)});
  $$(".star").forEach(b=>b.onclick=()=>toggleFav(b.dataset.fav));
- $("#srcNote").innerHTML=`Prices: PriceCharting / SportsCardsPro guide values (built from eBay sold listings), updated daily. Raw = ungraded. % change compares against our daily snapshots; 30D uses PriceCharting's monthly history until we have 30 days of our own.<br><b>Signals</b>: WATCH at +25%, SPIKE at +50%, DIP at −25%, DROP at −40%, measured against a baseline. A move only counts if it's at least $5 (or 10% of the baseline), cards with a baseline under $3 are skipped, and one-day jumps need the next day's price to confirm them. Check sold comps in Terapeak before acting.${DATA.errors?.length?`<br><span class="dn">${DATA.errors.length} fetch issue(s) on the last run.</span>`:""}`}
+ $("#srcNote").innerHTML=`Prices: PriceCharting / SportsCardsPro guide values (built from eBay sold listings), updated daily. Raw = ungraded. % change compares against our daily snapshots; 30D uses PriceCharting's monthly history until we have 30 days of our own.<br><b>Signals</b>: WATCH at +25%, SPIKE at +50%, DIP at −25%, DROP at −40%, measured against a baseline. A move only counts if it's at least $5 (or 10% of the baseline), cards with a baseline under $3 are skipped, and one-day jumps need the next day's price to confirm them. Badges come only from the spike engine (daily snapshots). The 30D figure, until we have 30 days, is vs PriceCharting guide (last month) and is context only. YGOPRODeck numbers are any-printing asks. Check sold comps in Terapeak before acting.${DATA.errors?.length?`<br><span class="dn">${DATA.errors.length} fetch issue(s) on the last run.</span>`:""}`}
 function row(i){const f=favs().has(key(i)),g=i.signal?.[grade];
- return `<div class="it" data-k="${esc(key(i))}">${img(i.img)}<div class="mid"><div class="nm">${esc(i.name)}</div><div class="sub">${esc(i.set||CAT[ck(i)])}${i.local?" · pending":""}${i.stale_since?" · stale":""}</div></div>
- <div class="rt"><span class="num">${fmt(i.prices?.[grade])}</span>${pill(chg(i))}${FLN[g?.flag]?`<span class="mini-flag flag ${g.flag}" style="position:static">${FLN[g.flag]}</span>`:""}</div><button class="star ${f?"on":""}" data-fav="${esc(key(i))}" aria-label="Star">★</button></div>`}
+ return `<div class="it" data-k="${esc(key(i))}">${img(i.img)}<div class="mid"><div class="nm">${esc(i.name)}</div><div class="sub">${esc(i.set||CAT[ck(i)])}${i.local?" · pending":""}${i.stale_since?" · stale":""}</div><div class="ctx">${guide30(i)?"30D vs PriceCharting guide (last month) · ":""}${fetchedET(i)}</div></div>
+ <div class="rt"><span class="num">${fmt(i.prices?.[grade])}</span>${pill(chg(i))}${unconf(i)}${FLN[g?.flag]?`<span class="mini-flag flag ${g.flag}" style="position:static">${FLN[g.flag]}</span>`:""}</div><button class="star ${f?"on":""}" data-fav="${esc(key(i))}" aria-label="Star">★</button></div>`}
 function series(i,g){const pts=[];(i.monthly?.[g]||[]).forEach(([t,v])=>pts.push([t*1000,v,"m"]));
  Object.entries(HIST[key(i)]||{}).forEach(([d,o])=>o[g]!=null&&pts.push([new Date(d+"T12:00").getTime(),o[g],"d"]));return pts.sort((a,b)=>a[0]-b[0])}
 function spark(pts){if(pts.length<2)return'<div class="small muted">Not enough history yet.</div>';const W=600,H=120,p=8,xs=pts.map(x=>x[0]),ys=pts.map(x=>x[1]);
@@ -58,12 +63,12 @@ function spark(pts){if(pts.length<2)return'<div class="small muted">Not enough h
  <div class="row small muted"><span>${new Date(x0).toLocaleDateString("en-US",{month:"short",year:"numeric"})} · low ${fmt(y0)}</span><span style="text-align:right">high ${fmt(y1)} · ${new Date(x1).toLocaleDateString("en-US",{month:"short",day:"numeric"})}</span></div>`}
 function detail(k,g2){const i=allItems().find(x=>key(x)==k);if(!i)return;const g=g2||grade,s=i.signal?.[g],f=favs().has(k),c=i.change?.[g]||{};
  const q=encodeURIComponent(i.name.replace(/[()]/g,"")+(g=="PSA 10"?" PSA 10":""));
- openSheet(`<div class="hero">${img(i.img_lg||i.img,"")}<div><h3>${esc(i.name)}</h3><div class="small muted">${esc(i.set||"")} · ${CAT[ck(i)]}</div><div class="big-num">${fmt(i.prices?.[g])}</div><div class="small muted">${g=="Ungraded"?"Raw":g}</div>
- <div style="margin-top:6px">1D ${pill(c["1d"])} 7D ${pill(c["7d"])} 30D ${pill(c["30d"])}</div></div></div>
+ openSheet(`<div class="hero">${img(i.img_lg||i.img,"")}<div><h3>${esc(i.name)}</h3><div class="small muted">${esc(i.set||"")} · ${CAT[ck(i)]}</div><div class="big-num">${fmt(i.prices?.[g])}</div><div class="small muted">${g=="Ungraded"?"Raw":g} · ${fetchedET(i)}</div>
+ <div style="margin-top:6px">1D ${pill(c["1d"])} 7D ${pill(c["7d"])} 30D ${pill(c["30d"])}${/monthly/.test(c["30d_src"]||"")?`<div class="ctx">30D is vs PriceCharting guide (last month), context only</div>`:""}${unconf(i,g)}</div></div></div>
  ${s&&FLN[s.flag]?`<div class="ev" style="margin-top:12px"><span class="flag ${s.flag}" style="position:static">${FLN[s.flag]}</span> <b>${s.pct>0?"+":""}${s.pct}%</b> vs baseline ${fmt(s.base)}<div class="small muted">${esc(s.basis)}${s.day_jump?" · day jump "+s.day_jump:""}</div></div>`:""}
  <div class="seg" style="margin-top:12px" id="dg">${["Ungraded","PSA 10"].map(x=>`<button data-v="${x}" class="${x==g?"on":""}">${x=="Ungraded"?"Raw":x}</button>`).join("")}</div>${spark(series(i,g))}
  <div class="grades">${GRADES.filter(x=>i.prices?.[x]).map(x=>`<div><span>${x=="Ungraded"?"Raw":x}</span><b>${fmt(i.prices[x])}</b></div>`).join("")}</div>
- ${i.ygoprodeck?.set_price?`<div class="small muted">YGOPRODeck lowest ask (${esc(i.ygoprodeck.set_code)}): ${fmt(i.ygoprodeck.set_price)}</div>`:""}
+ ${i.ygoprodeck?.set_price?`<div class="small muted">YGOPRODeck any-printing ask: ${fmt(i.ygoprodeck.set_price)} · ${fetchedET(i)}</div>`:""}
  <div class="row"><button class="btn" id="dFav">${f?"★ Starred":"☆ Star"}</button><button class="btn" id="dInv">＋ Inventory</button><button class="btn primary" id="dList">List it</button></div>
  <details class="more"><summary>Sources & comps</summary><div class="small"><a target="_blank" href="${esc(i.url)}">Price page</a> · <a target="_blank" href="https://www.ebay.com/sch/i.html?_nkw=${q}&LH_Sold=1&LH_Complete=1">eBay sold</a> · <a target="_blank" href="https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=${q}&tabName=SOLD">Terapeak</a> · <a target="_blank" href="https://www.130point.com/sales/?q=${q}">130point</a></div></details>`);
  $$("#dg button").forEach(b=>b.onclick=()=>detail(k,b.dataset.v));$("#dFav").onclick=()=>{toggleFav(k);detail(k,g)};
@@ -79,11 +84,11 @@ const DB={db:null,open(){return this.db||(this.db=new Promise((ok,no)=>{const r=
  all(){return this.tx("readonly",s=>s.getAll())},put(o){return this.tx("readwrite",s=>s.put(o))},del(id){return this.tx("readwrite",s=>s.delete(id))}};
 const gk=g=>g=="Raw"?"Ungraded":g;
 const gkey=it=>it.grade_key!=null&&it.grade_key!==undefined&&("grade_key" in it)?it.grade_key:gk(it.grade);
-function curPrice(it){const fb=it.fallback?.price!=null?{...it.fallback,src:it.fallback.src+" · imported "+new Date(it.fallback.at).toLocaleDateString()}:null;if("grade_key" in it&&!it.grade_key)return fb||{price:null,cur:"$",src:"no comparable price for "+it.grade};const w=it.path&&DATA.items.find(x=>x.path==it.path);if(w){const p=w.prices?.[gkey(it)]??null;if(p!=null)return{price:p,cur:"$",src:"PriceCharting (daily)"}}
- return it.last?.price!=null?{...it.last,src:it.last.src+" ("+new Date(it.last.at).toLocaleDateString()+")"}:fb||{price:null,cur:"$",src:"no price yet"}}
+function curPrice(it){const fb=it.fallback?.price!=null?{...it.fallback,src:it.fallback.src+" · fetched "+new Date(it.fallback.at).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})+" ET (imported)"}:null;if("grade_key" in it&&!it.grade_key)return fb||{price:null,cur:"$",src:"no comparable price for "+it.grade};const w=it.path&&DATA.items.find(x=>x.path==it.path);if(w){const p=w.prices?.[gkey(it)]??null;if(p!=null)return{price:p,cur:"$",src:"PriceCharting (daily) · "+fetchedET(w)}}
+ return it.last?.price!=null?{...it.last,src:it.last.src+" · fetched "+new Date(it.last.at).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})+" ET"}:fb||{price:null,cur:"$",src:"no price yet"}}
 async function livePrice(it){try{if(it.ygo_id){const d=(await (await fetch("https://db.ygoprodeck.com/api/v7/cardinfo.php?id="+it.ygo_id)).json()).data[0];
   const s=(d.card_sets||[]).filter(x=>!it.set_code||x.set_code==it.set_code).map(x=>+x.set_price).filter(x=>x>0);const p=s.length?Math.min(...s):+d.card_prices[0].tcgplayer_price||null;
-  return p?{price:p,cur:"$",src:"YGOPRODeck lowest ask",at:Date.now()}:null}
+  return p?{price:p,cur:"$",src:"YGOPRODeck any-printing ask",at:Date.now()}:null}
  if(it.tcgdex){const d=await (await fetch("https://api.tcgdex.net/v2/en/cards/"+encodeURIComponent(it.tcgdex))).json(),tp=d.pricing?.tcgplayer,cm=d.pricing?.cardmarket;
   const v=tp&&Object.values(tp).find(x=>x&&typeof x=="object"&&x.marketPrice);if(v)return{price:v.marketPrice,cur:"$",src:"TCGplayer market via TCGdex",at:Date.now()};
   if(cm?.avg30)return{price:cm.avg30,cur:"€",src:"Cardmarket 30d avg via TCGdex",at:Date.now()}}}catch(e){}return null}

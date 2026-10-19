@@ -64,3 +64,6 @@ nav.bottom{position:fixed;bottom:0;left:0;right:0;display:flex;background:#fff;b
 nav.bottom button{flex:1;border:0;background:none;color:var(--mu);padding:7px 0 8px;font-size:11.5px;font-weight:800;cursor:pointer}nav.bottom button i{display:block;font-style:normal;font-size:20px;filter:grayscale(1);opacity:.6}
 nav.bottom button.on{color:var(--ac)}nav.bottom button.on i{filter:none;opacity:1}
 @media(min-width:900px){.hscroll{flex-wrap:wrap}.tile{flex:0 0 170px}}
+.ebay{display:inline-block;margin-top:3px;font:800 11.5px Inter;color:#fff;background:#0064d2;border-radius:6px;padding:2px 7px;text-decoration:none}.warn{color:#b45309;font-weight:800}
+
+.ctx{display:block;font-size:10px;color:#6b7280;font-weight:600;line-height:1.2}.unconf{display:inline-block;font-size:10px;font-weight:800;background:#fff4d6;color:#8a5a00;border:1px dashed #e0a100;border-radius:6px;padding:1px 5px;margin-top:2px}.building{display:flex;flex-direction:column;gap:4px;padding:14px;border:2px dashed #cbd5e1;border-radius:14px;background:#fff;min-width:100%;font-size:13px;color:#475569}.building b{font-family:Archivo,sans-serif;font-size:15px;color:#0f172a}

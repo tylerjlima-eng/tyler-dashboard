@@ -3,7 +3,7 @@
 completed eBay sales), YGOPRODeck API (TCGplayer/eBay/Cardmarket prices). Stdlib only. No secrets."""
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
-import json, re, html, time, urllib.request, urllib.parse, datetime, os
+import statistics, json, re, html, time, urllib.request, urllib.parse, datetime, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(ROOT, "data", *p)
 UA = {"User-Agent": "Mozilla/5.0 (tyler-dashboard price snapshot; personal use)"}
@@ -36,10 +36,48 @@ def pricecharting(item):
     t = re.search(r"<title>([^<]+)", h)
     parts = [x.strip() for x in html.unescape(t.group(1)).split("|")] if t else []
     return {"url": final.split("?")[0], "title": parts[0] if parts else None, "set": parts[1] if len(parts) > 1 else None, "prices": cur, "monthly": hist}
-def ygoprodeck(name):
-    _, b = get("https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" + urllib.parse.quote(name))
-    p = json.loads(b)["data"][0]["card_prices"][0]
-    return {k.replace("_price", ""): float(v) for k, v in p.items() if float(v or 0) > 0}
+def ygoprodeck(card_id, set_code):
+    """Keyed on passcode + set_code (name lookups can return alt-art passcodes). set_price is a lowest ASKING price
+    for that printing; "0" means missing."""
+    _, b = get("https://db.ygoprodeck.com/api/v7/cardinfo.php?id=%d" % card_id)
+    c = json.loads(b)["data"][0]
+    sp = [float(x["set_price"]) for x in c.get("card_sets", []) if x.get("set_code") == set_code and float(x.get("set_price") or 0) > 0]
+    return {"set_code": set_code, "set_price": min(sp) if sp else None,
+            "all_printings_low": {k.replace("_price", ""): float(v) for k, v in c["card_prices"][0].items() if float(v or 0) > 0}}
+def tcgdex(card_id):
+    """Pokemon fallback (Cardmarket EUR sold averages). Never mixed with USD PriceCharting values."""
+    _, b = get("https://api.tcgdex.net/v2/en/cards/" + urllib.parse.quote(card_id))
+    cm = (json.loads(b).get("pricing") or {}).get("cardmarket") or {}
+    keep = {k: cm.get(k) for k in ("updated", "avg", "trend", "avg7", "avg30", "low")}
+    t, a30 = keep.get("trend"), keep.get("avg30")
+    keep["suspect"] = bool(t and a30 and max(t, a30) / max(min(t, a30), 0.01) > 10)  # trend vs avg30 disagree >10x
+    keep["avg7_vs_avg30_pct"] = None if keep["suspect"] or not (keep.get("avg7") and a30) else round((keep["avg7"] / a30 - 1) * 100, 1)
+    return keep
+WATCH, ALERT, DROP_WATCH, DROP_ALERT = 0.25, 0.50, -0.25, -0.40
+def classify(p, absd, floor):
+    if p is None or abs(absd) < floor: return "normal"
+    return "SPIKE_ALERT" if p >= ALERT else "SPIKE_WATCH" if p >= WATCH else "DROP_ALERT" if p <= DROP_ALERT else "DROP_WATCH" if p <= DROP_WATCH else "normal"
+def signal(series, today, monthly):
+    """Snapshot-variant spike rule (research/spike-rule.md B) adapted to PriceCharting guide values.
+    series: sorted [(date, value)] of our daily snapshots. monthly: PriceCharting monthly guide history."""
+    if not series: return {"flag": "insufficient_data"}
+    td = datetime.date.fromisoformat(today); age = lambda d: (td - datetime.date.fromisoformat(d)).days
+    vals = [v for _, v in series]; now = statistics.median(vals[-3:])
+    base_vals = [v for d, v in series if 8 <= age(d) <= 37]
+    if len(base_vals) >= 5: base, basis = statistics.median(base_vals), "median of our snapshots 8-37 days old"
+    elif len(monthly) >= 2: base, basis = monthly[-2][1], "PriceCharting prior-month guide value (cold start)"
+    else: return {"flag": "insufficient_data", "now": now}
+    if base < 3: return {"flag": "below_price_floor", "now": now, "base": base}
+    near7 = [v for d, v in series if abs(age(d) - 7) <= 2]
+    d30 = now / base - 1; d7 = now / near7[-1] - 1 if near7 else None
+    cands = [x for x in (d30, d7) if x is not None]; p = max(cands) if max(cands) > 0 else min(cands)
+    floor = max(5.0, 0.10 * base); flag = classify(p, now - base, floor)
+    out = {"flag": flag, "pct": round(p * 100, 1), "now": now, "base": round(base, 2), "basis": basis, "floor": round(floor, 2)}
+    if len(vals) >= 3:  # day jump needs confirmation by the next snapshot
+        pre = vals[-3]; j1, j2 = vals[-2] / pre - 1, vals[-1] / pre - 1
+        if abs(vals[-1] / vals[-2] - 1) >= 0.30 and abs(vals[-1] - vals[-2]) >= floor: out["day_jump"] = "pending confirmation"
+        elif abs(j1) >= 0.30 and abs(j2) >= 0.25 and (j1 > 0) == (j2 > 0): out["day_jump"] = "confirmed"
+    return out
 def pct(a, b): return round((a - b) / b * 100, 1) if a and b else None
 def main():
     watch = json.load(open(D("watchlist.json")))
@@ -63,9 +101,12 @@ def main():
                     break
                 time.sleep(15 * (attempt + 1) if "429" in str(e) else 3)
         time.sleep(1.5)
-        if it.get("ygo"):
-            try: rec["ygoprodeck"] = ygoprodeck(it["ygo"])
+        if it.get("ygo_id"):
+            try: rec["ygoprodeck"] = ygoprodeck(it["ygo_id"], it["ygo_set"])
             except Exception as e: errs.append({"item": it["name"], "source": "ygoprodeck", "error": str(e)[:200]})
+        if it.get("tcgdex") and (not rec.get("prices") or rec.get("stale_since")):  # fallback only when PriceCharting failed
+            try: rec["tcgdex_cardmarket"] = tcgdex(it["tcgdex"])
+            except Exception as e: errs.append({"item": it["name"], "source": "tcgdex", "error": str(e)[:200]})
         return rec, errs
     with ThreadPoolExecutor(2) as ex: fetched = list(ex.map(grab, watch))
     for it, (rec, errs) in zip(watch, fetched):
@@ -84,6 +125,7 @@ def main():
             d30 = ago(30, g)
             rec["change"][g] = {"1d": pct(now, ago(1, g)), "7d": pct(now, ago(7, g)), "30d": pct(now, d30) if d30 else pct(now, prevm),
                                 "30d_src": "daily snapshots" if d30 else ("PriceCharting monthly history (vs prior month point)" if prevm else None)}
+        rec["signal"] = {g: signal([(d, hist[key][d][g]) for d in days if g in hist[key][d]], today, rec.get("monthly", {}).get(g, [])) for g in ("Ungraded", "PSA 10")}
         out.append(rec)
     json.dump(hist, open(D("history.json"), "w"), separators=(",", ":"))
     json.dump({"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "items": out, "errors": errors}, open(D("prices.json"), "w"), indent=1)

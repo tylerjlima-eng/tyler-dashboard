@@ -2,7 +2,8 @@
 {
 "cat": "pokemon",
 "name": "Charizard #4 (Base Set)",
-"path": "pokemon-base-set/charizard-4"
+"path": "pokemon-base-set/charizard-4",
+"tcgdex": "base1-4"
 },
 {
 "cat": "pokemon",
@@ -22,27 +23,32 @@
 {
 "cat": "pokemon",
 "name": "Umbreon VMAX #215 (Evolving Skies)",
-"path": "pokemon-evolving-skies/umbreon-vmax-215"
+"path": "pokemon-evolving-skies/umbreon-vmax-215",
+"tcgdex": "swsh7-215"
 },
 {
 "cat": "pokemon",
 "name": "Rayquaza VMAX #218 (Evolving Skies)",
-"path": "pokemon-evolving-skies/rayquaza-vmax-218"
+"path": "pokemon-evolving-skies/rayquaza-vmax-218",
+"tcgdex": "swsh7-218"
 },
 {
 "cat": "pokemon",
 "name": "Charizard ex #199 (151)",
-"path": "pokemon-scarlet-&-violet-151/charizard-ex-199"
+"path": "pokemon-scarlet-&-violet-151/charizard-ex-199",
+"tcgdex": "sv03.5-199"
 },
 {
 "cat": "pokemon",
 "name": "Giratina VSTAR GG69 (Crown Zenith)",
-"path": "pokemon-crown-zenith/giratina-vstar-gg69"
+"path": "pokemon-crown-zenith/giratina-vstar-gg69",
+"tcgdex": "swsh12.5gg-GG69"
 },
 {
 "cat": "pokemon",
 "name": "Giratina V #186 (Lost Origin)",
-"path": "pokemon-lost-origin/giratina-v-186"
+"path": "pokemon-lost-origin/giratina-v-186",
+"tcgdex": "swsh11-186"
 },
 {
 "cat": "pokemon",
@@ -52,7 +58,8 @@
 {
 "cat": "pokemon",
 "name": "Gengar VMAX #271 (Fusion Strike)",
-"path": "pokemon-fusion-strike/gengar-vmax-271"
+"path": "pokemon-fusion-strike/gengar-vmax-271",
+"tcgdex": "swsh8-271"
 },
 {
 "cat": "pokemon",
@@ -62,41 +69,48 @@
 {
 "cat": "pokemon",
 "name": "Umbreon ex #161 (Prismatic Evolutions)",
-"path": "pokemon-prismatic-evolutions/umbreon-ex-161"
+"path": "pokemon-prismatic-evolutions/umbreon-ex-161",
+"tcgdex": "sv08.5-161"
 },
 {
 "cat": "pokemon",
 "name": "Charizard ex #234 (Paldean Fates)",
-"path": "pokemon-paldean-fates/charizard-ex-234"
+"path": "pokemon-paldean-fates/charizard-ex-234",
+"tcgdex": "sv04.5-234"
 },
 {
 "cat": "pokemon",
 "name": "Pikachu ex #238 (Surging Sparks)",
-"path": "pokemon-surging-sparks/pikachu-ex-238"
+"path": "pokemon-surging-sparks/pikachu-ex-238",
+"tcgdex": "sv08-238"
 },
 {
 "cat": "yugioh",
 "name": "Blue-Eyes White Dragon LOB-001",
 "path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001",
-"ygo": "Blue-Eyes White Dragon"
+"ygo_id": 89631139,
+"ygo_set": "LOB-001"
 },
 {
 "cat": "yugioh",
 "name": "Dark Magician 1st Ed LOB-005",
 "path": "yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005",
-"ygo": "Dark Magician"
+"ygo_id": 36996508,
+"ygo_set": "LOB-005"
 },
 {
 "cat": "yugioh",
 "name": "Red-Eyes Black Dragon 1st Ed LOB-070",
 "path": "yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070",
-"ygo": "Red-Eyes Black Dragon"
+"ygo_id": 74677426,
+"ygo_set": "LOB-070"
 },
 {
 "cat": "yugioh",
 "name": "Exodia the Forbidden One 1st Ed LOB-124",
 "path": "yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124",
-"ygo": "Exodia the Forbidden One"
+"ygo_id": 33396948,
+"ygo_set": "LOB-124"
 },
 {
 "cat": "yugioh",
@@ -137,7 +151,8 @@
 "cat": "yugioh",
 "name": "Dark Magician Girl 1st Ed MFC-000",
 "path": "yugioh-magician's-force/dark-magician-girl-1st-edition-mfc-000",
-"ygo": "Dark Magician Girl"
+"ygo_id": 38033126,
+"ygo_set": "MFC-000"
 },
 {
 "cat": "yugioh",
@@ -152,8 +167,7 @@
 {
 "cat": "yugioh",
 "name": "Ash Blossom & Joyous Spring QCSR RA01-EN008",
-"path": "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008",
-"ygo": "Ash Blossom & Joyous Spring"
+"path": "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008"
 },
 {
 "cat": "sports",
@@ -430,5 +444,219 @@
 "sport": "MLB",
 "name": "Paul Skenes 2024 Topps Update #US100",
 "path": "baseball-cards-2024-topps-update/paul-skenes-us100"
+},
+{
+"cat": "pokemon",
+"name": "Lugia #9 (Neo Genesis)",
+"path": "pokemon-neo-genesis/lugia-9",
+"tcgdex": "neo1-9"
+},
+{
+"cat": "pokemon",
+"name": "Charizard VMAX #SV107 (Shining Fates)",
+"path": "pokemon-shining-fates/charizard-vmax-sv107",
+"tcgdex": "swsh4.5sv-SV107"
+},
+{
+"cat": "pokemon",
+"name": "Team Rocket's Mewtwo ex #231 (Destined Rivals)",
+"path": "pokemon-destined-rivals/team-rocket's-mewtwo-ex-231",
+"tcgdex": "sv10-231"
+},
+{
+"cat": "pokemon",
+"name": "Mega Charizard X ex #125 (Phantasmal Flames)",
+"path": "pokemon-phantasmal-flames/mega-charizard-x-ex-125",
+"tcgdex": "me02-125"
+},
+{
+"cat": "pokemon",
+"name": "Mega Charizard X ex #130 (Phantasmal Flames)",
+"path": "pokemon-phantasmal-flames/mega-charizard-x-ex-130",
+"tcgdex": "me02-130"
+},
+{
+"cat": "yugioh",
+"name": "Monster Reborn LOB-118",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118",
+"ygo_id": 83764718,
+"ygo_set": "LOB-118"
+},
+{
+"cat": "yugioh",
+"name": "Pot of Greed LOB-119",
+"path": "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119",
+"ygo_id": 55144522,
+"ygo_set": "LOB-119"
+},
+{
+"cat": "yugioh",
+"name": "Dark Magician Ghost Rare GFTP-EN128",
+"path": "yugioh-ghosts-from-the-past/dark-magician-gftp-en128",
+"ygo_id": 36996508,
+"ygo_set": "GFTP-EN128"
+},
+{
+"cat": "yugioh",
+"name": "Stardust Dragon Ghost Rare TDGS-EN040",
+"path": "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040",
+"ygo_id": 44508094,
+"ygo_set": "TDGS-EN040"
+},
+{
+"cat": "yugioh",
+"name": "Winged Dragon of Ra Ghost Rare LED7-EN000",
+"path": "yugioh-legendary-duelists-rage-of-ra/the-winged-dragon-of-ra-ghost-rare-led7-en000",
+"ygo_id": 10000011,
+"ygo_set": "LED7-EN000"
+},
+{
+"cat": "yugioh",
+"name": "Ash Blossom & Joyous Spring MACR-EN036",
+"path": "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036",
+"ygo_id": 14558128,
+"ygo_set": "MACR-EN036"
+},
+{
+"cat": "yugioh",
+"name": "Ghost Belle Starlight Rare 1st Ed DIFO-EN100",
+"path": "yugioh-dimension-force/ghost-belle-&-haunted-mansion-1st-edition-difo-en100",
+"ygo_id": 73642296,
+"ygo_set": "DIFO-EN100"
+},
+{
+"cat": "yugioh",
+"name": "Stardust Dragon Starlight Rare 1st Ed DAMA-EN100",
+"path": "yugioh-dawn-of-majesty/stardust-dragon-1st-edition-dama-en100",
+"ygo_id": 44508094,
+"ygo_set": "DAMA-EN100"
+},
+{
+"cat": "yugioh",
+"name": "Maxx \"C\" CT09-EN012",
+"path": "yugioh-collectible-tins-2012/maxx-c-ct09-en012",
+"ygo_id": 23434538,
+"ygo_set": "CT09-EN012"
+},
+{
+"cat": "yugioh",
+"name": "Mulcharmy Fuwalos MP25-EN102",
+"path": "yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102",
+"ygo_id": 42141493,
+"ygo_set": "MP25-EN102"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Patrick Mahomes II 2017 Panini Donruss Optic #177",
+"path": "football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Tom Brady 2000 Bowman Chrome #236",
+"path": "football-cards-2000-bowman-chrome/tom-brady-236"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Jalen Hurts 2020 Panini Prizm #343",
+"path": "football-cards-2020-panini-prizm/jalen-hurts-343"
+},
+{
+"cat": "sports",
+"sport": "NFL",
+"name": "Cam Ward 2025 Panini Prizm #352",
+"path": "football-cards-2025-panini-prizm/cam-ward-352"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "LeBron James 2003 Topps #221",
+"path": "basketball-cards-2003-topps/lebron-james-221"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Stephen Curry 2009 Topps Chrome #101",
+"path": "basketball-cards-2009-topps-chrome/stephen-curry-101"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Nikola Jokic 2015 Panini Prizm #335",
+"path": "basketball-cards-2015-panini-prizm/nikola-jokic-335"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "LaMelo Ball 2020 Panini Prizm #278",
+"path": "basketball-cards-2020-panini-prizm/lamelo-ball-278"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Cooper Flagg 2025 Topps Chrome #251",
+"path": "basketball-cards-2025-topps-chrome/cooper-flagg-251"
+},
+{
+"cat": "sports",
+"sport": "NBA",
+"name": "Larry Bird / Julius Erving / Magic Johnson 1980 Topps #34/139/174 (panel) Bird / Erving / Magic panel",
+"path": "basketball-cards-1980-topps/larry-bird-julius-erving-magic-johnson-34-139-174"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Mike Trout 2009 Bowman Chrome Draft Picks & Prospects #BDPP89 Autograph",
+"path": "baseball-cards-2009-bowman-chrome-draft-picks-&-prospects/mike-trout-autograph-bdpp89"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Shohei Ohtani 2018 Topps Chrome #150",
+"path": "baseball-cards-2018-topps-chrome/shohei-ohtani-150"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Juan Soto 2018 Topps Update #US300",
+"path": "baseball-cards-2018-topps-update/juan-soto-us300"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Aaron Judge 2017 Topps #287",
+"path": "baseball-cards-2017-topps/aaron-judge-287"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Vladimir Guerrero Jr. 2019 Topps Chrome #201",
+"path": "baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Paul Skenes 2024 Topps Chrome Update #USC88",
+"path": "baseball-cards-2024-topps-chrome-update/paul-skenes-usc88"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Jackson Holliday 2024 Topps Chrome Update #USC89",
+"path": "baseball-cards-2024-topps-chrome-update/jackson-holliday-usc89"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Fernando Tatis Jr. 2018 Bowman Chrome Prospects #BCP-114",
+"path": "baseball-cards-2018-bowman-chrome-prospects/fernando-tatis-jr-bcp-114"
+},
+{
+"cat": "sports",
+"sport": "MLB",
+"name": "Albert Pujols 2001 Bowman Chrome #340 Refractor Autograph",
+"path": "baseball-cards-2001-bowman-chrome/albert-pujols-refractor-autograph-340"
 }
 ]

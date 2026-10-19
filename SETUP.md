@@ -1,9 +1,21 @@
+# How to use
+
+### Put it on your home screen
+- **iPhone (Safari):** open the link, tap Share, then **Add to Home Screen**.
+- **Android (Chrome):** open the link, tap ⋮, then **Install app** (or **Add to Home screen**).
+
+### Daily routine
+1. **Markets**: tap a category chip, switch the Grade (Ungraded / PSA 10) and Window (1d / 7d / 30d). Top movers are sorted by biggest move. **SPIKE** marks big moves (≥10% in 1d, 15% in 7d, 20% in 30d) on cards worth $10+; cards under $5 are left out of Top movers. Tap any card to open its price page.
+2. **List**: pick a watchlist card (or type one in), set graded or raw, check the comps and suggested price, tap **Generate**, adjust the text, then **Copy** and paste it into the eBay app. **Save draft** keeps it on this phone.
+3. **Schedule**: tap a day to see its events, and use the chips to hide categories. Add your own tasks with **Add task**. **Export .ics** puts them into Google or Apple Calendar so you get real phone alerts.
+- Prices refresh automatically every morning around 7:15 AM ET. Pull down or reload to get the latest.
+
 # Setup & status
 
 ### What's live
 - **Markets**: daily price snapshots from PriceCharting / SportsCardsPro (values based on completed eBay sales) + YGOPRODeck (TCGplayer prices for Yu-Gi-Oh). A GitHub Action refreshes `data/prices.json` every morning (~7:17 AM ET).
 - **1d / 7d** changes fill in after the job has run for 1 / 7 days. **30d** uses PriceCharting's monthly history until 30 days of our own snapshots exist.
-- **Spike rule**: a move of at least 10% (1d), 15% (7d) or 20% (30d) gets flagged.
+- **Spike rule**: a move of at least 10% (1d), 15% (7d) or 20% (30d) on a card worth $10+ gets flagged. Cards under $5 are left out of Top movers.
 - **Add cards**: paste a pricecharting.com or sportscardspro.com product URL on the Markets tab, then add the line to `data/watchlist.json` on GitHub.
 
 ### eBay publishing (not connected yet)

@@ -9,7 +9,7 @@ input,select,textarea,button{font:inherit;color:var(--tx);background:#0b1220;bor
 button{background:#334155;cursor:pointer;width:auto;padding:9px 14px}button:active{opacity:.7}.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.row>*{flex:1}
 label{display:block;color:var(--mu);font-size:13px}.box{background:var(--card);border-radius:10px;padding:10px;margin:8px 0}
 .chips{display:flex;gap:6px;overflow-x:auto;padding:8px 0}.chip{white-space:nowrap;padding:6px 12px;border-radius:99px;background:var(--card);border:1px solid #334155;font-size:13px}.chip.on{background:var(--ac);color:#000}
-.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}.mv{background:var(--card);border-radius:10px;padding:10px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}.mv{background:var(--card);border-radius:10px;padding:10px}
 .mv b{display:block;font-size:13px}.big{font-size:20px;font-weight:700}.up{color:var(--up)}.dn{color:var(--dn)}
 table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:7px 4px;border-bottom:1px solid #334155;text-align:right}td:first-child,th:first-child{text-align:left}
 .spike{background:var(--ac);color:#000;border-radius:4px;padding:0 4px;font-size:11px;margin-left:4px}.tag{font-size:11px;padding:1px 5px;border-radius:4px;background:#334155}
@@ -17,3 +17,5 @@ table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:7px 4px;b
 .cal .dow{background:none;min-height:0;text-align:center;color:var(--mu)}.cal .today{outline:1px solid var(--ac)}.cal .sel{background:#334155}
 .dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin:1px}.c-pokemon{background:#facc15}.c-yugioh{background:#a78bfa}.c-sports{background:#38bdf8}.c-show{background:#f472b6}.c-ebay{background:#22c55e}.c-task{background:#fb923c}
 .ev{background:var(--card);border-radius:8px;padding:8px;margin:6px 0;border-left:4px solid #555}pre{white-space:pre-wrap;word-break:break-word;background:#0b1220;padding:8px;border-radius:8px;max-height:300px;overflow:auto}pre:empty{display:none}
+.chips{scrollbar-width:none}.chips::-webkit-scrollbar{display:none}
+.chip .dot{margin-right:5px}

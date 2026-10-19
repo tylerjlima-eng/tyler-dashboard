@@ -15,11 +15,11 @@ function items(){const local=LS.get("localWatch",[]).map(x=>({...x,local:true,pr
  return [...DATA.items,...local].filter(i=>cat=="all"||i.cat==cat||i.sport==cat)}
 function renderMarket(){const g=$("#grade").value,w=$("#win").value,its=items();
  const ch=i=>i.change?.[g]?.[w];
- const mv=its.filter(i=>ch(i)!=null).sort((a,b)=>Math.abs(ch(b))-Math.abs(ch(a))).slice(0,6);
- $("#movers").innerHTML=mv.length?mv.map(i=>`<a class="mv" href="${i.url}" target="_blank" style="text-decoration:none;color:inherit"><b>${i.name}</b><span class="muted small">${CATS[i.sport||i.cat]}</span><div class="big">${pc(ch(i))}</div>${fmt(i.prices[g])}${Math.abs(ch(i))>=SPIKE[w]?'<span class="spike">SPIKE</span>':''}</a>`).join(""):
+ const MINP=5,mv=its.filter(i=>ch(i)!=null&&(i.prices?.[g]||0)>=MINP).sort((a,b)=>Math.abs(ch(b))-Math.abs(ch(a))).slice(0,6);
+ $("#movers").innerHTML=mv.length?mv.map(i=>`<a class="mv" href="${i.url}" target="_blank" style="text-decoration:none;color:inherit"><b>${i.name}</b><span class="muted small">${CATS[i.sport||i.cat]}</span><div class="big">${pc(ch(i))}</div>${fmt(i.prices[g])}${Math.abs(ch(i))>=SPIKE[w]&&i.prices[g]>=10?'<span class="spike">SPIKE</span>':''}</a>`).join(""):
   `<p class="muted">No ${w} change available yet for ${g}. ${w!="30d"?"1d/7d changes appear once the daily snapshot job has run for 1/7 days (first snapshot: "+(DATA.updated||"").slice(0,10)+").":""}</p>`;
  $("#watch").innerHTML=`<table><tr><th>Card</th><th>Raw</th><th>PSA 10</th><th>1d</th><th>7d</th><th>30d</th></tr>${its.map(i=>`<tr><td><a href="${i.url||'#'}" target="_blank">${i.name}</a> <span class="tag">${CATS[i.sport||i.cat]}</span>${i.local?' <span class="tag">pending</span>':''}${i.ygoprodeck?.tcgplayer?`<div class="muted small">TCGplayer ${fmt(i.ygoprodeck.tcgplayer)} (cheapest printing, YGOPRODeck)</div>`:''}</td><td>${fmt(i.prices?.Ungraded)}</td><td>${fmt(i.prices?.["PSA 10"])}</td><td>${pc(i.change?.[g]?.["1d"])}</td><td>${pc(i.change?.[g]?.["7d"])}</td><td>${pc(i.change?.[g]?.["30d"])}</td></tr>`).join("")}</table>`;
- $("#srcNote").innerHTML=`Changes shown for <b>${g}</b>. Sources: PriceCharting / SportsCardsPro (prices based on completed eBay sales) and YGOPRODeck (TCGplayer). 30d uses PriceCharting's monthly price history until 30 days of our own daily snapshots exist. Spike = move ≥ ${SPIKE[w]}% over ${w}.${DATA.errors?.length?` <span class="dn">${DATA.errors.length} fetch error(s) last run: ${DATA.errors.map(e=>e.item+" ("+e.source+")").join(", ")}</span>`:""}`}
+ $("#srcNote").innerHTML=`Changes shown for <b>${g}</b>. Sources: PriceCharting / SportsCardsPro (prices based on completed eBay sales) and YGOPRODeck (TCGplayer). 30d uses PriceCharting's monthly price history until 30 days of our own daily snapshots exist. Spike = move ≥ ${SPIKE[w]}% over ${w} on a card worth ≥ $10; Top movers skip cards under $5 (too noisy).${DATA.errors?.length?` <span class="dn">${DATA.errors.length} fetch error(s) last run: ${DATA.errors.map(e=>e.item+" ("+e.source+")").join(", ")}</span>`:""}`}
 $("#addBtn").onclick=()=>{const name=$("#addName").value.trim(),url=$("#addUrl").value.trim(),c=$("#addCat").value;
  const m=url.match(/\/game\/([^?#]+)/);if(!name||!m)return $("#addOut").textContent="Need a name and a pricecharting.com or sportscardspro.com /game/ URL.";
  const it={cat:c,name,path:decodeURIComponent(m[1]),url};const l=LS.get("localWatch",[]);l.push(it);LS.set("localWatch",l);renderMarket();
@@ -41,9 +41,9 @@ function comps(){const i=DATA.items[$("#lCard").value],graded=$("#lCond").value.
  if(s&&!$("#lPrice").dataset.touched)$("#lPrice").value=s.toFixed(2)}
 $("#lPrice").oninput=e=>e.target.dataset.touched=1;
 ["#lCard","#lCond","#lGrade","#lGrader","#lManual","#lPlayer","#lSet"].forEach(s=>$(s).addEventListener("input",comps));
-$("#lCard").addEventListener("change",()=>{const i=DATA.items[$("#lCard").value];if(i){$("#lPlayer").value=i.name.replace(/\s*\(.*\)/,"");$("#lSet").value=(i.title||"").replace(i.name,"").replace(/Prices?/,"").trim()}comps()});
+$("#lCard").addEventListener("change",()=>{const i=DATA.items[$("#lCard").value];if(i){const set=(i.set||"").replace(/^Pokemon |^YuGiOh /,"");let n=i.name.replace(/\s*\(.*\)/,"");if(set)n=n.replace(set,"").replace(/\s+/g," ").trim();$("#lPlayer").value=n;$("#lSet").value=set;$("#lCond").dispatchEvent(new Event("input"))}comps()});
 function draft(){const [cid,cl]=$("#lCond").value.split("|"),g=cid=="2750";return{player:$("#lPlayer").value,set:$("#lSet").value,conditionId:cid,condition:cl,grader:$("#lGrader").value,grade:$("#lGrade").value,raw:$("#lRaw").value,cert:$("#lCert").value,notes:$("#lNotes").value,price:$("#lPrice").value,title:$("#lTitle").value,description:$("#lDesc").value,graded:g}}
-$("#gen").onclick=()=>{const d=draft();let t=[d.set,d.player,d.graded?d.grader+" "+d.grade:"",d.graded?"":"NM"].filter(Boolean).join(" ").replace(/\s+/g," ");
+$("#gen").onclick=()=>{const d=draft(),it=DATA.items[$("#lCard").value],pre=it?.cat=="pokemon"?"Pokemon":it?.cat=="yugioh"?"YuGiOh":"";let t=[pre,d.set,d.player,d.graded?d.grader+" "+d.grade:"",d.graded?"":"NM"].filter(Boolean).join(" ").replace(/\s+/g," ");
  if(t.length<70&&!d.graded)t+=" Raw Card";$("#lTitle").value=t.slice(0,80);$("#tLen").textContent=$("#lTitle").value.length;
  $("#lDesc").value=`${d.player}${d.set?" — "+d.set:""}\n\nCondition: ${d.graded?`Graded ${d.grader} ${d.grade}${d.cert?" (cert #"+d.cert+")":""}`:`Ungraded / raw — ${d.raw}`}\n${d.notes?"\nNotes: "+d.notes+"\n":""}\nWhat you see is what you get: please review all photos, which are of the exact card you'll receive.\n\nShipping: ${(+d.price||0)>=20?"Ships in penny sleeve + top loader + team bag in a bubble mailer with tracking.":"Ships in penny sleeve + top loader."} Ships within 1 business day.\nQuestions? Message me before buying. Thanks for checking out ya_mothers_garage!`};
 $("#lTitle").oninput=()=>$("#tLen").textContent=$("#lTitle").value.length;
@@ -75,17 +75,20 @@ function renderCal(){const y=view.getFullYear(),m=view.getMonth(),first=new Date
  $$("[data-tdel]").forEach(a=>a.onclick=ev=>{ev.preventDefault();LS.set("tasks",LS.get("tasks",[]).filter(t=>t.id!=a.dataset.tdel));renderCal()})}
 $("#prevM").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()-1,1);renderCal()};$("#nextM").onclick=()=>{view=new Date(view.getFullYear(),view.getMonth()+1,1);renderCal()};
 $("#tAdd").onclick=()=>{const t={id:"t"+Date.now(),title:$("#tTitle").value.trim(),date:$("#tDate").value,time:$("#tTime").value,notes:$("#tNote").value};if(!t.title||!t.date)return alert("Title and date needed");
- const l=LS.get("tasks",[]);l.push(t);LS.set("tasks",l);$("#tTitle").value=$("#tNote").value="";renderCal()};
+ const l=LS.get("tasks",[]);l.push(t);LS.set("tasks",l);$("#tTitle").value=$("#tNote").value="";sel=t.date;view=new Date(t.date+"T12:00");renderCal()};
 function ics(evs){const esc=s=>(s||"").replace(/[\\,;]/g,m=>"\\"+m).replace(/\n/g,"\\n"),D=s=>s.replace(/-/g,"");
  const nx=s=>{const d=new Date(s+"T12:00");d.setDate(d.getDate()+1);return iso(d).replace(/-/g,"")};
  const L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Tyler Card Desk//EN","CALSCALE:GREGORIAN"];
  evs.forEach(e=>{L.push("BEGIN:VEVENT","UID:"+e.id+"@tyler-card-desk","DTSTAMP:"+new Date().toISOString().replace(/[-:]|\.\d+/g,""));
-  if(e.time){L.push(`DTSTART;TZID=America/New_York:${D(e.date)}T${e.time.replace(":","")}00`,"BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+esc(e.title),"TRIGGER:-PT30M","END:VALARM")}
+  if(e.time)L.push(`DTSTART;TZID=America/New_York:${D(e.date)}T${e.time.replace(":","")}00`,"DURATION:PT30M");
   else L.push("DTSTART;VALUE=DATE:"+D(e.date),"DTEND;VALUE=DATE:"+nx(e.end||e.date));
-  L.push("SUMMARY:"+esc(e.title),"DESCRIPTION:"+esc([e.notes,e.note,e.url].filter(Boolean).join("\n")));if(e.url)L.push("URL:"+e.url);L.push("END:VEVENT")});
- L.push("END:VCALENDAR");const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([L.join("\r\n")],{type:"text/calendar"}));a.download="card-desk.ics";a.click()}
+  L.push("SUMMARY:"+esc(e.title));const ds=[e.notes,e.note,e.url].filter(Boolean).join("\n");if(ds)L.push("DESCRIPTION:"+esc(ds));if(e.url)L.push("URL:"+e.url);
+  if(e.time)L.push("BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+esc(e.title),"TRIGGER:-PT30M","END:VALARM");L.push("END:VEVENT")});
+ L.push("END:VCALENDAR");const fold=l=>{let o="";while(l.length>74){o+=l.slice(0,74)+"\r\n ";l=l.slice(74)}return o+l};L.splice(0,L.length,...L.map(fold));const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([L.join("\r\n")],{type:"text/calendar"}));a.download="card-desk.ics";a.click()}
 $("#icsAll").onclick=()=>ics(allEv());$("#icsMine").onclick=()=>ics(tasks());
 $("#notif").onclick=async()=>{if(!("Notification"in window))return alert("Notifications not supported here; use the .ics export.");const p=await Notification.requestPermission();alert(p=="granted"?"Reminders on while this page is open. For reliable phone alerts, export .ics to your calendar.":"Permission not granted.")};
 setInterval(()=>{if(Notification?.permission!="granted")return;const now=new Date(),k=LS.get("notified",[]);tasks().forEach(t=>{if(!t.time||k.includes(t.id))return;const when=new Date(t.date+"T"+t.time);if(when-now<15*60e3&&when>now-60e3){new Notification("⏰ "+t.title);k.push(t.id);LS.set("notified",k)}})},60e3);
 // ---------- SETUP ----------
 fetch("SETUP.md").then(r=>r.text()).then(t=>{$("#setupDoc").innerHTML=t.split("\n").map(l=>l.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/`([^`]+)`/g,"<code>$1</code>").replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>").replace(/\[([^\]]+)\]\(([^)]+)\)/g,'<a href="$2" target="_blank">$1</a>').replace(/(^|\s)(https?:\/\/\S+)/g,'$1<a href="$2" target="_blank">$2</a>')).map(l=>l.startsWith("### ")?`<h3>${l.slice(4)}</h3>`:l.startsWith("## ")?`<h2>${l.slice(3)}</h2>`:l.startsWith("# ")?`<h2>${l.slice(2)}</h2>`:l.match(/^\s*[-\d]/)?`<div style="margin-left:10px">${l}</div>`:l?`<p>${l}</p>`:"").join("")});
+
+if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");

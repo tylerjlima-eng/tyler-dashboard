@@ -3,7 +3,7 @@
  "items": [
   {
    "cat": "pokemon",
-   "name": "Charizard #4 (Base Set)",
+   "name": "Charizard #4 (Base Set, Unlimited)",
    "path": "pokemon-base-set/charizard-4",
    "tcgdex": "base1-4",
    "img": "https://storage.googleapis.com/images.pricecharting.com/hpgpcpsd42huitud/240.jpg",
@@ -380,7 +380,7 @@
   },
   {
    "cat": "pokemon",
-   "name": "Blastoise #2 (Base Set)",
+   "name": "Blastoise #2 (Base Set, Unlimited)",
    "path": "pokemon-base-set/blastoise-2",
    "img": "https://storage.googleapis.com/images.pricecharting.com/fduultrrfpaofkxz/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fduultrrfpaofkxz/1600.jpg",
@@ -756,7 +756,7 @@
   },
   {
    "cat": "pokemon",
-   "name": "Venusaur #15 (Base Set)",
+   "name": "Venusaur #15 (Base Set, Unlimited)",
    "path": "pokemon-base-set/venusaur-15",
    "img": "https://storage.googleapis.com/images.pricecharting.com/jw45qdlqbx652hmf/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/jw45qdlqbx652hmf/1600.jpg",
@@ -1132,7 +1132,7 @@
   },
   {
    "cat": "pokemon",
-   "name": "Mewtwo #10 (Base Set)",
+   "name": "Mewtwo #10 (Base Set, Unlimited)",
    "path": "pokemon-base-set/mewtwo-10",
    "img": "https://storage.googleapis.com/images.pricecharting.com/0374cd52bb22be6591b9807241107c22c6f72b2f071869c6e6342a156be99e10/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/0374cd52bb22be6591b9807241107c22c6f72b2f071869c6e6342a156be99e10/1600.jpg",
@@ -5653,7 +5653,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Blue-Eyes White Dragon LOB-001",
+   "name": "Blue-Eyes White Dragon LOB-001 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001",
    "ygo_id": 89631139,
    "ygo_set": "LOB-001",
@@ -7209,7 +7209,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Right Leg of the Forbidden One LOB-120",
+   "name": "Right Leg of the Forbidden One LOB-120 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120",
    "img": "https://storage.googleapis.com/images.pricecharting.com/ba0c2619210fa54fa9fad958ce8b38c354d0d8a09facf64a224fce5d12a02f62/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ba0c2619210fa54fa9fad958ce8b38c354d0d8a09facf64a224fce5d12a02f62/1600.jpg",
@@ -7585,7 +7585,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Left Arm of the Forbidden One LOB-123",
+   "name": "Left Arm of the Forbidden One LOB-123 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123",
    "img": "https://storage.googleapis.com/images.pricecharting.com/xlbkpgnjwoi6e67j/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/xlbkpgnjwoi6e67j/1600.jpg",
@@ -7961,7 +7961,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Gaia the Fierce Knight LOB-006",
+   "name": "Gaia the Fierce Knight LOB-006 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006",
    "img": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/1600.jpg",
@@ -8337,7 +8337,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Blue-Eyes White Dragon SDK-001",
+   "name": "Blue-Eyes White Dragon SDK-001 (Unlimited)",
    "path": "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001",
    "img": "https://storage.googleapis.com/images.pricecharting.com/4f4753a4580bf3bd2fb11cc7324bf00fa1a761ad015d55c30b5b7edc2d933432/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/4f4753a4580bf3bd2fb11cc7324bf00fa1a761ad015d55c30b5b7edc2d933432/1600.jpg",
@@ -9089,7 +9089,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Black Skull Dragon MRD-018",
+   "name": "Black Skull Dragon MRD-018 (Unlimited)",
    "path": "yugioh-metal-raiders/black-skull-dragon-mrd-018",
    "img": "https://storage.googleapis.com/images.pricecharting.com/22a9f943b3ebc429d6b91155a2b0f1f63a72adbef95a85b3fdac6e1223327125/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/22a9f943b3ebc429d6b91155a2b0f1f63a72adbef95a85b3fdac6e1223327125/1600.jpg",
@@ -10230,7 +10230,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Jinzo PSV-000",
+   "name": "Jinzo PSV-000 (Unlimited)",
    "path": "yugioh-pharaoh's-servant/jinzo-psv-000",
    "img": "https://storage.googleapis.com/images.pricecharting.com/ad355477848dae4e71fa1d84194f921f360155efbbfe4cd26b3b9a20402ad770/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ad355477848dae4e71fa1d84194f921f360155efbbfe4cd26b3b9a20402ad770/1600.jpg",
@@ -17386,7 +17386,8 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 13028.59
     }
-   }
+   },
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
   },
   {
    "cat": "sports",
@@ -23358,7 +23359,8 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 63256.32
     }
-   }
+   },
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
   },
   {
    "cat": "sports",
@@ -23735,7 +23737,8 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 976986.04
     }
-   }
+   },
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
   },
   {
    "cat": "sports",
@@ -24112,7 +24115,8 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 62382.7
     }
-   }
+   },
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
   },
   {
    "cat": "sports",
@@ -24489,7 +24493,8 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 66674.85
     }
-   }
+   },
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
   },
   {
    "cat": "sports",
@@ -30447,7 +30452,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Monster Reborn LOB-118",
+   "name": "Monster Reborn LOB-118 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118",
    "ygo_id": 83764718,
    "ygo_set": "LOB-118",
@@ -30836,7 +30841,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Pot of Greed LOB-119",
+   "name": "Pot of Greed LOB-119 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119",
    "ygo_id": 55144522,
    "ygo_set": "LOB-119",
@@ -31614,7 +31619,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Stardust Dragon Ghost Rare TDGS-EN040",
+   "name": "Stardust Dragon Ghost Rare TDGS-EN040 (Unlimited)",
    "path": "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040",
    "ygo_id": 44508094,
    "ygo_set": "TDGS-EN040",
@@ -32333,7 +32338,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Ash Blossom & Joyous Spring MACR-EN036",
+   "name": "Ash Blossom & Joyous Spring MACR-EN036 (Unlimited)",
    "path": "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036",
    "ygo_id": 14558128,
    "ygo_set": "MACR-EN036",
@@ -45166,7 +45171,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Blue-Eyes White Dragon SKE-001",
+   "name": "Blue-Eyes White Dragon SKE-001 (Unlimited)",
    "path": "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-ske-001",
    "img": "https://storage.googleapis.com/images.pricecharting.com/9ede9d7b432e9759f766d002efcd625eb0577a79207cf7778612fc71a539d9cc/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/9ede9d7b432e9759f766d002efcd625eb0577a79207cf7778612fc71a539d9cc/1600.jpg",
@@ -45918,7 +45923,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Blue-Eyes Toon Dragon SDP-020",
+   "name": "Blue-Eyes Toon Dragon SDP-020 (Unlimited)",
    "path": "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-sdp-020",
    "ygo_id": 53183600,
    "ygo_set": "SDP-020",
@@ -46304,7 +46309,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "Red-Eyes B. Dragon SDJ-001",
+   "name": "Red-Eyes B. Dragon SDJ-001 (Unlimited)",
    "path": "yugioh-starter-deck-joey/red-eyes-black-dragon-sdj-001",
    "ygo_id": 74677422,
    "ygo_set": "SDJ-001",
@@ -46693,7 +46698,7 @@
   },
   {
    "cat": "yugioh",
-   "name": "2002 Collector's Tin: Joey",
+   "name": "2002 Collector's Tin (sealed; generic tin page)",
    "path": "yugioh-2002-collector's-tin/sealed-tin",
    "img": "https://storage.googleapis.com/images.pricecharting.com/umycdx3i4orntj4y/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/umycdx3i4orntj4y/1600.jpg",
@@ -46790,7 +46795,8 @@
     "PSA 10": {
      "flag": "insufficient_data"
     }
-   }
+   },
+   "note": "PriceCharting page is a generic 2002 sealed tin and doesn't identify the Joey tin. Confirm the tin before relying on this price."
   },
   {
    "cat": "sports",

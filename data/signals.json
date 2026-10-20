@@ -1,74 +1,74 @@
 {
- "generated": "2026-10-19T16:53:51+00:00",
- "as_of": "2026-10-19",
- "prices_updated": "2026-10-19T15:54:44+00:00",
+ "generated": "2026-10-20T15:42:16+00:00",
+ "as_of": "2026-10-20",
+ "prices_updated": "2026-10-20T15:42:16+00:00",
  "rule": "research/spike-rule.md",
  "items": {
   "pokemon-base-set/charizard-4": {
-   "name": "Charizard #4 (Base Set)",
+   "name": "Charizard #4 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 333.7,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 27058.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "pokemon-base-set/blastoise-2": {
-   "name": "Blastoise #2 (Base Set)",
+   "name": "Blastoise #2 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 99.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 9000.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "pokemon-base-set/venusaur-15": {
-   "name": "Venusaur #15 (Base Set)",
+   "name": "Venusaur #15 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 64.94,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4959.92,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -78,20 +78,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1754.79,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 3830.69,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -101,20 +101,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 329.49,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1380.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -124,20 +124,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 268.58,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 510.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -147,20 +147,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1021.31,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4824.68,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -170,20 +170,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 254.87,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 719.76,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -193,43 +193,43 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 252.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 761.04,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001": {
-   "name": "Blue-Eyes White Dragon LOB-001",
+   "name": "Blue-Eyes White Dragon LOB-001 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 86.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5725.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -238,21 +238,21 @@
    "name": "Michael Jordan 1986 Fleer #57",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 4525.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 4511.0,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 392225.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 394362.5,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -262,20 +262,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 2387.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 13813.62,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -285,20 +285,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 52.94,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 204.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -308,20 +308,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 69.42,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 359.09,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -331,20 +331,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 788.61,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 7022.18,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -354,20 +354,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 12.56,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 109.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -377,20 +377,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 41959.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 10263808.3,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -400,20 +400,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 295.79,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 935.27,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -422,44 +422,44 @@
    "name": "Shohei Ohtani 2018 Topps Update #US1",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 116.25,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 115.62,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 482.5,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 486.25,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "pokemon-base-set/mewtwo-10": {
-   "name": "Mewtwo #10 (Base Set)",
+   "name": "Mewtwo #10 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 29.27,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4720.77,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -469,20 +469,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 999.77,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2050.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -492,20 +492,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 777.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 3150.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -515,20 +515,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 456.2,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1250.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -538,20 +538,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 738.61,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2297.65,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -561,20 +561,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 599.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1412.48,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -584,20 +584,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 384.09,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 24608.12,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -607,20 +607,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 607.33,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 26822.66,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -630,66 +630,66 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 682.8,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 12211.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120": {
-   "name": "Right Leg of the Forbidden One LOB-120",
+   "name": "Right Leg of the Forbidden One LOB-120 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 21.13,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 722.98,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123": {
-   "name": "Left Arm of the Forbidden One LOB-123",
+   "name": "Left Arm of the Forbidden One LOB-123 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 15.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1700.63,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "day_jump": "pending confirmation",
     "d1_pct": 66.5,
     "flag": "insufficient_data",
@@ -697,47 +697,47 @@
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006": {
-   "name": "Gaia the Fierce Knight LOB-006",
+   "name": "Gaia the Fierce Knight LOB-006 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 15.2,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 16.59,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 549.07,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001": {
-   "name": "Blue-Eyes White Dragon SDK-001",
+   "name": "Blue-Eyes White Dragon SDK-001 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 25.88,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4800.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -747,43 +747,43 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 253.74,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5499.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-metal-raiders/black-skull-dragon-mrd-018": {
-   "name": "Black Skull Dragon MRD-018",
+   "name": "Black Skull Dragon MRD-018 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 25.17,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 588.13,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -793,20 +793,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 63.1,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1750.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -816,43 +816,43 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 800.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 32854.1,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-pharaoh's-servant/jinzo-psv-000": {
-   "name": "Jinzo PSV-000",
+   "name": "Jinzo PSV-000 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 49.49,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1050.72,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -862,20 +862,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 87.68,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2511.41,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -885,20 +885,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 44.87,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 397.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -907,21 +907,21 @@
    "name": "Larry Bird 1986 Fleer #9",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 79.16,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 81.88,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 8400.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -930,21 +930,21 @@
    "name": "Magic Johnson 1986 Fleer #53",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 55.52,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 60.26,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 4250.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 4166.83,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -954,20 +954,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1670.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 15758.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -977,20 +977,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 113.37,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2537.48,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1000,20 +1000,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 289.64,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5752.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1023,20 +1023,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1599.74,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 19100.38,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1045,21 +1045,21 @@
    "name": "Giannis Antetokounmpo 2013 Prizm #290",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 164.89,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 164.6,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 650.62,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 649.31,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1068,21 +1068,21 @@
    "name": "Jayson Tatum 2017 Prizm #16",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 20.76,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 20.88,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 97.5,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 97.38,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1092,20 +1092,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 27.45,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1115,20 +1115,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 23.44,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1137,21 +1137,21 @@
    "name": "Anthony Edwards 2020 Prizm #258",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 10.11,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 10.09,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 146.44,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 145.84,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1160,21 +1160,21 @@
    "name": "Jim Brown 1958 Topps #62",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 453.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 443.88,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 101683.2,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 96509.9,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1184,20 +1184,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 91.39,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 51240.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1207,20 +1207,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 53.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 71459.76,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1230,20 +1230,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 21121.12,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 297990.22,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1252,21 +1252,21 @@
    "name": "Aaron Rodgers 2005 Topps #431",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 18.91,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 18.85,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 271.65,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 272.07,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1276,20 +1276,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 43.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 191.25,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1299,20 +1299,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 129.01,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 718.32,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1322,20 +1322,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 30.48,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 350.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1344,21 +1344,21 @@
    "name": "Kyler Murray 2019 Prizm #301",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 3.68,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 3.16,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 46.02,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1368,20 +1368,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 5.21,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 49.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1391,20 +1391,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 2.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 63.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1414,20 +1414,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.94,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 28.23,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1437,20 +1437,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.85,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 50.75,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1460,20 +1460,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 4.66,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 301.36,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1482,21 +1482,21 @@
    "name": "Willie Mays 1951 Bowman #305",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 2315.6,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 2310.51,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 584986.94,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 582961.0,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1506,20 +1506,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 4709.3,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1157732.69,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1529,20 +1529,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 2250.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 615362.82,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1552,20 +1552,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 11.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5031.34,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1574,21 +1574,21 @@
    "name": "Ken Griffey Jr. 1989 Upper Deck #1",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 96.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 97.0,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5715.01,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1598,20 +1598,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 136.18,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 254300.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1620,21 +1620,21 @@
    "name": "Aaron Judge 2017 Topps Update Rookie Debut #US99",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 26.13,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 25.56,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 209.75,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 213.44,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1643,21 +1643,21 @@
    "name": "Shohei Ohtani 2018 Topps Chrome Update #HMT1",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 249.7,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 244.23,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 909.12,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 872.94,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1666,21 +1666,21 @@
    "name": "Ronald Acuna Jr. 2018 Topps Update #US250",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 4.63,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 4.66,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 39.72,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 40.03,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1689,21 +1689,21 @@
    "name": "Pete Alonso 2019 Topps Update #US47",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 0.99,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 1.13,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 19.15,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1713,20 +1713,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 22.54,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1736,20 +1736,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 2.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 93.37,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1759,20 +1759,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 420.58,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 32100.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1782,20 +1782,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 117.22,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 242.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1805,20 +1805,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 385.05,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 895.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1827,21 +1827,21 @@
    "name": "Mega Charizard X ex #125 (Phantasmal Flames)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 650.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 675.0,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 1466.44,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 1458.08,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1851,66 +1851,66 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 224.86,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1932.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118": {
-   "name": "Monster Reborn LOB-118",
+   "name": "Monster Reborn LOB-118 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 11.99,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 12.12,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 349.07,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119": {
-   "name": "Pot of Greed LOB-119",
+   "name": "Pot of Greed LOB-119 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 6.49,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 205.95,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 205.97,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1920,43 +1920,43 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 547.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2425.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040": {
-   "name": "Stardust Dragon Ghost Rare TDGS-EN040",
+   "name": "Stardust Dragon Ghost Rare TDGS-EN040 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 398.64,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 11667.32,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -1966,10 +1966,10 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 165.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
@@ -1980,24 +1980,24 @@
    }
   },
   "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036": {
-   "name": "Ash Blossom & Joyous Spring MACR-EN036",
+   "name": "Ash Blossom & Joyous Spring MACR-EN036 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 12.85,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 118.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2007,20 +2007,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 73.73,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 205.09,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2030,20 +2030,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 190.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 646.21,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2053,20 +2053,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 5.51,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 130.23,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2076,20 +2076,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 16.42,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 132.69,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2099,20 +2099,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 433.71,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1600.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2122,20 +2122,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 4002.86,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 22741.65,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2145,20 +2145,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 4.44,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 54.05,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2168,20 +2168,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.21,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 75.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2191,20 +2191,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 731.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 6441.99,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2214,20 +2214,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 10356.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 48100.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2237,20 +2237,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 197.35,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 985.28,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2259,21 +2259,21 @@
    "name": "LaMelo Ball 2020 Panini Prizm #278",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 2.37,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 2.42,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 55.5,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 55.88,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2283,20 +2283,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 21.05,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 299.13,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2306,20 +2306,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 845.96,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 87178.02,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2329,20 +2329,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 5330.92,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 18912.62,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2352,20 +2352,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 556.22,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1069.83,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2374,21 +2374,21 @@
    "name": "Juan Soto 2018 Topps Update #US300",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 7.31,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 6.91,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 38.21,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "now": 38.86,
+    "n_snapshots": 3,
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2398,20 +2398,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 33.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 275.55,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2421,20 +2421,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.4,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 40.05,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2444,20 +2444,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 5.73,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 95.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2467,20 +2467,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.5,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 29.15,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2490,20 +2490,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 1.13,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 21.66,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2513,20 +2513,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 13500.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 168000.0,
-    "n_snapshots": 2,
+    "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2536,20 +2536,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 101.75,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 391.47,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2559,20 +2559,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 93.99,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 400.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2582,20 +2582,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 39.29,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 260.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2605,20 +2605,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 55.54,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 414.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2628,20 +2628,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 87.29,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 577.5,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2651,20 +2651,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 10.82,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 82.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2674,20 +2674,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 26.24,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 211.99,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2697,20 +2697,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 17.3,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 170.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2720,20 +2720,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 45.23,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 230.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2743,20 +2743,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 21.13,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 182.5,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2766,43 +2766,43 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 11.6,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 135.9,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-ske-001": {
-   "name": "Blue-Eyes White Dragon SKE-001",
+   "name": "Blue-Eyes White Dragon SKE-001 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.02,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 368.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2812,79 +2812,79 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.76,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 64.99,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-sdp-020": {
-   "name": "Blue-Eyes Toon Dragon SDP-020",
+   "name": "Blue-Eyes Toon Dragon SDP-020 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 3.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 103.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-starter-deck-joey/red-eyes-black-dragon-sdj-001": {
-   "name": "Red-Eyes B. Dragon SDJ-001",
+   "name": "Red-Eyes B. Dragon SDJ-001 (Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 9.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1058.17,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
   },
   "yugioh-2002-collector's-tin/sealed-tin": {
-   "name": "2002 Collector's Tin: Joey",
+   "name": "2002 Collector's Tin (sealed; generic tin page)",
    "Ungraded": {
     "variant": "snapshot",
     "now": 597.25,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
@@ -2899,20 +2899,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 41.58,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 399.99,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2922,20 +2922,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 42.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 260.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2944,21 +2944,21 @@
    "name": "Victor Wembanyama 2023-24 Select Concourse #87 RC",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 15.75,
-    "n_snapshots": 1,
-    "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "now": 16.19,
+    "n_snapshots": 2,
+    "n_changes": 2,
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 124.12,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }
@@ -2968,20 +2968,20 @@
    "Ungraded": {
     "variant": "snapshot",
     "now": 43.0,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 394.66,
-    "n_snapshots": 1,
+    "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 1,
-    "last_snapshot": "2026-10-19",
+    "days_of_history": 2,
+    "last_snapshot": "2026-10-20",
     "flag": "insufficient_data",
     "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
    }

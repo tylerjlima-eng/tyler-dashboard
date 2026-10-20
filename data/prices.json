@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:54:44+00:00",
+ "updated": "2026-10-20T15:42:16+00:00",
  "items": [
   {
    "cat": "pokemon",
@@ -1099,13 +1099,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -6.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -16.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 11.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 60.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -1114,16 +1114,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -13.4,
-     "now": 64.935,
+     "pct": -16.5,
+     "now": 62.61,
      "base": 75.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 7.5
     },
     "PSA 10": {
      "flag": "SPIKE_ALERT",
-     "pct": 52.0,
-     "now": 4959.92,
+     "pct": 60.3,
+     "now": 5229.5,
      "base": 3262.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 326.25
@@ -6000,8 +6000,8 @@
     "set_code": "LOB-001",
     "set_price": 62.15,
     "all_printings_low": {
-     "cardmarket": 0.09,
-     "tcgplayer": 0.16,
+     "cardmarket": 0.08,
+     "tcgplayer": 0.14,
      "ebay": 5.95,
      "amazon": 3.9,
      "coolstuffinc": 0.99
@@ -6779,7 +6779,7 @@
     "set_price": 39.69,
     "all_printings_low": {
      "cardmarket": 0.11,
-     "tcgplayer": 0.24,
+     "tcgplayer": 0.25,
      "ebay": 2.99,
      "amazon": 2.69,
      "coolstuffinc": 0.99
@@ -7168,7 +7168,7 @@
     "set_price": 33.07,
     "all_printings_low": {
      "cardmarket": 0.02,
-     "tcgplayer": 2.58,
+     "tcgplayer": 2.61,
      "ebay": 39.99,
      "amazon": 1.29,
      "coolstuffinc": 0.99
@@ -7928,13 +7928,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 66.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 438.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -7943,19 +7943,20 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -3.3,
-     "now": 15.75,
+     "pct": -3.6,
+     "now": 15.71,
      "base": 16.29,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "SPIKE_ALERT",
-     "pct": 330.5,
-     "now": 1700.63,
+     "pct": 438.0,
+     "now": 2125.0,
      "base": 395.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
-     "floor": 39.5
+     "floor": 39.5,
+     "day_jump": "confirmed"
     }
    }
   },
@@ -7963,15 +7964,15 @@
    "cat": "yugioh",
    "name": "Gaia the Fierce Knight LOB-006 (Unlimited)",
    "path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006",
-   "img": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/240.jpg",
-   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/pwzhk2bqy6nkj6yb/1600.jpg",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fh7pliu26d46k2uj/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fh7pliu26d46k2uj/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006",
    "title": "Gaia The Fierce Knight LOB-006 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 15.2,
+    "Ungraded": 17.99,
     "Grade 7": 29.0,
-    "Grade 8": 57.02,
+    "Grade 8": 57.01,
     "Grade 9": 87.5,
     "Grade 9.5": 96.0,
     "PSA 10": 549.07
@@ -8244,7 +8245,7 @@
      ],
      [
       1790834400,
-      57.02
+      57.01
      ]
     ],
     "Ungraded": [
@@ -8298,15 +8299,15 @@
      ],
      [
       1790834400,
-      15.2
+      17.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 18.4,
      "7d": null,
-     "30d": -6.5,
+     "30d": 10.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -11367,12 +11368,12 @@
    "title": "Michael Jordan #57 Prices [Rookie]",
    "set": "1986 Fleer",
    "prices": {
-    "Ungraded": 4525.0,
-    "Grade 7": 12137.5,
-    "Grade 8": 17518.03,
-    "Grade 9": 41685.9,
-    "Grade 9.5": 45773.15,
-    "PSA 10": 392225.0
+    "Ungraded": 4497.0,
+    "Grade 7": 12220.84,
+    "Grade 8": 17325.0,
+    "Grade 9": 32319.11,
+    "Grade 9.5": 45760.0,
+    "PSA 10": 396500.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -11426,7 +11427,7 @@
      ],
      [
       1790834400,
-      45773.15
+      45760.0
      ]
     ],
     "Grade 7": [
@@ -11480,7 +11481,7 @@
      ],
      [
       1790834400,
-      12137.5
+      12220.84
      ]
     ],
     "Grade 9": [
@@ -11534,7 +11535,7 @@
      ],
      [
       1790834400,
-      41685.9
+      32319.11
      ]
     ],
     "PSA 10": [
@@ -11588,7 +11589,7 @@
      ],
      [
       1790834400,
-      392225.0
+      396500.0
      ]
     ],
     "Grade 8": [
@@ -11642,7 +11643,7 @@
      ],
      [
       1790834400,
-      17518.03
+      17325.0
      ]
     ],
     "Ungraded": [
@@ -11696,21 +11697,21 @@
      ],
      [
       1790834400,
-      4525.0
+      4497.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.6,
      "7d": null,
-     "30d": 9.1,
+     "30d": 8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 1.1,
      "7d": null,
-     "30d": 35.7,
+     "30d": 37.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -11744,11 +11745,11 @@
    "title": "Larry Bird #9 Prices",
    "set": "1986 Fleer",
    "prices": {
-    "Ungraded": 79.16,
-    "Grade 7": 154.38,
-    "Grade 8": 285.0,
-    "Grade 9": 805.0,
-    "Grade 9.5": 1348.88,
+    "Ungraded": 84.61,
+    "Grade 7": 155.0,
+    "Grade 8": 282.0,
+    "Grade 9": 800.0,
+    "Grade 9.5": 1343.96,
     "PSA 10": 8400.0
    },
    "monthly": {
@@ -11803,7 +11804,7 @@
      ],
      [
       1790834400,
-      1348.88
+      1343.96
      ]
     ],
     "Grade 7": [
@@ -11857,7 +11858,7 @@
      ],
      [
       1790834400,
-      154.38
+      155.0
      ]
     ],
     "Grade 9": [
@@ -11911,7 +11912,7 @@
      ],
      [
       1790834400,
-      805.0
+      800.0
      ]
     ],
     "PSA 10": [
@@ -12019,7 +12020,7 @@
      ],
      [
       1790834400,
-      285.0
+      282.0
      ]
     ],
     "Ungraded": [
@@ -12073,15 +12074,15 @@
      ],
      [
       1790834400,
-      79.16
+      84.61
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 6.9,
      "7d": null,
-     "30d": -3.5,
+     "30d": 3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -12121,12 +12122,12 @@
    "title": "Magic Johnson #53 Prices",
    "set": "1986 Fleer",
    "prices": {
-    "Ungraded": 55.52,
-    "Grade 7": 100.32,
+    "Ungraded": 65.0,
+    "Grade 7": 100.25,
     "Grade 8": 205.98,
-    "Grade 9": 584.5,
-    "Grade 9.5": 1079.88,
-    "PSA 10": 4250.0
+    "Grade 9": 603.13,
+    "Grade 9.5": 1079.44,
+    "PSA 10": 4083.66
    },
    "monthly": {
     "Grade 9.5": [
@@ -12180,7 +12181,7 @@
      ],
      [
       1790834400,
-      1079.88
+      1079.44
      ]
     ],
     "Grade 7": [
@@ -12234,7 +12235,7 @@
      ],
      [
       1790834400,
-      100.32
+      100.25
      ]
     ],
     "Grade 9": [
@@ -12288,7 +12289,7 @@
      ],
      [
       1790834400,
-      584.5
+      603.13
      ]
     ],
     "PSA 10": [
@@ -12342,7 +12343,7 @@
      ],
      [
       1790834400,
-      4250.0
+      4083.66
      ]
     ],
     "Grade 8": [
@@ -12450,21 +12451,21 @@
      ],
      [
       1790834400,
-      55.52
+      65.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 17.1,
      "7d": null,
-     "30d": -14.6,
+     "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -3.9,
      "7d": null,
-     "30d": 0.0,
+     "30d": -3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -12833,13 +12834,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 2.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -4.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12848,16 +12849,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.8,
-     "now": 1670.0,
+     "pct": 4.0,
+     "now": 1690.0,
      "base": 1625.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 162.5
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.3,
-     "now": 15758.75,
+     "pct": -8.6,
+     "now": 15372.5,
      "base": 16814.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 1681.45
@@ -13587,7 +13588,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -13602,8 +13603,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.7,
-     "now": 289.645,
+     "pct": 2.5,
+     "now": 288.93,
      "base": 282.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 28.2
@@ -13970,7 +13971,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -13987,8 +13988,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -5.9,
-     "now": 13813.625,
+     "pct": -6.6,
+     "now": 13701.5,
      "base": 14675.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 1467.5
@@ -14341,13 +14342,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -17.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -14356,16 +14357,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -15.4,
-     "now": 1599.745,
+     "pct": -17.5,
+     "now": 1560.7,
      "base": 1891.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 189.15
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -1.8,
-     "now": 19100.379999999997,
+     "pct": -2.3,
+     "now": 19000.76,
      "base": 19443.62,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 1944.36
@@ -14383,12 +14384,12 @@
    "title": "Giannis Antetokounmpo #290 Prices [Rookie]",
    "set": "2013 Panini Prizm",
    "prices": {
-    "Ungraded": 164.89,
+    "Ungraded": 164.32,
     "Grade 7": 93.5,
-    "Grade 8": 166.0,
-    "Grade 9": 259.28,
-    "Grade 9.5": 302.5,
-    "PSA 10": 650.62
+    "Grade 8": 166.06,
+    "Grade 9": 258.56,
+    "Grade 9.5": 300.6,
+    "PSA 10": 648.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -14442,7 +14443,7 @@
      ],
      [
       1790834400,
-      302.5
+      300.6
      ]
     ],
     "Grade 7": [
@@ -14550,7 +14551,7 @@
      ],
      [
       1790834400,
-      259.28
+      258.56
      ]
     ],
     "PSA 10": [
@@ -14604,7 +14605,7 @@
      ],
      [
       1790834400,
-      650.62
+      648.0
      ]
     ],
     "Grade 8": [
@@ -14658,7 +14659,7 @@
      ],
      [
       1790834400,
-      166.0
+      166.06
      ]
     ],
     "Ungraded": [
@@ -14712,21 +14713,21 @@
      ],
      [
       1790834400,
-      164.89
+      164.32
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.3,
      "7d": null,
-     "30d": -11.3,
+     "30d": -11.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.4,
      "7d": null,
-     "30d": -2.4,
+     "30d": -2.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -14760,12 +14761,12 @@
    "title": "Jayson Tatum #16 Prices [Rookie]",
    "set": "2017 Panini Prizm",
    "prices": {
-    "Ungraded": 20.76,
+    "Ungraded": 21.0,
     "Grade 7": 16.99,
     "Grade 8": 19.01,
-    "Grade 9": 35.0,
+    "Grade 9": 34.54,
     "Grade 9.5": 57.5,
-    "PSA 10": 97.5
+    "PSA 10": 97.25
    },
    "monthly": {
     "Grade 9.5": [
@@ -14927,7 +14928,7 @@
      ],
      [
       1790834400,
-      35.0
+      34.54
      ]
     ],
     "PSA 10": [
@@ -14981,7 +14982,7 @@
      ],
      [
       1790834400,
-      97.5
+      97.25
      ]
     ],
     "Grade 8": [
@@ -15089,21 +15090,21 @@
      ],
      [
       1790834400,
-      20.76
+      21.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 1.2,
      "7d": null,
-     "30d": 8.4,
+     "30d": 9.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.3,
      "7d": null,
-     "30d": 2.2,
+     "30d": 1.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -15472,13 +15473,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 2.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 3.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -15487,16 +15488,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.9,
-     "now": 52.935,
+     "pct": 4.0,
+     "now": 53.5,
      "base": 51.45,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.15
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.0,
-     "now": 204.0,
+     "pct": 3.7,
+     "now": 207.49,
      "base": 200.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 20.0
@@ -16268,12 +16269,12 @@
    "title": "Anthony Edwards #258 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 10.11,
-    "Grade 7": 10.49,
+    "Ungraded": 10.06,
+    "Grade 7": 10.54,
     "Grade 8": 14.77,
     "Grade 9": 33.5,
     "Grade 9.5": 35.78,
-    "PSA 10": 146.44
+    "PSA 10": 145.25
    },
    "monthly": {
     "Grade 9.5": [
@@ -16381,7 +16382,7 @@
      ],
      [
       1790834400,
-      10.49
+      10.54
      ]
     ],
     "Grade 9": [
@@ -16489,7 +16490,7 @@
      ],
      [
       1790834400,
-      146.44
+      145.25
      ]
     ],
     "Grade 8": [
@@ -16597,21 +16598,21 @@
      ],
      [
       1790834400,
-      10.11
+      10.06
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.5,
      "7d": null,
-     "30d": 1.2,
+     "30d": 0.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.8,
      "7d": null,
-     "30d": 13.4,
+     "30d": 12.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -16980,13 +16981,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -5.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -2.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16995,16 +16996,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -5.6,
-     "now": 69.42,
+     "pct": -8.0,
+     "now": 67.62,
      "base": 73.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 7.35
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.6,
-     "now": 359.08500000000004,
+     "pct": 1.4,
+     "now": 355.0,
      "base": 350.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 35.0
@@ -17016,18 +17017,19 @@
    "sport": "NFL",
    "name": "Jim Brown 1958 Topps #62",
    "path": "football-cards-1958-topps/jim-brown-62",
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/corrxw2ep5vesnnrowsw/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrxw2ep5vesnnrowsw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/football-cards-1958-topps/jim-brown-62",
    "title": "Jim Brown #62 Prices [Rookie]",
    "set": "1958 Topps",
    "prices": {
-    "Ungraded": 453.0,
+    "Ungraded": 434.76,
     "Grade 7": 6450.0,
-    "Grade 8": 36504.2,
-    "Grade 9": 40155.0,
-    "Grade 9.5": 44171.0,
-    "PSA 10": 101683.2
+    "Grade 8": 29280.0,
+    "Grade 9": 32208.0,
+    "Grade 9.5": 35429.0,
+    "PSA 10": 91336.6
    },
    "monthly": {
     "Grade 9.5": [
@@ -17081,7 +17083,7 @@
      ],
      [
       1790834400,
-      44171.0
+      35429.0
      ]
     ],
     "Grade 7": [
@@ -17189,7 +17191,7 @@
      ],
      [
       1790834400,
-      40155.0
+      32208.0
      ]
     ],
     "PSA 10": [
@@ -17243,7 +17245,7 @@
      ],
      [
       1790834400,
-      101683.2
+      91336.6
      ]
     ],
     "Grade 8": [
@@ -17297,7 +17299,7 @@
      ],
      [
       1790834400,
-      36504.2
+      29280.0
      ]
     ],
     "Ungraded": [
@@ -17351,21 +17353,21 @@
      ],
      [
       1790834400,
-      453.0
+      434.76
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -4.0,
      "7d": null,
-     "30d": -36.0,
+     "30d": -38.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -10.2,
      "7d": null,
-     "30d": -22.0,
+     "30d": -29.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -17386,8 +17388,7 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 13028.59
     }
-   },
-   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
+   }
   },
   {
    "cat": "sports",
@@ -18112,13 +18113,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -11.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18127,8 +18128,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -15.8,
-     "now": 53.75,
+     "pct": -20.9,
+     "now": 50.5,
      "base": 63.81,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 6.38
@@ -18136,7 +18137,7 @@
     "PSA 10": {
      "flag": "normal",
      "pct": -0.1,
-     "now": 71459.755,
+     "now": 71458.77,
      "base": 71506.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 7150.6
@@ -18531,12 +18532,12 @@
    "title": "Aaron Rodgers #431 Prices [Rookie]",
    "set": "2005 Topps",
    "prices": {
-    "Ungraded": 18.91,
-    "Grade 7": 21.76,
-    "Grade 8": 30.42,
+    "Ungraded": 18.79,
+    "Grade 7": 21.89,
+    "Grade 8": 30.5,
     "Grade 9": 56.6,
-    "Grade 9.5": 110.09,
-    "PSA 10": 271.65
+    "Grade 9.5": 110.04,
+    "PSA 10": 272.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -18590,7 +18591,7 @@
      ],
      [
       1790834400,
-      110.09
+      110.04
      ]
     ],
     "Grade 7": [
@@ -18644,7 +18645,7 @@
      ],
      [
       1790834400,
-      21.76
+      21.89
      ]
     ],
     "Grade 9": [
@@ -18752,7 +18753,7 @@
      ],
      [
       1790834400,
-      271.65
+      272.5
      ]
     ],
     "Grade 8": [
@@ -18806,7 +18807,7 @@
      ],
      [
       1790834400,
-      30.42
+      30.5
      ]
     ],
     "Ungraded": [
@@ -18860,21 +18861,21 @@
      ],
      [
       1790834400,
-      18.91
+      18.79
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.6,
      "7d": null,
-     "30d": 6.5,
+     "30d": 5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 0.3,
      "7d": null,
-     "30d": -4.4,
+     "30d": -4.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -20320,7 +20321,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -12.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -20335,8 +20336,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 1.4,
-     "now": 30.485,
+     "pct": -5.3,
+     "now": 28.47,
      "base": 30.06,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -20362,11 +20363,11 @@
    "title": "Kyler Murray #301 Prices [Rookie]",
    "set": "2019 Panini Prizm",
    "prices": {
-    "Ungraded": 3.68,
+    "Ungraded": 2.63,
     "Grade 7": 10.0,
     "Grade 8": 10.5,
-    "Grade 9": 18.91,
-    "Grade 9.5": 20.0,
+    "Grade 9": 20.25,
+    "Grade 9.5": 22.0,
     "PSA 10": 46.02
    },
    "monthly": {
@@ -20421,7 +20422,7 @@
      ],
      [
       1790834400,
-      20.0
+      22.0
      ]
     ],
     "Grade 7": [
@@ -20529,7 +20530,7 @@
      ],
      [
       1790834400,
-      18.91
+      20.25
      ]
     ],
     "PSA 10": [
@@ -20691,15 +20692,15 @@
      ],
      [
       1790834400,
-      3.68
+      2.63
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -28.5,
      "7d": null,
-     "30d": -16.2,
+     "30d": -40.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -21074,7 +21075,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -9.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -21089,8 +21090,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -16.0,
-     "now": 12.565,
+     "pct": -20.1,
+     "now": 11.95,
      "base": 14.96,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -21451,7 +21452,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 1.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -27.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -21466,8 +21467,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -28.2,
-     "now": 5.215,
+     "pct": -27.8,
+     "now": 5.24,
      "base": 7.26,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -22576,13 +22577,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -25.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -49.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -22591,16 +22592,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -40.5,
-     "now": 1.855,
+     "pct": -49.0,
+     "now": 1.59,
      "base": 3.12,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -10.9,
-     "now": 50.75,
+     "pct": -11.4,
+     "now": 50.5,
      "base": 56.97,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.7
@@ -22953,7 +22954,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -1.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -23.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -22968,8 +22969,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -22.3,
-     "now": 4.66,
+     "pct": -23.0,
+     "now": 4.62,
      "base": 6.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -22989,18 +22990,19 @@
    "sport": "MLB",
    "name": "Willie Mays 1951 Bowman #305",
    "path": "baseball-cards-1951-bowman/willie-mays-305",
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/u3ft7425ranmsnbq/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/u3ft7425ranmsnbq/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1951-bowman/willie-mays-305",
    "title": "Willie Mays #305 Prices [Rookie]",
    "set": "1951 Bowman",
    "prices": {
-    "Ungraded": 2315.6,
-    "Grade 7": 48800.0,
-    "Grade 8": 197640.0,
-    "Grade 9": 217404.0,
-    "Grade 9.5": 239144.0,
-    "PSA 10": 584986.94
+    "Ungraded": 2305.42,
+    "Grade 7": 51397.83,
+    "Grade 8": 191540.0,
+    "Grade 9": 210694.0,
+    "Grade 9.5": 231763.0,
+    "PSA 10": 580935.07
    },
    "monthly": {
     "Grade 9.5": [
@@ -23054,7 +23056,7 @@
      ],
      [
       1790834400,
-      239144.0
+      231763.0
      ]
     ],
     "Grade 7": [
@@ -23108,7 +23110,7 @@
      ],
      [
       1790834400,
-      48800.0
+      51397.83
      ]
     ],
     "Grade 9": [
@@ -23162,7 +23164,7 @@
      ],
      [
       1790834400,
-      217404.0
+      210694.0
      ]
     ],
     "PSA 10": [
@@ -23216,7 +23218,7 @@
      ],
      [
       1790834400,
-      584986.94
+      580935.07
      ]
     ],
     "Grade 8": [
@@ -23270,7 +23272,7 @@
      ],
      [
       1790834400,
-      197640.0
+      191540.0
      ]
     ],
     "Ungraded": [
@@ -23324,21 +23326,21 @@
      ],
      [
       1790834400,
-      2315.6
+      2305.42
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.4,
      "7d": null,
-     "30d": -4.3,
+     "30d": -4.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.7,
      "7d": null,
-     "30d": -7.5,
+     "30d": -8.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -23359,14 +23361,14 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 63256.32
     }
-   },
-   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
+   }
   },
   {
    "cat": "sports",
    "sport": "MLB",
    "name": "Mickey Mantle 1952 Topps #311",
    "path": "baseball-cards-1952-topps/mickey-mantle-311",
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/corrti6cn5ll6nfk6aj6/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/corrti6cn5ll6nfk6aj6/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1952-topps/mickey-mantle-311",
@@ -23737,14 +23739,14 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 976986.04
     }
-   },
-   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
+   }
   },
   {
    "cat": "sports",
    "sport": "MLB",
    "name": "Willie Mays 1952 Topps #261",
    "path": "baseball-cards-1952-topps/willie-mays-261",
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/mr4o5d6ifjrizwap/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/mr4o5d6ifjrizwap/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1952-topps/willie-mays-261",
@@ -24115,14 +24117,14 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 62382.7
     }
-   },
-   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
+   }
   },
   {
    "cat": "sports",
    "sport": "MLB",
    "name": "Hank Aaron 1954 Topps #128",
    "path": "baseball-cards-1954-topps/henry-'hank'-aaron-128",
+   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/npnnsthqmynk24qw/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/npnnsthqmynk24qw/1600.jpg",
    "url": "https://www.sportscardspro.com/game/baseball-cards-1954-topps/henry-%27hank%27-aaron-128",
@@ -24493,8 +24495,7 @@
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 66674.85
     }
-   },
-   "note": "PSA 10 history on this page includes low-grade and other-grader sales, so the PSA 10 number isn't reliable. Use the raw or mid-grade prices."
+   }
   },
   {
    "cat": "sports",
@@ -24884,10 +24885,10 @@
    "title": "Ken Griffey Jr. #1 Prices [Rookie]",
    "set": "1989 Upper Deck",
    "prices": {
-    "Ungraded": 96.0,
+    "Ungraded": 98.0,
     "Grade 7": 119.98,
-    "Grade 8": 158.7,
-    "Grade 9": 489.99,
+    "Grade 8": 159.55,
+    "Grade 9": 487.99,
     "Grade 9.5": 1899.99,
     "PSA 10": 5715.01
    },
@@ -25051,7 +25052,7 @@
      ],
      [
       1790834400,
-      489.99
+      487.99
      ]
     ],
     "PSA 10": [
@@ -25159,7 +25160,7 @@
      ],
      [
       1790834400,
-      158.7
+      159.55
      ]
     ],
     "Ungraded": [
@@ -25213,15 +25214,15 @@
      ],
      [
       1790834400,
-      96.0
+      98.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.1,
      "7d": null,
-     "30d": -0.9,
+     "30d": 1.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -26015,12 +26016,12 @@
    "title": "Aaron Judge [Rookie Debut] #US99 Prices [Rookie]",
    "set": "2017 Topps Update",
    "prices": {
-    "Ungraded": 26.13,
-    "Grade 7": 29.98,
-    "Grade 8": 40.19,
-    "Grade 9": 70.01,
-    "Grade 9.5": 77.0,
-    "PSA 10": 209.75
+    "Ungraded": 25.0,
+    "Grade 7": 29.99,
+    "Grade 8": 40.5,
+    "Grade 9": 69.5,
+    "Grade 9.5": 76.0,
+    "PSA 10": 217.13
    },
    "monthly": {
     "Grade 9.5": [
@@ -26074,7 +26075,7 @@
      ],
      [
       1790834400,
-      77.0
+      76.0
      ]
     ],
     "Grade 7": [
@@ -26128,7 +26129,7 @@
      ],
      [
       1790834400,
-      29.98
+      29.99
      ]
     ],
     "Grade 9": [
@@ -26182,7 +26183,7 @@
      ],
      [
       1790834400,
-      70.01
+      69.5
      ]
     ],
     "PSA 10": [
@@ -26236,7 +26237,7 @@
      ],
      [
       1790834400,
-      209.75
+      217.13
      ]
     ],
     "Grade 8": [
@@ -26290,7 +26291,7 @@
      ],
      [
       1790834400,
-      40.19
+      40.5
      ]
     ],
     "Ungraded": [
@@ -26344,21 +26345,21 @@
      ],
      [
       1790834400,
-      26.13
+      25.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -4.3,
      "7d": null,
-     "30d": -0.5,
+     "30d": -4.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 3.5,
      "7d": null,
-     "30d": -9.8,
+     "30d": -6.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -26392,12 +26393,12 @@
    "title": "Shohei Ohtani #US1 Prices [Rookie]",
    "set": "2018 Topps Update",
    "prices": {
-    "Ungraded": 116.25,
+    "Ungraded": 115.0,
     "Grade 7": 103.43,
-    "Grade 8": 122.0,
-    "Grade 9": 175.0,
-    "Grade 9.5": 473.0,
-    "PSA 10": 482.5
+    "Grade 8": 119.99,
+    "Grade 9": 158.47,
+    "Grade 9.5": 480.0,
+    "PSA 10": 490.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -26451,7 +26452,7 @@
      ],
      [
       1790834400,
-      473.0
+      480.0
      ]
     ],
     "Grade 7": [
@@ -26559,7 +26560,7 @@
      ],
      [
       1790834400,
-      175.0
+      158.47
      ]
     ],
     "PSA 10": [
@@ -26613,7 +26614,7 @@
      ],
      [
       1790834400,
-      482.5
+      490.0
      ]
     ],
     "Grade 8": [
@@ -26667,7 +26668,7 @@
      ],
      [
       1790834400,
-      122.0
+      119.99
      ]
     ],
     "Ungraded": [
@@ -26721,21 +26722,21 @@
      ],
      [
       1790834400,
-      116.25
+      115.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.1,
      "7d": null,
-     "30d": 0.9,
+     "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 1.6,
      "7d": null,
-     "30d": -11.6,
+     "30d": -10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -26769,12 +26770,12 @@
    "title": "Shohei Ohtani #HMT1 Prices [Rookie]",
    "set": "2018 Topps Chrome Update",
    "prices": {
-    "Ungraded": 249.7,
+    "Ungraded": 238.76,
     "Grade 7": 107.5,
     "Grade 8": 233.75,
-    "Grade 9": 330.0,
-    "Grade 9.5": 399.0,
-    "PSA 10": 909.12
+    "Grade 9": 326.27,
+    "Grade 9.5": 396.68,
+    "PSA 10": 836.76
    },
    "monthly": {
     "Grade 9.5": [
@@ -26828,7 +26829,7 @@
      ],
      [
       1790834400,
-      399.0
+      396.68
      ]
     ],
     "Grade 7": [
@@ -26936,7 +26937,7 @@
      ],
      [
       1790834400,
-      330.0
+      326.27
      ]
     ],
     "PSA 10": [
@@ -26990,7 +26991,7 @@
      ],
      [
       1790834400,
-      909.12
+      836.76
      ]
     ],
     "Grade 8": [
@@ -27098,21 +27099,21 @@
      ],
      [
       1790834400,
-      249.7
+      238.76
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -4.4,
      "7d": null,
-     "30d": 6.9,
+     "30d": 2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -8.0,
      "7d": null,
-     "30d": -6.3,
+     "30d": -13.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -27146,12 +27147,12 @@
    "title": "Ronald Acuna Jr. #US250 Prices [Rookie]",
    "set": "2018 Topps Update",
    "prices": {
-    "Ungraded": 4.63,
+    "Ungraded": 4.69,
     "Grade 7": 12.0,
     "Grade 8": 15.11,
-    "Grade 9": 17.73,
-    "Grade 9.5": 21.62,
-    "PSA 10": 39.72
+    "Grade 9": 17.65,
+    "Grade 9.5": 21.68,
+    "PSA 10": 40.35
    },
    "monthly": {
     "Grade 9.5": [
@@ -27205,7 +27206,7 @@
      ],
      [
       1790834400,
-      21.62
+      21.68
      ]
     ],
     "Grade 7": [
@@ -27313,7 +27314,7 @@
      ],
      [
       1790834400,
-      17.73
+      17.65
      ]
     ],
     "PSA 10": [
@@ -27367,7 +27368,7 @@
      ],
      [
       1790834400,
-      39.72
+      40.35
      ]
     ],
     "Grade 8": [
@@ -27475,21 +27476,21 @@
      ],
      [
       1790834400,
-      4.63
+      4.69
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 1.3,
      "7d": null,
-     "30d": -34.5,
+     "30d": -33.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 1.6,
      "7d": null,
-     "30d": 5.9,
+     "30d": 7.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -27523,11 +27524,11 @@
    "title": "Pete Alonso #US47 Prices",
    "set": "2019 Topps Update",
    "prices": {
-    "Ungraded": 0.99,
+    "Ungraded": 1.27,
     "Grade 7": 3.0,
     "Grade 8": 4.25,
     "Grade 9": 8.39,
-    "Grade 9.5": 12.07,
+    "Grade 9.5": 12.0,
     "PSA 10": 19.15
    },
    "monthly": {
@@ -27582,7 +27583,7 @@
      ],
      [
       1790834400,
-      12.07
+      12.0
      ]
     ],
     "Grade 7": [
@@ -27852,15 +27853,15 @@
      ],
      [
       1790834400,
-      0.99
+      1.27
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 28.3,
      "7d": null,
-     "30d": -47.6,
+     "30d": -32.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -28238,7 +28239,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28252,8 +28253,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.1,
-     "now": 22.54,
+     "pct": -5.0,
+     "now": 22.33,
      "base": 23.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -29360,7 +29361,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 4.9,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -29375,8 +29376,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.4,
-     "now": 117.22,
+     "pct": 5.8,
+     "now": 120.0,
      "base": 113.4,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 11.34
@@ -29779,12 +29780,12 @@
    "title": "Mega Charizard X ex #125 Prices",
    "set": "Pokemon Phantasmal Flames",
    "prices": {
-    "Ungraded": 650.0,
+    "Ungraded": 700.0,
     "Grade 7": 482.0,
     "Grade 8": 603.0,
-    "Grade 9": 625.71,
-    "Grade 9.5": 1044.2,
-    "PSA 10": 1466.44
+    "Grade 9": 635.35,
+    "Grade 9.5": 1044.06,
+    "PSA 10": 1449.72
    },
    "monthly": {
     "Grade 9.5": [
@@ -29834,7 +29835,7 @@
      ],
      [
       1790834400,
-      1044.2
+      1044.06
      ]
     ],
     "Grade 7": [
@@ -29926,7 +29927,7 @@
      ],
      [
       1790834400,
-      625.71
+      635.35
      ]
     ],
     "PSA 10": [
@@ -29976,7 +29977,7 @@
      ],
      [
       1790834400,
-      1466.44
+      1449.72
      ]
     ],
     "Grade 8": [
@@ -30072,21 +30073,21 @@
      ],
      [
       1790834400,
-      650.0
+      700.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 7.7,
      "7d": null,
-     "30d": -10.9,
+     "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -1.1,
      "7d": null,
-     "30d": -7.7,
+     "30d": -8.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -30462,7 +30463,7 @@
    "title": "Monster Reborn LOB-118 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 11.99,
+    "Ungraded": 12.25,
     "Grade 7": 34.0,
     "Grade 8": 42.0,
     "Grade 9": 78.0,
@@ -30791,7 +30792,7 @@
      ],
      [
       1790834400,
-      11.99
+      12.25
      ]
     ]
    },
@@ -30808,9 +30809,9 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.2,
      "7d": null,
-     "30d": -4.1,
+     "30d": -2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -30853,10 +30854,10 @@
    "prices": {
     "Ungraded": 6.49,
     "Grade 7": 17.0,
-    "Grade 8": 50.28,
+    "Grade 8": 49.96,
     "Grade 9": 109.0,
     "Grade 9.5": 120.0,
-    "PSA 10": 205.95
+    "PSA 10": 205.99
    },
    "monthly": {
     "Grade 9.5": [
@@ -31072,7 +31073,7 @@
      ],
      [
       1790834400,
-      205.95
+      205.99
      ]
     ],
     "Grade 8": [
@@ -31126,7 +31127,7 @@
      ],
      [
       1790834400,
-      50.28
+      49.96
      ]
     ],
     "Ungraded": [
@@ -31966,8 +31967,8 @@
     "set_code": "TDGS-EN040",
     "set_price": 31.54,
     "all_printings_low": {
-     "cardmarket": 0.47,
-     "tcgplayer": 0.65,
+     "cardmarket": 0.46,
+     "tcgplayer": 0.64,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -32301,8 +32302,8 @@
     "set_code": "LED7-EN000",
     "set_price": 37.57,
     "all_printings_low": {
-     "cardmarket": 0.74,
-     "tcgplayer": 1.05,
+     "cardmarket": 0.73,
+     "tcgplayer": 1.18,
      "ebay": 1.33,
      "amazon": 3.59,
      "coolstuffinc": 1.99
@@ -32685,8 +32686,8 @@
     "set_code": "MACR-EN036",
     "set_price": 98.04,
     "all_printings_low": {
-     "cardmarket": 0.45,
-     "tcgplayer": 0.43,
+     "cardmarket": 0.48,
+     "tcgplayer": 0.45,
      "ebay": 11.95,
      "amazon": 28.99,
      "coolstuffinc": 4.99
@@ -33075,7 +33076,7 @@
     "set_price": 478.09,
     "all_printings_low": {
      "cardmarket": 0.1,
-     "tcgplayer": 0.45,
+     "tcgplayer": 0.54,
      "ebay": 2.9,
      "amazon": 5.9,
      "coolstuffinc": 1.49
@@ -33463,8 +33464,8 @@
     "set_code": "DAMA-EN100",
     "set_price": 635.43,
     "all_printings_low": {
-     "cardmarket": 0.47,
-     "tcgplayer": 0.65,
+     "cardmarket": 0.46,
+     "tcgplayer": 0.64,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -33853,7 +33854,7 @@
     "set_price": 27.0,
     "all_printings_low": {
      "cardmarket": 1.62,
-     "tcgplayer": 4.55,
+     "tcgplayer": 4.62,
      "ebay": 7.5,
      "amazon": 69.99,
      "coolstuffinc": 13.99
@@ -34241,8 +34242,8 @@
     "set_code": "MP25-EN102",
     "set_price": null,
     "all_printings_low": {
-     "cardmarket": 5.01,
-     "tcgplayer": 8.75
+     "cardmarket": 5.12,
+     "tcgplayer": 8.76
     }
    },
    "change": {
@@ -34624,7 +34625,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -34639,8 +34640,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.6,
-     "now": 433.71000000000004,
+     "pct": 3.5,
+     "now": 433.35,
      "base": 418.7,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 41.87
@@ -35001,13 +35002,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -16.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -3.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -35016,16 +35017,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -15.3,
-     "now": 4002.8599999999997,
+     "pct": -16.3,
+     "now": 3955.72,
      "base": 4725.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 472.5
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.7,
-     "now": 22741.645,
+     "pct": -8.5,
+     "now": 22303.29,
      "base": 24365.51,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 2436.55
@@ -35378,13 +35379,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -1.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -35393,16 +35394,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -11.4,
-     "now": 4.4399999999999995,
+     "pct": -12.0,
+     "now": 4.41,
      "base": 5.01,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.0,
-     "now": 54.045,
+     "pct": -5.8,
+     "now": 54.15,
      "base": 57.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.75
@@ -35703,10 +35704,10 @@
    "set": "2003 Topps",
    "prices": {
     "Ungraded": 731.5,
-    "Grade 7": 710.88,
-    "Grade 8": 870.0,
-    "Grade 9": 1484.13,
-    "Grade 9.5": 2376.13,
+    "Grade 7": 708.77,
+    "Grade 8": 866.0,
+    "Grade 9": 1472.79,
+    "Grade 9.5": 2348.44,
     "PSA 10": 6441.99
    },
    "monthly": {
@@ -35761,7 +35762,7 @@
      ],
      [
       1790834400,
-      2376.13
+      2348.44
      ]
     ],
     "Grade 7": [
@@ -35815,7 +35816,7 @@
      ],
      [
       1790834400,
-      710.88
+      708.77
      ]
     ],
     "Grade 9": [
@@ -35869,7 +35870,7 @@
      ],
      [
       1790834400,
-      1484.13
+      1472.79
      ]
     ],
     "PSA 10": [
@@ -35977,7 +35978,7 @@
      ],
      [
       1790834400,
-      870.0
+      866.0
      ]
     ],
     "Ungraded": [
@@ -36833,12 +36834,12 @@
    "title": "LaMelo Ball #278 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 2.37,
+    "Ungraded": 2.47,
     "Grade 7": 3.75,
-    "Grade 8": 5.67,
-    "Grade 9": 17.85,
-    "Grade 9.5": 20.0,
-    "PSA 10": 55.5
+    "Grade 8": 5.59,
+    "Grade 9": 18.99,
+    "Grade 9.5": 21.0,
+    "PSA 10": 56.26
    },
    "monthly": {
     "Grade 9.5": [
@@ -36892,7 +36893,7 @@
      ],
      [
       1790834400,
-      20.0
+      21.0
      ]
     ],
     "Grade 7": [
@@ -37000,7 +37001,7 @@
      ],
      [
       1790834400,
-      17.85
+      18.99
      ]
     ],
     "PSA 10": [
@@ -37054,7 +37055,7 @@
      ],
      [
       1790834400,
-      55.5
+      56.26
      ]
     ],
     "Grade 8": [
@@ -37108,7 +37109,7 @@
      ],
      [
       1790834400,
-      5.67
+      5.59
      ]
     ],
     "Ungraded": [
@@ -37162,21 +37163,21 @@
      ],
      [
       1790834400,
-      2.37
+      2.47
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 4.2,
      "7d": null,
-     "30d": -15.4,
+     "30d": -11.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 1.4,
      "7d": null,
-     "30d": 0.9,
+     "30d": 2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -37486,13 +37487,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 10.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 18.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -37501,16 +37502,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 13.0,
-     "now": 21.045,
+     "pct": 18.6,
+     "now": 22.1,
      "base": 18.63,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -1.3,
-     "now": 299.135,
+     "pct": -2.1,
+     "now": 296.5,
      "base": 303.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 30.3
@@ -38592,13 +38593,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -3.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -25.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -18.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -27.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -38606,17 +38607,17 @@
    },
    "signal": {
     "Ungraded": {
-     "flag": "normal",
-     "pct": -24.2,
-     "now": 556.22,
+     "flag": "DROP_WATCH",
+     "pct": -25.7,
+     "now": 545.15,
      "base": 734.19,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 73.42
     },
     "PSA 10": {
-     "flag": "normal",
-     "pct": -19.7,
-     "now": 1069.83,
+     "flag": "DROP_WATCH",
+     "pct": -27.6,
+     "now": 964.0,
      "base": 1332.25,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 133.22
@@ -38634,12 +38635,12 @@
    "title": "Juan Soto #US300 Prices [Rookie]",
    "set": "2018 Topps Update",
    "prices": {
-    "Ungraded": 7.31,
-    "Grade 7": 11.23,
+    "Ungraded": 6.51,
+    "Grade 7": 11.32,
     "Grade 8": 14.5,
-    "Grade 9": 20.5,
+    "Grade 9": 20.15,
     "Grade 9.5": 31.0,
-    "PSA 10": 38.21
+    "PSA 10": 39.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -38747,7 +38748,7 @@
      ],
      [
       1790834400,
-      11.23
+      11.32
      ]
     ],
     "Grade 9": [
@@ -38801,7 +38802,7 @@
      ],
      [
       1790834400,
-      20.5
+      20.15
      ]
     ],
     "PSA 10": [
@@ -38855,7 +38856,7 @@
      ],
      [
       1790834400,
-      38.21
+      39.5
      ]
     ],
     "Grade 8": [
@@ -38963,21 +38964,21 @@
      ],
      [
       1790834400,
-      7.31
+      6.51
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -10.9,
      "7d": null,
-     "30d": 0.1,
+     "30d": -10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 3.4,
      "7d": null,
-     "30d": -4.5,
+     "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -41368,13 +41369,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -41745,13 +41746,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -42122,13 +42123,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -42499,13 +42500,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -42876,13 +42877,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -43253,13 +43254,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 6.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -9.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -43630,13 +43631,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -44007,13 +44008,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -44384,13 +44385,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -44761,13 +44762,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -18.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -45138,13 +45139,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -45514,13 +45515,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -18.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -45890,13 +45891,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46279,13 +46280,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46657,7 +46658,7 @@
     "set_price": 18.76,
     "all_printings_low": {
      "cardmarket": 0.11,
-     "tcgplayer": 0.24,
+     "tcgplayer": 0.25,
      "ebay": 2.99,
      "amazon": 2.69,
      "coolstuffinc": 0.99
@@ -46665,13 +46666,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46700,6 +46701,7 @@
    "cat": "yugioh",
    "name": "2002 Collector's Tin (sealed; generic tin page)",
    "path": "yugioh-2002-collector's-tin/sealed-tin",
+   "note": "PriceCharting page is a generic 2002 sealed tin and doesn't identify the Joey tin. Confirm the tin before relying on this price.",
    "img": "https://storage.googleapis.com/images.pricecharting.com/umycdx3i4orntj4y/240.jpg",
    "img_lg": "https://storage.googleapis.com/images.pricecharting.com/umycdx3i4orntj4y/1600.jpg",
    "url": "https://www.pricecharting.com/game/yugioh-2002-collector%27s-tin/sealed-tin",
@@ -46771,7 +46773,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46795,8 +46797,7 @@
     "PSA 10": {
      "flag": "insufficient_data"
     }
-   },
-   "note": "PriceCharting page is a generic 2002 sealed tin and doesn't identify the Joey tin. Confirm the tin before relying on this price."
+   }
   },
   {
    "cat": "sports",
@@ -47090,13 +47091,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 12.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -47467,13 +47468,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -47509,11 +47510,11 @@
    "title": "Victor Wembanyama #87 Prices [Rookie]",
    "set": "2023 Panini Select",
    "prices": {
-    "Ungraded": 15.75,
+    "Ungraded": 16.63,
     "Grade 7": 5.5,
     "Grade 8": 22.5,
-    "Grade 9": 49.75,
-    "Grade 9.5": 77.92,
+    "Grade 9": 49.87,
+    "Grade 9.5": 56.07,
     "PSA 10": 124.12
    },
    "monthly": {
@@ -47568,7 +47569,7 @@
      ],
      [
       1790834400,
-      77.92
+      56.07
      ]
     ],
     "Grade 7": [
@@ -47676,7 +47677,7 @@
      ],
      [
       1790834400,
-      49.75
+      49.87
      ]
     ],
     "PSA 10": [
@@ -47838,19 +47839,19 @@
      ],
      [
       1790834400,
-      15.75
+      16.63
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 5.6,
      "7d": null,
-     "30d": 5.0,
+     "30d": 10.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -47859,8 +47860,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 5.0,
-     "now": 15.75,
+     "pct": 7.9,
+     "now": 16.189999999999998,
      "base": 15.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -48221,13 +48222,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"

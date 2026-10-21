@@ -783,5 +783,95 @@
   "name": "Victor Wembanyama 2023-24 Topps Chrome Roundball Royalty #RR-26 RC",
   "path": "basketball-cards-2023-topps-chrome-roundball-royalty/victor-wembanyama-rr-26",
   "sport": "NBA"
+ },
+ {
+  "cat": "pokemon",
+  "name": "Charizard #4 (Base Set, 1st Edition)",
+  "path": "pokemon-base-set/charizard-1st-edition-4"
+ },
+ {
+  "cat": "pokemon",
+  "name": "Blastoise #2 (Base Set, 1st Edition)",
+  "path": "pokemon-base-set/blastoise-1st-edition-2"
+ },
+ {
+  "cat": "pokemon",
+  "name": "Venusaur #15 (Base Set, 1st Edition)",
+  "path": "pokemon-base-set/venusaur-1st-edition-15"
+ },
+ {
+  "cat": "pokemon",
+  "name": "Mewtwo #10 (Base Set, 1st Edition)",
+  "path": "pokemon-base-set/mewtwo-1st-edition-10"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Blue-Eyes White Dragon LOB-001 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-1st-edition-lob-001"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Right Leg of the Forbidden One LOB-120 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-1st-edition-lob-120"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Left Arm of the Forbidden One LOB-123 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-1st-edition-lob-123"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Gaia the Fierce Knight LOB-006 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-1st-edition-lob-006"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Blue-Eyes White Dragon SDK-001 (1st Edition)",
+  "path": "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-1st-edition-sdk-001"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Black Skull Dragon MRD-018 (1st Edition)",
+  "path": "yugioh-metal-raiders/black-skull-dragon-1st-edition-mrd-018"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Jinzo PSV-000 (1st Edition)",
+  "path": "yugioh-pharaoh's-servant/jinzo-1st-edition-psv-000"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Monster Reborn LOB-118 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-1st-edition-lob-118"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Pot of Greed LOB-119 (1st Edition)",
+  "path": "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-1st-edition-lob-119"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Stardust Dragon Ghost Rare TDGS-EN040 (1st Edition)",
+  "path": "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-1st-edition-tdgs-en040"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Ash Blossom & Joyous Spring MACR-EN036 (1st Edition)",
+  "path": "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-1st-edition-macr-en036"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Blue-Eyes White Dragon SKE-001 (1st Edition)",
+  "path": "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-1st-edition-ske-001"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Blue-Eyes Toon Dragon SDP-020 (1st Edition)",
+  "path": "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-1st-edition-sdp-020"
+ },
+ {
+  "cat": "yugioh",
+  "name": "Red-Eyes B. Dragon SDJ-001 (1st Edition)",
+  "path": "yugioh-starter-deck-joey/red-eyes-black-dragon-1st-edition-sdj-001"
  }
 ]

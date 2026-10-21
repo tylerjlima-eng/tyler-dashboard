@@ -1,53 +1,73 @@
 {
- "generated": "2026-10-20T15:42:16+00:00",
- "as_of": "2026-10-20",
- "prices_updated": "2026-10-20T15:42:16+00:00",
+ "generated": "2026-10-21T12:24:04+00:00",
+ "as_of": "2026-10-21",
+ "prices_updated": "2026-10-21T12:21:46+00:00",
  "rule": "research/spike-rule.md",
  "items": {
   "pokemon-base-set/charizard-4": {
    "name": "Charizard #4 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 333.7,
+    "now": 362.39,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 29,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 27058.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 3,
+     "n_sales_listed": 26
+    }
    }
   },
   "pokemon-base-set/blastoise-2": {
    "name": "Blastoise #2 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 99.99,
+    "now": 95.69,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 28,
+     "n_base": 0,
+     "n_sales_listed": 28
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 9000.0,
+    "now": 9187.5,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 2,
+     "n_sales_listed": 27
+    }
    }
   },
   "pokemon-base-set/venusaur-15": {
@@ -57,43 +77,63 @@
     "now": 64.94,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 29,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4959.92,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 7,
+     "n_sales_listed": 24
+    }
    }
   },
   "pokemon-evolving-skies/umbreon-vmax-215": {
    "name": "Umbreon VMAX #215 (Evolving Skies)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1754.79,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -14.3,
+    "now": 1500.0,
+    "base": 1750.0,
+    "floor": 175.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 25,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:21:57+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-215"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 3830.69,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.3,
+    "now": 3674.5,
+    "base": 3800.0,
+    "floor": 380.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 13,
+    "confirm": "0 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:21:57+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-215"
    }
   },
   "pokemon-scarlet-&-violet-151/charizard-ex-199": {
@@ -103,227 +143,327 @@
     "now": 329.49,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 30,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 1380.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -7.7,
+    "now": 1292.78,
+    "base": 1400.0,
+    "floor": 140.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 20,
+    "n_base": 7,
+    "confirm": "0 of 20 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:00+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charizard-ex-199"
    }
   },
   "pokemon-crown-zenith/giratina-vstar-gg69": {
    "name": "Giratina VSTAR GG69 (Crown Zenith)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 268.58,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 4.3,
+    "now": 271.07,
+    "base": 260.0,
+    "floor": 26.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 22,
+    "confirm": "0 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:00+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/giratina-vstar-gg69"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 510.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.7,
+    "now": 506.0,
+    "base": 497.5,
+    "floor": 49.75,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 17,
+    "n_base": 10,
+    "confirm": "0 of 17 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:00+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/giratina-vstar-gg69"
    }
   },
   "pokemon-prismatic-evolutions/umbreon-ex-161": {
    "name": "Umbreon ex #161 (Prismatic Evolutions)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1021.31,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 4.2,
+    "now": 955.0,
+    "base": 916.91,
+    "floor": 91.69,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 14,
+    "confirm": "0 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:06+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/umbreon-ex-161"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 4824.68,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -2.8,
+    "now": 4825.0,
+    "base": 4963.34,
+    "floor": 496.33,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 11,
+    "confirm": "0 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 26,
+    "sales_fetched_at": "2026-10-21T12:22:06+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/umbreon-ex-161"
    }
   },
   "pokemon-paldean-fates/charizard-ex-234": {
    "name": "Charizard ex #234 (Paldean Fates)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 254.87,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -11.0,
+    "now": 226.47,
+    "base": 254.5,
+    "floor": 25.45,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:07+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/charizard-ex-234"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 719.76,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.7,
+    "now": 730.0,
+    "base": 718.0,
+    "floor": 71.8,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 17,
+    "n_base": 12,
+    "confirm": "0 of 17 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:07+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/charizard-ex-234"
    }
   },
   "pokemon-surging-sparks/pikachu-ex-238": {
    "name": "Pikachu ex #238 (Surging Sparks)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 252.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 23.2,
+    "now": 267.87,
+    "base": 217.5,
+    "floor": 21.75,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 24,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:07+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-238"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 761.04,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.3,
+    "now": 741.0,
+    "base": 739.0,
+    "floor": 73.9,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 18,
+    "n_base": 9,
+    "confirm": "0 of 18 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:07+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-238"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001": {
    "name": "Blue-Eyes White Dragon LOB-001 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 86.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 9.3,
+    "now": 82.0,
+    "base": 75.0,
+    "floor": 7.5,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 20,
+    "confirm": "3 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:08+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 5725.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 12.2,
+    "now": 6200.0,
+    "base": 5525.0,
+    "floor": 552.5,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 8,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:08+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-lob-001"
    }
   },
   "basketball-cards-1986-fleer/michael-jordan-57": {
    "name": "Michael Jordan 1986 Fleer #57",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 4511.0,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.1,
+    "now": 4550.0,
+    "base": 4500.0,
+    "floor": 450.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 16,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 21,
+    "sales_fetched_at": "2026-10-21T12:22:24+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/michael-jordan-57"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 394362.5,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 1,
+     "n_sales_listed": 16
+    }
    }
   },
   "basketball-cards-2003-topps-chrome/lebron-james-111": {
    "name": "LeBron James 2003 Topps Chrome #111",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 2387.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 3.7,
+    "now": 2475.0,
+    "base": 2387.5,
+    "floor": 238.75,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 22,
+    "confirm": "2 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:30+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2003-topps-chrome/lebron-james-111"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 13813.62,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 23,
+     "n_sales_listed": 27
+    }
    }
   },
   "basketball-cards-2018-panini-prizm/luka-doncic-280": {
    "name": "Luka Doncic 2018 Prizm #280",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 52.94,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 8.5,
+    "now": 54.77,
+    "base": 50.48,
+    "floor": 5.05,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 8,
+    "confirm": "2 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:34+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2018-panini-prizm/luka-doncic-280"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 204.0,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 4.9,
+    "now": 215.0,
+    "base": 204.99,
+    "floor": 20.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 11,
+    "n_base": 11,
+    "confirm": "1 of 11 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 23,
+    "sales_fetched_at": "2026-10-21T12:22:34+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2018-panini-prizm/luka-doncic-280"
    }
   },
   "basketball-cards-2023-panini-prizm/victor-wembanyama-136": {
    "name": "Victor Wembanyama 2023 Prizm #136",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 69.42,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -1.5,
+    "now": 68.94,
+    "base": 70.0,
+    "floor": 7.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 22,
+    "n_base": 7,
+    "confirm": "0 of 22 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:37+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2023-panini-prizm/victor-wembanyama-136"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 359.09,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 27,
+     "n_base": 0,
+     "n_sales_listed": 28
+    }
    }
   },
   "football-cards-2017-panini-prizm/patrick-mahomes-ii-269": {
@@ -333,43 +473,63 @@
     "now": 788.61,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 4,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 7022.18,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 13
+    }
    }
   },
   "football-cards-2020-panini-prizm/joe-burrow-307": {
    "name": "Joe Burrow 2020 Prizm #307",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 12.56,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -12.7,
+    "now": 12.49,
+    "base": 14.3,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 24,
+    "confirm": "3 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:48+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/joe-burrow-307"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 109.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -21.2,
+    "now": 88.69,
+    "base": 112.5,
+    "floor": 11.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 27,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:48+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/joe-burrow-307"
    }
   },
   "baseball-cards-1952-topps/mickey-mantle-311": {
@@ -379,227 +539,329 @@
     "now": 41959.5,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 11
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 10263808.3,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "baseball-cards-2011-topps-update/mike-trout-us175": {
    "name": "Mike Trout 2011 Topps Update #US175",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 295.79,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -9.0,
+    "now": 273.0,
+    "base": 300.0,
+    "floor": 30.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:01+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2011-topps-update/mike-trout-us175"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 935.27,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.1,
+    "now": 935.53,
+    "base": 935.0,
+    "floor": 93.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 20,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 26,
+    "sales_fetched_at": "2026-10-21T12:23:01+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2011-topps-update/mike-trout-us175"
    }
   },
   "baseball-cards-2018-topps-update/shohei-ohtani-us1": {
    "name": "Shohei Ohtani 2018 Topps Update #US1",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 115.62,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.3,
+    "now": 105.5,
+    "base": 115.0,
+    "floor": 11.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 17,
+    "confirm": "2 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:03+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/shohei-ohtani-us1"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 486.25,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -9.0,
+    "now": 457.5,
+    "base": 502.5,
+    "floor": 50.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 16,
+    "confirm": "0 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:03+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/shohei-ohtani-us1"
    }
   },
   "pokemon-base-set/mewtwo-10": {
    "name": "Mewtwo #10 (Base Set, Unlimited)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 29.27,
+    "now": 30.38,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 30,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 4720.77,
+    "now": 4968.14,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 5,
+     "n_sales_listed": 26
+    }
    }
   },
   "pokemon-evolving-skies/rayquaza-vmax-218": {
    "name": "Rayquaza VMAX #218 (Evolving Skies)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 999.77,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 6.7,
+    "now": 1000.0,
+    "base": 937.5,
+    "floor": 93.75,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:21:58+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-vmax-218"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 2050.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -0.9,
+    "now": 1995.0,
+    "base": 2012.5,
+    "floor": 201.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 18,
+    "confirm": "0 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:21:58+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-vmax-218"
    }
   },
   "pokemon-lost-origin/giratina-v-186": {
    "name": "Giratina V #186 (Lost Origin)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 777.75,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 3.1,
+    "now": 749.99,
+    "base": 727.5,
+    "floor": 72.75,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 26,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:02+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-v-186"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 3150.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.0,
+    "now": 3100.0,
+    "base": 3070.0,
+    "floor": 307.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 11,
+    "n_base": 16,
+    "confirm": "0 of 11 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:02+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-v-186"
    }
   },
   "pokemon-silver-tempest/lugia-v-186": {
    "name": "Lugia V #186 (Silver Tempest)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 456.2,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.8,
+    "now": 423.5,
+    "base": 440.4,
+    "floor": 44.04,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 10,
+    "n_base": 19,
+    "confirm": "2 of 10 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:02+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-v-186"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 1250.0,
+    "now": 1217.49,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 28,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    }
   },
   "pokemon-fusion-strike/gengar-vmax-271": {
    "name": "Gengar VMAX #271 (Fusion Strike)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 738.61,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -6.4,
+    "now": 682.5,
+    "base": 729.5,
+    "floor": 72.95,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 26,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:04+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/gengar-vmax-271"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 2297.65,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -2.8,
+    "now": 2245.0,
+    "base": 2310.0,
+    "floor": 231.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 14,
+    "n_base": 15,
+    "confirm": "0 of 14 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:04+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/gengar-vmax-271"
    }
   },
   "pokemon-hidden-fates/charizard-gx-sv49": {
    "name": "Charizard GX #SV49 (Hidden Fates)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 599.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.7,
+    "now": 584.98,
+    "base": 575.0,
+    "floor": 57.5,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 22,
+    "confirm": "1 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:04+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-hidden-fates/charizard-gx-sv49"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 1412.48,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.6,
+    "now": 1425.0,
+    "base": 1402.5,
+    "floor": 140.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 10,
+    "confirm": "0 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 26,
+    "sales_fetched_at": "2026-10-21T12:22:04+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-hidden-fates/charizard-gx-sv49"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/dark-magician-1st-edition-lob-005": {
    "name": "Dark Magician 1st Ed LOB-005",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 384.09,
+    "now": 422.04,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 15,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 24608.12,
+    "now": 29427.24,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
+    "day_jump": "pending confirmation",
+    "d1_pct": 39.2,
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 4,
+     "n_sales_listed": 29
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/red-eyes-black-dragon-1st-edition-lob-070": {
@@ -609,20 +871,30 @@
     "now": 607.33,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 26822.66,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 16
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/exodia-the-forbidden-one-1st-edition-lob-124": {
@@ -632,137 +904,197 @@
     "now": 682.8,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 10,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 12211.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 28
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120": {
    "name": "Right Leg of the Forbidden One LOB-120 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 21.13,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 20.0,
+    "now": 17.99,
+    "base": 14.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 19,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:12+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-lob-120"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 722.98,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 3,
+     "n_base": 2,
+     "n_sales_listed": 29
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123": {
    "name": "Left Arm of the Forbidden One LOB-123 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 15.75,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 21.8,
+    "now": 17.91,
+    "base": 14.71,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 22,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:14+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-lob-123"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1700.63,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "day_jump": "pending confirmation",
     "d1_pct": 66.5,
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 1,
+     "n_sales_listed": 22
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006": {
    "name": "Gaia the Fierce Knight LOB-006 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 16.59,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 10.0,
+    "now": 16.49,
+    "base": 15.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 20,
+    "confirm": "2 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:15+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-lob-006"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 549.07,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 24
+    }
    }
   },
   "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001": {
    "name": "Blue-Eyes White Dragon SDK-001 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 25.88,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -21.3,
+    "now": 15.72,
+    "base": 19.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 18,
+    "n_base": 11,
+    "confirm": "7 of 18 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:15+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba/blue-eyes-white-dragon-sdk-001"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 4800.0,
+    "now": 4931.25,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 4,
+     "n_sales_listed": 30
+    }
    }
   },
   "yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003": {
    "name": "Summoned Skull 1st Ed MRD-003",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 253.74,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "SPIKE_ALERT",
+    "pct": 60.9,
+    "now": 370.0,
+    "base": 230.0,
+    "floor": 23.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 15,
+    "confirm": "3 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:16+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-metal-raiders/summoned-skull-1st-edition-mrd-003"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 5499.99,
+    "now": 5499.74,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 30
+    }
    }
   },
   "yugioh-metal-raiders/black-skull-dragon-mrd-018": {
@@ -772,20 +1104,30 @@
     "now": 25.17,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 3,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 588.13,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 6
+    }
    }
   },
   "yugioh-magic-ruler/relinquished-1st-edition-mrl-029": {
@@ -795,20 +1137,30 @@
     "now": 63.1,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 9,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1750.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 30
+    }
    }
   },
   "yugioh-magician's-force/dark-magician-girl-1st-edition-mfc-000": {
@@ -818,20 +1170,30 @@
     "now": 800.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 16,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 32854.1,
+    "now": 35207.4,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 1,
+     "n_sales_listed": 27
+    }
    }
   },
   "yugioh-pharaoh's-servant/jinzo-psv-000": {
@@ -841,135 +1203,195 @@
     "now": 49.49,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 26,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1050.72,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 6,
+     "n_sales_listed": 30
+    }
    }
   },
   "yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000": {
    "name": "Yata-Garasu 1st Ed LOD-000",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 87.68,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "SPIKE_ALERT",
+    "pct": 60.0,
+    "now": 100.0,
+    "base": 62.49,
+    "floor": 6.25,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 10,
+    "confirm": "4 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:21+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legacy-of-darkness/yata-garasu-1st-edition-lod-000"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2511.41,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 1,
+     "n_sales_listed": 25
+    }
    }
   },
   "yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008": {
    "name": "Ash Blossom & Joyous Spring QCSR RA01-EN008",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 44.87,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -2.1,
+    "now": 43.99,
+    "base": 44.95,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 19,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:22+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-25th-anniversary-rarity-collection/ash-blossom-&-joyous-spring-quarter-century-secret-rare-ra01-en008"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 397.5,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 10
+    }
    }
   },
   "basketball-cards-1986-fleer/larry-bird-9": {
    "name": "Larry Bird 1986 Fleer #9",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 81.88,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "SPIKE_WATCH",
+    "pct": 45.8,
+    "now": 103.5,
+    "base": 71.0,
+    "floor": 7.1,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 26,
+    "confirm": "2 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:25+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/larry-bird-9"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 8400.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 25
+    }
    }
   },
   "basketball-cards-1986-fleer/magic-johnson-53": {
    "name": "Magic Johnson 1986 Fleer #53",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 60.26,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 19.8,
+    "now": 77.88,
+    "base": 65.0,
+    "floor": 6.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 25,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:26+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1986-fleer/magic-johnson-53"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 4166.83,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 28
+    }
    }
   },
   "basketball-cards-1996-topps-chrome/kobe-bryant-138": {
    "name": "Kobe Bryant 1996 Topps Chrome #138",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1670.0,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 5.0,
+    "now": 1837.49,
+    "base": 1750.0,
+    "floor": 175.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 10,
+    "confirm": "1 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:26+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1996-topps-chrome/kobe-bryant-138"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 15758.75,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 20,
+     "n_sales_listed": 27
+    }
    }
   },
   "basketball-cards-1996-topps/kobe-bryant-138": {
@@ -979,66 +1401,96 @@
     "now": 113.37,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 30,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 2537.48,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -13.8,
+    "now": 2199.0,
+    "base": 2550.0,
+    "floor": 255.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 22,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:22:27+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1996-topps/kobe-bryant-138"
    }
   },
   "basketball-cards-1997-metal-universe/kobe-bryant-81": {
    "name": "Kobe Bryant 1997 Metal Universe #81",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 289.64,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -9.7,
+    "now": 287.5,
+    "base": 318.5,
+    "floor": 31.85,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 20,
+    "n_base": 8,
+    "confirm": "4 of 20 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:29+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-1997-metal-universe/kobe-bryant-81"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5752.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    }
   },
   "basketball-cards-2009-topps/stephen-curry-321": {
    "name": "Stephen Curry 2009 Topps #321",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1599.74,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 2.9,
+    "now": 1800.0,
+    "base": 1750.0,
+    "floor": 175.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 9,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:30+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2009-topps/stephen-curry-321"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 19100.38,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -7.3,
+    "now": 19000.0,
+    "base": 20500.0,
+    "floor": 2050.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 5,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:30+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2009-topps/stephen-curry-321"
    }
   },
   "basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290": {
@@ -1048,135 +1500,195 @@
     "now": 164.6,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 20,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 649.31,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -2.7,
+    "now": 641.0,
+    "base": 658.88,
+    "floor": 65.89,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 21,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 25,
+    "sales_fetched_at": "2026-10-21T12:22:31+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2013-panini-prizm/giannis-antetokounmpo-290"
    }
   },
   "basketball-cards-2017-panini-prizm/jayson-tatum-16": {
    "name": "Jayson Tatum 2017 Prizm #16",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 20.88,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -0.8,
+    "now": 19.5,
+    "base": 19.66,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 16,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:32+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2017-panini-prizm/jayson-tatum-16"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 97.38,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 3.1,
+    "now": 100.0,
+    "base": 97.0,
+    "floor": 9.7,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 20,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:32+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2017-panini-prizm/jayson-tatum-16"
    }
   },
   "basketball-cards-2019-panini-prizm/ja-morant-249": {
    "name": "Ja Morant 2019 Prizm #249",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -54.3,
+    "now": 1.82,
+    "base": 3.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 19,
+    "confirm": "3 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:35+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/ja-morant-249"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 27.45,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.0,
+    "now": 25.73,
+    "base": 26.52,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 14,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:35+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/ja-morant-249"
    }
   },
   "basketball-cards-2019-panini-prizm/zion-williamson-248": {
    "name": "Zion Williamson 2019 Prizm #248",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 2.9,
+    "now": 3.34,
+    "base": 3.25,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 19,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:36+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/zion-williamson-248"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 23.44,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.1,
+    "now": 22.95,
+    "base": 23.69,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 11,
+    "n_base": 17,
+    "confirm": "1 of 11 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:36+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2019-panini-prizm/zion-williamson-248"
    }
   },
   "basketball-cards-2020-panini-prizm/anthony-edwards-258": {
    "name": "Anthony Edwards 2020 Prizm #258",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 10.09,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -16.7,
+    "now": 10.0,
+    "base": 12.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 13,
+    "n_base": 15,
+    "confirm": "2 of 13 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:37+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/anthony-edwards-258"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 145.84,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 14.9,
+    "now": 152.25,
+    "base": 132.5,
+    "floor": 13.25,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 22,
+    "confirm": "2 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:22:37+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/anthony-edwards-258"
    }
   },
   "football-cards-1958-topps/jim-brown-62": {
    "name": "Jim Brown 1958 Topps #62",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 443.88,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "DROP_ALERT",
+    "pct": -48.7,
+    "now": 379.5,
+    "base": 740.0,
+    "floor": 74.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 14,
+    "confirm": "4 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 25,
+    "sales_fetched_at": "2026-10-21T12:22:39+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-1958-topps/jim-brown-62"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 96509.9,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "football-cards-1981-topps/joe-montana-216": {
@@ -1186,20 +1698,30 @@
     "now": 91.39,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 29,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 51240.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 4
+    }
    }
   },
   "football-cards-1986-topps/jerry-rice-161": {
@@ -1209,20 +1731,30 @@
     "now": 53.75,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 30,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 71459.76,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 8
+    }
    }
   },
   "football-cards-2000-playoff-contenders/tom-brady-autograph-144": {
@@ -1232,43 +1764,63 @@
     "now": 21121.12,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 2
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 297990.22,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
    }
   },
   "football-cards-2005-topps/aaron-rodgers-431": {
    "name": "Aaron Rodgers 2005 Topps #431",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 18.85,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 11.8,
+    "now": 19.0,
+    "base": 17.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 18,
+    "confirm": "1 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:43+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2005-topps/aaron-rodgers-431"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 272.07,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -6.2,
+    "now": 272.5,
+    "base": 290.5,
+    "floor": 29.05,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 8,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:43+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2005-topps/aaron-rodgers-431"
    }
   },
   "football-cards-2017-panini-prizm/christian-mccaffrey-249": {
@@ -1278,204 +1830,276 @@
     "now": 43.5,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 5,
+     "n_sales_listed": 6
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 191.25,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 2,
+     "n_sales_listed": 14
+    }
    }
   },
   "football-cards-2018-panini-prizm/josh-allen-205": {
    "name": "Josh Allen 2018 Prizm #205",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 129.01,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -13.3,
+    "now": 117.0,
+    "base": 135.0,
+    "floor": 13.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 25,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:45+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2018-panini-prizm/josh-allen-205"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 718.32,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 7.1,
+    "now": 750.0,
+    "base": 700.0,
+    "floor": 70.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 17,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:22:45+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2018-panini-prizm/josh-allen-205"
    }
   },
   "football-cards-2018-panini-prizm/lamar-jackson-212": {
    "name": "Lamar Jackson 2018 Prizm #212",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 30.48,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.2,
+    "now": 30.0,
+    "base": 30.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 20,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:47+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2018-panini-prizm/lamar-jackson-212"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 350.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 26
+    }
    }
   },
   "football-cards-2019-panini-prizm/kyler-murray-301": {
    "name": "Kyler Murray 2019 Prizm #301",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.16,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 1.25,
+    "base": 2.995,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:47+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2019-panini-prizm/kyler-murray-301"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 46.02,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -11.9,
+    "now": 44.5,
+    "base": 50.5,
+    "floor": 5.05,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:47+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2019-panini-prizm/kyler-murray-301"
    }
   },
   "football-cards-2020-panini-prizm/justin-herbert-325": {
    "name": "Justin Herbert 2020 Prizm #325",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 5.21,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -35.5,
+    "now": 5.0,
+    "base": 7.75,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "3 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:49+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/justin-herbert-325"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 49.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 12.0,
+    "now": 56.0,
+    "base": 50.01,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 23,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:49+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/justin-herbert-325"
    }
   },
   "football-cards-2021-panini-prizm/ja'marr-chase-337": {
    "name": "Ja'Marr Chase 2021 Prizm #337",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 2.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.3,
+    "now": 2.75,
+    "base": 3.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 10,
+    "n_base": 19,
+    "confirm": "4 of 10 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:51+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2021-panini-prizm/ja'marr-chase-337"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 63.75,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 9,
+     "n_sales_listed": 30
+    }
    }
   },
   "football-cards-2023-panini-prizm/c-j-stroud-339": {
    "name": "C.J. Stroud 2023 Prizm #339",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1.94,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 1.75,
+    "base": 1.8,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:52+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2023-panini-prizm/c-j-stroud-339"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 28.23,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -16.6,
+    "now": 26.69,
+    "base": 32.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 21,
+    "confirm": "0 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:52+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2023-panini-prizm/c-j-stroud-339"
    }
   },
   "football-cards-2024-panini-prizm/jayden-daniels-347": {
    "name": "Jayden Daniels 2024 Prizm #347",
    "Ungraded": {
-    "variant": "snapshot",
+    "flag": "below_price_floor",
+    "variant": "sales",
     "now": 1.85,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "base": 1.58,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:52+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2024-panini-prizm/jayden-daniels-347"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 50.75,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -15.8,
+    "now": 50.5,
+    "base": 60.0,
+    "floor": 6.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 23,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:22:52+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2024-panini-prizm/jayden-daniels-347"
    }
   },
   "football-cards-2024-panini-prizm/caleb-williams-301": {
    "name": "Caleb Williams 2024 Prizm #301",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 4.66,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 17.4,
+    "now": 4.99,
+    "base": 4.25,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 21,
+    "confirm": "4 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:22:53+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2024-panini-prizm/caleb-williams-301"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 301.36,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 22,
+     "n_sales_listed": 29
+    }
    }
   },
   "baseball-cards-1951-bowman/willie-mays-305": {
@@ -1485,20 +2109,30 @@
     "now": 2310.51,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 2,
+     "n_sales_listed": 23
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 582961.0,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "baseball-cards-1952-topps/willie-mays-261": {
@@ -1508,43 +2142,63 @@
     "now": 4709.3,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 18
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1157732.69,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "baseball-cards-1954-topps/henry-'hank'-aaron-128": {
    "name": "Hank Aaron 1954 Topps #128",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 2250.0,
+    "now": 2233.36,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 3,
+     "n_sales_listed": 26
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 615362.82,
+    "now": 565408.94,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
    }
   },
   "baseball-cards-1985-topps/mark-mcgwire-401": {
@@ -1553,366 +2207,508 @@
     "variant": "snapshot",
     "now": 11.0,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 28,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5031.34,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 7
+    }
    }
   },
   "baseball-cards-1989-upper-deck/ken-griffey-jr-1": {
    "name": "Ken Griffey Jr. 1989 Upper Deck #1",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 97.0,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 8.0,
+    "now": 108.0,
+    "base": 100.0,
+    "floor": 10.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 23,
+    "n_base": 7,
+    "confirm": "8 of 23 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:00+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-1989-upper-deck/ken-griffey-jr-1"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 5715.01,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    }
   },
   "baseball-cards-1993-sp/derek-jeter-foil-279": {
    "name": "Derek Jeter 1993 SP Foil #279",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 136.18,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 3.1,
+    "now": 139.25,
+    "base": 135.0,
+    "floor": 13.5,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 23,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:23:01+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-1993-sp/derek-jeter-foil-279"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 254300.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 2
+    }
    }
   },
   "baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99": {
    "name": "Aaron Judge 2017 Topps Update Rookie Debut #US99",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 25.56,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 2.0,
+    "now": 25.49,
+    "base": 25.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 17,
+    "confirm": "0 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:02+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 213.44,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 2.9,
+    "now": 209.99,
+    "base": 204.0,
+    "floor": 20.4,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 7,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:02+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps-update/aaron-judge-rookie-debut-us99"
    }
   },
   "baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1": {
    "name": "Shohei Ohtani 2018 Topps Chrome Update #HMT1",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 244.23,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -10.3,
+    "now": 235.5,
+    "base": 262.5,
+    "floor": 26.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 18,
+    "confirm": "3 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:04+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 872.94,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -17.3,
+    "now": 760.0,
+    "base": 919.0,
+    "floor": 91.9,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 18,
+    "confirm": "0 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 26,
+    "sales_fetched_at": "2026-10-21T12:23:04+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-chrome-update/shohei-ohtani-hmt1"
    }
   },
   "baseball-cards-2018-topps-update/ronald-acuna-jr-us250": {
    "name": "Ronald Acuna Jr. 2018 Topps Update #US250",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 4.66,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -13.0,
+    "now": 4.35,
+    "base": 5.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 26,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:06+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/ronald-acuna-jr-us250"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 40.03,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "SPIKE_WATCH",
+    "pct": 31.6,
+    "now": 49.99,
+    "base": 38.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 25,
+    "confirm": "2 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:06+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/ronald-acuna-jr-us250"
    }
   },
   "baseball-cards-2019-topps-update/pete-alonso-us47": {
    "name": "Pete Alonso 2019 Topps Update #US47",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1.13,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 1.19,
+    "base": 0.99,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:06+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2019-topps-update/pete-alonso-us47"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 19.15,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 2,
+     "n_sales_listed": 30
+    }
    }
   },
   "baseball-cards-2022-topps-update/julio-rodriguez-us44": {
    "name": "Julio Rodriguez 2022 Topps Update #US44",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 1.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 1.49,
+    "base": 1.25,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:08+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2022-topps-update/julio-rodriguez-us44"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 22.54,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -4.0,
+    "now": 22.08,
+    "base": 23.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 11,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:08+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2022-topps-update/julio-rodriguez-us44"
    }
   },
   "baseball-cards-2024-topps-update/paul-skenes-us100": {
    "name": "Paul Skenes 2024 Topps Update #US100",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 2.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 3.0,
+    "base": 2.48,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:08+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-update/paul-skenes-us100"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 93.37,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -14.1,
+    "now": 79.88,
+    "base": 93.0,
+    "floor": 9.3,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 10,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:08+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-update/paul-skenes-us100"
    }
   },
   "pokemon-neo-genesis/lugia-9": {
    "name": "Lugia #9 (Neo Genesis)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 420.58,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "DROP_WATCH",
+    "pct": -25.0,
+    "now": 375.0,
+    "base": 500.0,
+    "floor": 50.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 23,
+    "confirm": "3 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:09+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-neo-genesis/lugia-9"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 32100.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
    }
   },
   "pokemon-shining-fates/charizard-vmax-sv107": {
    "name": "Charizard VMAX #SV107 (Shining Fates)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 117.22,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 19.0,
+    "now": 125.0,
+    "base": 105.0,
+    "floor": 10.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 21,
+    "confirm": "2 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:11+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-shining-fates/charizard-vmax-sv107"
    },
    "PSA 10": {
-    "variant": "snapshot",
+    "flag": "normal",
+    "pct": -3.0,
     "now": 242.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "base": 249.99,
+    "floor": 25.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 22,
+    "n_base": 5,
+    "confirm": "0 of 22 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:23:11+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-shining-fates/charizard-vmax-sv107"
    }
   },
   "pokemon-destined-rivals/team-rocket's-mewtwo-ex-231": {
    "name": "Team Rocket's Mewtwo ex #231 (Destined Rivals)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 385.05,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -7.9,
+    "now": 350.0,
+    "base": 380.0,
+    "floor": 38.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 21,
+    "confirm": "0 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:11+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket's-mewtwo-ex-231"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 895.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 28,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    }
   },
   "pokemon-phantasmal-flames/mega-charizard-x-ex-125": {
    "name": "Mega Charizard X ex #125 (Phantasmal Flames)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 675.0,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 7.7,
+    "now": 700.0,
+    "base": 650.0,
+    "floor": 65.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 20,
+    "confirm": "2 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:12+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/mega-charizard-x-ex-125"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1458.08,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 27,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    }
   },
   "pokemon-phantasmal-flames/mega-charizard-x-ex-130": {
    "name": "Mega Charizard X ex #130 (Phantasmal Flames)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 224.86,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 21.1,
+    "now": 239.11,
+    "base": 197.5,
+    "floor": 19.75,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 12,
+    "n_base": 18,
+    "confirm": "5 of 12 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:14+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/mega-charizard-x-ex-130"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 1932.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 1.2,
+    "now": 2149.91,
+    "base": 2125.0,
+    "floor": 212.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 19,
+    "confirm": "0 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:14+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/mega-charizard-x-ex-130"
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118": {
    "name": "Monster Reborn LOB-118 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 12.12,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 11.7,
+    "now": 11.62,
+    "base": 10.4,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 16,
+    "confirm": "2 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:14+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-lob-118"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 349.07,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    }
   },
   "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119": {
    "name": "Pot of Greed LOB-119 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
+    "flag": "normal",
+    "pct": 9.1,
     "now": 6.49,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "base": 5.95,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 19,
+    "confirm": "1 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:15+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-lob-119"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 205.97,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 11
+    }
    }
   },
   "yugioh-ghosts-from-the-past/dark-magician-gftp-en128": {
@@ -1922,20 +2718,30 @@
     "now": 547.5,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 7,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 2425.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 29
+    }
    }
   },
   "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-tdgs-en040": {
@@ -1945,20 +2751,30 @@
     "now": 398.64,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 10,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 11667.32,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 4
+    }
    }
   },
   "yugioh-legendary-duelists-rage-of-ra/the-winged-dragon-of-ra-ghost-rare-led7-en000": {
@@ -1968,15 +2784,25 @@
     "now": 165.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "flag": "insufficient_data",
     "variant": "snapshot",
-    "n_snapshots": 0
+    "n_snapshots": 0,
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-macr-en036": {
@@ -1986,20 +2812,30 @@
     "now": 12.85,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 14,
+     "n_sales_listed": 28
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 118.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 2
+    }
    }
   },
   "yugioh-dimension-force/ghost-belle-&-haunted-mansion-1st-edition-difo-en100": {
@@ -2009,20 +2845,30 @@
     "now": 73.73,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 8,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 205.09,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 2
+    }
    }
   },
   "yugioh-dawn-of-majesty/stardust-dragon-1st-edition-dama-en100": {
@@ -2032,89 +2878,129 @@
     "now": 190.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 6,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 646.21,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 6,
+     "n_sales_listed": 27
+    }
    }
   },
   "yugioh-collectible-tins-2012/maxx-c-ct09-en012": {
    "name": "Maxx \"C\" CT09-EN012",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 5.51,
+    "now": 5.53,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 20,
+     "n_sales_listed": 28
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 130.23,
+    "now": 126.32,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102": {
    "name": "Mulcharmy Fuwalos MP25-EN102",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 16.42,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -0.1,
+    "now": 16.99,
+    "base": 17.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 19,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:23+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-2025-mega-pack-tin/mulcharmy-fuwalos-mp25-en102"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 132.69,
+    "now": 132.64,
     "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177": {
    "name": "Patrick Mahomes II 2017 Panini Donruss Optic #177",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 433.71,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 2.0,
+    "now": 435.0,
+    "base": 426.5,
+    "floor": 42.65,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 22,
+    "confirm": "1 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:25+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 1600.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.6,
+    "now": 1464.43,
+    "base": 1602.7,
+    "floor": 160.27,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:25+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2017-panini-donruss-optic/patrick-mahomes-ii-177"
    }
   },
   "football-cards-2000-bowman-chrome/tom-brady-236": {
@@ -2124,43 +3010,63 @@
     "now": 4002.86,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 20,
+     "n_sales_listed": 27
+    }
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 22741.65,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -12.5,
+    "now": 21001.0,
+    "base": 24000.0,
+    "floor": 2400.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 15,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 25,
+    "sales_fetched_at": "2026-10-21T12:23:25+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2000-bowman-chrome/tom-brady-236"
    }
   },
   "football-cards-2020-panini-prizm/jalen-hurts-343": {
    "name": "Jalen Hurts 2020 Panini Prizm #343",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 4.44,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 12.1,
+    "now": 4.99,
+    "base": 4.45,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 16,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:26+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/football-cards-2020-panini-prizm/jalen-hurts-343"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 54.05,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 28,
+     "n_sales_listed": 30
+    }
    }
   },
   "football-cards-2025-panini-prizm/cam-ward-352": {
@@ -2170,43 +3076,63 @@
     "now": 1.21,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 28,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 75.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 10
+    }
    }
   },
   "basketball-cards-2003-topps/lebron-james-221": {
    "name": "LeBron James 2003 Topps #221",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 731.5,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.2,
+    "now": 681.48,
+    "base": 742.0,
+    "floor": 74.2,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 25,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:29+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2003-topps/lebron-james-221"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 6441.99,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.4,
+    "now": 6175.5,
+    "base": 6740.5,
+    "floor": 674.05,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 22,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:29+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2003-topps/lebron-james-221"
    }
   },
   "basketball-cards-2009-topps-chrome/stephen-curry-101": {
@@ -2216,66 +3142,90 @@
     "now": 10356.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 14
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 48100.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 26
+    }
    }
   },
   "basketball-cards-2015-panini-prizm/nikola-jokic-335": {
    "name": "Nikola Jokic 2015 Panini Prizm #335",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 197.35,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -6.1,
+    "now": 178.5,
+    "base": 190.0,
+    "floor": 19.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 15,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:31+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2015-panini-prizm/nikola-jokic-335"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 985.28,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 11,
+     "n_sales_listed": 29
+    }
    }
   },
   "basketball-cards-2020-panini-prizm/lamelo-ball-278": {
    "name": "LaMelo Ball 2020 Panini Prizm #278",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 2.42,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 2.375,
+    "base": 2.475,
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:32+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/lamelo-ball-278"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 55.88,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.7,
+    "now": 52.51,
+    "base": 57.49,
+    "floor": 5.75,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 22,
+    "confirm": "0 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:32+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2020-panini-prizm/lamelo-ball-278"
    }
   },
   "basketball-cards-2025-topps-chrome/cooper-flagg-251": {
@@ -2285,20 +3235,30 @@
     "now": 21.05,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 27,
+     "n_base": 0,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 299.13,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.4,
+    "now": 285.0,
+    "base": 295.0,
+    "floor": 29.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 22,
+    "n_base": 7,
+    "confirm": "0 of 22 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:33+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2025-topps-chrome/cooper-flagg-251"
    }
   },
   "basketball-cards-1980-topps/larry-bird-julius-erving-magic-johnson-34-139-174": {
@@ -2308,20 +3268,30 @@
     "now": 845.96,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 24
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 87178.02,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "baseball-cards-2009-bowman-chrome-draft-picks-&-prospects/mike-trout-autograph-bdpp89": {
@@ -2331,135 +3301,195 @@
     "now": 5330.92,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 5
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 18912.62,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
    }
   },
   "baseball-cards-2018-topps-chrome/shohei-ohtani-150": {
    "name": "Shohei Ohtani 2018 Topps Chrome #150",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 556.22,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -3.2,
+    "now": 540.0,
+    "base": 557.77,
+    "floor": 55.78,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 24,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:36+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-chrome/shohei-ohtani-150"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 1069.83,
     "n_snapshots": 3,
     "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 25,
+     "n_base": 0,
+     "n_sales_listed": 27
+    }
    }
   },
   "baseball-cards-2018-topps-update/juan-soto-us300": {
    "name": "Juan Soto 2018 Topps Update #US300",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 6.91,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -57.8,
+    "now": 3.25,
+    "base": 7.7,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 18,
+    "confirm": "5 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:37+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/juan-soto-us300"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 38.86,
-    "n_snapshots": 3,
-    "n_changes": 2,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 10.8,
+    "now": 41.0,
+    "base": 36.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 19,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:37+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2018-topps-update/juan-soto-us300"
    }
   },
   "baseball-cards-2017-topps/aaron-judge-287": {
    "name": "Aaron Judge 2017 Topps #287",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 33.0,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 13.3,
+    "now": 34.0,
+    "base": 30.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 23,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:38+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps/aaron-judge-287"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 275.55,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -13.5,
+    "now": 252.5,
+    "base": 292.0,
+    "floor": 29.2,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 15,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:23:38+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2017-topps/aaron-judge-287"
    }
   },
   "baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201": {
    "name": "Vladimir Guerrero Jr. 2019 Topps Chrome #201",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.4,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -38.5,
+    "now": 2.46,
+    "base": 3.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 19,
+    "confirm": "5 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:39+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 40.05,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.0,
+    "now": 35.0,
+    "base": 35.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 11,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 24,
+    "sales_fetched_at": "2026-10-21T12:23:39+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2019-topps-chrome/vladimir-guerrero-jr-201"
    }
   },
   "baseball-cards-2024-topps-chrome-update/paul-skenes-usc88": {
    "name": "Paul Skenes 2024 Topps Chrome Update #USC88",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 5.73,
-    "n_snapshots": 3,
-    "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -21.8,
+    "now": 4.69,
+    "base": 6.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 25,
+    "confirm": "2 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:40+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/baseball-cards-2024-topps-chrome-update/paul-skenes-usc88"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 95.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 20,
+     "n_sales_listed": 30
+    }
    }
   },
   "baseball-cards-2024-topps-chrome-update/jackson-holliday-usc89": {
@@ -2469,20 +3499,30 @@
     "now": 1.5,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 6,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 29.15,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 30
+    }
    }
   },
   "baseball-cards-2018-bowman-chrome-prospects/fernando-tatis-jr-bcp-114": {
@@ -2492,20 +3532,30 @@
     "now": 1.13,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 7,
+     "n_sales_listed": 27
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 21.66,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 2,
+     "n_sales_listed": 17
+    }
    }
   },
   "baseball-cards-2001-bowman-chrome/albert-pujols-refractor-autograph-340": {
@@ -2515,406 +3565,574 @@
     "now": 13500.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 2
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 168000.0,
     "n_snapshots": 3,
     "n_changes": 1,
-    "days_of_history": 3,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 4,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
    }
   },
   "pokemon-perfect-order/mega-zygarde-ex-124": {
    "name": "Mega Zygarde ex #124",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 101.75,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -1.2,
+    "now": 93.88,
+    "base": 95.0,
+    "floor": 9.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 10,
+    "n_base": 17,
+    "confirm": "1 of 10 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:44+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-perfect-order/mega-zygarde-ex-124"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 391.47,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -8.5,
+    "now": 365.82,
+    "base": 399.88,
+    "floor": 39.99,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 8,
+    "n_base": 19,
+    "confirm": "0 of 8 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:44+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-perfect-order/mega-zygarde-ex-124"
    }
   },
   "pokemon-scarlet-&-violet-151/venusaur-ex-198": {
    "name": "Venusaur ex #198",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 93.99,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -4.2,
+    "now": 91.0,
+    "base": 94.98,
+    "floor": 9.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 10,
+    "n_base": 19,
+    "confirm": "0 of 10 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:45+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/venusaur-ex-198"
    },
    "PSA 10": {
-    "variant": "snapshot",
+    "flag": "normal",
+    "pct": 1.1,
     "now": 400.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "base": 395.5,
+    "floor": 39.55,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 24,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:45+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/venusaur-ex-198"
    }
   },
   "pokemon-scarlet-&-violet-151/ivysaur-167": {
    "name": "Ivysaur #167",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 39.29,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.0,
+    "now": 38.0,
+    "base": 38.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 11,
+    "n_base": 17,
+    "confirm": "0 of 11 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:46+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/ivysaur-167"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 260.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -23.7,
+    "now": 221.36,
+    "base": 290.0,
+    "floor": 29.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 9,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:46+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/ivysaur-167"
    }
   },
   "pokemon-scarlet-&-violet-151/charmeleon-169": {
    "name": "Charmeleon #169",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 55.54,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.9,
+    "now": 55.0,
+    "base": 54.5,
+    "floor": 5.45,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 10,
+    "n_base": 20,
+    "confirm": "0 of 10 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:47+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmeleon-169"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 414.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -9.2,
+    "now": 395.0,
+    "base": 435.0,
+    "floor": 43.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 13,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:47+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmeleon-169"
    }
   },
   "pokemon-scarlet-&-violet-151/charmander-168": {
    "name": "Charmander #168",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 87.29,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -11.8,
+    "now": 75.0,
+    "base": 85.0,
+    "floor": 8.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 22,
+    "confirm": "0 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:48+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmander-168"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 577.5,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -4.8,
+    "now": 547.5,
+    "base": 575.0,
+    "floor": 57.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 11,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:48+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmander-168"
    }
   },
   "pokemon-scarlet-&-violet-151/zapdos-ex-192": {
    "name": "Zapdos ex #192",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 10.82,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 19.6,
+    "now": 11.95,
+    "base": 9.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 9,
+    "n_base": 20,
+    "confirm": "4 of 9 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:49+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/zapdos-ex-192"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 82.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 10.6,
+    "now": 94.6,
+    "base": 85.5,
+    "floor": 8.55,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 10,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:49+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/zapdos-ex-192"
    }
   },
   "pokemon-scarlet-&-violet-151/mew-ex-205": {
    "name": "Mew ex #205",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 26.24,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 4.2,
+    "now": 25.49,
+    "base": 24.48,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 14,
+    "n_base": 14,
+    "confirm": "3 of 14 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:50+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-205"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 211.99,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -9.0,
+    "now": 211.5,
+    "base": 232.5,
+    "floor": 23.25,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 8,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:50+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-205"
    }
   },
   "pokemon-scarlet-&-violet-151/caterpie-172": {
    "name": "Caterpie #172",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 17.3,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 6.0,
+    "now": 17.99,
+    "base": 16.98,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 24,
+    "confirm": "2 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:51+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/caterpie-172"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 170.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -13.2,
+    "now": 165.0,
+    "base": 190.0,
+    "floor": 19.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 11,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:51+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/caterpie-172"
    }
   },
   "pokemon-scarlet-&-violet-151/dragonair-181": {
    "name": "Dragonair #181",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 45.23,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 12.0,
+    "now": 43.78,
+    "base": 39.1,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 11,
+    "n_base": 19,
+    "confirm": "4 of 11 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:52+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/dragonair-181"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 230.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -10.4,
+    "now": 206.0,
+    "base": 230.0,
+    "floor": 23.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 9,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 29,
+    "sales_fetched_at": "2026-10-21T12:23:52+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/dragonair-181"
    }
   },
   "pokemon-destined-rivals/team-rocket's-meowth-203": {
    "name": "Team Rocket's Meowth #203",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 21.13,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 5.1,
+    "now": 21.0,
+    "base": 19.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 7,
+    "n_base": 21,
+    "confirm": "2 of 7 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:53+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket's-meowth-203"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 182.5,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -5.8,
+    "now": 174.25,
+    "base": 185.0,
+    "floor": 18.5,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 23,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:53+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket's-meowth-203"
    }
   },
   "pokemon-destined-rivals/team-rocket's-houndoom-191": {
    "name": "Team Rocket's Houndoom #191",
    "Ungraded": {
-    "variant": "snapshot",
+    "flag": "normal",
+    "pct": 2.2,
     "now": 11.6,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "base": 11.34,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 22,
+    "confirm": "0 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:54+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket's-houndoom-191"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 135.9,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 0.9,
+    "now": 141.25,
+    "base": 140.0,
+    "floor": 14.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 25,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:54+00:00",
+    "sales_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/team-rocket's-houndoom-191"
    }
   },
   "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-ske-001": {
    "name": "Blue-Eyes White Dragon SKE-001 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.02,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 2.5,
+    "base": 2.5,
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:23:55+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-ske-001"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 368.0,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 18
+    }
    }
   },
   "yugioh-legendary-duelists-season-2/blue-eyes-white-dragon-lds2-en001": {
    "name": "Blue-Eyes White Dragon LDS2-EN001",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.76,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -24.8,
+    "now": 3.75,
+    "base": 4.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 15,
+    "confirm": "2 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:56+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legendary-duelists-season-2/blue-eyes-white-dragon-lds2-en001"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 64.99,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 7
+    }
    }
   },
   "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-sdp-020": {
    "name": "Blue-Eyes Toon Dragon SDP-020 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 3.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "below_price_floor",
+    "variant": "sales",
+    "now": 3.32,
+    "base": 1.99,
+    "n_sales_listed": 27,
+    "sales_fetched_at": "2026-10-21T12:23:57+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-sdp-020"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 103.0,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 5
+    }
    }
   },
   "yugioh-starter-deck-joey/red-eyes-black-dragon-sdj-001": {
    "name": "Red-Eyes B. Dragon SDJ-001 (Unlimited)",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 9.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 15.9,
+    "now": 10.42,
+    "base": 8.99,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 25,
+    "confirm": "2 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:23:58+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-joey/red-eyes-black-dragon-sdj-001"
    },
    "PSA 10": {
     "variant": "snapshot",
-    "now": 1058.17,
+    "now": 1087.85,
     "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 26
+    }
    }
   },
   "yugioh-2002-collector's-tin/sealed-tin": {
    "name": "2002 Collector's Tin (sealed; generic tin page)",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 597.25,
+    "now": 597.07,
     "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 25
+    }
    },
    "PSA 10": {
     "flag": "insufficient_data",
     "variant": "snapshot",
-    "n_snapshots": 0
+    "n_snapshots": 0,
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 0
+    }
    }
   },
   "basketball-cards-2023-panini-hoops-premium-stock/victor-wembanyama-silver-prizm-108": {
    "name": "Victor Wembanyama 2023-24 Hoops Premium Stock Silver Prizm #108 RC",
    "Ungraded": {
     "variant": "snapshot",
-    "now": 41.58,
+    "now": 41.63,
     "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "n_changes": 2,
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 22,
+     "n_sales_listed": 30
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 399.99,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 2,
+     "n_sales_listed": 29
+    }
    }
   },
   "basketball-cards-2023-panini-mosaic/victor-wembanyama-green-238": {
@@ -2924,66 +4142,690 @@
     "now": 42.0,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 11,
+     "n_sales_listed": 29
+    }
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 260.0,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 29
+    }
    }
   },
   "basketball-cards-2023-panini-select/victor-wembanyama-87": {
    "name": "Victor Wembanyama 2023-24 Select Concourse #87 RC",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 16.19,
-    "n_snapshots": 2,
-    "n_changes": 2,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 20.0,
+    "now": 18.0,
+    "base": 15.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 26,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:24:03+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2023-panini-select/victor-wembanyama-87"
    },
    "PSA 10": {
-    "variant": "snapshot",
-    "now": 124.12,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": 24.8,
+    "now": 143.5,
+    "base": 115.0,
+    "floor": 11.5,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 21,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:24:03+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2023-panini-select/victor-wembanyama-87"
    }
   },
   "basketball-cards-2023-topps-chrome-roundball-royalty/victor-wembanyama-rr-26": {
    "name": "Victor Wembanyama 2023-24 Topps Chrome Roundball Royalty #RR-26 RC",
    "Ungraded": {
-    "variant": "snapshot",
-    "now": 43.0,
-    "n_snapshots": 2,
-    "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
-    "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "flag": "normal",
+    "pct": -11.9,
+    "now": 40.0,
+    "base": 45.41,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 5,
+    "n_base": 18,
+    "confirm": "1 of 5 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 24,
+    "sales_fetched_at": "2026-10-21T12:24:03+00:00",
+    "sales_url": "https://www.sportscardspro.com/game/basketball-cards-2023-topps-chrome-roundball-royalty/victor-wembanyama-rr-26"
    },
    "PSA 10": {
     "variant": "snapshot",
     "now": 394.66,
     "n_snapshots": 2,
     "n_changes": 1,
-    "days_of_history": 2,
-    "last_snapshot": "2026-10-20",
+    "days_of_history": 3,
+    "last_snapshot": "2026-10-21",
     "flag": "insufficient_data",
-    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)"
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 4,
+     "n_sales_listed": 26
+    }
+   }
+  },
+  "pokemon-base-set/charizard-1st-edition-4": {
+   "name": "Charizard #4 (Base Set, 1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 7691.36,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 4,
+     "n_sales_listed": 28
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 334421.05,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 13
+    }
+   }
+  },
+  "pokemon-base-set/blastoise-1st-edition-2": {
+   "name": "Blastoise #2 (Base Set, 1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1025.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 6,
+     "n_sales_listed": 26
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 16242.42,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 11
+    }
+   }
+  },
+  "pokemon-base-set/venusaur-1st-edition-15": {
+   "name": "Venusaur #15 (Base Set, 1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1150.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 8,
+     "n_sales_listed": 29
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 69999.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 0,
+     "n_sales_listed": 18
+    }
+   }
+  },
+  "pokemon-base-set/mewtwo-1st-edition-10": {
+   "name": "Mewtwo #10 (Base Set, 1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 345.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 3,
+     "n_sales_listed": 8
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 43216.4,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 14
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-1st-edition-lob-001": {
+   "name": "Blue-Eyes White Dragon LOB-001 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1085.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 12,
+     "n_sales_listed": 28
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 45000.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 10
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-1st-edition-lob-120": {
+   "name": "Right Leg of the Forbidden One LOB-120 (1st Edition)",
+   "Ungraded": {
+    "flag": "normal",
+    "pct": -5.7,
+    "now": 220.0,
+    "base": 233.19,
+    "floor": 23.32,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 6,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:16:33+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-1st-edition-lob-120"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4650.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 25
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-1st-edition-lob-123": {
+   "name": "Left Arm of the Forbidden One LOB-123 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 169.48,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 14,
+     "n_sales_listed": 30
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 7102.91,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 13
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-1st-edition-lob-006": {
+   "name": "Gaia the Fierce Knight LOB-006 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 180.68,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 8,
+     "n_sales_listed": 30
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 3800.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 20
+    }
+   }
+  },
+  "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-1st-edition-sdk-001": {
+   "name": "Blue-Eyes White Dragon SDK-001 (1st Edition)",
+   "Ungraded": {
+    "flag": "normal",
+    "pct": -3.2,
+    "now": 282.19,
+    "base": 291.62,
+    "floor": 29.16,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 14,
+    "confirm": "2 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:16:37+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba/blue-eyes-white-dragon-1st-edition-sdk-001"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 38362.5,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 2,
+     "n_sales_listed": 29
+    }
+   }
+  },
+  "yugioh-metal-raiders/black-skull-dragon-1st-edition-mrd-018": {
+   "name": "Black Skull Dragon MRD-018 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 300.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 1,
+     "n_sales_listed": 30
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1250.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 21
+    }
+   }
+  },
+  "yugioh-pharaoh's-servant/jinzo-1st-edition-psv-000": {
+   "name": "Jinzo PSV-000 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 259.22,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 21,
+     "n_sales_listed": 29
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 11902.77,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 1,
+     "n_sales_listed": 30
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-1st-edition-lob-118": {
+   "name": "Monster Reborn LOB-118 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 212.13,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 13,
+     "n_sales_listed": 28
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 6099.07,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 23
+    }
+   }
+  },
+  "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-1st-edition-lob-119": {
+   "name": "Pot of Greed LOB-119 (1st Edition)",
+   "Ungraded": {
+    "flag": "normal",
+    "pct": -15.6,
+    "now": 40.0,
+    "base": 47.37,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 3,
+    "n_base": 11,
+    "confirm": "1 of 3 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:16:41+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-1st-edition-lob-119"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1834.29,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 24
+    }
+   }
+  },
+  "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-1st-edition-tdgs-en040": {
+   "name": "Stardust Dragon Ghost Rare TDGS-EN040 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 1269.06,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 7,
+     "n_sales_listed": 30
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 29500.0,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 1
+    }
+   }
+  },
+  "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-1st-edition-macr-en036": {
+   "name": "Ash Blossom & Joyous Spring MACR-EN036 (1st Edition)",
+   "Ungraded": {
+    "variant": "snapshot",
+    "now": 21.99,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 1,
+     "n_base": 3,
+     "n_sales_listed": 30
+    }
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 789.04,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 4
+    }
+   }
+  },
+  "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-1st-edition-ske-001": {
+   "name": "Blue-Eyes White Dragon SKE-001 (1st Edition)",
+   "Ungraded": {
+    "flag": "DROP_ALERT",
+    "pct": -63.0,
+    "now": 5.5,
+    "base": 14.84,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 7d vs prior 30d",
+    "variant": "sales",
+    "n_short": 6,
+    "n_base": 18,
+    "confirm": "6 of 6 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:16:43+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-1st-edition-ske-001"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 1938.73,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 2,
+     "n_sales_listed": 26
+    }
+   }
+  },
+  "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-1st-edition-sdp-020": {
+   "name": "Blue-Eyes Toon Dragon SDP-020 (1st Edition)",
+   "Ungraded": {
+    "flag": "normal",
+    "pct": 10.8,
+    "now": 5.54,
+    "base": 5.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 23,
+    "confirm": "1 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 30,
+    "sales_fetched_at": "2026-10-21T12:16:44+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-1st-edition-sdp-020"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 267.5,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 0,
+     "n_base": 0,
+     "n_sales_listed": 13
+    }
+   }
+  },
+  "yugioh-starter-deck-joey/red-eyes-black-dragon-1st-edition-sdj-001": {
+   "name": "Red-Eyes B. Dragon SDJ-001 (1st Edition)",
+   "Ungraded": {
+    "flag": "normal",
+    "pct": -0.0,
+    "now": 24.99,
+    "base": 25.0,
+    "floor": 5.0,
+    "basis": "median of sold prices, last 14d vs prior 60d",
+    "variant": "sales",
+    "n_short": 4,
+    "n_base": 16,
+    "confirm": "0 of 4 recent sales beyond \u00b125% of baseline",
+    "n_sales_listed": 28,
+    "sales_fetched_at": "2026-10-21T12:16:45+00:00",
+    "sales_url": "https://www.pricecharting.com/game/yugioh-starter-deck-joey/red-eyes-black-dragon-1st-edition-sdj-001"
+   },
+   "PSA 10": {
+    "variant": "snapshot",
+    "now": 4774.56,
+    "n_snapshots": 1,
+    "n_changes": 1,
+    "days_of_history": 1,
+    "last_snapshot": "2026-10-21",
+    "flag": "insufficient_data",
+    "basis": "cold start: 0 changed snapshots 8-37d old (need 5)",
+    "sales_check": {
+     "n_short": 2,
+     "n_base": 3,
+     "n_sales_listed": 29
+    }
    }
   }
  }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:42:16+00:00",
+ "updated": "2026-10-21T12:21:46+00:00",
  "items": [
   {
    "cat": "pokemon",
@@ -12,11 +12,11 @@
    "title": "Charizard #4 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 333.7,
-    "Grade 7": 795.0,
-    "Grade 8": 1237.5,
-    "Grade 9": 3421.05,
-    "Grade 9.5": 7320.0,
+    "Ungraded": 391.09,
+    "Grade 7": 832.25,
+    "Grade 8": 1266.11,
+    "Grade 9": 3451.01,
+    "Grade 9.5": 8540.0,
     "PSA 10": 27058.0
    },
    "monthly": {
@@ -71,7 +71,7 @@
      ],
      [
       1790834400,
-      7320.0
+      8540.0
      ]
     ],
     "Grade 7": [
@@ -125,7 +125,7 @@
      ],
      [
       1790834400,
-      795.0
+      832.25
      ]
     ],
     "Grade 9": [
@@ -179,7 +179,7 @@
      ],
      [
       1790834400,
-      3421.05
+      3451.01
      ]
     ],
     "PSA 10": [
@@ -287,7 +287,7 @@
      ],
      [
       1790834400,
-      1237.5
+      1266.11
      ]
     ],
     "Ungraded": [
@@ -341,15 +341,15 @@
      ],
      [
       1790834400,
-      333.7
+      391.09
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 17.2,
      "7d": null,
-     "30d": 0.0,
+     "30d": 17.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -388,12 +388,12 @@
    "title": "Blastoise #2 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 99.99,
-    "Grade 7": 232.5,
-    "Grade 8": 400.0,
-    "Grade 9": 1026.14,
+    "Ungraded": 91.38,
+    "Grade 7": 241.99,
+    "Grade 8": 387.92,
+    "Grade 9": 976.25,
     "Grade 9.5": 1200.0,
-    "PSA 10": 9000.0
+    "PSA 10": 9375.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -501,7 +501,7 @@
      ],
      [
       1790834400,
-      232.5
+      241.99
      ]
     ],
     "Grade 9": [
@@ -555,7 +555,7 @@
      ],
      [
       1790834400,
-      1026.14
+      976.25
      ]
     ],
     "PSA 10": [
@@ -609,7 +609,7 @@
      ],
      [
       1790834400,
-      9000.0
+      9375.0
      ]
     ],
     "Grade 8": [
@@ -663,7 +663,7 @@
      ],
      [
       1790834400,
-      400.0
+      387.92
      ]
     ],
     "Ungraded": [
@@ -717,21 +717,21 @@
      ],
      [
       1790834400,
-      99.99
+      91.38
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -8.6,
      "7d": null,
-     "30d": 7.5,
+     "30d": -1.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 4.2,
      "7d": null,
-     "30d": 19.1,
+     "30d": 24.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -1140,12 +1140,12 @@
    "title": "Mewtwo #10 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 29.27,
-    "Grade 7": 100.0,
-    "Grade 8": 181.49,
-    "Grade 9": 465.0,
-    "Grade 9.5": 512.0,
-    "PSA 10": 4720.77
+    "Ungraded": 31.49,
+    "Grade 7": 110.0,
+    "Grade 8": 198.34,
+    "Grade 9": 449.99,
+    "Grade 9.5": 452.81,
+    "PSA 10": 5215.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -1199,7 +1199,7 @@
      ],
      [
       1790834400,
-      512.0
+      452.81
      ]
     ],
     "Grade 7": [
@@ -1253,7 +1253,7 @@
      ],
      [
       1790834400,
-      100.0
+      110.0
      ]
     ],
     "Grade 9": [
@@ -1307,7 +1307,7 @@
      ],
      [
       1790834400,
-      465.0
+      449.99
      ]
     ],
     "PSA 10": [
@@ -1361,7 +1361,7 @@
      ],
      [
       1790834400,
-      4720.77
+      5215.5
      ]
     ],
     "Grade 8": [
@@ -1415,7 +1415,7 @@
      ],
      [
       1790834400,
-      181.49
+      198.34
      ]
     ],
     "Ungraded": [
@@ -1469,21 +1469,21 @@
      ],
      [
       1790834400,
-      29.27
+      31.49
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 7.6,
      "7d": null,
-     "30d": 16.0,
+     "30d": 24.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 10.5,
      "7d": null,
-     "30d": 5.9,
+     "30d": 17.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -1517,12 +1517,12 @@
    "title": "Umbreon VMAX #215 Prices",
    "set": "Pokemon Evolving Skies",
    "prices": {
-    "Ungraded": 1754.79,
+    "Ungraded": 1672.91,
     "Grade 7": 1668.85,
     "Grade 8": 1800.0,
-    "Grade 9": 2052.5,
-    "Grade 9.5": 2971.46,
-    "PSA 10": 3830.69
+    "Grade 9": 2050.0,
+    "Grade 9.5": 2781.3,
+    "PSA 10": 3770.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -1576,7 +1576,7 @@
      ],
      [
       1790834400,
-      2971.46
+      2781.3
      ]
     ],
     "Grade 7": [
@@ -1684,7 +1684,7 @@
      ],
      [
       1790834400,
-      2052.5
+      2050.0
      ]
     ],
     "PSA 10": [
@@ -1738,7 +1738,7 @@
      ],
      [
       1790834400,
-      3830.69
+      3770.0
      ]
     ],
     "Grade 8": [
@@ -1846,21 +1846,21 @@
      ],
      [
       1790834400,
-      1754.79
+      1672.91
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -4.7,
      "7d": null,
-     "30d": -9.1,
+     "30d": -13.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -1.6,
      "7d": null,
-     "30d": -4.2,
+     "30d": -5.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -1894,12 +1894,12 @@
    "title": "Rayquaza VMAX #218 Prices",
    "set": "Pokemon Evolving Skies",
    "prices": {
-    "Ungraded": 999.77,
-    "Grade 7": 860.0,
-    "Grade 8": 874.5,
+    "Ungraded": 1000.51,
+    "Grade 7": 686.0,
+    "Grade 8": 857.66,
     "Grade 9": 1075.0,
     "Grade 9.5": 1537.5,
-    "PSA 10": 2050.0
+    "PSA 10": 2037.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -2007,7 +2007,7 @@
      ],
      [
       1790834400,
-      860.0
+      686.0
      ]
     ],
     "Grade 9": [
@@ -2115,7 +2115,7 @@
      ],
      [
       1790834400,
-      2050.0
+      2037.5
      ]
     ],
     "Grade 8": [
@@ -2169,7 +2169,7 @@
      ],
      [
       1790834400,
-      874.5
+      857.66
      ]
     ],
     "Ungraded": [
@@ -2223,21 +2223,21 @@
      ],
      [
       1790834400,
-      999.77
+      1000.51
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.1,
      "7d": null,
-     "30d": 9.7,
+     "30d": 9.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.6,
      "7d": null,
-     "30d": -7.5,
+     "30d": -8.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -2648,12 +2648,12 @@
    "title": "Giratina VSTAR #GG69 Prices",
    "set": "Pokemon Crown Zenith",
    "prices": {
-    "Ungraded": 268.58,
+    "Ungraded": 269.06,
     "Grade 7": 212.0,
     "Grade 8": 265.0,
-    "Grade 9": 270.49,
+    "Grade 9": 269.99,
     "Grade 9.5": 323.31,
-    "PSA 10": 510.0
+    "PSA 10": 500.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -2815,7 +2815,7 @@
      ],
      [
       1790834400,
-      270.49
+      269.99
      ]
     ],
     "PSA 10": [
@@ -2869,7 +2869,7 @@
      ],
      [
       1790834400,
-      510.0
+      500.0
      ]
     ],
     "Grade 8": [
@@ -2977,21 +2977,21 @@
      ],
      [
       1790834400,
-      268.58
+      269.06
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.2,
      "7d": null,
-     "30d": -1.8,
+     "30d": -1.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -2.0,
      "7d": null,
-     "30d": -10.6,
+     "30d": -12.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -3401,12 +3401,12 @@
    "title": "Lugia V #186 Prices",
    "set": "Pokemon Silver Tempest",
    "prices": {
-    "Ungraded": 456.2,
+    "Ungraded": 408.87,
     "Grade 7": 298.37,
-    "Grade 8": 422.19,
-    "Grade 9": 495.0,
+    "Grade 8": 395.0,
+    "Grade 9": 487.49,
     "Grade 9.5": 594.5,
-    "PSA 10": 1250.0
+    "PSA 10": 1184.99
    },
    "monthly": {
     "Grade 9.5": [
@@ -3568,7 +3568,7 @@
      ],
      [
       1790834400,
-      495.0
+      487.49
      ]
     ],
     "PSA 10": [
@@ -3622,7 +3622,7 @@
      ],
      [
       1790834400,
-      1250.0
+      1184.99
      ]
     ],
     "Grade 8": [
@@ -3676,7 +3676,7 @@
      ],
      [
       1790834400,
-      422.19
+      395.0
      ]
     ],
     "Ungraded": [
@@ -3730,21 +3730,21 @@
      ],
      [
       1790834400,
-      456.2
+      408.87
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -10.4,
      "7d": null,
-     "30d": 17.9,
+     "30d": 5.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -5.2,
      "7d": null,
-     "30d": -0.2,
+     "30d": -5.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -4908,12 +4908,12 @@
    "title": "Charizard ex #234 Prices",
    "set": "Pokemon Paldean Fates",
    "prices": {
-    "Ungraded": 254.87,
+    "Ungraded": 250.62,
     "Grade 7": 190.0,
     "Grade 8": 237.5,
-    "Grade 9": 237.5,
+    "Grade 9": 261.0,
     "Grade 9.5": 402.5,
-    "PSA 10": 719.76
+    "PSA 10": 718.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -5075,7 +5075,7 @@
      ],
      [
       1790834400,
-      237.5
+      261.0
      ]
     ],
     "PSA 10": [
@@ -5129,7 +5129,7 @@
      ],
      [
       1790834400,
-      719.76
+      718.0
      ]
     ],
     "Grade 8": [
@@ -5237,21 +5237,21 @@
      ],
      [
       1790834400,
-      254.87
+      250.62
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.7,
      "7d": null,
-     "30d": 3.0,
+     "30d": 1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.2,
      "7d": null,
-     "30d": -4.4,
+     "30d": -4.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -5286,11 +5286,11 @@
    "set": "Pokemon Surging Sparks",
    "prices": {
     "Ungraded": 252.5,
-    "Grade 7": 256.46,
-    "Grade 8": 260.5,
-    "Grade 9": 274.96,
-    "Grade 9.5": 400.0,
-    "PSA 10": 761.04
+    "Grade 7": 207.0,
+    "Grade 8": 258.92,
+    "Grade 9": 285.0,
+    "Grade 9.5": 383.11,
+    "PSA 10": 775.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -5344,7 +5344,7 @@
      ],
      [
       1790834400,
-      400.0
+      383.11
      ]
     ],
     "Grade 7": [
@@ -5398,7 +5398,7 @@
      ],
      [
       1790834400,
-      256.46
+      207.0
      ]
     ],
     "Grade 9": [
@@ -5452,7 +5452,7 @@
      ],
      [
       1790834400,
-      274.96
+      285.0
      ]
     ],
     "PSA 10": [
@@ -5506,7 +5506,7 @@
      ],
      [
       1790834400,
-      761.04
+      775.0
      ]
     ],
     "Grade 8": [
@@ -5560,7 +5560,7 @@
      ],
      [
       1790834400,
-      260.5
+      258.92
      ]
     ],
     "Ungraded": [
@@ -5626,9 +5626,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 1.8,
      "7d": null,
-     "30d": -16.5,
+     "30d": -15.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -5665,10 +5665,10 @@
    "prices": {
     "Ungraded": 86.0,
     "Grade 7": 160.0,
-    "Grade 8": 262.25,
-    "Grade 9": 636.5,
+    "Grade 8": 258.75,
+    "Grade 9": 638.0,
     "Grade 9.5": 873.42,
-    "PSA 10": 5725.0
+    "PSA 10": 5845.98
    },
    "monthly": {
     "Grade 9.5": [
@@ -5830,7 +5830,7 @@
      ],
      [
       1790834400,
-      636.5
+      638.0
      ]
     ],
     "PSA 10": [
@@ -5884,7 +5884,7 @@
      ],
      [
       1790834400,
-      5725.0
+      5845.98
      ]
     ],
     "Grade 8": [
@@ -5938,7 +5938,7 @@
      ],
      [
       1790834400,
-      262.25
+      258.75
      ]
     ],
     "Ungraded": [
@@ -6000,7 +6000,7 @@
     "set_code": "LOB-001",
     "set_price": 62.15,
     "all_printings_low": {
-     "cardmarket": 0.08,
+     "cardmarket": 0.02,
      "tcgplayer": 0.14,
      "ebay": 5.95,
      "amazon": 3.9,
@@ -6015,9 +6015,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 2.1,
      "7d": null,
-     "30d": 3.9,
+     "30d": 6.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -6052,12 +6052,12 @@
    "title": "Dark Magician [1st Edition] LOB-005 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 384.09,
-    "Grade 7": 1025.0,
+    "Ungraded": 460.0,
+    "Grade 7": 1076.9,
     "Grade 8": 1700.0,
-    "Grade 9": 2305.23,
-    "Grade 9.5": 6050.0,
-    "PSA 10": 24608.12
+    "Grade 9": 2309.17,
+    "Grade 9.5": 5100.0,
+    "PSA 10": 34246.35
    },
    "monthly": {
     "Grade 9.5": [
@@ -6111,7 +6111,7 @@
      ],
      [
       1790834400,
-      6050.0
+      5100.0
      ]
     ],
     "Grade 7": [
@@ -6165,7 +6165,7 @@
      ],
      [
       1790834400,
-      1025.0
+      1076.9
      ]
     ],
     "Grade 9": [
@@ -6219,7 +6219,7 @@
      ],
      [
       1790834400,
-      2305.23
+      2309.17
      ]
     ],
     "PSA 10": [
@@ -6273,7 +6273,7 @@
      ],
      [
       1790834400,
-      24608.12
+      34246.35
      ]
     ],
     "Grade 8": [
@@ -6381,7 +6381,7 @@
      ],
      [
       1790834400,
-      384.09
+      460.0
      ]
     ]
    },
@@ -6398,15 +6398,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 19.8,
      "7d": null,
-     "30d": -10.2,
+     "30d": 7.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 39.2,
      "7d": null,
-     "30d": 19.5,
+     "30d": 66.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -6425,7 +6425,8 @@
      "now": 24608.12,
      "base": 20600.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
-     "floor": 2060.0
+     "floor": 2060.0,
+     "day_jump": "pending confirmation"
     }
    }
   },
@@ -6831,7 +6832,7 @@
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
     "Ungraded": 682.8,
-    "Grade 7": 741.09,
+    "Grade 7": 737.8,
     "Grade 8": 1375.0,
     "Grade 9": 2436.73,
     "Grade 9.5": 2680.0,
@@ -6943,7 +6944,7 @@
      ],
      [
       1790834400,
-      741.09
+      737.8
      ]
     ],
     "Grade 9": [
@@ -7168,7 +7169,7 @@
     "set_price": 33.07,
     "all_printings_low": {
      "cardmarket": 0.02,
-     "tcgplayer": 2.61,
+     "tcgplayer": 2.62,
      "ebay": 39.99,
      "amazon": 1.29,
      "coolstuffinc": 0.99
@@ -8346,12 +8347,12 @@
    "title": "Blue-Eyes White Dragon SDK-001 Prices",
    "set": "YuGiOh Starter Deck: Kaiba",
    "prices": {
-    "Ungraded": 25.88,
+    "Ungraded": 21.5,
     "Grade 7": 113.5,
-    "Grade 8": 214.29,
-    "Grade 9": 440.53,
+    "Grade 8": 208.5,
+    "Grade 9": 416.09,
     "Grade 9.5": 1025.0,
-    "PSA 10": 4800.0
+    "PSA 10": 5062.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -8513,7 +8514,7 @@
      ],
      [
       1790834400,
-      440.53
+      416.09
      ]
     ],
     "PSA 10": [
@@ -8567,7 +8568,7 @@
      ],
      [
       1790834400,
-      4800.0
+      5062.5
      ]
     ],
     "Grade 8": [
@@ -8621,7 +8622,7 @@
      ],
      [
       1790834400,
-      214.29
+      208.5
      ]
     ],
     "Ungraded": [
@@ -8675,21 +8676,21 @@
      ],
      [
       1790834400,
-      25.88
+      21.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -16.9,
      "7d": null,
-     "30d": 23.7,
+     "30d": 2.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 5.5,
      "7d": null,
-     "30d": 2.1,
+     "30d": 7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -8722,12 +8723,12 @@
    "title": "Summoned Skull [1st Edition] MRD-003 Prices",
    "set": "YuGiOh Metal Raiders",
    "prices": {
-    "Ungraded": 253.74,
+    "Ungraded": 298.22,
     "Grade 7": 393.0,
     "Grade 8": 587.5,
-    "Grade 9": 1052.49,
+    "Grade 9": 1053.74,
     "Grade 9.5": 1768.75,
-    "PSA 10": 5499.99
+    "PSA 10": 5499.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -8889,7 +8890,7 @@
      ],
      [
       1790834400,
-      1052.49
+      1053.74
      ]
     ],
     "PSA 10": [
@@ -8943,7 +8944,7 @@
      ],
      [
       1790834400,
-      5499.99
+      5499.5
      ]
     ],
     "Grade 8": [
@@ -9051,21 +9052,21 @@
      ],
      [
       1790834400,
-      253.74
+      298.22
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 17.5,
      "7d": null,
-     "30d": -14.2,
+     "30d": 0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.0,
      "7d": null,
-     "30d": 0.0,
+     "30d": -0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -9853,11 +9854,11 @@
    "set": "YuGiOh Magician's Force",
    "prices": {
     "Ungraded": 800.0,
-    "Grade 7": 966.74,
+    "Grade 7": 1000.0,
     "Grade 8": 1700.0,
-    "Grade 9": 3503.58,
+    "Grade 9": 3550.0,
     "Grade 9.5": 8025.49,
-    "PSA 10": 32854.1
+    "PSA 10": 37560.7
    },
    "monthly": {
     "Grade 9.5": [
@@ -9965,7 +9966,7 @@
      ],
      [
       1790834400,
-      966.74
+      1000.0
      ]
     ],
     "Grade 9": [
@@ -10019,7 +10020,7 @@
      ],
      [
       1790834400,
-      3503.58
+      3550.0
      ]
     ],
     "PSA 10": [
@@ -10073,7 +10074,7 @@
      ],
      [
       1790834400,
-      32854.1
+      37560.7
      ]
     ],
     "Grade 8": [
@@ -10204,9 +10205,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 14.3,
      "7d": null,
-     "30d": 11.5,
+     "30d": 27.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -21494,11 +21495,11 @@
    "title": "Ja'Marr Chase #337 Prices [Rookie]",
    "set": "2021 Panini Prizm",
    "prices": {
-    "Ungraded": 2.99,
-    "Grade 7": 9.9,
+    "Ungraded": 3.0,
+    "Grade 7": 9.91,
     "Grade 8": 10.25,
     "Grade 9": 18.65,
-    "Grade 9.5": 24.54,
+    "Grade 9.5": 24.51,
     "PSA 10": 63.75
    },
    "monthly": {
@@ -21553,7 +21554,7 @@
      ],
      [
       1790834400,
-      24.54
+      24.51
      ]
     ],
     "Grade 7": [
@@ -21607,7 +21608,7 @@
      ],
      [
       1790834400,
-      9.9
+      9.91
      ]
     ],
     "Grade 9": [
@@ -21823,15 +21824,15 @@
      ],
      [
       1790834400,
-      2.99
+      3.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.3,
      "7d": null,
-     "30d": 17.7,
+     "30d": 18.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -24131,12 +24132,12 @@
    "title": "Henry 'Hank' Aaron #128 Prices [Rookie]",
    "set": "1954 Topps",
    "prices": {
-    "Ungraded": 2250.0,
-    "Grade 7": 17783.83,
-    "Grade 8": 38022.35,
-    "Grade 9": 369921.92,
-    "Grade 9.5": 406914.0,
-    "PSA 10": 615362.82
+    "Ungraded": 2216.73,
+    "Grade 7": 17803.0,
+    "Grade 8": 37911.43,
+    "Grade 9": 369829.95,
+    "Grade 9.5": 406813.0,
+    "PSA 10": 515455.07
    },
    "monthly": {
     "Grade 9.5": [
@@ -24190,7 +24191,7 @@
      ],
      [
       1790834400,
-      406914.0
+      406813.0
      ]
     ],
     "Grade 7": [
@@ -24244,7 +24245,7 @@
      ],
      [
       1790834400,
-      17783.83
+      17803.0
      ]
     ],
     "Grade 9": [
@@ -24298,7 +24299,7 @@
      ],
      [
       1790834400,
-      369921.92
+      369829.95
      ]
     ],
     "PSA 10": [
@@ -24352,7 +24353,7 @@
      ],
      [
       1790834400,
-      615362.82
+      515455.07
      ]
     ],
     "Grade 8": [
@@ -24406,7 +24407,7 @@
      ],
      [
       1790834400,
-      38022.35
+      37911.43
      ]
     ],
     "Ungraded": [
@@ -24460,21 +24461,21 @@
      ],
      [
       1790834400,
-      2250.0
+      2216.73
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.5,
      "7d": null,
-     "30d": -23.2,
+     "30d": -24.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -16.2,
      "7d": null,
-     "30d": -7.7,
+     "30d": -22.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -24508,10 +24509,10 @@
    "title": "Mark McGwire #401 Prices [Rookie]",
    "set": "1985 Topps",
    "prices": {
-    "Ungraded": 11.0,
-    "Grade 7": 20.25,
+    "Ungraded": 10.99,
+    "Grade 7": 20.6,
     "Grade 8": 35.0,
-    "Grade 9": 215.75,
+    "Grade 9": 209.72,
     "Grade 9.5": 1099.99,
     "PSA 10": 5031.34
    },
@@ -24621,7 +24622,7 @@
      ],
      [
       1790834400,
-      20.25
+      20.6
      ]
     ],
     "Grade 9": [
@@ -24675,7 +24676,7 @@
      ],
      [
       1790834400,
-      215.75
+      209.72
      ]
     ],
     "PSA 10": [
@@ -24837,15 +24838,15 @@
      ],
      [
       1790834400,
-      11.0
+      10.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.1,
      "7d": null,
-     "30d": -1.2,
+     "30d": -1.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -25262,11 +25263,11 @@
    "title": "Derek Jeter [Foil] #279 Prices [Rookie]",
    "set": "1993 SP",
    "prices": {
-    "Ungraded": 136.18,
-    "Grade 7": 207.5,
-    "Grade 8": 510.74,
-    "Grade 9": 4242.33,
-    "Grade 9.5": 7300.63,
+    "Ungraded": 136.99,
+    "Grade 7": 213.25,
+    "Grade 8": 508.15,
+    "Grade 9": 4326.83,
+    "Grade 9.5": 7301.12,
     "PSA 10": 254300.0
    },
    "monthly": {
@@ -25321,7 +25322,7 @@
      ],
      [
       1790834400,
-      7300.63
+      7301.12
      ]
     ],
     "Grade 7": [
@@ -25375,7 +25376,7 @@
      ],
      [
       1790834400,
-      207.5
+      213.25
      ]
     ],
     "Grade 9": [
@@ -25429,7 +25430,7 @@
      ],
      [
       1790834400,
-      4242.33
+      4326.83
      ]
     ],
     "PSA 10": [
@@ -25537,7 +25538,7 @@
      ],
      [
       1790834400,
-      510.74
+      508.15
      ]
     ],
     "Ungraded": [
@@ -25591,15 +25592,15 @@
      ],
      [
       1790834400,
-      136.18
+      136.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.6,
      "7d": null,
-     "30d": 3.9,
+     "30d": 4.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -25639,12 +25640,12 @@
    "title": "Mike Trout #US175 Prices [Rookie]",
    "set": "2011 Topps Update",
    "prices": {
-    "Ungraded": 295.79,
-    "Grade 7": 250.0,
+    "Ungraded": 296.1,
+    "Grade 7": 245.08,
     "Grade 8": 300.0,
-    "Grade 9": 376.0,
-    "Grade 9.5": 541.17,
-    "PSA 10": 935.27
+    "Grade 9": 375.0,
+    "Grade 9.5": 524.55,
+    "PSA 10": 935.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -25698,7 +25699,7 @@
      ],
      [
       1790834400,
-      541.17
+      524.55
      ]
     ],
     "Grade 7": [
@@ -25752,7 +25753,7 @@
      ],
      [
       1790834400,
-      250.0
+      245.08
      ]
     ],
     "Grade 9": [
@@ -25806,7 +25807,7 @@
      ],
      [
       1790834400,
-      376.0
+      375.0
      ]
     ],
     "PSA 10": [
@@ -25860,7 +25861,7 @@
      ],
      [
       1790834400,
-      935.27
+      935.0
      ]
     ],
     "Grade 8": [
@@ -25968,19 +25969,19 @@
      ],
      [
       1790834400,
-      295.79
+      296.1
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.1,
      "7d": null,
-     "30d": 7.6,
+     "30d": 7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.0,
      "7d": null,
      "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28649,11 +28650,11 @@
    "title": "Lugia #9 Prices",
    "set": "Pokemon Neo Genesis",
    "prices": {
-    "Ungraded": 420.58,
-    "Grade 7": 889.84,
-    "Grade 8": 1480.08,
-    "Grade 9": 2695.93,
-    "Grade 9.5": 2966.0,
+    "Ungraded": 463.9,
+    "Grade 7": 875.0,
+    "Grade 8": 1337.5,
+    "Grade 9": 3065.2,
+    "Grade 9.5": 3372.0,
     "PSA 10": 32100.0
    },
    "monthly": {
@@ -28708,7 +28709,7 @@
      ],
      [
       1790834400,
-      2966.0
+      3372.0
      ]
     ],
     "Grade 7": [
@@ -28762,7 +28763,7 @@
      ],
      [
       1790834400,
-      889.84
+      875.0
      ]
     ],
     "Grade 9": [
@@ -28816,7 +28817,7 @@
      ],
      [
       1790834400,
-      2695.93
+      3065.2
      ]
     ],
     "PSA 10": [
@@ -28924,7 +28925,7 @@
      ],
      [
       1790834400,
-      1480.08
+      1337.5
      ]
     ],
     "Ungraded": [
@@ -28978,15 +28979,15 @@
      ],
      [
       1790834400,
-      420.58
+      463.9
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 10.3,
      "7d": null,
-     "30d": -6.5,
+     "30d": 3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -31967,7 +31968,7 @@
     "set_code": "TDGS-EN040",
     "set_price": 31.54,
     "all_printings_low": {
-     "cardmarket": 0.46,
+     "cardmarket": 0.48,
      "tcgplayer": 0.64,
      "ebay": 355.0,
      "amazon": 2.49,
@@ -32302,8 +32303,8 @@
     "set_code": "LED7-EN000",
     "set_price": 37.57,
     "all_printings_low": {
-     "cardmarket": 0.73,
-     "tcgplayer": 1.18,
+     "cardmarket": 0.77,
+     "tcgplayer": 1.19,
      "ebay": 1.33,
      "amazon": 3.59,
      "coolstuffinc": 1.99
@@ -33076,7 +33077,7 @@
     "set_price": 478.09,
     "all_printings_low": {
      "cardmarket": 0.1,
-     "tcgplayer": 0.54,
+     "tcgplayer": 0.53,
      "ebay": 2.9,
      "amazon": 5.9,
      "coolstuffinc": 1.49
@@ -33464,7 +33465,7 @@
     "set_code": "DAMA-EN100",
     "set_price": 635.43,
     "all_printings_low": {
-     "cardmarket": 0.46,
+     "cardmarket": 0.48,
      "tcgplayer": 0.64,
      "ebay": 355.0,
      "amazon": 2.49,
@@ -33516,12 +33517,12 @@
    "title": "Maxx C CT09-EN012 Prices",
    "set": "YuGiOh Collectible Tins 2012",
    "prices": {
-    "Ungraded": 5.51,
-    "Grade 7": 8.87,
-    "Grade 8": 18.36,
+    "Ungraded": 5.55,
+    "Grade 7": 8.15,
+    "Grade 8": 17.29,
     "Grade 9": 24.9,
     "Grade 9.5": 27.0,
-    "PSA 10": 130.23
+    "PSA 10": 122.42
    },
    "monthly": {
     "Grade 9.5": [
@@ -33629,7 +33630,7 @@
      ],
      [
       1790834400,
-      8.87
+      8.15
      ]
     ],
     "Grade 9": [
@@ -33737,7 +33738,7 @@
      ],
      [
       1790834400,
-      130.23
+      122.42
      ]
     ],
     "Grade 8": [
@@ -33791,7 +33792,7 @@
      ],
      [
       1790834400,
-      18.36
+      17.29
      ]
     ],
     "Ungraded": [
@@ -33845,7 +33846,7 @@
      ],
      [
       1790834400,
-      5.51
+      5.55
      ]
     ]
    },
@@ -33854,7 +33855,7 @@
     "set_price": 27.0,
     "all_printings_low": {
      "cardmarket": 1.62,
-     "tcgplayer": 4.62,
+     "tcgplayer": 4.63,
      "ebay": 7.5,
      "amazon": 69.99,
      "coolstuffinc": 13.99
@@ -33862,15 +33863,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.7,
      "7d": null,
-     "30d": 10.0,
+     "30d": 10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -6.0,
      "7d": null,
-     "30d": 14.9,
+     "30d": 8.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -33910,7 +33911,7 @@
     "Grade 8": 41.62,
     "Grade 9": 81.61,
     "Grade 9.5": 90.0,
-    "PSA 10": 132.69
+    "PSA 10": 132.6
    },
    "monthly": {
     "Grade 9.5": [
@@ -34126,7 +34127,7 @@
      ],
      [
       1790834400,
-      132.69
+      132.6
      ]
     ],
     "Grade 8": [
@@ -34242,8 +34243,8 @@
     "set_code": "MP25-EN102",
     "set_price": null,
     "all_printings_low": {
-     "cardmarket": 5.12,
-     "tcgplayer": 8.76
+     "cardmarket": 5.24,
+     "tcgplayer": 8.56
     }
    },
    "change": {
@@ -34254,9 +34255,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.1,
      "7d": null,
-     "30d": -0.4,
+     "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -39389,12 +39390,12 @@
    "title": "Vladimir Guerrero Jr. #201 Prices [Rookie]",
    "set": "2019 Topps Chrome",
    "prices": {
-    "Ungraded": 3.4,
+    "Ungraded": 3.23,
     "Grade 7": 2.76,
     "Grade 8": 10.5,
     "Grade 9": 16.99,
-    "Grade 9.5": 21.26,
-    "PSA 10": 40.05
+    "Grade 9.5": 21.73,
+    "PSA 10": 39.9
    },
    "monthly": {
     "Grade 9.5": [
@@ -39448,7 +39449,7 @@
      ],
      [
       1790834400,
-      21.26
+      21.73
      ]
     ],
     "Grade 7": [
@@ -39610,7 +39611,7 @@
      ],
      [
       1790834400,
-      40.05
+      39.9
      ]
     ],
     "Grade 8": [
@@ -39718,21 +39719,21 @@
      ],
      [
       1790834400,
-      3.4
+      3.23
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -5.0,
      "7d": null,
-     "30d": -6.6,
+     "30d": -11.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.4,
      "7d": null,
-     "30d": 0.2,
+     "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -41174,12 +41175,12 @@
    "title": "Mega Zygarde ex #124 Prices",
    "set": "Pokemon Perfect Order",
    "prices": {
-    "Ungraded": 101.75,
-    "Grade 7": 72.0,
-    "Grade 8": 90.5,
-    "Grade 9": 108.88,
+    "Ungraded": 94.92,
+    "Grade 7": 73.0,
+    "Grade 8": 91.14,
+    "Grade 9": 104.37,
     "Grade 9.5": 276.0,
-    "PSA 10": 391.47
+    "PSA 10": 399.94
    },
    "monthly": {
     "Grade 9.5": [
@@ -41239,7 +41240,7 @@
      ],
      [
       1790834400,
-      72.0
+      73.0
      ]
     ],
     "Grade 9": [
@@ -41273,7 +41274,7 @@
      ],
      [
       1790834400,
-      108.88
+      104.37
      ]
     ],
     "PSA 10": [
@@ -41307,7 +41308,7 @@
      ],
      [
       1790834400,
-      391.47
+      399.94
      ]
     ],
     "Grade 8": [
@@ -41329,7 +41330,7 @@
      ],
      [
       1790834400,
-      90.5
+      91.14
      ]
     ],
     "Ungraded": [
@@ -41363,37 +41364,37 @@
      ],
      [
       1790834400,
-      101.75
+      94.92
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -6.7,
      "7d": null,
-     "30d": -3.5,
+     "30d": -10.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 2.2,
      "7d": null,
-     "30d": -13.3,
+     "30d": -11.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -3.5,
-     "now": 101.75,
+     "pct": -6.8,
+     "now": 98.33500000000001,
      "base": 105.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 10.55
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -13.3,
-     "now": 391.47,
+     "pct": -12.4,
+     "now": 395.70500000000004,
      "base": 451.74,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 45.17
@@ -41411,12 +41412,12 @@
    "title": "Venusaur ex #198 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 93.99,
-    "Grade 7": 83.38,
-    "Grade 8": 97.0,
-    "Grade 9": 119.0,
+    "Ungraded": 90.77,
+    "Grade 7": 83.47,
+    "Grade 8": 96.47,
+    "Grade 9": 113.66,
     "Grade 9.5": 154.98,
-    "PSA 10": 400.0
+    "PSA 10": 385.43
    },
    "monthly": {
     "Grade 9.5": [
@@ -41524,7 +41525,7 @@
      ],
      [
       1790834400,
-      83.38
+      83.47
      ]
     ],
     "Grade 9": [
@@ -41578,7 +41579,7 @@
      ],
      [
       1790834400,
-      119.0
+      113.66
      ]
     ],
     "PSA 10": [
@@ -41632,7 +41633,7 @@
      ],
      [
       1790834400,
-      400.0
+      385.43
      ]
     ],
     "Grade 8": [
@@ -41686,7 +41687,7 @@
      ],
      [
       1790834400,
-      97.0
+      96.47
      ]
     ],
     "Ungraded": [
@@ -41740,37 +41741,37 @@
      ],
      [
       1790834400,
-      93.99
+      90.77
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -3.4,
      "7d": null,
-     "30d": 3.9,
+     "30d": 0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -3.6,
      "7d": null,
-     "30d": -4.9,
+     "30d": -8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.9,
-     "now": 93.99,
+     "pct": 2.1,
+     "now": 92.38,
      "base": 90.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.05
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.9,
-     "now": 400.0,
+     "pct": -6.7,
+     "now": 392.71500000000003,
      "base": 420.83,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 42.08
@@ -45180,11 +45181,11 @@
    "title": "Blue-Eyes White Dragon SKE-001 Prices",
    "set": "YuGiOh Starter Deck: Kaiba Evolution",
    "prices": {
-    "Ungraded": 3.02,
+    "Ungraded": 2.75,
     "Grade 7": 22.0,
     "Grade 8": 28.0,
     "Grade 9": 86.0,
-    "Grade 9.5": 95.0,
+    "Grade 9.5": 87.5,
     "PSA 10": 368.0
    },
    "monthly": {
@@ -45239,7 +45240,7 @@
      ],
      [
       1790834400,
-      95.0
+      87.5
      ]
     ],
     "Grade 7": [
@@ -45509,15 +45510,15 @@
      ],
      [
       1790834400,
-      3.02
+      2.75
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -8.9,
      "7d": null,
-     "30d": -18.2,
+     "30d": -25.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -45530,8 +45531,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -18.2,
-     "now": 3.02,
+     "pct": -21.8,
+     "now": 2.885,
      "base": 3.69,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -46271,7 +46272,7 @@
     "set_code": "SDP-020",
     "set_price": 5.27,
     "all_printings_low": {
-     "cardmarket": 0.34,
+     "cardmarket": 0.44,
      "tcgplayer": 2.38,
      "ebay": 14.95,
      "amazon": 4.98,
@@ -46320,12 +46321,12 @@
    "title": "Red-Eyes Black Dragon SDJ-001 Prices",
    "set": "YuGiOh Starter Deck: Joey",
    "prices": {
-    "Ungraded": 9.0,
+    "Ungraded": 8.99,
     "Grade 7": 37.5,
-    "Grade 8": 70.0,
+    "Grade 8": 77.0,
     "Grade 9": 120.0,
     "Grade 9.5": 134.26,
-    "PSA 10": 1058.17
+    "PSA 10": 1117.52
    },
    "monthly": {
     "Grade 9.5": [
@@ -46541,7 +46542,7 @@
      ],
      [
       1790834400,
-      1058.17
+      1117.52
      ]
     ],
     "Grade 8": [
@@ -46595,7 +46596,7 @@
      ],
      [
       1790834400,
-      70.0
+      77.0
      ]
     ],
     "Ungraded": [
@@ -46649,7 +46650,7 @@
      ],
      [
       1790834400,
-      9.0
+      8.99
      ]
     ]
    },
@@ -46666,15 +46667,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.1,
      "7d": null,
-     "30d": 0.1,
+     "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 5.6,
      "7d": null,
-     "30d": -3.8,
+     "30d": 1.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -46682,15 +46683,15 @@
     "Ungraded": {
      "flag": "normal",
      "pct": 0.1,
-     "now": 9.0,
+     "now": 8.995000000000001,
      "base": 8.99,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -3.8,
-     "now": 1058.17,
+     "pct": -1.1,
+     "now": 1087.845,
      "base": 1099.62,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 109.96
@@ -46708,7 +46709,7 @@
    "title": "Sealed Tin  Prices",
    "set": "YuGiOh 2002 Collector's Tin",
    "prices": {
-    "Ungraded": 597.25
+    "Ungraded": 596.88
    },
    "monthly": {
     "Grade 9.5": [],
@@ -46767,15 +46768,15 @@
      ],
      [
       1790834400,
-      597.25
+      596.88
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.1,
      "7d": null,
-     "30d": -0.3,
+     "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -46789,7 +46790,7 @@
     "Ungraded": {
      "flag": "normal",
      "pct": -0.3,
-     "now": 597.25,
+     "now": 597.065,
      "base": 599.13,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 59.91
@@ -46810,10 +46811,10 @@
    "title": "Victor Wembanyama [Silver Prizm] #108 Prices",
    "set": "2023 Panini Hoops Premium Stock",
    "prices": {
-    "Ungraded": 41.58,
+    "Ungraded": 41.69,
     "Grade 8": 40.62,
     "Grade 9": 105.0,
-    "Grade 9.5": 121.84,
+    "Grade 9.5": 122.27,
     "PSA 10": 399.99
    },
    "monthly": {
@@ -46868,7 +46869,7 @@
      ],
      [
       1790834400,
-      121.84
+      122.27
      ]
     ],
     "Grade 7": [],
@@ -47085,15 +47086,15 @@
      ],
      [
       1790834400,
-      41.58
+      41.69
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 0.3,
      "7d": null,
-     "30d": 12.8,
+     "30d": 13.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -47106,8 +47107,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 12.8,
-     "now": 41.58,
+     "pct": 13.0,
+     "now": 41.635,
      "base": 36.85,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -48250,6 +48251,6742 @@
      "base": 405.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 40.5
+    }
+   }
+  },
+  {
+   "cat": "pokemon",
+   "name": "Charizard #4 (Base Set, 1st Edition)",
+   "path": "pokemon-base-set/charizard-1st-edition-4",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/gmkd37jg7haprczl/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/gmkd37jg7haprczl/1600.jpg",
+   "url": "https://www.pricecharting.com/game/pokemon-base-set/charizard-1st-edition-4",
+   "title": "Charizard [1st Edition] #4 Prices",
+   "set": "Pokemon Base Set",
+   "prices": {
+    "Ungraded": 7691.36,
+    "Grade 7": 22549.75,
+    "Grade 8": 29000.0,
+    "Grade 9": 31900.0,
+    "Grade 9.5": 70401.0,
+    "PSA 10": 334421.05
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      62606.55
+     ],
+     [
+      1761976800,
+      77500.0
+     ],
+     [
+      1764572400,
+      65000.0
+     ],
+     [
+      1767250800,
+      79903.51
+     ],
+     [
+      1769929200,
+      86077.0
+     ],
+     [
+      1772348400,
+      83212.1
+     ],
+     [
+      1775023200,
+      83725.5
+     ],
+     [
+      1777615200,
+      77076.43
+     ],
+     [
+      1780293600,
+      70401.0
+     ],
+     [
+      1782885600,
+      70401.0
+     ],
+     [
+      1785564000,
+      75227.3
+     ],
+     [
+      1788242400,
+      70401.0
+     ],
+     [
+      1790834400,
+      70401.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      10000.0
+     ],
+     [
+      1761976800,
+      11099.69
+     ],
+     [
+      1764572400,
+      12149.85
+     ],
+     [
+      1767250800,
+      12400.0
+     ],
+     [
+      1769929200,
+      18671.29
+     ],
+     [
+      1772348400,
+      18094.33
+     ],
+     [
+      1775023200,
+      22540.24
+     ],
+     [
+      1777615200,
+      23425.11
+     ],
+     [
+      1780293600,
+      21655.0
+     ],
+     [
+      1782885600,
+      22182.51
+     ],
+     [
+      1785564000,
+      18605.0
+     ],
+     [
+      1788242400,
+      21000.0
+     ],
+     [
+      1790834400,
+      22549.75
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      28999.0
+     ],
+     [
+      1761976800,
+      29342.12
+     ],
+     [
+      1764572400,
+      24500.0
+     ],
+     [
+      1767250800,
+      41294.38
+     ],
+     [
+      1769929200,
+      63418.7
+     ],
+     [
+      1772348400,
+      66045.75
+     ],
+     [
+      1775023200,
+      64564.0
+     ],
+     [
+      1777615200,
+      48233.04
+     ],
+     [
+      1780293600,
+      51453.66
+     ],
+     [
+      1782885600,
+      52076.22
+     ],
+     [
+      1785564000,
+      46516.27
+     ],
+     [
+      1788242400,
+      30910.0
+     ],
+     [
+      1790834400,
+      31900.0
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      262782.83
+     ],
+     [
+      1761976800,
+      263178.12
+     ],
+     [
+      1764572400,
+      166126.16
+     ],
+     [
+      1767250800,
+      165411.45
+     ],
+     [
+      1769929200,
+      168424.47
+     ],
+     [
+      1772348400,
+      175000.0
+     ],
+     [
+      1775023200,
+      534250.0
+     ],
+     [
+      1777615200,
+      350439.63
+     ],
+     [
+      1780293600,
+      362900.0
+     ],
+     [
+      1782885600,
+      343098.0
+     ],
+     [
+      1785564000,
+      343098.0
+     ],
+     [
+      1788242400,
+      334789.57
+     ],
+     [
+      1790834400,
+      334421.05
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      16151.03
+     ],
+     [
+      1761976800,
+      16991.16
+     ],
+     [
+      1764572400,
+      15953.37
+     ],
+     [
+      1767250800,
+      15500.0
+     ],
+     [
+      1769929200,
+      26125.0
+     ],
+     [
+      1772348400,
+      29180.0
+     ],
+     [
+      1775023200,
+      31360.0
+     ],
+     [
+      1777615200,
+      28640.0
+     ],
+     [
+      1780293600,
+      29784.12
+     ],
+     [
+      1782885600,
+      28984.12
+     ],
+     [
+      1785564000,
+      26420.0
+     ],
+     [
+      1788242400,
+      28100.0
+     ],
+     [
+      1790834400,
+      29000.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      4810.0
+     ],
+     [
+      1761976800,
+      4387.5
+     ],
+     [
+      1764572400,
+      4181.35
+     ],
+     [
+      1767250800,
+      5160.27
+     ],
+     [
+      1769929200,
+      5594.03
+     ],
+     [
+      1772348400,
+      5361.03
+     ],
+     [
+      1775023200,
+      4889.37
+     ],
+     [
+      1777615200,
+      7397.74
+     ],
+     [
+      1780293600,
+      7495.7
+     ],
+     [
+      1782885600,
+      3049.73
+     ],
+     [
+      1785564000,
+      6650.0
+     ],
+     [
+      1788242400,
+      9541.19
+     ],
+     [
+      1790834400,
+      7691.36
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -19.4,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -0.1,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -19.4,
+     "now": 7691.36,
+     "base": 9541.19,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 954.12
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -0.1,
+     "now": 334421.05,
+     "base": 334789.57,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 33478.96
+    }
+   }
+  },
+  {
+   "cat": "pokemon",
+   "name": "Blastoise #2 (Base Set, 1st Edition)",
+   "path": "pokemon-base-set/blastoise-1st-edition-2",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/d6b3d8aa2831f1e34e9480af1358692508e1d3070050e728bda8d5edbca95f9e/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/d6b3d8aa2831f1e34e9480af1358692508e1d3070050e728bda8d5edbca95f9e/1600.jpg",
+   "url": "https://www.pricecharting.com/game/pokemon-base-set/blastoise-1st-edition-2",
+   "title": "Blastoise [1st Edition] #2 Prices",
+   "set": "Pokemon Base Set",
+   "prices": {
+    "Ungraded": 1025.0,
+    "Grade 7": 3797.47,
+    "Grade 8": 5688.99,
+    "Grade 9": 10296.14,
+    "Grade 9.5": 11326.0,
+    "PSA 10": 16242.42
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      7950.0
+     ],
+     [
+      1761976800,
+      8261.0
+     ],
+     [
+      1764572400,
+      8372.0
+     ],
+     [
+      1767250800,
+      9388.0
+     ],
+     [
+      1769929200,
+      11468.0
+     ],
+     [
+      1772348400,
+      10503.0
+     ],
+     [
+      1775023200,
+      11488.0
+     ],
+     [
+      1777615200,
+      10373.66
+     ],
+     [
+      1780293600,
+      10373.66
+     ],
+     [
+      1782885600,
+      10373.66
+     ],
+     [
+      1785564000,
+      10373.66
+     ],
+     [
+      1788242400,
+      9805.08
+     ],
+     [
+      1790834400,
+      11326.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      1937.33
+     ],
+     [
+      1761976800,
+      1900.0
+     ],
+     [
+      1764572400,
+      1921.0
+     ],
+     [
+      1767250800,
+      2242.22
+     ],
+     [
+      1769929200,
+      2448.41
+     ],
+     [
+      1772348400,
+      2448.41
+     ],
+     [
+      1775023200,
+      2989.34
+     ],
+     [
+      1777615200,
+      3350.0
+     ],
+     [
+      1780293600,
+      3350.0
+     ],
+     [
+      1782885600,
+      3606.52
+     ],
+     [
+      1785564000,
+      3585.71
+     ],
+     [
+      1788242400,
+      3635.87
+     ],
+     [
+      1790834400,
+      3797.47
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      7227.19
+     ],
+     [
+      1761976800,
+      7445.77
+     ],
+     [
+      1764572400,
+      7611.22
+     ],
+     [
+      1767250800,
+      8534.5
+     ],
+     [
+      1769929200,
+      10425.0
+     ],
+     [
+      1772348400,
+      9548.15
+     ],
+     [
+      1775023200,
+      10444.0
+     ],
+     [
+      1777615200,
+      9817.61
+     ],
+     [
+      1780293600,
+      10143.44
+     ],
+     [
+      1782885600,
+      8624.78
+     ],
+     [
+      1785564000,
+      8438.0
+     ],
+     [
+      1788242400,
+      6828.52
+     ],
+     [
+      1790834400,
+      10296.14
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      20000.0
+     ],
+     [
+      1761976800,
+      24698.67
+     ],
+     [
+      1764572400,
+      18039.74
+     ],
+     [
+      1767250800,
+      20606.11
+     ],
+     [
+      1769929200,
+      18240.91
+     ],
+     [
+      1772348400,
+      37958.35
+     ],
+     [
+      1775023200,
+      24547.12
+     ],
+     [
+      1777615200,
+      40677.21
+     ],
+     [
+      1780293600,
+      39018.26
+     ],
+     [
+      1782885600,
+      67738.55
+     ],
+     [
+      1785564000,
+      73810.0
+     ],
+     [
+      1788242400,
+      33603.48
+     ],
+     [
+      1790834400,
+      16242.42
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      2993.93
+     ],
+     [
+      1761976800,
+      3200.0
+     ],
+     [
+      1764572400,
+      3200.0
+     ],
+     [
+      1767250800,
+      4400.0
+     ],
+     [
+      1769929200,
+      4082.49
+     ],
+     [
+      1772348400,
+      4698.31
+     ],
+     [
+      1775023200,
+      4644.69
+     ],
+     [
+      1777615200,
+      4991.92
+     ],
+     [
+      1780293600,
+      4699.95
+     ],
+     [
+      1782885600,
+      4874.38
+     ],
+     [
+      1785564000,
+      4687.23
+     ],
+     [
+      1788242400,
+      4425.5
+     ],
+     [
+      1790834400,
+      5688.99
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      810.57
+     ],
+     [
+      1761976800,
+      493.87
+     ],
+     [
+      1764572400,
+      475.52
+     ],
+     [
+      1767250800,
+      863.72
+     ],
+     [
+      1769929200,
+      1226.52
+     ],
+     [
+      1772348400,
+      1018.45
+     ],
+     [
+      1775023200,
+      1057.49
+     ],
+     [
+      1777615200,
+      1025.0
+     ],
+     [
+      1780293600,
+      1261.39
+     ],
+     [
+      1782885600,
+      1418.75
+     ],
+     [
+      1785564000,
+      1206.37
+     ],
+     [
+      1788242400,
+      1280.17
+     ],
+     [
+      1790834400,
+      1025.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -19.9,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -51.7,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -19.9,
+     "now": 1025.0,
+     "base": 1280.17,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 128.02
+    },
+    "PSA 10": {
+     "flag": "DROP_ALERT",
+     "pct": -51.7,
+     "now": 16242.42,
+     "base": 33603.48,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 3360.35
+    }
+   }
+  },
+  {
+   "cat": "pokemon",
+   "name": "Venusaur #15 (Base Set, 1st Edition)",
+   "path": "pokemon-base-set/venusaur-1st-edition-15",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/qcyg7xxwfqtqqkhj/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/qcyg7xxwfqtqqkhj/1600.jpg",
+   "url": "https://www.pricecharting.com/game/pokemon-base-set/venusaur-1st-edition-15",
+   "title": "Venusaur [1st Edition] #15 Prices",
+   "set": "Pokemon Base Set",
+   "prices": {
+    "Ungraded": 1150.0,
+    "Grade 7": 2918.6,
+    "Grade 8": 4350.0,
+    "Grade 9": 8127.99,
+    "Grade 9.5": 8941.0,
+    "PSA 10": 69999.99
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      4628.0
+     ],
+     [
+      1761976800,
+      5701.0
+     ],
+     [
+      1764572400,
+      5129.0
+     ],
+     [
+      1767250800,
+      5445.0
+     ],
+     [
+      1769929200,
+      6855.0
+     ],
+     [
+      1772348400,
+      7327.32
+     ],
+     [
+      1775023200,
+      7327.32
+     ],
+     [
+      1777615200,
+      7413.66
+     ],
+     [
+      1780293600,
+      7413.66
+     ],
+     [
+      1782885600,
+      7413.66
+     ],
+     [
+      1785564000,
+      7413.66
+     ],
+     [
+      1788242400,
+      7500.0
+     ],
+     [
+      1790834400,
+      8941.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      1336.9
+     ],
+     [
+      1761976800,
+      1550.0
+     ],
+     [
+      1764572400,
+      1487.0
+     ],
+     [
+      1767250800,
+      1462.5
+     ],
+     [
+      1769929200,
+      1749.5
+     ],
+     [
+      1772348400,
+      1599.99
+     ],
+     [
+      1775023200,
+      1888.24
+     ],
+     [
+      1777615200,
+      2234.98
+     ],
+     [
+      1780293600,
+      2462.0
+     ],
+     [
+      1782885600,
+      2350.0
+     ],
+     [
+      1785564000,
+      2492.17
+     ],
+     [
+      1788242400,
+      2495.0
+     ],
+     [
+      1790834400,
+      2918.6
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      4207.26
+     ],
+     [
+      1761976800,
+      5182.79
+     ],
+     [
+      1764572400,
+      4662.76
+     ],
+     [
+      1767250800,
+      4950.0
+     ],
+     [
+      1769929200,
+      6100.0
+     ],
+     [
+      1772348400,
+      6056.06
+     ],
+     [
+      1775023200,
+      5735.81
+     ],
+     [
+      1777615200,
+      5856.89
+     ],
+     [
+      1780293600,
+      5973.49
+     ],
+     [
+      1782885600,
+      5667.63
+     ],
+     [
+      1785564000,
+      6027.16
+     ],
+     [
+      1788242400,
+      5914.91
+     ],
+     [
+      1790834400,
+      8127.99
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      14235.51
+     ],
+     [
+      1761976800,
+      15244.25
+     ],
+     [
+      1764572400,
+      14757.71
+     ],
+     [
+      1767250800,
+      12971.11
+     ],
+     [
+      1769929200,
+      14212.67
+     ],
+     [
+      1772348400,
+      45410.0
+     ],
+     [
+      1775023200,
+      54999.99
+     ],
+     [
+      1777615200,
+      44755.57
+     ],
+     [
+      1780293600,
+      44165.47
+     ],
+     [
+      1782885600,
+      46490.83
+     ],
+     [
+      1785564000,
+      37210.0
+     ],
+     [
+      1788242400,
+      37210.0
+     ],
+     [
+      1790834400,
+      69999.99
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      2420.5
+     ],
+     [
+      1761976800,
+      2442.51
+     ],
+     [
+      1764572400,
+      2350.0
+     ],
+     [
+      1767250800,
+      2178.5
+     ],
+     [
+      1769929200,
+      2200.0
+     ],
+     [
+      1772348400,
+      3294.8
+     ],
+     [
+      1775023200,
+      3096.39
+     ],
+     [
+      1777615200,
+      3456.86
+     ],
+     [
+      1780293600,
+      3689.87
+     ],
+     [
+      1782885600,
+      3653.49
+     ],
+     [
+      1785564000,
+      3826.77
+     ],
+     [
+      1788242400,
+      4123.95
+     ],
+     [
+      1790834400,
+      4350.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      720.25
+     ],
+     [
+      1761976800,
+      675.0
+     ],
+     [
+      1764572400,
+      728.5
+     ],
+     [
+      1767250800,
+      775.0
+     ],
+     [
+      1769929200,
+      750.0
+     ],
+     [
+      1772348400,
+      879.14
+     ],
+     [
+      1775023200,
+      854.56
+     ],
+     [
+      1777615200,
+      1050.0
+     ],
+     [
+      1780293600,
+      1297.0
+     ],
+     [
+      1782885600,
+      980.67
+     ],
+     [
+      1785564000,
+      1200.68
+     ],
+     [
+      1788242400,
+      1043.75
+     ],
+     [
+      1790834400,
+      1150.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 10.2,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 88.1,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 10.2,
+     "now": 1150.0,
+     "base": 1043.75,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 104.38
+    },
+    "PSA 10": {
+     "flag": "SPIKE_ALERT",
+     "pct": 88.1,
+     "now": 69999.99,
+     "base": 37210.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 3721.0
+    }
+   }
+  },
+  {
+   "cat": "pokemon",
+   "name": "Mewtwo #10 (Base Set, 1st Edition)",
+   "path": "pokemon-base-set/mewtwo-1st-edition-10",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/03c624cc81ad08565897666463df4fa337def12262431f6e447924f3977b4856/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/03c624cc81ad08565897666463df4fa337def12262431f6e447924f3977b4856/1600.jpg",
+   "url": "https://www.pricecharting.com/game/pokemon-base-set/mewtwo-1st-edition-10",
+   "title": "Mewtwo [1st Edition] #10 Prices",
+   "set": "Pokemon Base Set",
+   "prices": {
+    "Ungraded": 345.0,
+    "Grade 7": 2507.28,
+    "Grade 8": 3699.0,
+    "Grade 9": 6337.5,
+    "Grade 9.5": 8500.0,
+    "PSA 10": 43216.4
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      4999.0
+     ],
+     [
+      1761976800,
+      4999.0
+     ],
+     [
+      1764572400,
+      4999.0
+     ],
+     [
+      1767250800,
+      6731.5
+     ],
+     [
+      1769929200,
+      6699.79
+     ],
+     [
+      1772348400,
+      6653.4
+     ],
+     [
+      1775023200,
+      7503.89
+     ],
+     [
+      1777615200,
+      7365.6
+     ],
+     [
+      1780293600,
+      7217.3
+     ],
+     [
+      1782885600,
+      6891.43
+     ],
+     [
+      1785564000,
+      7758.0
+     ],
+     [
+      1788242400,
+      7758.0
+     ],
+     [
+      1790834400,
+      8500.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      1000.0
+     ],
+     [
+      1761976800,
+      1016.8
+     ],
+     [
+      1764572400,
+      1122.11
+     ],
+     [
+      1767250800,
+      1344.26
+     ],
+     [
+      1769929200,
+      1298.56
+     ],
+     [
+      1772348400,
+      1550.0
+     ],
+     [
+      1775023200,
+      1720.1
+     ],
+     [
+      1777615200,
+      1899.99
+     ],
+     [
+      1780293600,
+      2359.81
+     ],
+     [
+      1782885600,
+      2399.0
+     ],
+     [
+      1785564000,
+      2338.0
+     ],
+     [
+      1788242400,
+      2338.0
+     ],
+     [
+      1790834400,
+      2507.28
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      3731.08
+     ],
+     [
+      1761976800,
+      3944.73
+     ],
+     [
+      1764572400,
+      3997.9
+     ],
+     [
+      1767250800,
+      4048.58
+     ],
+     [
+      1769929200,
+      4362.57
+     ],
+     [
+      1772348400,
+      4349.49
+     ],
+     [
+      1775023200,
+      6250.0
+     ],
+     [
+      1777615200,
+      6658.15
+     ],
+     [
+      1780293600,
+      5698.92
+     ],
+     [
+      1782885600,
+      6200.0
+     ],
+     [
+      1785564000,
+      6394.32
+     ],
+     [
+      1788242400,
+      5600.13
+     ],
+     [
+      1790834400,
+      6337.5
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      18081.69
+     ],
+     [
+      1761976800,
+      17922.01
+     ],
+     [
+      1764572400,
+      15554.04
+     ],
+     [
+      1767250800,
+      17301.07
+     ],
+     [
+      1769929200,
+      17111.14
+     ],
+     [
+      1772348400,
+      29995.0
+     ],
+     [
+      1775023200,
+      43090.69
+     ],
+     [
+      1777615200,
+      43823.53
+     ],
+     [
+      1780293600,
+      43823.53
+     ],
+     [
+      1782885600,
+      43823.53
+     ],
+     [
+      1785564000,
+      54069.56
+     ],
+     [
+      1788242400,
+      54069.56
+     ],
+     [
+      1790834400,
+      43216.4
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      1619.04
+     ],
+     [
+      1761976800,
+      1937.13
+     ],
+     [
+      1764572400,
+      2025.0
+     ],
+     [
+      1767250800,
+      2100.0
+     ],
+     [
+      1769929200,
+      2050.0
+     ],
+     [
+      1772348400,
+      1925.0
+     ],
+     [
+      1775023200,
+      2582.62
+     ],
+     [
+      1777615200,
+      2800.0
+     ],
+     [
+      1780293600,
+      3099.99
+     ],
+     [
+      1782885600,
+      3207.18
+     ],
+     [
+      1785564000,
+      3249.35
+     ],
+     [
+      1788242400,
+      3210.0
+     ],
+     [
+      1790834400,
+      3699.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      517.05
+     ],
+     [
+      1761976800,
+      500.0
+     ],
+     [
+      1764572400,
+      644.36
+     ],
+     [
+      1767250800,
+      1016.91
+     ],
+     [
+      1769929200,
+      820.65
+     ],
+     [
+      1772348400,
+      902.14
+     ],
+     [
+      1775023200,
+      650.23
+     ],
+     [
+      1777615200,
+      830.0
+     ],
+     [
+      1780293600,
+      539.93
+     ],
+     [
+      1782885600,
+      830.0
+     ],
+     [
+      1785564000,
+      811.1
+     ],
+     [
+      1788242400,
+      521.57
+     ],
+     [
+      1790834400,
+      345.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -33.9,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -20.1,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "DROP_WATCH",
+     "pct": -33.9,
+     "now": 345.0,
+     "base": 521.57,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 52.16
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -20.1,
+     "now": 43216.4,
+     "base": 54069.56,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5406.96
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Blue-Eyes White Dragon LOB-001 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-1st-edition-lob-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ec1170f04e0b02ada3978417b4cfd7838ac257f24722c5c07344c28479fa23f1/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ec1170f04e0b02ada3978417b4cfd7838ac257f24722c5c07344c28479fa23f1/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon-1st-edition-lob-001",
+   "title": "Blue-Eyes White Dragon [1st Edition] LOB-001 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 1085.0,
+    "Grade 7": 3300.0,
+    "Grade 8": 4300.0,
+    "Grade 9": 5328.93,
+    "Grade 9.5": 14100.0,
+    "PSA 10": 45000.0
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      5078.51
+     ],
+     [
+      1761976800,
+      6950.0
+     ],
+     [
+      1764572400,
+      6950.0
+     ],
+     [
+      1767250800,
+      8700.0
+     ],
+     [
+      1769929200,
+      8700.0
+     ],
+     [
+      1772348400,
+      15000.0
+     ],
+     [
+      1775023200,
+      15100.41
+     ],
+     [
+      1777615200,
+      15102.0
+     ],
+     [
+      1780293600,
+      15102.0
+     ],
+     [
+      1782885600,
+      15102.0
+     ],
+     [
+      1785564000,
+      15700.0
+     ],
+     [
+      1788242400,
+      15700.0
+     ],
+     [
+      1790834400,
+      14100.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      2200.0
+     ],
+     [
+      1761976800,
+      2200.0
+     ],
+     [
+      1764572400,
+      2250.0
+     ],
+     [
+      1767250800,
+      2250.0
+     ],
+     [
+      1769929200,
+      2253.53
+     ],
+     [
+      1772348400,
+      2250.01
+     ],
+     [
+      1775023200,
+      3316.66
+     ],
+     [
+      1777615200,
+      3093.0
+     ],
+     [
+      1780293600,
+      3356.0
+     ],
+     [
+      1782885600,
+      3356.0
+     ],
+     [
+      1785564000,
+      3333.16
+     ],
+     [
+      1788242400,
+      3333.14
+     ],
+     [
+      1790834400,
+      3300.0
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      5005.89
+     ],
+     [
+      1761976800,
+      6080.89
+     ],
+     [
+      1764572400,
+      5091.25
+     ],
+     [
+      1767250800,
+      6440.44
+     ],
+     [
+      1769929200,
+      6351.63
+     ],
+     [
+      1772348400,
+      5084.43
+     ],
+     [
+      1775023200,
+      9578.52
+     ],
+     [
+      1777615200,
+      8300.0
+     ],
+     [
+      1780293600,
+      8636.14
+     ],
+     [
+      1782885600,
+      8514.94
+     ],
+     [
+      1785564000,
+      8299.11
+     ],
+     [
+      1788242400,
+      7899.41
+     ],
+     [
+      1790834400,
+      5328.93
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      19524.42
+     ],
+     [
+      1761976800,
+      18032.39
+     ],
+     [
+      1764572400,
+      17587.3
+     ],
+     [
+      1767250800,
+      17222.93
+     ],
+     [
+      1769929200,
+      33500.0
+     ],
+     [
+      1772348400,
+      37081.23
+     ],
+     [
+      1775023200,
+      42999.32
+     ],
+     [
+      1777615200,
+      43492.25
+     ],
+     [
+      1780293600,
+      42185.19
+     ],
+     [
+      1782885600,
+      45000.0
+     ],
+     [
+      1785564000,
+      45000.0
+     ],
+     [
+      1788242400,
+      45000.0
+     ],
+     [
+      1790834400,
+      45000.0
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      2747.98
+     ],
+     [
+      1761976800,
+      2801.0
+     ],
+     [
+      1764572400,
+      2749.0
+     ],
+     [
+      1767250800,
+      2889.08
+     ],
+     [
+      1769929200,
+      3170.27
+     ],
+     [
+      1772348400,
+      3600.0
+     ],
+     [
+      1775023200,
+      3951.77
+     ],
+     [
+      1777615200,
+      3774.01
+     ],
+     [
+      1780293600,
+      3818.75
+     ],
+     [
+      1782885600,
+      3818.75
+     ],
+     [
+      1785564000,
+      3923.73
+     ],
+     [
+      1788242400,
+      4000.0
+     ],
+     [
+      1790834400,
+      4300.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      1733.28
+     ],
+     [
+      1761976800,
+      1150.04
+     ],
+     [
+      1764572400,
+      1279.84
+     ],
+     [
+      1767250800,
+      905.0
+     ],
+     [
+      1769929200,
+      1302.45
+     ],
+     [
+      1772348400,
+      662.5
+     ],
+     [
+      1775023200,
+      700.0
+     ],
+     [
+      1777615200,
+      724.02
+     ],
+     [
+      1780293600,
+      1555.23
+     ],
+     [
+      1782885600,
+      2026.0
+     ],
+     [
+      1785564000,
+      1634.39
+     ],
+     [
+      1788242400,
+      1255.44
+     ],
+     [
+      1790834400,
+      1085.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -13.6,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -13.6,
+     "now": 1085.0,
+     "base": 1255.44,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 125.54
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 45000.0,
+     "base": 45000.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 4500.0
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Right Leg of the Forbidden One LOB-120 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-1st-edition-lob-120",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/ed8eb27df120fd639d30d6b760669a128958ffe7a5869974a68147de1935b1db/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/ed8eb27df120fd639d30d6b760669a128958ffe7a5869974a68147de1935b1db/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/right-leg-of-the-forbidden-one-1st-edition-lob-120",
+   "title": "Right Leg of the Forbidden One [1st Edition] LOB-120 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 218.34,
+    "Grade 7": 361.09,
+    "Grade 8": 403.52,
+    "Grade 9": 1068.33,
+    "Grade 9.5": 1115.6,
+    "PSA 10": 4650.0
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      776.78
+     ],
+     [
+      1761976800,
+      776.78
+     ],
+     [
+      1764572400,
+      776.78
+     ],
+     [
+      1767250800,
+      776.78
+     ],
+     [
+      1769929200,
+      776.78
+     ],
+     [
+      1772348400,
+      776.78
+     ],
+     [
+      1775023200,
+      776.78
+     ],
+     [
+      1777615200,
+      964.89
+     ],
+     [
+      1780293600,
+      1035.46
+     ],
+     [
+      1782885600,
+      1063.96
+     ],
+     [
+      1785564000,
+      1167.06
+     ],
+     [
+      1788242400,
+      1250.0
+     ],
+     [
+      1790834400,
+      1115.6
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      361.09
+     ],
+     [
+      1761976800,
+      361.09
+     ],
+     [
+      1764572400,
+      361.09
+     ],
+     [
+      1767250800,
+      361.09
+     ],
+     [
+      1769929200,
+      361.09
+     ],
+     [
+      1772348400,
+      361.09
+     ],
+     [
+      1775023200,
+      361.09
+     ],
+     [
+      1777615200,
+      361.09
+     ],
+     [
+      1780293600,
+      361.09
+     ],
+     [
+      1782885600,
+      361.09
+     ],
+     [
+      1785564000,
+      361.09
+     ],
+     [
+      1788242400,
+      361.09
+     ],
+     [
+      1790834400,
+      361.09
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      532.0
+     ],
+     [
+      1761976800,
+      499.0
+     ],
+     [
+      1764572400,
+      499.0
+     ],
+     [
+      1767250800,
+      475.0
+     ],
+     [
+      1769929200,
+      603.71
+     ],
+     [
+      1772348400,
+      562.46
+     ],
+     [
+      1775023200,
+      610.0
+     ],
+     [
+      1777615200,
+      610.0
+     ],
+     [
+      1780293600,
+      613.56
+     ],
+     [
+      1782885600,
+      900.0
+     ],
+     [
+      1785564000,
+      1136.66
+     ],
+     [
+      1788242400,
+      1136.66
+     ],
+     [
+      1790834400,
+      1068.33
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      2213.5
+     ],
+     [
+      1761976800,
+      2056.17
+     ],
+     [
+      1764572400,
+      2051.22
+     ],
+     [
+      1767250800,
+      2229.43
+     ],
+     [
+      1769929200,
+      2229.43
+     ],
+     [
+      1772348400,
+      2229.43
+     ],
+     [
+      1775023200,
+      4473.84
+     ],
+     [
+      1777615200,
+      4562.66
+     ],
+     [
+      1780293600,
+      4000.0
+     ],
+     [
+      1782885600,
+      4000.0
+     ],
+     [
+      1785564000,
+      4783.19
+     ],
+     [
+      1788242400,
+      4743.63
+     ],
+     [
+      1790834400,
+      4650.0
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      484.02
+     ],
+     [
+      1761976800,
+      453.98
+     ],
+     [
+      1764572400,
+      453.98
+     ],
+     [
+      1767250800,
+      458.87
+     ],
+     [
+      1769929200,
+      461.02
+     ],
+     [
+      1772348400,
+      407.03
+     ],
+     [
+      1775023200,
+      407.03
+     ],
+     [
+      1777615200,
+      549.0
+     ],
+     [
+      1780293600,
+      549.0
+     ],
+     [
+      1782885600,
+      463.5
+     ],
+     [
+      1785564000,
+      461.26
+     ],
+     [
+      1788242400,
+      480.63
+     ],
+     [
+      1790834400,
+      403.52
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      126.24
+     ],
+     [
+      1761976800,
+      76.32
+     ],
+     [
+      1764572400,
+      119.27
+     ],
+     [
+      1767250800,
+      175.32
+     ],
+     [
+      1769929200,
+      279.69
+     ],
+     [
+      1772348400,
+      309.97
+     ],
+     [
+      1775023200,
+      217.32
+     ],
+     [
+      1777615200,
+      247.88
+     ],
+     [
+      1780293600,
+      206.89
+     ],
+     [
+      1782885600,
+      235.0
+     ],
+     [
+      1785564000,
+      205.86
+     ],
+     [
+      1788242400,
+      213.65
+     ],
+     [
+      1790834400,
+      218.34
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 2.2,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -2.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 2.2,
+     "now": 218.34,
+     "base": 213.65,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 21.37
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -2.0,
+     "now": 4650.0,
+     "base": 4743.63,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 474.36
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Left Arm of the Forbidden One LOB-123 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-1st-edition-lob-123",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/7fae8e2eab3114d85e702e7df4d040ef9f256ff27b49019125367f1ee9f36c93/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/7fae8e2eab3114d85e702e7df4d040ef9f256ff27b49019125367f1ee9f36c93/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/left-arm-of-the-forbidden-one-1st-edition-lob-123",
+   "title": "Left Arm of the Forbidden One [1st Edition] LOB-123 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 169.48,
+    "Grade 7": 242.25,
+    "Grade 8": 438.63,
+    "Grade 9": 821.81,
+    "Grade 9.5": 1000.0,
+    "PSA 10": 7102.91
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      1475.0
+     ],
+     [
+      1761976800,
+      1475.0
+     ],
+     [
+      1764572400,
+      1475.0
+     ],
+     [
+      1767250800,
+      1475.0
+     ],
+     [
+      1769929200,
+      1475.0
+     ],
+     [
+      1772348400,
+      1475.0
+     ],
+     [
+      1775023200,
+      1475.0
+     ],
+     [
+      1777615200,
+      1475.0
+     ],
+     [
+      1780293600,
+      1475.0
+     ],
+     [
+      1782885600,
+      1475.0
+     ],
+     [
+      1785564000,
+      1000.0
+     ],
+     [
+      1788242400,
+      1000.0
+     ],
+     [
+      1790834400,
+      1000.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      160.25
+     ],
+     [
+      1761976800,
+      212.96
+     ],
+     [
+      1764572400,
+      208.9
+     ],
+     [
+      1767250800,
+      213.62
+     ],
+     [
+      1769929200,
+      214.46
+     ],
+     [
+      1772348400,
+      213.8
+     ],
+     [
+      1775023200,
+      213.4
+     ],
+     [
+      1777615200,
+      210.88
+     ],
+     [
+      1780293600,
+      210.88
+     ],
+     [
+      1782885600,
+      210.88
+     ],
+     [
+      1785564000,
+      259.5
+     ],
+     [
+      1788242400,
+      242.25
+     ],
+     [
+      1790834400,
+      242.25
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      427.5
+     ],
+     [
+      1761976800,
+      427.5
+     ],
+     [
+      1764572400,
+      480.0
+     ],
+     [
+      1767250800,
+      560.0
+     ],
+     [
+      1769929200,
+      605.0
+     ],
+     [
+      1772348400,
+      532.5
+     ],
+     [
+      1775023200,
+      632.14
+     ],
+     [
+      1777615200,
+      565.29
+     ],
+     [
+      1780293600,
+      561.0
+     ],
+     [
+      1782885600,
+      565.29
+     ],
+     [
+      1785564000,
+      733.0
+     ],
+     [
+      1788242400,
+      733.0
+     ],
+     [
+      1790834400,
+      821.81
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      3930.34
+     ],
+     [
+      1761976800,
+      3680.36
+     ],
+     [
+      1764572400,
+      3818.76
+     ],
+     [
+      1767250800,
+      4003.58
+     ],
+     [
+      1769929200,
+      3836.62
+     ],
+     [
+      1772348400,
+      3819.24
+     ],
+     [
+      1775023200,
+      4025.0
+     ],
+     [
+      1777615200,
+      5240.45
+     ],
+     [
+      1780293600,
+      5760.13
+     ],
+     [
+      1782885600,
+      6746.87
+     ],
+     [
+      1785564000,
+      7256.65
+     ],
+     [
+      1788242400,
+      7123.28
+     ],
+     [
+      1790834400,
+      7102.91
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      380.0
+     ],
+     [
+      1761976800,
+      405.0
+     ],
+     [
+      1764572400,
+      405.0
+     ],
+     [
+      1767250800,
+      405.0
+     ],
+     [
+      1769929200,
+      405.0
+     ],
+     [
+      1772348400,
+      324.71
+     ],
+     [
+      1775023200,
+      324.71
+     ],
+     [
+      1777615200,
+      385.82
+     ],
+     [
+      1780293600,
+      402.5
+     ],
+     [
+      1782885600,
+      400.0
+     ],
+     [
+      1785564000,
+      456.0
+     ],
+     [
+      1788242400,
+      451.65
+     ],
+     [
+      1790834400,
+      438.63
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      150.03
+     ],
+     [
+      1761976800,
+      106.33
+     ],
+     [
+      1764572400,
+      148.19
+     ],
+     [
+      1767250800,
+      182.02
+     ],
+     [
+      1769929200,
+      239.0
+     ],
+     [
+      1772348400,
+      219.0
+     ],
+     [
+      1775023200,
+      211.25
+     ],
+     [
+      1777615200,
+      203.5
+     ],
+     [
+      1780293600,
+      188.5
+     ],
+     [
+      1782885600,
+      215.0
+     ],
+     [
+      1785564000,
+      168.71
+     ],
+     [
+      1788242400,
+      200.0
+     ],
+     [
+      1790834400,
+      169.48
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -15.3,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -0.3,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -15.3,
+     "now": 169.48,
+     "base": 200.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 20.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -0.3,
+     "now": 7102.91,
+     "base": 7123.28,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 712.33
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Gaia the Fierce Knight LOB-006 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-1st-edition-lob-006",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/5a342d621f8ee4862e06f2a4d282a1afc384dd7a478bd6093a06c8fb05bb72d9/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/5a342d621f8ee4862e06f2a4d282a1afc384dd7a478bd6093a06c8fb05bb72d9/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight-1st-edition-lob-006",
+   "title": "Gaia The Fierce Knight [1st Edition] LOB-006 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 180.68,
+    "Grade 7": 415.0,
+    "Grade 8": 419.35,
+    "Grade 9": 917.82,
+    "Grade 9.5": 1010.0,
+    "PSA 10": 3800.0
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      739.0
+     ],
+     [
+      1761976800,
+      668.0
+     ],
+     [
+      1764572400,
+      724.0
+     ],
+     [
+      1767250800,
+      722.0
+     ],
+     [
+      1769929200,
+      770.0
+     ],
+     [
+      1772348400,
+      770.0
+     ],
+     [
+      1775023200,
+      770.0
+     ],
+     [
+      1777615200,
+      770.0
+     ],
+     [
+      1780293600,
+      825.0
+     ],
+     [
+      1782885600,
+      794.0
+     ],
+     [
+      1785564000,
+      880.0
+     ],
+     [
+      1788242400,
+      1077.0
+     ],
+     [
+      1790834400,
+      1010.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      217.37
+     ],
+     [
+      1761976800,
+      212.81
+     ],
+     [
+      1764572400,
+      212.81
+     ],
+     [
+      1767250800,
+      212.81
+     ],
+     [
+      1769929200,
+      219.78
+     ],
+     [
+      1772348400,
+      390.34
+     ],
+     [
+      1775023200,
+      376.42
+     ],
+     [
+      1777615200,
+      427.48
+     ],
+     [
+      1780293600,
+      428.75
+     ],
+     [
+      1782885600,
+      428.75
+     ],
+     [
+      1785564000,
+      415.0
+     ],
+     [
+      1788242400,
+      331.0
+     ],
+     [
+      1790834400,
+      415.0
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      671.95
+     ],
+     [
+      1761976800,
+      607.34
+     ],
+     [
+      1764572400,
+      657.78
+     ],
+     [
+      1767250800,
+      656.55
+     ],
+     [
+      1769929200,
+      700.0
+     ],
+     [
+      1772348400,
+      700.0
+     ],
+     [
+      1775023200,
+      700.0
+     ],
+     [
+      1777615200,
+      700.0
+     ],
+     [
+      1780293600,
+      750.42
+     ],
+     [
+      1782885600,
+      721.39
+     ],
+     [
+      1785564000,
+      800.0
+     ],
+     [
+      1788242400,
+      979.2
+     ],
+     [
+      1790834400,
+      917.82
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      2400.0
+     ],
+     [
+      1761976800,
+      2400.0
+     ],
+     [
+      1764572400,
+      1999.89
+     ],
+     [
+      1767250800,
+      2404.0
+     ],
+     [
+      1769929200,
+      3200.0
+     ],
+     [
+      1772348400,
+      3200.0
+     ],
+     [
+      1775023200,
+      3868.78
+     ],
+     [
+      1777615200,
+      3600.0
+     ],
+     [
+      1780293600,
+      3600.0
+     ],
+     [
+      1782885600,
+      4000.0
+     ],
+     [
+      1785564000,
+      3800.0
+     ],
+     [
+      1788242400,
+      3800.0
+     ],
+     [
+      1790834400,
+      3800.0
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      332.26
+     ],
+     [
+      1761976800,
+      324.58
+     ],
+     [
+      1764572400,
+      400.0
+     ],
+     [
+      1767250800,
+      400.0
+     ],
+     [
+      1769929200,
+      400.0
+     ],
+     [
+      1772348400,
+      400.0
+     ],
+     [
+      1775023200,
+      400.0
+     ],
+     [
+      1777615200,
+      500.25
+     ],
+     [
+      1780293600,
+      438.0
+     ],
+     [
+      1782885600,
+      438.0
+     ],
+     [
+      1785564000,
+      511.26
+     ],
+     [
+      1788242400,
+      414.06
+     ],
+     [
+      1790834400,
+      419.35
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      144.27
+     ],
+     [
+      1761976800,
+      75.97
+     ],
+     [
+      1764572400,
+      85.81
+     ],
+     [
+      1767250800,
+      124.0
+     ],
+     [
+      1769929200,
+      182.75
+     ],
+     [
+      1772348400,
+      160.5
+     ],
+     [
+      1775023200,
+      144.05
+     ],
+     [
+      1777615200,
+      247.53
+     ],
+     [
+      1780293600,
+      278.0
+     ],
+     [
+      1782885600,
+      174.51
+     ],
+     [
+      1785564000,
+      219.86
+     ],
+     [
+      1788242400,
+      232.23
+     ],
+     [
+      1790834400,
+      180.68
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -22.2,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -22.2,
+     "now": 180.68,
+     "base": 232.23,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 23.22
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 3800.0,
+     "base": 3800.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 380.0
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Blue-Eyes White Dragon SDK-001 (1st Edition)",
+   "path": "yugioh-starter-deck-kaiba/blue-eyes-white-dragon-1st-edition-sdk-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/e15914d3143868a99e3014bbedf8ab49e75007cae7e764983785e6ff64484e8d/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/e15914d3143868a99e3014bbedf8ab49e75007cae7e764983785e6ff64484e8d/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba/blue-eyes-white-dragon-1st-edition-sdk-001",
+   "title": "Blue-Eyes White Dragon [1st Edition] SDK-001 Prices",
+   "set": "YuGiOh Starter Deck: Kaiba",
+   "prices": {
+    "Ungraded": 336.88,
+    "Grade 7": 1166.79,
+    "Grade 8": 1745.0,
+    "Grade 9": 3750.0,
+    "Grade 9.5": 6138.36,
+    "PSA 10": 38362.5
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      2000.86
+     ],
+     [
+      1761976800,
+      2000.86
+     ],
+     [
+      1764572400,
+      2822.07
+     ],
+     [
+      1767250800,
+      2800.0
+     ],
+     [
+      1769929200,
+      2506.32
+     ],
+     [
+      1772348400,
+      3100.0
+     ],
+     [
+      1775023200,
+      3100.0
+     ],
+     [
+      1777615200,
+      3900.0
+     ],
+     [
+      1780293600,
+      3909.0
+     ],
+     [
+      1782885600,
+      4075.0
+     ],
+     [
+      1785564000,
+      7300.0
+     ],
+     [
+      1788242400,
+      7334.52
+     ],
+     [
+      1790834400,
+      6138.36
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      455.0
+     ],
+     [
+      1761976800,
+      502.5
+     ],
+     [
+      1764572400,
+      503.32
+     ],
+     [
+      1767250800,
+      550.0
+     ],
+     [
+      1769929200,
+      660.0
+     ],
+     [
+      1772348400,
+      710.85
+     ],
+     [
+      1775023200,
+      721.73
+     ],
+     [
+      1777615200,
+      831.08
+     ],
+     [
+      1780293600,
+      921.0
+     ],
+     [
+      1782885600,
+      1028.42
+     ],
+     [
+      1785564000,
+      1009.0
+     ],
+     [
+      1788242400,
+      1009.0
+     ],
+     [
+      1790834400,
+      1166.79
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      1781.2
+     ],
+     [
+      1761976800,
+      1800.0
+     ],
+     [
+      1764572400,
+      1850.0
+     ],
+     [
+      1767250800,
+      1832.3
+     ],
+     [
+      1769929200,
+      1900.0
+     ],
+     [
+      1772348400,
+      2565.02
+     ],
+     [
+      1775023200,
+      2950.0
+     ],
+     [
+      1777615200,
+      3545.75
+     ],
+     [
+      1780293600,
+      3553.38
+     ],
+     [
+      1782885600,
+      3704.95
+     ],
+     [
+      1785564000,
+      3475.0
+     ],
+     [
+      1788242400,
+      3388.33
+     ],
+     [
+      1790834400,
+      3750.0
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      9150.0
+     ],
+     [
+      1761976800,
+      9400.0
+     ],
+     [
+      1764572400,
+      9400.0
+     ],
+     [
+      1767250800,
+      7786.78
+     ],
+     [
+      1769929200,
+      9400.0
+     ],
+     [
+      1772348400,
+      9400.0
+     ],
+     [
+      1775023200,
+      27650.0
+     ],
+     [
+      1777615200,
+      28600.0
+     ],
+     [
+      1780293600,
+      28600.0
+     ],
+     [
+      1782885600,
+      29100.0
+     ],
+     [
+      1785564000,
+      29100.0
+     ],
+     [
+      1788242400,
+      31750.0
+     ],
+     [
+      1790834400,
+      38362.5
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      896.27
+     ],
+     [
+      1761976800,
+      814.69
+     ],
+     [
+      1764572400,
+      800.0
+     ],
+     [
+      1767250800,
+      955.43
+     ],
+     [
+      1769929200,
+      1199.37
+     ],
+     [
+      1772348400,
+      1212.62
+     ],
+     [
+      1775023200,
+      1314.38
+     ],
+     [
+      1777615200,
+      1254.23
+     ],
+     [
+      1780293600,
+      1404.69
+     ],
+     [
+      1782885600,
+      1667.63
+     ],
+     [
+      1785564000,
+      1506.25
+     ],
+     [
+      1788242400,
+      1653.13
+     ],
+     [
+      1790834400,
+      1745.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      275.0
+     ],
+     [
+      1761976800,
+      195.0
+     ],
+     [
+      1764572400,
+      175.62
+     ],
+     [
+      1767250800,
+      189.87
+     ],
+     [
+      1769929200,
+      190.0
+     ],
+     [
+      1772348400,
+      272.83
+     ],
+     [
+      1775023200,
+      426.97
+     ],
+     [
+      1777615200,
+      335.27
+     ],
+     [
+      1780293600,
+      262.98
+     ],
+     [
+      1782885600,
+      300.0
+     ],
+     [
+      1785564000,
+      280.26
+     ],
+     [
+      1788242400,
+      295.0
+     ],
+     [
+      1790834400,
+      336.88
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 14.2,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 20.8,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 14.2,
+     "now": 336.88,
+     "base": 295.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 29.5
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 20.8,
+     "now": 38362.5,
+     "base": 31750.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 3175.0
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Black Skull Dragon MRD-018 (1st Edition)",
+   "path": "yugioh-metal-raiders/black-skull-dragon-1st-edition-mrd-018",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/927056fa32345799e9f3409c9f25edd8f4b8188a57e646556ef6890db3c9fa7c/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/927056fa32345799e9f3409c9f25edd8f4b8188a57e646556ef6890db3c9fa7c/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-metal-raiders/black-skull-dragon-1st-edition-mrd-018",
+   "title": "Black Skull Dragon [1st Edition] MRD-018 Prices",
+   "set": "YuGiOh Metal Raiders",
+   "prices": {
+    "Ungraded": 300.0,
+    "Grade 7": 235.23,
+    "Grade 8": 409.46,
+    "Grade 9": 417.23,
+    "Grade 9.5": 864.35,
+    "PSA 10": 1250.0
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      864.35
+     ],
+     [
+      1761976800,
+      864.35
+     ],
+     [
+      1764572400,
+      864.35
+     ],
+     [
+      1767250800,
+      864.35
+     ],
+     [
+      1769929200,
+      864.35
+     ],
+     [
+      1772348400,
+      864.35
+     ],
+     [
+      1775023200,
+      864.35
+     ],
+     [
+      1777615200,
+      864.35
+     ],
+     [
+      1780293600,
+      864.35
+     ],
+     [
+      1782885600,
+      864.35
+     ],
+     [
+      1785564000,
+      864.35
+     ],
+     [
+      1788242400,
+      864.35
+     ],
+     [
+      1790834400,
+      864.35
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      147.33
+     ],
+     [
+      1761976800,
+      147.33
+     ],
+     [
+      1764572400,
+      195.57
+     ],
+     [
+      1767250800,
+      198.66
+     ],
+     [
+      1769929200,
+      197.53
+     ],
+     [
+      1772348400,
+      235.73
+     ],
+     [
+      1775023200,
+      221.68
+     ],
+     [
+      1777615200,
+      222.43
+     ],
+     [
+      1780293600,
+      222.85
+     ],
+     [
+      1782885600,
+      223.4
+     ],
+     [
+      1785564000,
+      223.89
+     ],
+     [
+      1788242400,
+      224.31
+     ],
+     [
+      1790834400,
+      235.23
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      357.19
+     ],
+     [
+      1761976800,
+      357.19
+     ],
+     [
+      1764572400,
+      360.0
+     ],
+     [
+      1767250800,
+      423.96
+     ],
+     [
+      1769929200,
+      417.65
+     ],
+     [
+      1772348400,
+      416.93
+     ],
+     [
+      1775023200,
+      416.9
+     ],
+     [
+      1777615200,
+      416.98
+     ],
+     [
+      1780293600,
+      417.03
+     ],
+     [
+      1782885600,
+      417.09
+     ],
+     [
+      1785564000,
+      417.14
+     ],
+     [
+      1788242400,
+      417.18
+     ],
+     [
+      1790834400,
+      417.23
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      1233.85
+     ],
+     [
+      1761976800,
+      1235.95
+     ],
+     [
+      1764572400,
+      1238.6
+     ],
+     [
+      1767250800,
+      1243.49
+     ],
+     [
+      1769929200,
+      1246.21
+     ],
+     [
+      1772348400,
+      1249.15
+     ],
+     [
+      1775023200,
+      1250.0
+     ],
+     [
+      1777615200,
+      1250.0
+     ],
+     [
+      1780293600,
+      1250.0
+     ],
+     [
+      1782885600,
+      1250.0
+     ],
+     [
+      1785564000,
+      1250.0
+     ],
+     [
+      1788242400,
+      1250.0
+     ],
+     [
+      1790834400,
+      1250.0
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      241.96
+     ],
+     [
+      1761976800,
+      241.96
+     ],
+     [
+      1764572400,
+      252.58
+     ],
+     [
+      1767250800,
+      254.19
+     ],
+     [
+      1769929200,
+      254.46
+     ],
+     [
+      1772348400,
+      254.6
+     ],
+     [
+      1775023200,
+      254.73
+     ],
+     [
+      1777615200,
+      254.9
+     ],
+     [
+      1780293600,
+      255.0
+     ],
+     [
+      1782885600,
+      409.46
+     ],
+     [
+      1785564000,
+      409.46
+     ],
+     [
+      1788242400,
+      409.46
+     ],
+     [
+      1790834400,
+      409.46
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      138.72
+     ],
+     [
+      1761976800,
+      137.82
+     ],
+     [
+      1764572400,
+      135.78
+     ],
+     [
+      1767250800,
+      133.61
+     ],
+     [
+      1769929200,
+      133.23
+     ],
+     [
+      1772348400,
+      113.22
+     ],
+     [
+      1775023200,
+      189.5
+     ],
+     [
+      1777615200,
+      286.58
+     ],
+     [
+      1780293600,
+      296.64
+     ],
+     [
+      1782885600,
+      283.41
+     ],
+     [
+      1785564000,
+      263.05
+     ],
+     [
+      1788242400,
+      300.0
+     ],
+     [
+      1790834400,
+      300.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 300.0,
+     "base": 300.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 30.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 1250.0,
+     "base": 1250.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 125.0
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Jinzo PSV-000 (1st Edition)",
+   "path": "yugioh-pharaoh's-servant/jinzo-1st-edition-psv-000",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/4b41a0124a9377c4342d5192fd81a2d0788beb9cf3dbda33872da3e3715a7829/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/4b41a0124a9377c4342d5192fd81a2d0788beb9cf3dbda33872da3e3715a7829/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-pharaoh%27s-servant/jinzo-1st-edition-psv-000",
+   "title": "Jinzo [1st Edition] PSV-000 Prices",
+   "set": "YuGiOh Pharaoh's Servant",
+   "prices": {
+    "Ungraded": 259.22,
+    "Grade 7": 416.99,
+    "Grade 8": 738.72,
+    "Grade 9": 1422.0,
+    "Grade 9.5": 2038.12,
+    "PSA 10": 11902.77
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      1999.99
+     ],
+     [
+      1761976800,
+      1999.99
+     ],
+     [
+      1764572400,
+      1999.99
+     ],
+     [
+      1767250800,
+      1999.99
+     ],
+     [
+      1769929200,
+      1999.99
+     ],
+     [
+      1772348400,
+      1999.99
+     ],
+     [
+      1775023200,
+      2074.82
+     ],
+     [
+      1777615200,
+      2073.9
+     ],
+     [
+      1780293600,
+      2073.01
+     ],
+     [
+      1782885600,
+      2051.27
+     ],
+     [
+      1785564000,
+      2049.17
+     ],
+     [
+      1788242400,
+      2047.99
+     ],
+     [
+      1790834400,
+      2038.12
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      259.62
+     ],
+     [
+      1761976800,
+      256.1
+     ],
+     [
+      1764572400,
+      275.11
+     ],
+     [
+      1767250800,
+      300.0
+     ],
+     [
+      1769929200,
+      300.0
+     ],
+     [
+      1772348400,
+      326.32
+     ],
+     [
+      1775023200,
+      363.92
+     ],
+     [
+      1777615200,
+      363.95
+     ],
+     [
+      1780293600,
+      363.97
+     ],
+     [
+      1782885600,
+      363.97
+     ],
+     [
+      1785564000,
+      400.0
+     ],
+     [
+      1788242400,
+      416.94
+     ],
+     [
+      1790834400,
+      416.99
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      865.0
+     ],
+     [
+      1761976800,
+      966.58
+     ],
+     [
+      1764572400,
+      997.74
+     ],
+     [
+      1767250800,
+      1000.0
+     ],
+     [
+      1769929200,
+      1000.0
+     ],
+     [
+      1772348400,
+      1188.14
+     ],
+     [
+      1775023200,
+      1175.0
+     ],
+     [
+      1777615200,
+      1191.34
+     ],
+     [
+      1780293600,
+      1380.4
+     ],
+     [
+      1782885600,
+      1362.5
+     ],
+     [
+      1785564000,
+      1325.0
+     ],
+     [
+      1788242400,
+      1325.0
+     ],
+     [
+      1790834400,
+      1422.0
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      3988.73
+     ],
+     [
+      1761976800,
+      4423.86
+     ],
+     [
+      1764572400,
+      4383.37
+     ],
+     [
+      1767250800,
+      4367.51
+     ],
+     [
+      1769929200,
+      5152.7
+     ],
+     [
+      1772348400,
+      5453.75
+     ],
+     [
+      1775023200,
+      7294.48
+     ],
+     [
+      1777615200,
+      9994.86
+     ],
+     [
+      1780293600,
+      9967.5
+     ],
+     [
+      1782885600,
+      9874.48
+     ],
+     [
+      1785564000,
+      9601.0
+     ],
+     [
+      1788242400,
+      9601.0
+     ],
+     [
+      1790834400,
+      11902.77
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      477.97
+     ],
+     [
+      1761976800,
+      478.0
+     ],
+     [
+      1764572400,
+      517.49
+     ],
+     [
+      1767250800,
+      510.5
+     ],
+     [
+      1769929200,
+      531.89
+     ],
+     [
+      1772348400,
+      592.0
+     ],
+     [
+      1775023200,
+      661.58
+     ],
+     [
+      1777615200,
+      703.99
+     ],
+     [
+      1780293600,
+      613.0
+     ],
+     [
+      1782885600,
+      723.28
+     ],
+     [
+      1785564000,
+      736.25
+     ],
+     [
+      1788242400,
+      776.12
+     ],
+     [
+      1790834400,
+      738.72
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      161.38
+     ],
+     [
+      1761976800,
+      107.41
+     ],
+     [
+      1764572400,
+      217.25
+     ],
+     [
+      1767250800,
+      216.0
+     ],
+     [
+      1769929200,
+      235.46
+     ],
+     [
+      1772348400,
+      307.47
+     ],
+     [
+      1775023200,
+      372.0
+     ],
+     [
+      1777615200,
+      335.0
+     ],
+     [
+      1780293600,
+      412.5
+     ],
+     [
+      1782885600,
+      318.5
+     ],
+     [
+      1785564000,
+      470.66
+     ],
+     [
+      1788242400,
+      281.82
+     ],
+     [
+      1790834400,
+      259.22
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -8.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 24.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -8.0,
+     "now": 259.22,
+     "base": 281.82,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 28.18
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 24.0,
+     "now": 11902.77,
+     "base": 9601.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 960.1
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Monster Reborn LOB-118 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-1st-edition-lob-118",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/a1959f257d471cafe5bf8eff3c775454192d2e6bb84edf17bdf8223d282a97f2/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/a1959f257d471cafe5bf8eff3c775454192d2e6bb84edf17bdf8223d282a97f2/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/monster-reborn-1st-edition-lob-118",
+   "title": "Monster Reborn [1st Edition] LOB-118 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 212.13,
+    "Grade 7": 260.0,
+    "Grade 8": 525.0,
+    "Grade 9": 754.0,
+    "Grade 9.5": 784.75,
+    "PSA 10": 6099.07
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      610.0
+     ],
+     [
+      1761976800,
+      610.0
+     ],
+     [
+      1764572400,
+      610.0
+     ],
+     [
+      1767250800,
+      610.0
+     ],
+     [
+      1769929200,
+      685.12
+     ],
+     [
+      1772348400,
+      685.12
+     ],
+     [
+      1775023200,
+      831.0
+     ],
+     [
+      1777615200,
+      757.33
+     ],
+     [
+      1780293600,
+      773.21
+     ],
+     [
+      1782885600,
+      795.95
+     ],
+     [
+      1785564000,
+      903.0
+     ],
+     [
+      1788242400,
+      782.95
+     ],
+     [
+      1790834400,
+      784.75
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      388.3
+     ],
+     [
+      1761976800,
+      387.7
+     ],
+     [
+      1764572400,
+      387.22
+     ],
+     [
+      1767250800,
+      386.78
+     ],
+     [
+      1769929200,
+      400.0
+     ],
+     [
+      1772348400,
+      400.0
+     ],
+     [
+      1775023200,
+      400.0
+     ],
+     [
+      1777615200,
+      260.51
+     ],
+     [
+      1780293600,
+      260.0
+     ],
+     [
+      1782885600,
+      265.4
+     ],
+     [
+      1785564000,
+      260.0
+     ],
+     [
+      1788242400,
+      260.0
+     ],
+     [
+      1790834400,
+      260.0
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      541.27
+     ],
+     [
+      1761976800,
+      584.5
+     ],
+     [
+      1764572400,
+      584.5
+     ],
+     [
+      1767250800,
+      608.07
+     ],
+     [
+      1769929200,
+      674.0
+     ],
+     [
+      1772348400,
+      660.82
+     ],
+     [
+      1775023200,
+      755.0
+     ],
+     [
+      1777615200,
+      742.42
+     ],
+     [
+      1780293600,
+      725.0
+     ],
+     [
+      1782885600,
+      787.5
+     ],
+     [
+      1785564000,
+      820.49
+     ],
+     [
+      1788242400,
+      754.0
+     ],
+     [
+      1790834400,
+      754.0
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      2769.83
+     ],
+     [
+      1761976800,
+      2845.35
+     ],
+     [
+      1764572400,
+      2784.98
+     ],
+     [
+      1767250800,
+      2801.64
+     ],
+     [
+      1769929200,
+      3052.16
+     ],
+     [
+      1772348400,
+      3650.0
+     ],
+     [
+      1775023200,
+      3650.0
+     ],
+     [
+      1777615200,
+      4555.0
+     ],
+     [
+      1780293600,
+      5011.0
+     ],
+     [
+      1782885600,
+      5980.9
+     ],
+     [
+      1785564000,
+      6099.07
+     ],
+     [
+      1788242400,
+      6099.07
+     ],
+     [
+      1790834400,
+      6099.07
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      482.29
+     ],
+     [
+      1761976800,
+      480.76
+     ],
+     [
+      1764572400,
+      479.61
+     ],
+     [
+      1767250800,
+      500.0
+     ],
+     [
+      1769929200,
+      500.0
+     ],
+     [
+      1772348400,
+      500.0
+     ],
+     [
+      1775023200,
+      500.0
+     ],
+     [
+      1777615200,
+      500.0
+     ],
+     [
+      1780293600,
+      507.67
+     ],
+     [
+      1782885600,
+      507.36
+     ],
+     [
+      1785564000,
+      507.36
+     ],
+     [
+      1788242400,
+      471.2
+     ],
+     [
+      1790834400,
+      525.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      168.5
+     ],
+     [
+      1761976800,
+      112.5
+     ],
+     [
+      1764572400,
+      137.13
+     ],
+     [
+      1767250800,
+      139.99
+     ],
+     [
+      1769929200,
+      122.5
+     ],
+     [
+      1772348400,
+      265.04
+     ],
+     [
+      1775023200,
+      239.02
+     ],
+     [
+      1777615200,
+      219.22
+     ],
+     [
+      1780293600,
+      187.13
+     ],
+     [
+      1782885600,
+      167.68
+     ],
+     [
+      1785564000,
+      176.65
+     ],
+     [
+      1788242400,
+      165.0
+     ],
+     [
+      1790834400,
+      212.13
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 28.6,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "SPIKE_WATCH",
+     "pct": 28.6,
+     "now": 212.13,
+     "base": 165.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 16.5
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 6099.07,
+     "base": 6099.07,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 609.91
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Pot of Greed LOB-119 (1st Edition)",
+   "path": "yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-1st-edition-lob-119",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/45595799107597919f61fd5aa12e6433090824aac5eb7186148e3e601679dc0a/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/45595799107597919f61fd5aa12e6433090824aac5eb7186148e3e601679dc0a/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-legend-of-blue-eyes-white-dragon/pot-of-greed-1st-edition-lob-119",
+   "title": "Pot of Greed [1st Edition] LOB-119 Prices",
+   "set": "YuGiOh Legend of Blue Eyes White Dragon",
+   "prices": {
+    "Ungraded": 45.9,
+    "Grade 7": 63.74,
+    "Grade 8": 112.99,
+    "Grade 9": 348.0,
+    "Grade 9.5": 407.5,
+    "PSA 10": 1834.29
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      407.5
+     ],
+     [
+      1761976800,
+      407.5
+     ],
+     [
+      1764572400,
+      407.5
+     ],
+     [
+      1767250800,
+      407.5
+     ],
+     [
+      1769929200,
+      407.5
+     ],
+     [
+      1772348400,
+      407.5
+     ],
+     [
+      1775023200,
+      407.5
+     ],
+     [
+      1777615200,
+      407.5
+     ],
+     [
+      1780293600,
+      407.5
+     ],
+     [
+      1782885600,
+      407.5
+     ],
+     [
+      1785564000,
+      407.5
+     ],
+     [
+      1788242400,
+      407.5
+     ],
+     [
+      1790834400,
+      407.5
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      69.58
+     ],
+     [
+      1761976800,
+      69.99
+     ],
+     [
+      1764572400,
+      69.58
+     ],
+     [
+      1767250800,
+      70.0
+     ],
+     [
+      1769929200,
+      72.18
+     ],
+     [
+      1772348400,
+      72.21
+     ],
+     [
+      1775023200,
+      72.21
+     ],
+     [
+      1777615200,
+      61.93
+     ],
+     [
+      1780293600,
+      63.26
+     ],
+     [
+      1782885600,
+      63.74
+     ],
+     [
+      1785564000,
+      63.74
+     ],
+     [
+      1788242400,
+      63.74
+     ],
+     [
+      1790834400,
+      63.74
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      144.94
+     ],
+     [
+      1761976800,
+      156.25
+     ],
+     [
+      1764572400,
+      148.15
+     ],
+     [
+      1767250800,
+      160.93
+     ],
+     [
+      1769929200,
+      170.12
+     ],
+     [
+      1772348400,
+      184.21
+     ],
+     [
+      1775023200,
+      181.96
+     ],
+     [
+      1777615200,
+      195.0
+     ],
+     [
+      1780293600,
+      284.24
+     ],
+     [
+      1782885600,
+      354.9
+     ],
+     [
+      1785564000,
+      356.0
+     ],
+     [
+      1788242400,
+      348.0
+     ],
+     [
+      1790834400,
+      348.0
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      925.27
+     ],
+     [
+      1761976800,
+      926.94
+     ],
+     [
+      1764572400,
+      1008.84
+     ],
+     [
+      1767250800,
+      1077.25
+     ],
+     [
+      1769929200,
+      1077.25
+     ],
+     [
+      1772348400,
+      1076.89
+     ],
+     [
+      1775023200,
+      1589.75
+     ],
+     [
+      1777615200,
+      1592.84
+     ],
+     [
+      1780293600,
+      1878.36
+     ],
+     [
+      1782885600,
+      1858.08
+     ],
+     [
+      1785564000,
+      1846.97
+     ],
+     [
+      1788242400,
+      1839.64
+     ],
+     [
+      1790834400,
+      1834.29
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      78.08
+     ],
+     [
+      1761976800,
+      78.62
+     ],
+     [
+      1764572400,
+      87.45
+     ],
+     [
+      1767250800,
+      84.99
+     ],
+     [
+      1769929200,
+      84.95
+     ],
+     [
+      1772348400,
+      90.5
+     ],
+     [
+      1775023200,
+      90.5
+     ],
+     [
+      1777615200,
+      110.0
+     ],
+     [
+      1780293600,
+      110.0
+     ],
+     [
+      1782885600,
+      112.5
+     ],
+     [
+      1785564000,
+      114.94
+     ],
+     [
+      1788242400,
+      115.0
+     ],
+     [
+      1790834400,
+      112.99
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      29.99
+     ],
+     [
+      1761976800,
+      25.56
+     ],
+     [
+      1764572400,
+      40.57
+     ],
+     [
+      1767250800,
+      47.1
+     ],
+     [
+      1769929200,
+      40.12
+     ],
+     [
+      1772348400,
+      42.29
+     ],
+     [
+      1775023200,
+      44.37
+     ],
+     [
+      1777615200,
+      50.0
+     ],
+     [
+      1780293600,
+      45.49
+     ],
+     [
+      1782885600,
+      49.39
+     ],
+     [
+      1785564000,
+      54.99
+     ],
+     [
+      1788242400,
+      58.45
+     ],
+     [
+      1790834400,
+      45.9
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -21.5,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -0.3,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -21.5,
+     "now": 45.9,
+     "base": 58.45,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5.85
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -0.3,
+     "now": 1834.29,
+     "base": 1839.64,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 183.96
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Stardust Dragon Ghost Rare TDGS-EN040 (1st Edition)",
+   "path": "yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-1st-edition-tdgs-en040",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/1385c6db0f5b95c02121300bc55b7fca21c9e8772e32d35fa8ae4863f0a021d5/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/1385c6db0f5b95c02121300bc55b7fca21c9e8772e32d35fa8ae4863f0a021d5/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-the-duelist-genesis/stardust-dragon-ghost-rare-1st-edition-tdgs-en040",
+   "title": "Stardust Dragon [Ghost Rare 1st Edition] TDGS-EN040 Prices",
+   "set": "YuGiOh The Duelist Genesis",
+   "prices": {
+    "Ungraded": 1269.06,
+    "Grade 7": 1499.55,
+    "Grade 8": 2105.0,
+    "Grade 9": 3104.72,
+    "Grade 9.5": 12549.5,
+    "PSA 10": 29500.0
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      6134.87
+     ],
+     [
+      1761976800,
+      6136.61
+     ],
+     [
+      1764572400,
+      6990.81
+     ],
+     [
+      1767250800,
+      6507.34
+     ],
+     [
+      1769929200,
+      6500.06
+     ],
+     [
+      1772348400,
+      6500.0
+     ],
+     [
+      1775023200,
+      6500.0
+     ],
+     [
+      1777615200,
+      6500.0
+     ],
+     [
+      1780293600,
+      6500.0
+     ],
+     [
+      1782885600,
+      6500.0
+     ],
+     [
+      1785564000,
+      6500.0
+     ],
+     [
+      1788242400,
+      11249.5
+     ],
+     [
+      1790834400,
+      12549.5
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      1425.0
+     ],
+     [
+      1761976800,
+      1428.97
+     ],
+     [
+      1764572400,
+      1425.0
+     ],
+     [
+      1767250800,
+      1425.0
+     ],
+     [
+      1769929200,
+      1425.0
+     ],
+     [
+      1772348400,
+      1500.0
+     ],
+     [
+      1775023200,
+      1500.0
+     ],
+     [
+      1777615200,
+      1500.0
+     ],
+     [
+      1780293600,
+      1500.0
+     ],
+     [
+      1782885600,
+      1500.0
+     ],
+     [
+      1785564000,
+      1500.0
+     ],
+     [
+      1788242400,
+      1499.57
+     ],
+     [
+      1790834400,
+      1499.55
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      3200.0
+     ],
+     [
+      1761976800,
+      3200.0
+     ],
+     [
+      1764572400,
+      3200.0
+     ],
+     [
+      1767250800,
+      3292.42
+     ],
+     [
+      1769929200,
+      3335.5
+     ],
+     [
+      1772348400,
+      3292.42
+     ],
+     [
+      1775023200,
+      3292.42
+     ],
+     [
+      1777615200,
+      3725.0
+     ],
+     [
+      1780293600,
+      4012.5
+     ],
+     [
+      1782885600,
+      4012.5
+     ],
+     [
+      1785564000,
+      3308.2
+     ],
+     [
+      1788242400,
+      3051.06
+     ],
+     [
+      1790834400,
+      3104.72
+     ]
+    ],
+    "PSA 10": [
+     [
+      1780293600,
+      29500.0
+     ],
+     [
+      1782885600,
+      29500.0
+     ],
+     [
+      1785564000,
+      29500.0
+     ],
+     [
+      1788242400,
+      29500.0
+     ],
+     [
+      1790834400,
+      29500.0
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      1907.57
+     ],
+     [
+      1761976800,
+      1907.57
+     ],
+     [
+      1764572400,
+      1718.58
+     ],
+     [
+      1767250800,
+      1735.54
+     ],
+     [
+      1769929200,
+      1863.5
+     ],
+     [
+      1772348400,
+      2100.0
+     ],
+     [
+      1775023200,
+      2100.0
+     ],
+     [
+      1777615200,
+      2160.86
+     ],
+     [
+      1780293600,
+      2235.0
+     ],
+     [
+      1782885600,
+      2285.58
+     ],
+     [
+      1785564000,
+      2105.0
+     ],
+     [
+      1788242400,
+      2105.0
+     ],
+     [
+      1790834400,
+      2105.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      1377.5
+     ],
+     [
+      1761976800,
+      1100.0
+     ],
+     [
+      1764572400,
+      1050.0
+     ],
+     [
+      1767250800,
+      1100.0
+     ],
+     [
+      1769929200,
+      1100.0
+     ],
+     [
+      1772348400,
+      962.18
+     ],
+     [
+      1775023200,
+      1149.32
+     ],
+     [
+      1777615200,
+      1322.83
+     ],
+     [
+      1780293600,
+      1799.94
+     ],
+     [
+      1782885600,
+      1408.86
+     ],
+     [
+      1785564000,
+      1400.0
+     ],
+     [
+      1788242400,
+      1232.42
+     ],
+     [
+      1790834400,
+      1269.06
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 3.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 3.0,
+     "now": 1269.06,
+     "base": 1232.42,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 123.24
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 29500.0,
+     "base": 29500.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 2950.0
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Ash Blossom & Joyous Spring MACR-EN036 (1st Edition)",
+   "path": "yugioh-maximum-crisis/ash-blossom-&-joyous-spring-1st-edition-macr-en036",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/afda0ff47c966c322a17be535e3b416a0a6787fc7712b55e4e92e8b27af6c624/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/afda0ff47c966c322a17be535e3b416a0a6787fc7712b55e4e92e8b27af6c624/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-maximum-crisis/ash-blossom-&-joyous-spring-1st-edition-macr-en036",
+   "title": "Ash Blossom & Joyous Spring [1st Edition] MACR-EN036 Prices",
+   "set": "YuGiOh Maximum Crisis",
+   "prices": {
+    "Ungraded": 21.99,
+    "Grade 7": 32.55,
+    "Grade 8": 54.04,
+    "Grade 9": 57.07,
+    "Grade 9.5": 63.0,
+    "PSA 10": 789.04
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      63.0
+     ],
+     [
+      1761976800,
+      63.0
+     ],
+     [
+      1764572400,
+      63.0
+     ],
+     [
+      1767250800,
+      72.0
+     ],
+     [
+      1769929200,
+      64.0
+     ],
+     [
+      1772348400,
+      63.0
+     ],
+     [
+      1775023200,
+      86.0
+     ],
+     [
+      1777615200,
+      65.0
+     ],
+     [
+      1780293600,
+      63.0
+     ],
+     [
+      1782885600,
+      66.0
+     ],
+     [
+      1785564000,
+      66.0
+     ],
+     [
+      1788242400,
+      64.0
+     ],
+     [
+      1790834400,
+      63.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      34.17
+     ],
+     [
+      1761976800,
+      25.72
+     ],
+     [
+      1764572400,
+      29.59
+     ],
+     [
+      1767250800,
+      35.8
+     ],
+     [
+      1769929200,
+      34.04
+     ],
+     [
+      1772348400,
+      34.37
+     ],
+     [
+      1775023200,
+      43.48
+     ],
+     [
+      1777615200,
+      35.19
+     ],
+     [
+      1780293600,
+      34.41
+     ],
+     [
+      1782885600,
+      35.56
+     ],
+     [
+      1785564000,
+      36.44
+     ],
+     [
+      1788242400,
+      29.36
+     ],
+     [
+      1790834400,
+      32.55
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      56.96
+     ],
+     [
+      1761976800,
+      56.96
+     ],
+     [
+      1764572400,
+      56.96
+     ],
+     [
+      1767250800,
+      65.0
+     ],
+     [
+      1769929200,
+      58.23
+     ],
+     [
+      1772348400,
+      57.0
+     ],
+     [
+      1775023200,
+      78.0
+     ],
+     [
+      1777615200,
+      59.22
+     ],
+     [
+      1780293600,
+      57.04
+     ],
+     [
+      1782885600,
+      59.78
+     ],
+     [
+      1785564000,
+      60.06
+     ],
+     [
+      1788242400,
+      57.77
+     ],
+     [
+      1790834400,
+      57.07
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      1976.68
+     ],
+     [
+      1761976800,
+      1997.09
+     ],
+     [
+      1764572400,
+      1999.82
+     ],
+     [
+      1767250800,
+      2000.0
+     ],
+     [
+      1769929200,
+      1914.84
+     ],
+     [
+      1772348400,
+      1895.78
+     ],
+     [
+      1775023200,
+      1904.25
+     ],
+     [
+      1777615200,
+      1910.47
+     ],
+     [
+      1780293600,
+      1916.7
+     ],
+     [
+      1782885600,
+      1921.38
+     ],
+     [
+      1785564000,
+      892.63
+     ],
+     [
+      1788242400,
+      853.03
+     ],
+     [
+      1790834400,
+      789.04
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      56.49
+     ],
+     [
+      1761976800,
+      43.76
+     ],
+     [
+      1764572400,
+      49.58
+     ],
+     [
+      1767250800,
+      58.94
+     ],
+     [
+      1769929200,
+      56.29
+     ],
+     [
+      1772348400,
+      56.78
+     ],
+     [
+      1775023200,
+      70.52
+     ],
+     [
+      1777615200,
+      58.03
+     ],
+     [
+      1780293600,
+      56.85
+     ],
+     [
+      1782885600,
+      58.59
+     ],
+     [
+      1785564000,
+      59.9
+     ],
+     [
+      1788242400,
+      49.24
+     ],
+     [
+      1790834400,
+      54.04
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      21.5
+     ],
+     [
+      1761976800,
+      17.38
+     ],
+     [
+      1764572400,
+      21.66
+     ],
+     [
+      1767250800,
+      24.28
+     ],
+     [
+      1769929200,
+      23.0
+     ],
+     [
+      1772348400,
+      24.0
+     ],
+     [
+      1775023200,
+      23.46
+     ],
+     [
+      1777615200,
+      23.61
+     ],
+     [
+      1780293600,
+      23.25
+     ],
+     [
+      1782885600,
+      24.01
+     ],
+     [
+      1785564000,
+      24.62
+     ],
+     [
+      1788242400,
+      19.84
+     ],
+     [
+      1790834400,
+      21.99
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 10.8,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -7.5,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 10.8,
+     "now": 21.99,
+     "base": 19.84,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -7.5,
+     "now": 789.04,
+     "base": 853.03,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 85.3
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Blue-Eyes White Dragon SKE-001 (1st Edition)",
+   "path": "yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-1st-edition-ske-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/df638e71599a58146981c37d2b8ab555e69069e31029c2a1a9bbae717621a78c/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/df638e71599a58146981c37d2b8ab555e69069e31029c2a1a9bbae717621a78c/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-starter-deck-kaiba-evolution/blue-eyes-white-dragon-1st-edition-ske-001",
+   "title": "Blue-Eyes White Dragon [1st Edition] SKE-001 Prices",
+   "set": "YuGiOh Starter Deck: Kaiba Evolution",
+   "prices": {
+    "Ungraded": 10.72,
+    "Grade 7": 50.0,
+    "Grade 8": 89.5,
+    "Grade 9": 159.75,
+    "Grade 9.5": 425.0,
+    "PSA 10": 1938.73
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      425.0
+     ],
+     [
+      1761976800,
+      425.0
+     ],
+     [
+      1764572400,
+      425.0
+     ],
+     [
+      1767250800,
+      425.0
+     ],
+     [
+      1769929200,
+      425.0
+     ],
+     [
+      1772348400,
+      425.0
+     ],
+     [
+      1775023200,
+      425.0
+     ],
+     [
+      1777615200,
+      425.0
+     ],
+     [
+      1780293600,
+      425.0
+     ],
+     [
+      1782885600,
+      425.0
+     ],
+     [
+      1785564000,
+      425.0
+     ],
+     [
+      1788242400,
+      425.0
+     ],
+     [
+      1790834400,
+      425.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      50.0
+     ],
+     [
+      1761976800,
+      48.93
+     ],
+     [
+      1764572400,
+      50.0
+     ],
+     [
+      1767250800,
+      50.0
+     ],
+     [
+      1769929200,
+      50.0
+     ],
+     [
+      1772348400,
+      50.0
+     ],
+     [
+      1775023200,
+      50.0
+     ],
+     [
+      1777615200,
+      49.99
+     ],
+     [
+      1780293600,
+      49.99
+     ],
+     [
+      1782885600,
+      59.99
+     ],
+     [
+      1785564000,
+      47.0
+     ],
+     [
+      1788242400,
+      53.92
+     ],
+     [
+      1790834400,
+      50.0
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      104.76
+     ],
+     [
+      1761976800,
+      97.65
+     ],
+     [
+      1764572400,
+      112.5
+     ],
+     [
+      1767250800,
+      125.76
+     ],
+     [
+      1769929200,
+      137.34
+     ],
+     [
+      1772348400,
+      120.0
+     ],
+     [
+      1775023200,
+      137.5
+     ],
+     [
+      1777615200,
+      143.5
+     ],
+     [
+      1780293600,
+      165.32
+     ],
+     [
+      1782885600,
+      175.85
+     ],
+     [
+      1785564000,
+      176.4
+     ],
+     [
+      1788242400,
+      180.0
+     ],
+     [
+      1790834400,
+      159.75
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      846.63
+     ],
+     [
+      1761976800,
+      834.55
+     ],
+     [
+      1764572400,
+      972.95
+     ],
+     [
+      1767250800,
+      1014.74
+     ],
+     [
+      1769929200,
+      1003.62
+     ],
+     [
+      1772348400,
+      1375.0
+     ],
+     [
+      1775023200,
+      1001.79
+     ],
+     [
+      1777615200,
+      1001.79
+     ],
+     [
+      1780293600,
+      1850.0
+     ],
+     [
+      1782885600,
+      1843.89
+     ],
+     [
+      1785564000,
+      1814.14
+     ],
+     [
+      1788242400,
+      1962.87
+     ],
+     [
+      1790834400,
+      1938.73
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      52.36
+     ],
+     [
+      1761976800,
+      55.0
+     ],
+     [
+      1764572400,
+      55.48
+     ],
+     [
+      1767250800,
+      66.79
+     ],
+     [
+      1769929200,
+      60.97
+     ],
+     [
+      1772348400,
+      69.99
+     ],
+     [
+      1775023200,
+      78.24
+     ],
+     [
+      1777615200,
+      78.27
+     ],
+     [
+      1780293600,
+      78.29
+     ],
+     [
+      1782885600,
+      63.42
+     ],
+     [
+      1785564000,
+      58.55
+     ],
+     [
+      1788242400,
+      63.88
+     ],
+     [
+      1790834400,
+      89.5
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      7.59
+     ],
+     [
+      1761976800,
+      5.11
+     ],
+     [
+      1764572400,
+      8.1
+     ],
+     [
+      1767250800,
+      5.68
+     ],
+     [
+      1769929200,
+      6.29
+     ],
+     [
+      1772348400,
+      8.0
+     ],
+     [
+      1775023200,
+      11.84
+     ],
+     [
+      1777615200,
+      13.98
+     ],
+     [
+      1780293600,
+      15.86
+     ],
+     [
+      1782885600,
+      14.57
+     ],
+     [
+      1785564000,
+      11.49
+     ],
+     [
+      1788242400,
+      10.68
+     ],
+     [
+      1790834400,
+      10.72
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.4,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": -1.2,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 0.4,
+     "now": 10.72,
+     "base": 10.68,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": -1.2,
+     "now": 1938.73,
+     "base": 1962.87,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 196.29
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Blue-Eyes Toon Dragon SDP-020 (1st Edition)",
+   "path": "yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-1st-edition-sdp-020",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/fab33e32b6095f92c769d435179724a389e81b09d0326b0df1d6a02456203a52/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/fab33e32b6095f92c769d435179724a389e81b09d0326b0df1d6a02456203a52/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-starter-deck-pegasus/blue-eyes-toon-dragon-1st-edition-sdp-020",
+   "title": "Blue-Eyes Toon Dragon [1st Edition] SDP-020 Prices",
+   "set": "YuGiOh Starter Deck: Pegasus",
+   "prices": {
+    "Ungraded": 5.0,
+    "Grade 7": 23.0,
+    "Grade 8": 28.16,
+    "Grade 9": 89.99,
+    "Grade 9.5": 99.0,
+    "PSA 10": 267.5
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      52.0
+     ],
+     [
+      1761976800,
+      71.0
+     ],
+     [
+      1764572400,
+      68.0
+     ],
+     [
+      1767250800,
+      70.0
+     ],
+     [
+      1769929200,
+      70.0
+     ],
+     [
+      1772348400,
+      88.0
+     ],
+     [
+      1775023200,
+      88.0
+     ],
+     [
+      1777615200,
+      93.0
+     ],
+     [
+      1780293600,
+      98.0
+     ],
+     [
+      1782885600,
+      98.0
+     ],
+     [
+      1785564000,
+      99.0
+     ],
+     [
+      1788242400,
+      99.0
+     ],
+     [
+      1790834400,
+      99.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      27.0
+     ],
+     [
+      1761976800,
+      27.0
+     ],
+     [
+      1764572400,
+      27.0
+     ],
+     [
+      1767250800,
+      27.0
+     ],
+     [
+      1769929200,
+      27.0
+     ],
+     [
+      1772348400,
+      28.0
+     ],
+     [
+      1775023200,
+      28.0
+     ],
+     [
+      1777615200,
+      22.0
+     ],
+     [
+      1780293600,
+      22.0
+     ],
+     [
+      1782885600,
+      22.0
+     ],
+     [
+      1785564000,
+      22.0
+     ],
+     [
+      1788242400,
+      22.0
+     ],
+     [
+      1790834400,
+      23.0
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      47.0
+     ],
+     [
+      1761976800,
+      64.9
+     ],
+     [
+      1764572400,
+      61.95
+     ],
+     [
+      1767250800,
+      63.94
+     ],
+     [
+      1769929200,
+      63.96
+     ],
+     [
+      1772348400,
+      79.99
+     ],
+     [
+      1775023200,
+      79.98
+     ],
+     [
+      1777615200,
+      84.5
+     ],
+     [
+      1780293600,
+      89.0
+     ],
+     [
+      1782885600,
+      89.5
+     ],
+     [
+      1785564000,
+      89.99
+     ],
+     [
+      1788242400,
+      89.99
+     ],
+     [
+      1790834400,
+      89.99
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      147.8
+     ],
+     [
+      1761976800,
+      133.88
+     ],
+     [
+      1764572400,
+      148.76
+     ],
+     [
+      1767250800,
+      153.02
+     ],
+     [
+      1769929200,
+      152.5
+     ],
+     [
+      1772348400,
+      152.5
+     ],
+     [
+      1775023200,
+      152.5
+     ],
+     [
+      1777615200,
+      155.0
+     ],
+     [
+      1780293600,
+      155.0
+     ],
+     [
+      1782885600,
+      283.27
+     ],
+     [
+      1785564000,
+      267.5
+     ],
+     [
+      1788242400,
+      267.5
+     ],
+     [
+      1790834400,
+      267.5
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      34.01
+     ],
+     [
+      1761976800,
+      34.12
+     ],
+     [
+      1764572400,
+      34.12
+     ],
+     [
+      1767250800,
+      34.12
+     ],
+     [
+      1769929200,
+      34.01
+     ],
+     [
+      1772348400,
+      34.98
+     ],
+     [
+      1775023200,
+      34.98
+     ],
+     [
+      1777615200,
+      27.0
+     ],
+     [
+      1780293600,
+      27.0
+     ],
+     [
+      1782885600,
+      27.0
+     ],
+     [
+      1785564000,
+      27.77
+     ],
+     [
+      1788242400,
+      28.05
+     ],
+     [
+      1790834400,
+      28.16
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      2.15
+     ],
+     [
+      1761976800,
+      1.64
+     ],
+     [
+      1764572400,
+      1.99
+     ],
+     [
+      1767250800,
+      2.04
+     ],
+     [
+      1769929200,
+      4.1
+     ],
+     [
+      1772348400,
+      2.0
+     ],
+     [
+      1775023200,
+      2.47
+     ],
+     [
+      1777615200,
+      2.57
+     ],
+     [
+      1780293600,
+      3.44
+     ],
+     [
+      1782885600,
+      4.72
+     ],
+     [
+      1785564000,
+      5.0
+     ],
+     [
+      1788242400,
+      4.96
+     ],
+     [
+      1790834400,
+      5.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.8,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": 0.8,
+     "now": 5.0,
+     "base": 4.96,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 0.0,
+     "now": 267.5,
+     "base": 267.5,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 26.75
+    }
+   }
+  },
+  {
+   "cat": "yugioh",
+   "name": "Red-Eyes B. Dragon SDJ-001 (1st Edition)",
+   "path": "yugioh-starter-deck-joey/red-eyes-black-dragon-1st-edition-sdj-001",
+   "img": "https://storage.googleapis.com/images.pricecharting.com/0839256e6e52ac364e4f68f2316941475b7ca91f6bda87bcc286777fff6dcdcc/240.jpg",
+   "img_lg": "https://storage.googleapis.com/images.pricecharting.com/0839256e6e52ac364e4f68f2316941475b7ca91f6bda87bcc286777fff6dcdcc/1600.jpg",
+   "url": "https://www.pricecharting.com/game/yugioh-starter-deck-joey/red-eyes-black-dragon-1st-edition-sdj-001",
+   "title": "Red-Eyes Black Dragon  [1st Edition] SDJ-001 Prices",
+   "set": "YuGiOh Starter Deck: Joey",
+   "prices": {
+    "Ungraded": 25.0,
+    "Grade 7": 120.44,
+    "Grade 8": 165.0,
+    "Grade 9": 449.98,
+    "Grade 9.5": 495.0,
+    "PSA 10": 4774.56
+   },
+   "monthly": {
+    "Grade 9.5": [
+     [
+      1759298400,
+      240.01
+     ],
+     [
+      1761976800,
+      240.01
+     ],
+     [
+      1764572400,
+      240.01
+     ],
+     [
+      1767250800,
+      240.01
+     ],
+     [
+      1769929200,
+      240.01
+     ],
+     [
+      1772348400,
+      358.0
+     ],
+     [
+      1775023200,
+      407.0
+     ],
+     [
+      1777615200,
+      418.0
+     ],
+     [
+      1780293600,
+      440.0
+     ],
+     [
+      1782885600,
+      478.0
+     ],
+     [
+      1785564000,
+      484.0
+     ],
+     [
+      1788242400,
+      495.0
+     ],
+     [
+      1790834400,
+      495.0
+     ]
+    ],
+    "Grade 7": [
+     [
+      1759298400,
+      45.81
+     ],
+     [
+      1761976800,
+      54.3
+     ],
+     [
+      1764572400,
+      52.95
+     ],
+     [
+      1767250800,
+      65.0
+     ],
+     [
+      1769929200,
+      65.0
+     ],
+     [
+      1772348400,
+      76.56
+     ],
+     [
+      1775023200,
+      94.0
+     ],
+     [
+      1777615200,
+      90.0
+     ],
+     [
+      1780293600,
+      90.0
+     ],
+     [
+      1782885600,
+      89.29
+     ],
+     [
+      1785564000,
+      89.31
+     ],
+     [
+      1788242400,
+      105.0
+     ],
+     [
+      1790834400,
+      120.44
+     ]
+    ],
+    "Grade 9": [
+     [
+      1759298400,
+      175.58
+     ],
+     [
+      1761976800,
+      156.11
+     ],
+     [
+      1764572400,
+      179.99
+     ],
+     [
+      1767250800,
+      207.75
+     ],
+     [
+      1769929200,
+      189.66
+     ],
+     [
+      1772348400,
+      325.0
+     ],
+     [
+      1775023200,
+      370.34
+     ],
+     [
+      1777615200,
+      380.0
+     ],
+     [
+      1780293600,
+      400.0
+     ],
+     [
+      1782885600,
+      434.99
+     ],
+     [
+      1785564000,
+      440.0
+     ],
+     [
+      1788242400,
+      450.0
+     ],
+     [
+      1790834400,
+      449.98
+     ]
+    ],
+    "PSA 10": [
+     [
+      1759298400,
+      830.6
+     ],
+     [
+      1761976800,
+      830.6
+     ],
+     [
+      1764572400,
+      830.6
+     ],
+     [
+      1767250800,
+      821.33
+     ],
+     [
+      1769929200,
+      821.74
+     ],
+     [
+      1772348400,
+      834.05
+     ],
+     [
+      1775023200,
+      830.35
+     ],
+     [
+      1777615200,
+      821.8
+     ],
+     [
+      1780293600,
+      815.5
+     ],
+     [
+      1782885600,
+      815.5
+     ],
+     [
+      1785564000,
+      815.5
+     ],
+     [
+      1788242400,
+      3900.0
+     ],
+     [
+      1790834400,
+      4774.56
+     ]
+    ],
+    "Grade 8": [
+     [
+      1759298400,
+      82.49
+     ],
+     [
+      1761976800,
+      89.74
+     ],
+     [
+      1764572400,
+      87.37
+     ],
+     [
+      1767250800,
+      98.22
+     ],
+     [
+      1769929200,
+      100.0
+     ],
+     [
+      1772348400,
+      100.56
+     ],
+     [
+      1775023200,
+      127.85
+     ],
+     [
+      1777615200,
+      185.69
+     ],
+     [
+      1780293600,
+      199.98
+     ],
+     [
+      1782885600,
+      177.46
+     ],
+     [
+      1785564000,
+      174.65
+     ],
+     [
+      1788242400,
+      164.57
+     ],
+     [
+      1790834400,
+      165.0
+     ]
+    ],
+    "Ungraded": [
+     [
+      1759298400,
+      14.25
+     ],
+     [
+      1761976800,
+      16.38
+     ],
+     [
+      1764572400,
+      15.25
+     ],
+     [
+      1767250800,
+      13.99
+     ],
+     [
+      1769929200,
+      13.99
+     ],
+     [
+      1772348400,
+      14.97
+     ],
+     [
+      1775023200,
+      17.53
+     ],
+     [
+      1777615200,
+      29.37
+     ],
+     [
+      1780293600,
+      22.95
+     ],
+     [
+      1782885600,
+      22.98
+     ],
+     [
+      1785564000,
+      24.0
+     ],
+     [
+      1788242400,
+      25.01
+     ],
+     [
+      1790834400,
+      25.0
+     ]
+    ]
+   },
+   "change": {
+    "Ungraded": {
+     "1d": null,
+     "7d": null,
+     "30d": -0.0,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    },
+    "PSA 10": {
+     "1d": null,
+     "7d": null,
+     "30d": 22.4,
+     "30d_src": "PriceCharting monthly history (vs prior month point)"
+    }
+   },
+   "signal": {
+    "Ungraded": {
+     "flag": "normal",
+     "pct": -0.0,
+     "now": 25.0,
+     "base": 25.01,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 5.0
+    },
+    "PSA 10": {
+     "flag": "normal",
+     "pct": 22.4,
+     "now": 4774.56,
+     "base": 3900.0,
+     "basis": "PriceCharting prior-month guide value (cold start)",
+     "floor": 390.0
     }
    }
   }

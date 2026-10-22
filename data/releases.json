@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-22",
- "source_note": "Dates: HobbyMonitor release calendar unless noted. MSRP: Topps hobby box price as reported by Checklist Insider. Secondary prices not collected (retailer sites block automated access). Blank = unknown.",
+ "source_note": "Dates: HobbyMonitor unless noted. MSRP: Topps hobby price (Checklist Insider). Market: median recent eBay sold sealed boxes via SportsCardsPro/PriceCharting (updated 2026-10-22). Blank = unknown.",
  "releases": [
   {
    "name": "2025 Topps Series 1 Baseball",
@@ -10,13 +10,16 @@
    "status": "released",
    "msrp_hobby_box": 89.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 142.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-1/290.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-series-1-baseball2025",
     "https://www.checklistinsider.com/2025-topps-series-1-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps/hobby-box",
+   "secondary_note": "Median of 3 eBay sold sealed hobby boxes, 2026-08-27–2026-09-07 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Heritage Baseball",
@@ -26,13 +29,16 @@
    "status": "released",
    "msrp_hobby_box": 109.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 114.25,
    "img": "https://api.hobbymonitor.com/v3/images/releases/493c3173-9b32-4049-bf20-804368a20f80.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-heritage-baseball-2025",
     "https://www.checklistinsider.com/2025-topps-heritage-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-heritage/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-06–2026-09-25 (via SportsCardsPro)"
   },
   {
    "name": "2025 Bowman Baseball",
@@ -42,13 +48,16 @@
    "status": "released",
    "msrp_hobby_box": 239.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 315.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-11/12.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-bowman-baseball-2025",
     "https://www.checklistinsider.com/2025-bowman-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-bowman/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-08-18–2026-09-12 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Series 2 Baseball",
@@ -58,13 +67,16 @@
    "status": "released",
    "msrp_hobby_box": 89.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 154.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-39/700.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-series-2-baseball-2025",
     "https://www.checklistinsider.com/2025-topps-series-2-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-series-2/hobby-box-series-2",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-06-07–2026-10-05 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Chrome Baseball",
@@ -74,13 +86,16 @@
    "status": "released",
    "msrp_hobby_box": 199.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 260.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-59/217.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-chrome-baseball-2025-checklist",
     "https://www.checklistinsider.com/2025-topps-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-chrome/hobby-box",
+   "secondary_note": "Median of 7 eBay sold sealed hobby boxes, 2026-09-27–2026-10-02 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Finest Baseball",
@@ -88,14 +103,18 @@
    "category": "Baseball",
    "date": "2025-08-12",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 289.99,
+   "msrp_note": "Topps.com presale price per Checklist Insider",
+   "secondary_box_price": 542.49,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-60/234.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-topps-finest-baseball-2025-checklist"
+    "https://www.hobbymonitor.com/release/2025-topps-finest-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-finest-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-finest/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-08–2026-09-14 (via SportsCardsPro)"
   },
   {
    "name": "2025 Bowman Chrome Baseball",
@@ -105,13 +124,16 @@
    "status": "released",
    "msrp_hobby_box": 279.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 515.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-111/77.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-bowman-chrome-baseball-2025-checklist",
     "https://www.checklistinsider.com/2025-bowman-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-bowman-chrome/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-06-30–2026-09-13 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Chrome Disney",
@@ -121,13 +143,16 @@
    "status": "released",
    "msrp_hobby_box": 399.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 491.59,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-141/50.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-chrome-disney-2025-checklist",
     "https://www.checklistinsider.com/2025-topps-chrome-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2025-topps-chrome-disney/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-06-21–2026-08-04 (via PriceCharting)"
   },
   {
    "name": "2025 Bowman Chrome Mega Box Baseball",
@@ -135,14 +160,18 @@
    "category": "Baseball",
    "date": "2025-10-08",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 49.99,
+   "msrp_note": "Mega box price (Topps.com presale) per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-130/93.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-bowman-chrome-mega-box-2025-checklist"
+    "https://www.hobbymonitor.com/release/2025-bowman-chrome-mega-box-2025-checklist",
+    "https://www.checklistinsider.com/2025-bowman-chrome-mega-box-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2025 Topps Disney Wonder Disney",
@@ -151,13 +180,16 @@
    "date": "2025-10-15",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 159.99,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-143/50.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-disney-wonder-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2025-topps-disney-wonder/hobby-box",
+   "secondary_note": "Median of 3 eBay sold sealed hobby boxes, 2026-09-26–2026-09-28 (via PriceCharting)"
   },
   {
    "name": "2025 Topps Chrome Sapphire Disney",
@@ -165,14 +197,18 @@
    "category": "Disney/Pixar",
    "date": "2025-10-24",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 479.99,
+   "msrp_note": "32-card box via EQL raffle per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-144/123.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-topps-chrome-disney-sapphire-edition-2025-checklist"
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-disney-sapphire-edition-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-chrome-sapphire-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2025 Topps Disney Mint Collection Disney",
@@ -181,13 +217,16 @@
    "date": "2025-10-31",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 499.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-142/2.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-disney-mint-collection-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2025-topps-disney-mint/hobby-box",
+   "secondary_note": "Median of 1 eBay sold sealed hobby boxes, 2026-07-07–2026-07-07 (via PriceCharting); thin sample"
   },
   {
    "name": "2025 Topps Update Series Baseball",
@@ -197,13 +236,16 @@
    "status": "released",
    "msrp_hobby_box": 89.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 150.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-124/US87.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-update-series-baseball-2025-checklist",
     "https://www.checklistinsider.com/2025-topps-update-series-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-update/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-12–2026-09-27 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Allen & Ginter Baseball",
@@ -212,13 +254,16 @@
    "date": "2025-12-03",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 220.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-128/227.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-allen-ginter-baseball-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-allen-and-ginter/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-08-17–2026-09-23 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Star Wars Chrome Galaxy Star Wars",
@@ -227,13 +272,16 @@
    "date": "2025-12-10",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 350.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/starwars/set-164/Q-JNJF.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-star-wars-chrome-galaxy-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/star-wars-2025-topps-galaxy-chrome/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-01-17–2026-06-11 (via PriceCharting)"
   },
   {
    "name": "2025 Topps Chrome Update Series Baseball",
@@ -243,13 +291,16 @@
    "status": "released",
    "msrp_hobby_box": 219.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 225.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-158/USC178.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-chrome-update-series-baseball-2025-checklist",
     "https://www.checklistinsider.com/2025-topps-chrome-update-series-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-chrome-update/hobby-box",
+   "secondary_note": "Median of 3 eBay sold sealed hobby boxes, 2026-09-27–2026-10-02 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Cosmic Chrome Baseball",
@@ -257,14 +308,18 @@
    "category": "Baseball",
    "date": "2025-12-17",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 349.99,
+   "msrp_note": "Release-day hobby price ($329.99 presale) per Checklist Insider",
+   "secondary_box_price": 937.48,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-153/56.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-topps-cosmic-chrome-baseball-2025-checklist"
+    "https://www.hobbymonitor.com/release/2025-topps-cosmic-chrome-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-cosmic-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-cosmic-chrome/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-07–2026-09-27 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Marvel Studios Chrome Marvel",
@@ -273,13 +328,16 @@
    "date": "2025-12-23",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 451.05,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-167/200.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-marvel-studios-chrome-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2025-topps-chrome/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-02-15–2026-06-22 (via PriceCharting)"
   },
   {
    "name": "2025 Topps Pixar Gold Disney",
@@ -288,13 +346,16 @@
    "date": "2026-01-07",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-166/BTV-LC.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-pixar-gold-2025-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2025 Bowman Draft Baseball",
@@ -304,13 +365,16 @@
    "status": "released",
    "msrp_hobby_box": 519.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 737.49,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-172/BD-3.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-bowman-draft-baseball-2025-checklist",
     "https://www.checklistinsider.com/2025-bowman-draft-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-bowman-draft/hobby-box",
+   "secondary_note": "Median of 8 eBay sold sealed hobby boxes, 2026-06-27–2026-10-02 (via SportsCardsPro)"
   },
   {
    "name": "2025 Bowman Draft Mega Box Baseball",
@@ -318,14 +382,18 @@
    "category": "Baseball",
    "date": "2026-01-28",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 59.99,
+   "msrp_note": "Mega box presale price per Checklist Insider",
+   "secondary_box_price": 76.0,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-184.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-bowman-draft-baseball-mega-box-checklist"
+    "https://www.hobbymonitor.com/release/2025-bowman-draft-baseball-mega-box-checklist",
+    "https://www.checklistinsider.com/2025-bowman-draft-mega-box-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-bowman-draft/mega-box",
+   "secondary_note": "Median of 10 eBay sold sealed mega boxes, 2026-08-27–2026-10-07 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Marvel The Collector Marvel",
@@ -333,14 +401,18 @@
    "category": "Marvel",
    "date": "2026-02-04",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 499.99,
+   "msrp_note": "Initial price via EQL raffle per Checklist Insider",
+   "secondary_box_price": 432.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-197/DA-PV.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-topps-marvel-the-collector-checklist"
+    "https://www.hobbymonitor.com/release/2025-topps-marvel-the-collector-checklist",
+    "https://www.checklistinsider.com/2025-topps-marvel-the-collector"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2025-topps-the-collector/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-06-28–2026-09-29 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Series 1 Baseball",
@@ -350,13 +422,16 @@
    "status": "released",
    "msrp_hobby_box": 99.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 189.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/2026-topps-series-1/189.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-series-1-baseball-checklist",
     "https://www.checklistinsider.com/2026-topps-series-1-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-31–2026-09-26 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Stadium Club Baseball",
@@ -366,13 +441,16 @@
    "status": "released",
    "msrp_hobby_box": 119.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 167.97,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-198/73.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-stadium-club-baseball-checklist",
     "https://www.checklistinsider.com/2025-topps-stadium-club-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-topps-stadium-club/hobby-box",
+   "secondary_note": "Median of 4 eBay sold sealed hobby boxes, 2026-09-26–2026-10-05 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Brooklyn Collection Marvel Captain America Marvel",
@@ -380,14 +458,18 @@
    "category": "Marvel",
    "date": "2026-03-06",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 219.99,
+   "msrp_note": "Initial hobby price per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-255/1.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-brooklyn-collection-marvel-captain-america-checklist"
+    "https://www.hobbymonitor.com/release/2026-topps-brooklyn-collection-marvel-captain-america-checklist",
+    "https://www.checklistinsider.com/2026-topps-brooklyn-collection-captain-america"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2025 Bowman's Best Baseball",
@@ -395,14 +477,18 @@
    "category": "Baseball",
    "date": "2026-03-11",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 339.99,
+   "msrp_note": "Presale price per Checklist Insider",
+   "secondary_box_price": 662.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-187/40.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-bowmans-best-baseball-checklist"
+    "https://www.hobbymonitor.com/release/2025-bowmans-best-baseball-checklist",
+    "https://www.checklistinsider.com/2025-bowmans-best-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2025-bowman%27s-best/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-05-18–2026-08-31 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Disneyland 70th Anniversary Disney",
@@ -411,13 +497,16 @@
    "date": "2026-03-13",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 199.99,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-209/35.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-disneyland-70th-anniversary-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2025-topps-disneyland-70th-anniversary/hobby-box",
+   "secondary_note": "Median of 16 eBay sold sealed hobby boxes, 2026-09-23–2026-09-30 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Heritage Baseball",
@@ -427,13 +516,16 @@
    "status": "released",
    "msrp_hobby_box": 109.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 179.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-250/ROAC-PS.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-heritage-baseball-checklist",
     "https://www.checklistinsider.com/2026-topps-heritage-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-heritage/hobby-box",
+   "secondary_note": "Median of 3 eBay sold sealed hobby boxes, 2026-09-26–2026-10-05 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Chrome Marvel Deadpool Marvel",
@@ -442,13 +534,16 @@
    "date": "2026-04-01",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 332.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-261/1.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-deadpool-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2025-topps-chrome-deadpool/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-04-14–2026-09-28 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Finest Fantastic Four Marvel",
@@ -457,13 +552,16 @@
    "date": "2026-04-15",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 233.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-270/42.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-finest-fantastic-four-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2026-topps-finest-fantastic-four/hobby-box",
+   "secondary_note": "Median of 5 eBay sold sealed hobby boxes, 2026-06-09–2026-09-28 (via PriceCharting)"
   },
   {
    "name": "2025 Topps Chrome Football",
@@ -473,13 +571,16 @@
    "status": "released",
    "msrp_hobby_box": 399.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 687.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/football/set-422/314.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-chrome-football-checklist",
     "https://www.checklistinsider.com/2025-topps-chrome-football"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/football-cards-2025-topps-chrome/hobby-box",
+   "secondary_note": "Median of 6 eBay sold sealed hobby boxes, 2026-09-26–2026-10-01 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Disney Neon Disney",
@@ -488,13 +589,16 @@
    "date": "2026-04-17",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 249.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-264/CNA-CS.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-disney-neon-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2026-topps-disney-neon/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-09–2026-07-21 (via PriceCharting)"
   },
   {
    "name": "2025 Topps 30 Years of Toy Story Disney",
@@ -503,13 +607,16 @@
    "date": "2026-05-06",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 737.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-424/25.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-30-years-of-toy-story"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2025-topps-30-years-of-toy-story/hobby-box",
+   "secondary_note": "Median of 2 eBay sold sealed hobby boxes, 2026-06-02–2026-09-29 (via PriceCharting); thin sample"
   },
   {
    "name": "2026 Topps Chrome UFC",
@@ -517,14 +624,18 @@
    "category": "UFC",
    "date": "2026-05-08",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 199.99,
+   "msrp_note": "Release-day hobby ($189.99 presale) per Checklist Insider",
+   "secondary_box_price": 203.75,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/ufc/set-423/1.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-ufc-checklist"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-ufc-checklist",
+    "https://www.checklistinsider.com/2026-topps-chrome-ufc"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/ufc-cards-2026-topps-chrome-ufc/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-08-20–2026-09-03 (via SportsCardsPro)"
   },
   {
    "name": "2026 Bowman Baseball",
@@ -534,13 +645,16 @@
    "status": "released",
    "msrp_hobby_box": 239.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 359.99,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-426/BCP-1.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-bowman-baseball-checklist",
     "https://www.checklistinsider.com/2026-bowman-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-bowman/hobby-box",
+   "secondary_note": "Median of 9 eBay sold sealed hobby boxes, 2026-08-16–2026-10-09 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Finest Football",
@@ -550,13 +664,16 @@
    "status": "released",
    "msrp_hobby_box": 599.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 690.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/football/set-430/279.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2025-topps-finest-football-checklist",
     "https://www.checklistinsider.com/2025-topps-finest-football"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/football-cards-2025-topps-finest/hobby-box",
+   "secondary_note": "Median of 3 eBay sold sealed hobby boxes, 2026-09-27–2026-10-08 (via SportsCardsPro)"
   },
   {
    "name": "2025 Topps Star Wars Masterwork",
@@ -564,14 +681,18 @@
    "category": "Star Wars",
    "date": "2026-06-03",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 449.99,
+   "msrp_note": "Release-day hobby ($439.99 EQL presale) per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/other/set-443/ROC-18.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2025-topps-star-wars-masterwork"
+    "https://www.hobbymonitor.com/release/2025-topps-star-wars-masterwork",
+    "https://www.checklistinsider.com/2025-topps-star-wars-masterwork"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2026 Topps Series 2 Baseball",
@@ -581,13 +702,16 @@
    "status": "released",
    "msrp_hobby_box": 127.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 139.95,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-428/458.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-series-2-baseball-checklist",
     "https://www.checklistinsider.com/2026-topps-series-2-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-series-2/hobby-box",
+   "secondary_note": "Median of 9 eBay sold sealed hobby boxes, 2026-09-25–2026-09-27 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Chrome Disney",
@@ -597,13 +721,16 @@
    "status": "released",
    "msrp_hobby_box": 419.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 640.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-453/111.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-disney",
     "https://www.checklistinsider.com/2026-topps-chrome-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2026-topps-chrome-disney/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-06-29–2026-09-07 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Chrome Marvel Comics Marvel",
@@ -612,13 +739,16 @@
    "date": "2026-07-01",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 825.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-468/16.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-marvel-comics-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2026-topps-chrome/hobby-box",
+   "secondary_note": "Median of 13 eBay sold sealed hobby boxes, 2026-09-24–2026-09-29 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Finest Baseball",
@@ -628,13 +758,16 @@
    "status": "released",
    "msrp_hobby_box": 339.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 669.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-458/210.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-finest-baseball",
     "https://www.checklistinsider.com/2026-topps-finest-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-finest/hobby-box",
+   "secondary_note": "Median of 5 eBay sold sealed hobby boxes, 2026-09-25–2026-09-26 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Fanatics Fest Series 2 Baseball",
@@ -644,13 +777,16 @@
    "status": "released",
    "msrp_hobby_box": 300.0,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 341.93,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-509/500.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-fanatics-fest-series-2-baseball",
     "https://www.checklistinsider.com/2026-topps-fanatics-fest-series-2-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-fanatics-fest-nyc-series-2/hobby-box",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-24–2026-08-26 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Chrome Sapphire Disney",
@@ -658,14 +794,18 @@
    "category": "Disney/Pixar",
    "date": "2026-07-22",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 549.99,
+   "msrp_note": "Initial price per Checklist Insider",
+   "secondary_box_price": 899.99,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-507/83.jpeg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-sapphire-disney"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-sapphire-disney",
+    "https://www.checklistinsider.com/2026-topps-chrome-sapphire-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/2026-topps-chrome-disney/hobby-box-sapphire",
+   "secondary_note": "Median of 10 eBay sold sealed hobby boxes, 2026-07-31–2026-08-10 (via PriceCharting)"
   },
   {
    "name": "2026 Topps Chrome Baseball",
@@ -673,14 +813,18 @@
    "category": "Baseball",
    "date": "2026-07-22",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 249.99,
+   "msrp_note": "Release-day hobby ($239.99 presale) per Checklist Insider",
+   "secondary_box_price": 455.0,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/2026-topps-chrome/236.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-baseball"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-baseball",
+    "https://www.checklistinsider.com/2026-topps-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-chrome/hobby-box",
+   "secondary_note": "Median of 5 eBay sold sealed hobby boxes, 2026-09-14–2026-09-26 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Chrome Mega Baseball",
@@ -688,14 +832,18 @@
    "category": "Baseball",
    "date": "2026-08-05",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 69.99,
+   "msrp_note": "Mega box presale price per Checklist Insider",
+   "secondary_box_price": 92.6,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-500.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-mega-baseball"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-mega-baseball",
+    "https://www.checklistinsider.com/2026-topps-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-chrome/mega-box",
+   "secondary_note": "Median of 14 eBay sold sealed mega boxes, 2026-09-26–2026-10-01 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Star Wars Chrome Galaxy Star Wars",
@@ -704,13 +852,16 @@
    "date": "2026-08-12",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 357.5,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/starwars/set-493/84.jpeg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-star-wars-chrome-galaxy"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/star-wars-2026-topps-galaxy-chrome/hobby-box",
+   "secondary_note": "Median of 2 eBay sold sealed hobby boxes, 2026-08-27–2026-09-09 (via PriceCharting); thin sample"
   },
   {
    "name": "2026 Topps Mint Marvel",
@@ -719,13 +870,16 @@
    "date": "2026-08-19",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 519.97,
    "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-601/_cover.png",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-mint-marvel"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.pricecharting.com/game/marvel-2026-topps-mint/hobby-box",
+   "secondary_note": "Median of 4 eBay sold sealed hobby boxes, 2026-09-26–2026-09-29 (via PriceCharting)"
   },
   {
    "name": "2026 Bowman Chrome Baseball",
@@ -735,13 +889,16 @@
    "status": "released",
    "msrp_hobby_box": 299.99,
    "msrp_note": "Hobby box MSRP per Checklist Insider",
-   "secondary_box_price": null,
+   "secondary_box_price": 515.0,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-696.png",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-bowman-chrome-baseball",
     "https://www.checklistinsider.com/2026-bowman-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-bowman-chrome/hobby-box",
+   "secondary_note": "Median of 23 eBay sold sealed hobby boxes, 2026-09-26–2026-10-18 (via SportsCardsPro)"
   },
   {
    "name": "2026 Bowman Chrome Mega Box Baseball",
@@ -749,14 +906,18 @@
    "category": "Baseball",
    "date": "2026-09-23",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_hobby_box": 49.99,
+   "msrp_note": "Mega box initial price per Checklist Insider",
+   "secondary_box_price": 79.99,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-714.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-bowman-chrome-mega-box-baseball-checklist"
+    "https://www.hobbymonitor.com/release/2026-bowman-chrome-mega-box-baseball-checklist",
+    "https://www.checklistinsider.com/2026-bowman-chrome-mega-box-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-bowman-chrome/mega-box",
+   "secondary_note": "Median of 26 eBay sold sealed mega boxes, 2026-09-29–2026-10-13 (via SportsCardsPro)"
   },
   {
    "name": "2026 Topps Vault Marvel",
@@ -764,14 +925,18 @@
    "category": "Marvel",
    "date": "2026-09-23",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 679.99,
+   "msrp_note": "EQL raffle presale price per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-701-20261001.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-vault-marvel-checklist"
+    "https://www.hobbymonitor.com/release/2026-topps-vault-marvel-checklist",
+    "https://www.checklistinsider.com/2026-topps-vault-marvel"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2026 Topps Chrome Star Wars",
@@ -779,14 +944,18 @@
    "category": "Star Wars",
    "date": "2026-09-30",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 179.99,
+   "msrp_note": "Release-day hobby ($169.99 presale) per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-731.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-star-wars"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-star-wars",
+    "https://www.checklistinsider.com/2026-topps-chrome-star-wars"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Sales page exists but no recent sold hobby boxes listed"
   },
   {
    "name": "2026 Topps Allen & Ginter Baseball",
@@ -795,13 +964,16 @@
    "date": "2026-10-07",
    "status": "released",
    "msrp_hobby_box": null,
-   "msrp_note": "",
-   "secondary_box_price": null,
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
+   "secondary_box_price": 205.46,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-740.png",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-allen-and-ginter-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": "https://www.sportscardspro.com/game/baseball-cards-2026-topps-allen-&-ginter/hobby-box",
+   "secondary_note": "Median of 1 eBay sold sealed hobby boxes, 2026-09-13–2026-09-13 (via SportsCardsPro); thin sample"
   },
   {
    "name": "2026 Topps Neon Marvel",
@@ -817,7 +989,10 @@
     "https://www.hobbymonitor.com/release/2026-topps-neon-marvel",
     "https://www.checklistinsider.com/2026-topps-neon-marvel"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Sales page exists but no recent sold hobby boxes listed"
   },
   {
    "name": "2026 Topps Update Series Baseball",
@@ -833,7 +1008,10 @@
     "https://www.hobbymonitor.com/release/2026-topps-update-series-baseball",
     "https://www.checklistinsider.com/2026-topps-update-series-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Sales page exists but no recent sold hobby boxes listed"
   },
   {
    "name": "2026 Topps Chrome Formula 1 Racing",
@@ -841,14 +1019,18 @@
    "category": "F1",
    "date": "2026-10-15",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 469.99,
+   "msrp_note": "Topps hobby presale price per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/set-742-cover.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-chrome-formula-1-racing"
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-formula-1-racing",
+    "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2026 Topps Vault Disney",
@@ -856,14 +1038,18 @@
    "category": "Disney/Pixar",
    "date": "2026-10-21",
    "status": "released",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 1199.99,
+   "msrp_note": "Topps release-day price per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-764.webp",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-vault-disney-checklist"
+    "https://www.hobbymonitor.com/release/2026-topps-vault-disney-checklist",
+    "https://www.checklistinsider.com/2026-topps-vault-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "No matching sealed-box sales page found on SportsCardsPro/PriceCharting; eBay/130point/Steel City block automated access"
   },
   {
    "name": "2026 Topps Chrome Sapphire Star Wars",
@@ -872,13 +1058,16 @@
    "date": "2026-10-28",
    "status": "scheduled",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/games/og/release/2026-topps-chrome-sapphire-star-wars-checklist.png",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-sapphire-star-wars-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Topps Chrome Update Series Baseball",
@@ -887,14 +1076,17 @@
    "date": "2026-10-30",
    "status": "tentative",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-819-20261021.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-update-series-baseball-checklist",
     "https://www.checklistinsider.com/2026-topps-chrome-update-series-baseball"
    ],
-   "note": "HobbyMonitor page lists Oct 30 but its calendar shows TBD; CardIndustry estimates Dec 16, 2026."
+   "note": "HobbyMonitor page lists Oct 30 but its calendar shows TBD; CardIndustry estimates Dec 16, 2026.",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Topps Mint Disney",
@@ -902,14 +1094,18 @@
    "category": "Disney/Pixar",
    "date": "2026-11-04",
    "status": "scheduled",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 369.99,
+   "msrp_note": "PREORDER: Topps hobby presale (Oct 13) per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-779-20261015.jpg",
    "sources": [
-    "https://www.hobbymonitor.com/release/2026-topps-mint-disney-checklist"
+    "https://www.hobbymonitor.com/release/2026-topps-mint-disney-checklist",
+    "https://www.checklistinsider.com/2026-topps-mint-disney"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": 369.99,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Topps Cosmic Chrome Baseball",
@@ -917,15 +1113,18 @@
    "category": "Baseball",
    "date": "2026-11-04",
    "status": "scheduled",
-   "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_hobby_box": 489.99,
+   "msrp_note": "PREORDER: Topps presale (Oct 5) per Checklist Insider",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-718-20261001.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-cosmic-chrome-baseball",
     "https://www.checklistinsider.com/2026-topps-cosmic-chrome-baseball"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": 489.99,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Topps Stadium Club Baseball",
@@ -934,13 +1133,17 @@
    "date": "2026-11-06",
    "status": "tentative",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://preordercards.com/"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   },
   {
    "name": "2026 Topps Chrome Football",
@@ -956,7 +1159,10 @@
     "https://www.hobbymonitor.com/release/2026-topps-chrome-football-checklist",
     "https://www.checklistinsider.com/2026-topps-chrome-football"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Topps Chrome Mega Box Football",
@@ -965,13 +1171,16 @@
    "date": "2026-12-02",
    "status": "scheduled",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-820.jpg",
    "sources": [
     "https://www.hobbymonitor.com/release/2026-topps-chrome-mega-box-football-checklist"
    ],
-   "note": ""
+   "note": "",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found"
   },
   {
    "name": "2026 Bowman Draft Baseball",
@@ -980,13 +1189,17 @@
    "date": "2027-01-14",
    "status": "tentative",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://www.waxstat.com/boxes/2026-bowman-draft-baseball-breaker-s-delight-box"
    ],
-   "note": "CardIndustry estimates Dec 9, 2026 instead."
+   "note": "CardIndustry estimates Dec 9, 2026 instead.",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   },
   {
    "name": "2027 Topps Series 1 Baseball",
@@ -995,13 +1208,17 @@
    "date": "2027-02-10",
    "status": "estimated",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://cardindustry.com/release-dates/2027-baseball"
    ],
-   "note": "Estimate from prior-year timing"
+   "note": "Estimate from prior-year timing",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   },
   {
    "name": "2027 Topps Heritage Baseball",
@@ -1010,13 +1227,17 @@
    "date": "2027-03-03",
    "status": "estimated",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://cardindustry.com/release-dates/2027-baseball"
    ],
-   "note": "Estimate from prior-year timing"
+   "note": "Estimate from prior-year timing",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   },
   {
    "name": "2027 Bowman Baseball",
@@ -1025,13 +1246,17 @@
    "date": "2027-04-28",
    "status": "estimated",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://cardindustry.com/release-dates/2027-baseball"
    ],
-   "note": "Estimate from prior-year timing"
+   "note": "Estimate from prior-year timing",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   },
   {
    "name": "2027 Topps Series 2 Baseball",
@@ -1040,13 +1265,17 @@
    "date": "2027-06-09",
    "status": "estimated",
    "msrp_hobby_box": null,
-   "msrp_note": "",
+   "msrp_note": "Not found in public sources checked (Checklist Insider, PriceCharting)",
    "secondary_box_price": null,
    "img": null,
    "sources": [
     "https://cardindustry.com/release-dates/2027-baseball"
    ],
-   "note": "Estimate from prior-year timing"
+   "note": "Estimate from prior-year timing",
+   "preorder_price": null,
+   "secondary_source": null,
+   "secondary_note": "Not released yet; no preorder sales found",
+   "img_note": "No product image published yet"
   }
  ]
 }

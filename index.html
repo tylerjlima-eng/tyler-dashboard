@@ -61,9 +61,17 @@
   <textarea id="tNote" placeholder="Notes" rows="2"></textarea><button id="tAdd" class="btn primary">Add</button></details>
  <div class="row"><button id="icsAll" class="btn">Export all .ics</button><button id="icsMine" class="btn">My tasks .ics</button><button id="notif" class="btn">Reminders</button></div>
 </section>
+<!-- RELEASES -->
+<section id="t-rel" class="tab">
+ <h2>Topps & Disney Releases</h2>
+ <div class="cats" id="relCats"></div>
+ <div class="seg" id="relWhen"><button data-v="up" class="on">Upcoming</button><button data-v="past">Released</button></div>
+ <div id="relList" class="list"></div>
+ <p class="small muted" id="relNote"></p>
+</section>
 <section id="t-setup" class="tab"><div id="setupDoc" class="doc">Loading…</div></section>
 </main>
 <!-- sheet -->
 <div id="sheet" class="sheet" hidden><div class="sheet-bg" data-close></div><div class="sheet-body"><button class="x" data-close aria-label="Close">✕</button><div id="sheetC"></div></div></div>
-<nav class="bottom"><button data-t="market" class="on"><i>📈</i>Markets</button><button data-t="inv"><i>🗂️</i>Inventory</button><button data-t="list"><i>🏷️</i>List</button><button data-t="sched"><i>📅</i>Schedule</button><button data-t="setup"><i>⚙️</i>Setup</button></nav>
+<nav class="bottom"><button data-t="market" class="on"><i>📈</i>Markets</button><button data-t="inv"><i>🗂️</i>Inventory</button><button data-t="list"><i>🏷️</i>List</button><button data-t="sched"><i>📅</i>Schedule</button><button data-t="rel"><i>🗓️</i>Releases</button><button data-t="setup"><i>⚙️</i>Setup</button></nav>
 <script src="ebay.js"></script><script src="app.js"></script></body></html>

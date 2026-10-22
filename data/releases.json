@@ -1,0 +1,1052 @@
+{
+ "updated": "2026-10-22",
+ "source_note": "Dates: HobbyMonitor release calendar unless noted. MSRP: Topps hobby box price as reported by Checklist Insider. Secondary prices not collected (retailer sites block automated access). Blank = unknown.",
+ "releases": [
+  {
+   "name": "2025 Topps Series 1 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-02-12",
+   "status": "released",
+   "msrp_hobby_box": 89.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-1/290.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-series-1-baseball2025",
+    "https://www.checklistinsider.com/2025-topps-series-1-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Heritage Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-04-23",
+   "status": "released",
+   "msrp_hobby_box": 109.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/493c3173-9b32-4049-bf20-804368a20f80.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-heritage-baseball-2025",
+    "https://www.checklistinsider.com/2025-topps-heritage-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-05-07",
+   "status": "released",
+   "msrp_hobby_box": 239.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-11/12.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowman-baseball-2025",
+    "https://www.checklistinsider.com/2025-bowman-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Series 2 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-06-11",
+   "status": "released",
+   "msrp_hobby_box": 89.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-39/700.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-series-2-baseball-2025",
+    "https://www.checklistinsider.com/2025-topps-series-2-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-07-23",
+   "status": "released",
+   "msrp_hobby_box": 199.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-59/217.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-chrome-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Finest Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-08-12",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-60/234.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-finest-baseball-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-09-23",
+   "status": "released",
+   "msrp_hobby_box": 279.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-111/77.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowman-chrome-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-bowman-chrome-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2025-09-24",
+   "status": "released",
+   "msrp_hobby_box": 399.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-141/50.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-disney-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-chrome-disney"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman Chrome Mega Box Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-10-08",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-130/93.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowman-chrome-mega-box-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Disney Wonder Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2025-10-15",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-143/50.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-disney-wonder-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Sapphire Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2025-10-24",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-144/123.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-disney-sapphire-edition-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Disney Mint Collection Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2025-10-31",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-142/2.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-disney-mint-collection-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Update Series Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-11-12",
+   "status": "released",
+   "msrp_hobby_box": 89.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-124/US87.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-update-series-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-update-series-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Allen & Ginter Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-12-03",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-128/227.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-allen-ginter-baseball-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Star Wars Chrome Galaxy Star Wars",
+   "group": "disney",
+   "category": "Star Wars",
+   "date": "2025-12-10",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/starwars/set-164/Q-JNJF.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-star-wars-chrome-galaxy-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Update Series Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-12-10",
+   "status": "released",
+   "msrp_hobby_box": 219.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-158/USC178.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-update-series-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-topps-chrome-update-series-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Cosmic Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2025-12-17",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-153/56.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-cosmic-chrome-baseball-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Marvel Studios Chrome Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2025-12-23",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-167/200.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-marvel-studios-chrome-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Pixar Gold Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-01-07",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-166/BTV-LC.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-pixar-gold-2025-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman Draft Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-01-14",
+   "status": "released",
+   "msrp_hobby_box": 519.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-172/BD-3.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowman-draft-baseball-2025-checklist",
+    "https://www.checklistinsider.com/2025-bowman-draft-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman Draft Mega Box Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-01-28",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-184.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowman-draft-baseball-mega-box-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Marvel The Collector Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-02-04",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-197/DA-PV.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-marvel-the-collector-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Series 1 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-02-11",
+   "status": "released",
+   "msrp_hobby_box": 99.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/2026-topps-series-1/189.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-series-1-baseball-checklist",
+    "https://www.checklistinsider.com/2026-topps-series-1-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Stadium Club Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-02-18",
+   "status": "released",
+   "msrp_hobby_box": 119.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-198/73.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-stadium-club-baseball-checklist",
+    "https://www.checklistinsider.com/2025-topps-stadium-club-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Brooklyn Collection Marvel Captain America Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-03-06",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-255/1.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-brooklyn-collection-marvel-captain-america-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Bowman's Best Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-03-11",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-187/40.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-bowmans-best-baseball-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Disneyland 70th Anniversary Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-03-13",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-209/35.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-disneyland-70th-anniversary-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Heritage Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-03-18",
+   "status": "released",
+   "msrp_hobby_box": 109.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-250/ROAC-PS.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-heritage-baseball-checklist",
+    "https://www.checklistinsider.com/2026-topps-heritage-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Marvel Deadpool Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-04-01",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-261/1.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-deadpool-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Finest Fantastic Four Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-04-15",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-270/42.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-finest-fantastic-four-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Chrome Football",
+   "group": "other",
+   "category": "Football",
+   "date": "2026-04-15",
+   "status": "released",
+   "msrp_hobby_box": 399.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/football/set-422/314.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-chrome-football-checklist",
+    "https://www.checklistinsider.com/2025-topps-chrome-football"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Disney Neon Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-04-17",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-264/CNA-CS.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-disney-neon-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps 30 Years of Toy Story Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-05-06",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-424/25.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-30-years-of-toy-story"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome UFC",
+   "group": "other",
+   "category": "UFC",
+   "date": "2026-05-08",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/ufc/set-423/1.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-ufc-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Bowman Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-05-13",
+   "status": "released",
+   "msrp_hobby_box": 239.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-426/BCP-1.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-bowman-baseball-checklist",
+    "https://www.checklistinsider.com/2026-bowman-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Finest Football",
+   "group": "other",
+   "category": "Football",
+   "date": "2026-05-15",
+   "status": "released",
+   "msrp_hobby_box": 599.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/football/set-430/279.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-finest-football-checklist",
+    "https://www.checklistinsider.com/2025-topps-finest-football"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2025 Topps Star Wars Masterwork",
+   "group": "disney",
+   "category": "Star Wars",
+   "date": "2026-06-03",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/other/set-443/ROC-18.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2025-topps-star-wars-masterwork"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Series 2 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-06-10",
+   "status": "released",
+   "msrp_hobby_box": 127.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-428/458.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-series-2-baseball-checklist",
+    "https://www.checklistinsider.com/2026-topps-series-2-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-06-17",
+   "status": "released",
+   "msrp_hobby_box": 419.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-453/111.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-disney",
+    "https://www.checklistinsider.com/2026-topps-chrome-disney"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Marvel Comics Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-07-01",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-468/16.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-marvel-comics-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Finest Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-07-08",
+   "status": "released",
+   "msrp_hobby_box": 339.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-458/210.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-finest-baseball",
+    "https://www.checklistinsider.com/2026-topps-finest-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Fanatics Fest Series 2 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-07-16",
+   "status": "released",
+   "msrp_hobby_box": 300.0,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/set-509/500.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-fanatics-fest-series-2-baseball",
+    "https://www.checklistinsider.com/2026-topps-fanatics-fest-series-2-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Sapphire Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-07-22",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/disney/set-507/83.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-sapphire-disney"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-07-22",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/baseball/2026-topps-chrome/236.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Mega Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-08-05",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-500.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-mega-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Star Wars Chrome Galaxy Star Wars",
+   "group": "disney",
+   "category": "Star Wars",
+   "date": "2026-08-12",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/starwars/set-493/84.jpeg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-star-wars-chrome-galaxy"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Mint Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-08-19",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/canonical/marvel/set-601/_cover.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-mint-marvel"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Bowman Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-09-09",
+   "status": "released",
+   "msrp_hobby_box": 299.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-696.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-bowman-chrome-baseball",
+    "https://www.checklistinsider.com/2026-bowman-chrome-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Bowman Chrome Mega Box Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-09-23",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-714.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-bowman-chrome-mega-box-baseball-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Vault Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-09-23",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-701-20261001.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-vault-marvel-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Star Wars",
+   "group": "disney",
+   "category": "Star Wars",
+   "date": "2026-09-30",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-731.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-star-wars"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Allen & Ginter Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-10-07",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-740.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-allen-and-ginter-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Neon Marvel",
+   "group": "disney",
+   "category": "Marvel",
+   "date": "2026-10-14",
+   "status": "released",
+   "msrp_hobby_box": 109.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-750.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-neon-marvel",
+    "https://www.checklistinsider.com/2026-topps-neon-marvel"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Update Series Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-10-14",
+   "status": "released",
+   "msrp_hobby_box": 109.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-749-20261001.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-update-series-baseball",
+    "https://www.checklistinsider.com/2026-topps-update-series-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Formula 1 Racing",
+   "group": "other",
+   "category": "F1",
+   "date": "2026-10-15",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/set-742-cover.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-formula-1-racing"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Vault Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-10-21",
+   "status": "released",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-764.webp",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-vault-disney-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Sapphire Star Wars",
+   "group": "disney",
+   "category": "Star Wars",
+   "date": "2026-10-28",
+   "status": "scheduled",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/games/og/release/2026-topps-chrome-sapphire-star-wars-checklist.png",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-sapphire-star-wars-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Update Series Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-10-30",
+   "status": "tentative",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-819-20261021.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-update-series-baseball-checklist",
+    "https://www.checklistinsider.com/2026-topps-chrome-update-series-baseball"
+   ],
+   "note": "HobbyMonitor page lists Oct 30 but its calendar shows TBD; CardIndustry estimates Dec 16, 2026."
+  },
+  {
+   "name": "2026 Topps Mint Disney",
+   "group": "disney",
+   "category": "Disney/Pixar",
+   "date": "2026-11-04",
+   "status": "scheduled",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-779-20261015.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-mint-disney-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Cosmic Chrome Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-11-04",
+   "status": "scheduled",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-718-20261001.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-cosmic-chrome-baseball",
+    "https://www.checklistinsider.com/2026-topps-cosmic-chrome-baseball"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Stadium Club Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2026-11-06",
+   "status": "tentative",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://preordercards.com/"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Football",
+   "group": "other",
+   "category": "Football",
+   "date": "2026-11-18",
+   "status": "scheduled",
+   "msrp_hobby_box": 439.99,
+   "msrp_note": "Hobby box MSRP per Checklist Insider",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-806-20261015.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-football-checklist",
+    "https://www.checklistinsider.com/2026-topps-chrome-football"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Topps Chrome Mega Box Football",
+   "group": "other",
+   "category": "Football",
+   "date": "2026-12-02",
+   "status": "scheduled",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": "https://api.hobbymonitor.com/v3/images/releases/cover-set-820.jpg",
+   "sources": [
+    "https://www.hobbymonitor.com/release/2026-topps-chrome-mega-box-football-checklist"
+   ],
+   "note": ""
+  },
+  {
+   "name": "2026 Bowman Draft Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2027-01-14",
+   "status": "tentative",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://www.waxstat.com/boxes/2026-bowman-draft-baseball-breaker-s-delight-box"
+   ],
+   "note": "CardIndustry estimates Dec 9, 2026 instead."
+  },
+  {
+   "name": "2027 Topps Series 1 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2027-02-10",
+   "status": "estimated",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://cardindustry.com/release-dates/2027-baseball"
+   ],
+   "note": "Estimate from prior-year timing"
+  },
+  {
+   "name": "2027 Topps Heritage Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2027-03-03",
+   "status": "estimated",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://cardindustry.com/release-dates/2027-baseball"
+   ],
+   "note": "Estimate from prior-year timing"
+  },
+  {
+   "name": "2027 Bowman Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2027-04-28",
+   "status": "estimated",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://cardindustry.com/release-dates/2027-baseball"
+   ],
+   "note": "Estimate from prior-year timing"
+  },
+  {
+   "name": "2027 Topps Series 2 Baseball",
+   "group": "baseball",
+   "category": "Baseball",
+   "date": "2027-06-09",
+   "status": "estimated",
+   "msrp_hobby_box": null,
+   "msrp_note": "",
+   "secondary_box_price": null,
+   "img": null,
+   "sources": [
+    "https://cardindustry.com/release-dates/2027-baseball"
+   ],
+   "note": "Estimate from prior-year timing"
+  }
+ ]
+}

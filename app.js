@@ -223,3 +223,17 @@ fetch("SETUP.md").then(r=>r.text()).then(t=>{const md=l=>esc(l).replace(/`([^`]+
  const secs=t.split(/\n(?=# )/);$("#setupDoc").innerHTML=secs.map((s,n)=>{const[h,...b]=s.split("\n");const body=b.map(l=>l.startsWith("### ")?`<h3>${md(l.slice(4))}</h3>`:l.match(/^\s*([-\d])/)?`<div>${md(l)}</div>`:l?`<p>${md(l)}</p>`:"").join("");
   return n==0?`<h2>${md(h.replace(/^# /,""))}</h2>${body}`:`<details class="more"><summary>${md(h.replace(/^# /,""))}</summary>${body}</details>`}).join("")});
 if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");
+
+// ---- Releases ----
+let REL=[],relCat="all",relWhen="up";const RCAT={all:"All",disney:"Disney",baseball:"Topps Baseball",other:"Other"};
+fetch("data/releases.json?"+Date.now()).then(r=>r.json()).then(d=>{REL=d.releases||[];$("#relNote").textContent=d.source_note||"";renderRel()}).catch(()=>{});
+$$("#relWhen button").forEach(b=>b.onclick=()=>{relWhen=b.dataset.v;$$("#relWhen button").forEach(x=>x.classList.toggle("on",x==b));renderRel()});
+function relDays(d){return Math.round((new Date(d+"T00:00:00")-new Date(new Date().toDateString()))/864e5)}
+function renderRel(){const up=REL.filter(r=>relDays(r.date)>=0||r.status=="tentative"&&relDays(r.date)>=-7),past=REL.filter(r=>!up.includes(r)),base=relWhen=="up"?up:past.slice().reverse();
+ const cnt=k=>k=="all"?base.length:base.filter(r=>r.group==k).length;
+ $("#relCats").innerHTML=Object.entries(RCAT).map(([k,v])=>`<span class="c ${k==relCat?"on":""}" data-c="${k}">${v}<span class="n">${cnt(k)}</span></span>`).join("");
+ $$("#relCats .c").forEach(c=>c.onclick=()=>{relCat=c.dataset.c;renderRel()});
+ const l=base.filter(r=>relCat=="all"||r.group==relCat);
+ $("#relList").innerHTML=l.length?l.map(r=>{const d=relDays(r.date),cd=d>0?`in ${d}d`:d==0?"TODAY":`${-d}d ago`,dt=new Date(r.date+"T00:00:00").toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"});
+  const st=r.status=="released"||r.status=="scheduled"?"":` <span class="rtag">${esc(r.status)}</span>`;
+  return `<div class="it rel">${r.img?`<img class="thumb" loading="lazy" src="${esc(r.img)}" alt="">`:`<div class="thumb ph">🃏</div>`}<div class="mid"><div class="nm">${esc(r.name)}</div><div class="sub">${esc(r.category)} · ${dt}${st}</div>${r.note?`<div class="sub">${esc(r.note)}</div>`:""}<div class="sub">${r.sources.map((u,i)=>`<a target="_blank" href="${esc(u)}">src${i+1}</a>`).join(" · ")}</div></div><div class="rt"><span class="num cd ${d>=0&&d<=14?"soon":""}">${cd}</span><span class="small">${r.msrp_hobby_box?"$"+r.msrp_hobby_box+" hobby":"MSRP —"}</span>${r.secondary_box_price?`<span class="small">mkt $${r.secondary_box_price}</span>`:""}</div></div>`}).join(""):'<div class="small muted">Nothing here.</div>'}

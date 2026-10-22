@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:38:33+00:00",
+ "updated": "2026-10-22T14:53:53+00:00",
  "items": [
   {
    "cat": "pokemon",
@@ -347,13 +347,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 41.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 41.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -32.9,
+     "1d": 0.0,
      "7d": null,
      "30d": 48.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -361,22 +361,22 @@
    },
    "signal": {
     "Ungraded": {
-     "flag": "normal",
-     "pct": 0.0,
-     "now": 333.7,
+     "flag": "SPIKE_WATCH",
+     "pct": 41.5,
+     "now": 471.92,
      "base": 333.54,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 33.35,
-     "day_jump": "pending confirmation"
+     "day_jump": "confirmed"
     },
     "PSA 10": {
-     "flag": "SPIKE_ALERT",
-     "pct": 120.4,
-     "now": 27058.0,
+     "flag": "SPIKE_WATCH",
+     "pct": 48.0,
+     "now": 18162.69,
      "base": 12275.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 1227.5,
-     "day_jump": "pending confirmation"
+     "day_jump": "confirmed"
     }
    }
   },
@@ -725,13 +725,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -8.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 4.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 24.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -740,16 +740,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 7.5,
-     "now": 99.99,
+     "pct": -1.7,
+     "now": 91.38,
      "base": 93.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.3
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 19.1,
-     "now": 9000.0,
+     "pct": 24.1,
+     "now": 9375.0,
      "base": 7554.56,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 755.46
@@ -766,12 +766,12 @@
    "title": "Venusaur #15 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 62.61,
-    "Grade 7": 186.0,
-    "Grade 8": 285.0,
-    "Grade 9": 623.09,
-    "Grade 9.5": 685.0,
-    "PSA 10": 5229.5
+    "Ungraded": 74.95,
+    "Grade 7": 184.98,
+    "Grade 8": 283.0,
+    "Grade 9": 609.0,
+    "Grade 9.5": 670.0,
+    "PSA 10": 4548.4
    },
    "monthly": {
     "Grade 9.5": [
@@ -825,7 +825,7 @@
      ],
      [
       1790834400,
-      685.0
+      670.0
      ]
     ],
     "Grade 7": [
@@ -879,7 +879,7 @@
      ],
      [
       1790834400,
-      186.0
+      184.98
      ]
     ],
     "Grade 9": [
@@ -933,7 +933,7 @@
      ],
      [
       1790834400,
-      623.09
+      609.0
      ]
     ],
     "PSA 10": [
@@ -987,7 +987,7 @@
      ],
      [
       1790834400,
-      5229.5
+      4548.4
      ]
     ],
     "Grade 8": [
@@ -1041,7 +1041,7 @@
      ],
      [
       1790834400,
-      285.0
+      283.0
      ]
     ],
     "Ungraded": [
@@ -1095,21 +1095,21 @@
      ],
      [
       1790834400,
-      62.61
+      74.95
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 19.7,
      "7d": null,
-     "30d": -16.5,
+     "30d": -0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -13.0,
      "7d": null,
-     "30d": 60.3,
+     "30d": 39.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -1477,13 +1477,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 7.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 24.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 10.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 17.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -1492,16 +1492,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 16.0,
-     "now": 29.27,
+     "pct": 24.8,
+     "now": 31.49,
      "base": 25.24,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 5.9,
-     "now": 4720.77,
+     "pct": 17.0,
+     "now": 5215.5,
      "base": 4456.92,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 445.69
@@ -1519,12 +1519,12 @@
    "title": "Umbreon VMAX #215 Prices",
    "set": "Pokemon Evolving Skies",
    "prices": {
-    "Ungraded": 1672.91,
+    "Ungraded": 1725.0,
     "Grade 7": 1668.85,
     "Grade 8": 1800.0,
-    "Grade 9": 2050.0,
+    "Grade 9": 2100.0,
     "Grade 9.5": 2781.3,
-    "PSA 10": 3770.0
+    "PSA 10": 3750.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -1686,7 +1686,7 @@
      ],
      [
       1790834400,
-      2050.0
+      2100.0
      ]
     ],
     "PSA 10": [
@@ -1740,7 +1740,7 @@
      ],
      [
       1790834400,
-      3770.0
+      3750.0
      ]
     ],
     "Grade 8": [
@@ -1848,37 +1848,37 @@
      ],
      [
       1790834400,
-      1672.91
+      1725.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": -4.7,
+     "1d": 3.1,
      "7d": null,
-     "30d": -13.4,
+     "30d": -10.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.6,
+     "1d": -0.5,
      "7d": null,
-     "30d": -5.7,
+     "30d": -6.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -9.1,
-     "now": 1754.79,
+     "pct": -10.7,
+     "now": 1725.0,
      "base": 1931.18,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 193.12
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.2,
-     "now": 3830.69,
+     "pct": -5.7,
+     "now": 3770.0,
      "base": 3999.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 399.9
@@ -1896,12 +1896,12 @@
    "title": "Rayquaza VMAX #218 Prices",
    "set": "Pokemon Evolving Skies",
    "prices": {
-    "Ungraded": 1000.51,
-    "Grade 7": 686.0,
-    "Grade 8": 857.66,
+    "Ungraded": 1000.0,
+    "Grade 7": 814.56,
+    "Grade 8": 857.27,
     "Grade 9": 1075.0,
     "Grade 9.5": 1537.5,
-    "PSA 10": 2037.5
+    "PSA 10": 1977.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -2009,7 +2009,7 @@
      ],
      [
       1790834400,
-      686.0
+      814.56
      ]
     ],
     "Grade 9": [
@@ -2117,7 +2117,7 @@
      ],
      [
       1790834400,
-      2037.5
+      1977.5
      ]
     ],
     "Grade 8": [
@@ -2171,7 +2171,7 @@
      ],
      [
       1790834400,
-      857.66
+      857.27
      ]
     ],
     "Ungraded": [
@@ -2225,21 +2225,21 @@
      ],
      [
       1790834400,
-      1000.51
+      1000.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.1,
+     "1d": -0.1,
      "7d": null,
-     "30d": 9.8,
+     "30d": 9.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.6,
+     "1d": -2.9,
      "7d": null,
-     "30d": -8.1,
+     "30d": -10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -2247,15 +2247,15 @@
     "Ungraded": {
      "flag": "normal",
      "pct": 9.7,
-     "now": 999.77,
+     "now": 1000.0,
      "base": 911.53,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 91.15
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.5,
-     "now": 2050.0,
+     "pct": -8.1,
+     "now": 2037.5,
      "base": 2216.29,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 221.63
@@ -2273,12 +2273,12 @@
    "title": "Charizard ex #199 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 305.28,
+    "Ungraded": 305.0,
     "Grade 7": 241.0,
-    "Grade 8": 300.83,
+    "Grade 8": 301.25,
     "Grade 9": 358.0,
     "Grade 9.5": 554.5,
-    "PSA 10": 1286.64
+    "PSA 10": 1284.99
    },
    "monthly": {
     "Grade 9.5": [
@@ -2494,7 +2494,7 @@
      ],
      [
       1790834400,
-      1286.64
+      1284.99
      ]
     ],
     "Grade 8": [
@@ -2548,7 +2548,7 @@
      ],
      [
       1790834400,
-      300.83
+      301.25
      ]
     ],
     "Ungraded": [
@@ -2602,37 +2602,37 @@
      ],
      [
       1790834400,
-      305.28
+      305.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": -7.3,
+     "1d": -0.1,
      "7d": null,
-     "30d": -9.9,
+     "30d": -10.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -6.8,
+     "1d": -0.1,
      "7d": null,
-     "30d": -7.6,
+     "30d": -7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -2.8,
-     "now": 329.49,
+     "pct": -9.9,
+     "now": 305.28,
      "base": 338.85,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 33.89
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.8,
-     "now": 1380.5,
+     "pct": -7.6,
+     "now": 1286.64,
      "base": 1392.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 139.2
@@ -2985,13 +2985,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -2.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -3000,16 +3000,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -1.8,
-     "now": 268.58,
+     "pct": -1.6,
+     "now": 269.06,
      "base": 273.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 27.35
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -10.6,
-     "now": 510.0,
+     "pct": -12.4,
+     "now": 500.0,
      "base": 570.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 57.05
@@ -3362,13 +3362,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 1.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -2.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -3377,16 +3377,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 9.5,
-     "now": 777.75,
+     "pct": 10.8,
+     "now": 787.0,
      "base": 710.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 71.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -9.4,
-     "now": 3150.0,
+     "pct": -11.2,
+     "now": 3085.47,
      "base": 3475.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 347.55
@@ -3403,12 +3403,12 @@
    "title": "Lugia V #186 Prices",
    "set": "Pokemon Silver Tempest",
    "prices": {
-    "Ungraded": 408.87,
+    "Ungraded": 430.0,
     "Grade 7": 298.37,
     "Grade 8": 395.0,
-    "Grade 9": 487.49,
+    "Grade 9": 482.73,
     "Grade 9.5": 594.5,
-    "PSA 10": 1184.99
+    "PSA 10": 1179.54
    },
    "monthly": {
     "Grade 9.5": [
@@ -3570,7 +3570,7 @@
      ],
      [
       1790834400,
-      487.49
+      482.73
      ]
     ],
     "PSA 10": [
@@ -3624,7 +3624,7 @@
      ],
      [
       1790834400,
-      1184.99
+      1179.54
      ]
     ],
     "Grade 8": [
@@ -3732,37 +3732,37 @@
      ],
      [
       1790834400,
-      408.87
+      430.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": -10.4,
+     "1d": 5.2,
      "7d": null,
-     "30d": 5.7,
+     "30d": 11.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -5.2,
+     "1d": -0.5,
      "7d": null,
-     "30d": -5.4,
+     "30d": -5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 17.9,
-     "now": 456.2,
+     "pct": 11.1,
+     "now": 430.0,
      "base": 387.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 38.7
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.2,
-     "now": 1250.0,
+     "pct": -5.4,
+     "now": 1184.99,
      "base": 1253.1,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 125.31
@@ -3780,12 +3780,12 @@
    "title": "Gengar VMAX #271 Prices",
    "set": "Pokemon Fusion Strike",
    "prices": {
-    "Ungraded": 738.61,
-    "Grade 7": 682.49,
+    "Ungraded": 834.56,
+    "Grade 7": 682.38,
     "Grade 8": 815.0,
-    "Grade 9": 896.15,
-    "Grade 9.5": 1212.91,
-    "PSA 10": 2270.19
+    "Grade 9": 885.0,
+    "Grade 9.5": 1187.11,
+    "PSA 10": 2250.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -3839,7 +3839,7 @@
      ],
      [
       1790834400,
-      1212.91
+      1187.11
      ]
     ],
     "Grade 7": [
@@ -3893,7 +3893,7 @@
      ],
      [
       1790834400,
-      682.49
+      682.38
      ]
     ],
     "Grade 9": [
@@ -3947,7 +3947,7 @@
      ],
      [
       1790834400,
-      896.15
+      885.0
      ]
     ],
     "PSA 10": [
@@ -4001,7 +4001,7 @@
      ],
      [
       1790834400,
-      2270.19
+      2250.0
      ]
     ],
     "Grade 8": [
@@ -4109,21 +4109,21 @@
      ],
      [
       1790834400,
-      738.61
+      834.56
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 13.0,
      "7d": null,
-     "30d": -5.4,
+     "30d": 6.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.2,
+     "1d": -0.9,
      "7d": null,
-     "30d": 0.8,
+     "30d": -0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -4138,8 +4138,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.0,
-     "now": 2297.65,
+     "pct": 0.8,
+     "now": 2270.19,
      "base": 2253.26,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 225.33
@@ -4156,12 +4156,12 @@
    "title": "Charizard GX #SV49 Prices",
    "set": "Pokemon Hidden Fates",
    "prices": {
-    "Ungraded": 599.99,
-    "Grade 7": 439.54,
+    "Ungraded": 599.75,
+    "Grade 7": 439.25,
     "Grade 8": 516.07,
-    "Grade 9": 595.01,
+    "Grade 9": 607.5,
     "Grade 9.5": 804.24,
-    "PSA 10": 1412.48
+    "PSA 10": 1425.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -4269,7 +4269,7 @@
      ],
      [
       1790834400,
-      439.54
+      439.25
      ]
     ],
     "Grade 9": [
@@ -4323,7 +4323,7 @@
      ],
      [
       1790834400,
-      595.01
+      607.5
      ]
     ],
     "PSA 10": [
@@ -4377,7 +4377,7 @@
      ],
      [
       1790834400,
-      1412.48
+      1425.0
      ]
     ],
     "Grade 8": [
@@ -4485,21 +4485,21 @@
      ],
      [
       1790834400,
-      599.99
+      599.75
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.0,
      "7d": null,
-     "30d": -6.7,
+     "30d": -6.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 0.9,
      "7d": null,
-     "30d": 2.3,
+     "30d": 3.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -4533,12 +4533,12 @@
    "title": "Umbreon ex #161 Prices",
    "set": "Pokemon Prismatic Evolutions",
    "prices": {
-    "Ungraded": 980.9,
+    "Ungraded": 966.61,
     "Grade 7": 811.0,
     "Grade 8": 1013.92,
     "Grade 9": 1100.43,
-    "Grade 9.5": 2518.92,
-    "PSA 10": 4700.0
+    "Grade 9.5": 2681.5,
+    "PSA 10": 4696.29
    },
    "monthly": {
     "Grade 9.5": [
@@ -4592,7 +4592,7 @@
      ],
      [
       1790834400,
-      2518.92
+      2681.5
      ]
     ],
     "Grade 7": [
@@ -4754,7 +4754,7 @@
      ],
      [
       1790834400,
-      4700.0
+      4696.29
      ]
     ],
     "Grade 8": [
@@ -4862,37 +4862,37 @@
      ],
      [
       1790834400,
-      980.9
+      966.61
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": -4.0,
+     "1d": -1.5,
      "7d": null,
-     "30d": -18.2,
+     "30d": -19.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -2.6,
+     "1d": -0.1,
      "7d": null,
-     "30d": -16.4,
+     "30d": -16.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -14.9,
-     "now": 1021.31,
+     "pct": -18.2,
+     "now": 980.9,
      "base": 1199.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 119.95
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -14.2,
-     "now": 4824.68,
+     "pct": -16.4,
+     "now": 4700.0,
      "base": 5625.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 562.5
@@ -5245,13 +5245,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -1.7,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -5260,16 +5260,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.0,
-     "now": 254.87,
+     "pct": 1.2,
+     "now": 250.62,
      "base": 247.54,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 24.75
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.4,
-     "now": 719.76,
+     "pct": -4.6,
+     "now": 718.0,
      "base": 752.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 75.25
@@ -5628,7 +5628,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 1.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -5645,8 +5645,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -16.5,
-     "now": 761.04,
+     "pct": -15.0,
+     "now": 775.0,
      "base": 911.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 91.15
@@ -6017,7 +6017,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 2.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 6.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -6034,8 +6034,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 3.9,
-     "now": 5725.0,
+     "pct": 6.0,
+     "now": 5845.98,
      "base": 5512.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 551.25
@@ -6400,13 +6400,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 19.8,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 39.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 66.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -6415,20 +6415,20 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.2,
-     "now": 384.09,
+     "pct": 7.6,
+     "now": 460.0,
      "base": 427.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 42.75
     },
     "PSA 10": {
-     "flag": "normal",
-     "pct": 19.5,
-     "now": 24608.12,
+     "flag": "SPIKE_ALERT",
+     "pct": 66.2,
+     "now": 34246.35,
      "base": 20600.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 2060.0,
-     "day_jump": "pending confirmation"
+     "day_jump": "confirmed"
     }
    }
   },
@@ -7555,13 +7555,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -7.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 10.7,
+     "1d": 0.0,
      "7d": null,
      "30d": 155.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -7570,16 +7570,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 6.4,
-     "now": 21.13,
+     "pct": -1.5,
+     "now": 19.55,
      "base": 19.85,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "SPIKE_ALERT",
-     "pct": 131.2,
-     "now": 722.98,
+     "pct": 155.8,
+     "now": 799.99,
      "base": 312.77,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 31.28
@@ -7596,10 +7596,10 @@
    "title": "Left Arm of the Forbidden One LOB-123 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 15.71,
+    "Ungraded": 16.0,
     "Grade 7": 47.5,
-    "Grade 8": 93.59,
-    "Grade 9": 122.75,
+    "Grade 8": 93.53,
+    "Grade 9": 122.68,
     "Grade 9.5": 135.0,
     "PSA 10": 2125.0
    },
@@ -7763,7 +7763,7 @@
      ],
      [
       1790834400,
-      122.75
+      122.68
      ]
     ],
     "PSA 10": [
@@ -7871,7 +7871,7 @@
      ],
      [
       1790834400,
-      93.59
+      93.53
      ]
     ],
     "Ungraded": [
@@ -7925,15 +7925,15 @@
      ],
      [
       1790834400,
-      15.71
+      16.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 1.8,
      "7d": null,
-     "30d": -3.6,
+     "30d": -1.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -7958,8 +7958,7 @@
      "now": 2125.0,
      "base": 395.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
-     "floor": 39.5,
-     "day_jump": "confirmed"
+     "floor": 39.5
     }
    }
   },
@@ -8308,7 +8307,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 18.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -8323,8 +8322,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.5,
-     "now": 15.2,
+     "pct": 10.6,
+     "now": 17.99,
      "base": 16.26,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -8684,13 +8683,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -16.9,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 5.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -8699,16 +8698,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 23.7,
-     "now": 25.88,
+     "pct": 2.8,
+     "now": 21.5,
      "base": 20.92,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.1,
-     "now": 4800.0,
+     "pct": 7.7,
+     "now": 5062.5,
      "base": 4700.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 470.0
@@ -9060,13 +9059,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 17.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -9075,16 +9074,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -14.2,
-     "now": 253.74,
+     "pct": 0.8,
+     "now": 298.22,
      "base": 295.9,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 29.59
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.0,
-     "now": 5499.99,
+     "pct": -0.0,
+     "now": 5499.5,
      "base": 5499.99,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 550.0
@@ -10207,7 +10206,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 14.3,
+     "1d": 0.0,
      "7d": null,
      "30d": 27.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -10223,9 +10222,9 @@
      "floor": 91.44
     },
     "PSA 10": {
-     "flag": "normal",
-     "pct": 11.5,
-     "now": 32854.1,
+     "flag": "SPIKE_WATCH",
+     "pct": 27.5,
+     "now": 37560.7,
      "base": 29467.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 2946.75
@@ -10242,12 +10241,12 @@
    "title": "Jinzo PSV-000 Prices",
    "set": "YuGiOh Pharaoh's Servant",
    "prices": {
-    "Ungraded": 49.49,
+    "Ungraded": 48.52,
     "Grade 7": 84.21,
-    "Grade 8": 143.75,
-    "Grade 9": 318.23,
+    "Grade 8": 145.5,
+    "Grade 9": 316.87,
     "Grade 9.5": 396.83,
-    "PSA 10": 1050.72
+    "PSA 10": 1000.38
    },
    "monthly": {
     "Grade 9.5": [
@@ -10409,7 +10408,7 @@
      ],
      [
       1790834400,
-      318.23
+      316.87
      ]
     ],
     "PSA 10": [
@@ -10463,7 +10462,7 @@
      ],
      [
       1790834400,
-      1050.72
+      1000.38
      ]
     ],
     "Grade 8": [
@@ -10517,7 +10516,7 @@
      ],
      [
       1790834400,
-      143.75
+      145.5
      ]
     ],
     "Ungraded": [
@@ -10571,21 +10570,21 @@
      ],
      [
       1790834400,
-      49.49
+      48.52
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -2.0,
      "7d": null,
-     "30d": 9.6,
+     "30d": 7.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -4.8,
      "7d": null,
-     "30d": 24.4,
+     "30d": 18.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -11706,13 +11705,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 1.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 37.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -11721,16 +11720,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 9.1,
-     "now": 4525.0,
+     "pct": 8.4,
+     "now": 4497.0,
      "base": 4146.72,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 414.67
     },
     "PSA 10": {
      "flag": "SPIKE_WATCH",
-     "pct": 35.7,
-     "now": 392225.0,
+     "pct": 37.2,
+     "now": 396500.0,
      "base": 289046.15,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 28904.62
@@ -12083,7 +12082,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 6.9,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12098,8 +12097,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -3.5,
-     "now": 79.16,
+     "pct": 3.1,
+     "now": 84.61,
      "base": 82.07,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 8.21
@@ -12460,13 +12459,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 17.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -3.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -12475,16 +12474,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -14.6,
-     "now": 55.52,
+     "pct": 0.0,
+     "now": 65.0,
      "base": 65.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 6.5
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.0,
-     "now": 4250.0,
+     "pct": -3.9,
+     "now": 4083.66,
      "base": 4250.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 425.0
@@ -12502,11 +12501,11 @@
    "title": "Kobe Bryant #138 Prices [Rookie]",
    "set": "1996 Topps Chrome",
    "prices": {
-    "Ungraded": 1690.0,
-    "Grade 7": 1475.0,
-    "Grade 8": 2300.97,
+    "Ungraded": 1788.22,
+    "Grade 7": 1461.5,
+    "Grade 8": 2341.95,
     "Grade 9": 4110.59,
-    "Grade 9.5": 5999.32,
+    "Grade 9.5": 5999.66,
     "PSA 10": 15372.5
    },
    "monthly": {
@@ -12561,7 +12560,7 @@
      ],
      [
       1790834400,
-      5999.32
+      5999.66
      ]
     ],
     "Grade 7": [
@@ -12615,7 +12614,7 @@
      ],
      [
       1790834400,
-      1475.0
+      1461.5
      ]
     ],
     "Grade 9": [
@@ -12777,7 +12776,7 @@
      ],
      [
       1790834400,
-      2300.97
+      2341.95
      ]
     ],
     "Ungraded": [
@@ -12831,15 +12830,15 @@
      ],
      [
       1790834400,
-      1690.0
+      1788.22
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 5.8,
      "7d": null,
-     "30d": 4.0,
+     "30d": 10.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -12879,12 +12878,12 @@
    "title": "Kobe Bryant #138 Prices [Rookie]",
    "set": "1996 Topps",
    "prices": {
-    "Ungraded": 113.37,
-    "Grade 7": 127.97,
-    "Grade 8": 173.37,
-    "Grade 9": 368.77,
-    "Grade 9.5": 907.39,
-    "PSA 10": 2537.48
+    "Ungraded": 110.99,
+    "Grade 7": 131.23,
+    "Grade 8": 175.0,
+    "Grade 9": 358.0,
+    "Grade 9.5": 775.25,
+    "PSA 10": 2394.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -12938,7 +12937,7 @@
      ],
      [
       1790834400,
-      907.39
+      775.25
      ]
     ],
     "Grade 7": [
@@ -12992,7 +12991,7 @@
      ],
      [
       1790834400,
-      127.97
+      131.23
      ]
     ],
     "Grade 9": [
@@ -13046,7 +13045,7 @@
      ],
      [
       1790834400,
-      368.77
+      358.0
      ]
     ],
     "PSA 10": [
@@ -13100,7 +13099,7 @@
      ],
      [
       1790834400,
-      2537.48
+      2394.0
      ]
     ],
     "Grade 8": [
@@ -13154,7 +13153,7 @@
      ],
      [
       1790834400,
-      173.37
+      175.0
      ]
     ],
     "Ungraded": [
@@ -13208,21 +13207,21 @@
      ],
      [
       1790834400,
-      113.37
+      110.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -2.1,
      "7d": null,
-     "30d": -6.7,
+     "30d": -8.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -5.7,
      "7d": null,
-     "30d": -12.0,
+     "30d": -17.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -13256,11 +13255,11 @@
    "title": "Kobe Bryant #81 Prices",
    "set": "1997 Metal Universe",
    "prices": {
-    "Ungraded": 288.93,
-    "Grade 7": 399.99,
+    "Ungraded": 294.0,
+    "Grade 7": 407.98,
     "Grade 8": 632.82,
-    "Grade 9": 1400.0,
-    "Grade 9.5": 1855.22,
+    "Grade 9": 1351.0,
+    "Grade 9.5": 1870.7,
     "PSA 10": 5752.0
    },
    "monthly": {
@@ -13315,7 +13314,7 @@
      ],
      [
       1790834400,
-      1855.22
+      1870.7
      ]
     ],
     "Grade 7": [
@@ -13369,7 +13368,7 @@
      ],
      [
       1790834400,
-      399.99
+      407.98
      ]
     ],
     "Grade 9": [
@@ -13423,7 +13422,7 @@
      ],
      [
       1790834400,
-      1400.0
+      1351.0
      ]
     ],
     "PSA 10": [
@@ -13585,15 +13584,15 @@
      ],
      [
       1790834400,
-      288.93
+      294.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 1.8,
      "7d": null,
-     "30d": 2.5,
+     "30d": 4.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -13633,12 +13632,12 @@
    "title": "LeBron James #111 Prices [Rookie]",
    "set": "2003 Topps Chrome",
    "prices": {
-    "Ungraded": 2387.5,
+    "Ungraded": 2350.01,
     "Grade 7": 2172.27,
-    "Grade 8": 3137.11,
-    "Grade 9": 4250.0,
-    "Grade 9.5": 6646.82,
-    "PSA 10": 13701.5
+    "Grade 8": 3014.31,
+    "Grade 9": 4093.18,
+    "Grade 9.5": 6673.31,
+    "PSA 10": 13751.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -13692,7 +13691,7 @@
      ],
      [
       1790834400,
-      6646.82
+      6673.31
      ]
     ],
     "Grade 7": [
@@ -13800,7 +13799,7 @@
      ],
      [
       1790834400,
-      4250.0
+      4093.18
      ]
     ],
     "PSA 10": [
@@ -13854,7 +13853,7 @@
      ],
      [
       1790834400,
-      13701.5
+      13751.5
      ]
     ],
     "Grade 8": [
@@ -13908,7 +13907,7 @@
      ],
      [
       1790834400,
-      3137.11
+      3014.31
      ]
     ],
     "Ungraded": [
@@ -13962,21 +13961,21 @@
      ],
      [
       1790834400,
-      2387.5
+      2350.01
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.6,
      "7d": null,
-     "30d": -3.5,
+     "30d": -5.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 0.4,
      "7d": null,
-     "30d": -6.6,
+     "30d": -6.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -14010,12 +14009,12 @@
    "title": "Stephen Curry #321 Prices [Rookie]",
    "set": "2009 Topps",
    "prices": {
-    "Ungraded": 1560.7,
-    "Grade 7": 2340.34,
-    "Grade 8": 3451.92,
+    "Ungraded": 1793.46,
+    "Grade 7": 2332.28,
+    "Grade 8": 3437.5,
     "Grade 9": 6250.0,
     "Grade 9.5": 6885.0,
-    "PSA 10": 19000.76
+    "PSA 10": 19000.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -14123,7 +14122,7 @@
      ],
      [
       1790834400,
-      2340.34
+      2332.28
      ]
     ],
     "Grade 9": [
@@ -14231,7 +14230,7 @@
      ],
      [
       1790834400,
-      19000.76
+      19000.0
      ]
     ],
     "Grade 8": [
@@ -14285,7 +14284,7 @@
      ],
      [
       1790834400,
-      3451.92
+      3437.5
      ]
     ],
     "Ungraded": [
@@ -14339,19 +14338,19 @@
      ],
      [
       1790834400,
-      1560.7
+      1793.46
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 14.9,
      "7d": null,
-     "30d": -17.5,
+     "30d": -5.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.0,
      "7d": null,
      "30d": -2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -14722,13 +14721,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -14737,16 +14736,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -11.3,
-     "now": 164.89,
+     "pct": -11.7,
+     "now": 164.32,
      "base": 186.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 18.6
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -2.4,
-     "now": 650.62,
+     "pct": -2.8,
+     "now": 648.0,
      "base": 666.88,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 66.69
@@ -15099,13 +15098,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 1.2,
+     "1d": 0.0,
      "7d": null,
      "30d": 9.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -15114,16 +15113,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 8.4,
-     "now": 20.76,
+     "pct": 9.6,
+     "now": 21.0,
      "base": 19.16,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.2,
-     "now": 97.5,
+     "pct": 1.9,
+     "now": 97.25,
      "base": 95.43,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.54
@@ -15141,12 +15140,12 @@
    "title": "Luka Doncic #280 Prices [Rookie]",
    "set": "2018 Panini Prizm",
    "prices": {
-    "Ungraded": 53.5,
+    "Ungraded": 54.77,
     "Grade 7": 37.0,
-    "Grade 8": 46.26,
-    "Grade 9": 71.52,
+    "Grade 8": 46.15,
+    "Grade 9": 72.02,
     "Grade 9.5": 109.0,
-    "PSA 10": 207.49
+    "PSA 10": 203.25
    },
    "monthly": {
     "Grade 9.5": [
@@ -15308,7 +15307,7 @@
      ],
      [
       1790834400,
-      71.52
+      72.02
      ]
     ],
     "PSA 10": [
@@ -15362,7 +15361,7 @@
      ],
      [
       1790834400,
-      207.49
+      203.25
      ]
     ],
     "Grade 8": [
@@ -15416,7 +15415,7 @@
      ],
      [
       1790834400,
-      46.26
+      46.15
      ]
     ],
     "Ungraded": [
@@ -15470,21 +15469,21 @@
      ],
      [
       1790834400,
-      53.5
+      54.77
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.4,
      "7d": null,
-     "30d": 4.0,
+     "30d": 6.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -2.0,
      "7d": null,
-     "30d": 3.7,
+     "30d": 1.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -15521,9 +15520,9 @@
     "Ungraded": 3.99,
     "Grade 7": 6.0,
     "Grade 8": 7.5,
-    "Grade 9": 10.0,
-    "Grade 9.5": 12.81,
-    "PSA 10": 27.45
+    "Grade 9": 10.53,
+    "Grade 9.5": 12.97,
+    "PSA 10": 25.91
    },
    "monthly": {
     "Grade 9.5": [
@@ -15577,7 +15576,7 @@
      ],
      [
       1790834400,
-      12.81
+      12.97
      ]
     ],
     "Grade 7": [
@@ -15685,7 +15684,7 @@
      ],
      [
       1790834400,
-      10.0
+      10.53
      ]
     ],
     "PSA 10": [
@@ -15739,7 +15738,7 @@
      ],
      [
       1790834400,
-      27.45
+      25.91
      ]
     ],
     "Grade 8": [
@@ -15859,9 +15858,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -5.6,
      "7d": null,
-     "30d": -0.2,
+     "30d": -5.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -16230,13 +16229,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 12.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -12.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16245,16 +16244,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -22.2,
-     "now": 3.5,
+     "pct": -12.7,
+     "now": 3.93,
      "base": 4.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.2,
-     "now": 23.44,
+     "pct": -1.3,
+     "now": 23.19,
      "base": 23.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -16607,13 +16606,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.8,
+     "1d": 0.0,
      "7d": null,
      "30d": 12.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -16622,16 +16621,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 1.2,
-     "now": 10.11,
+     "pct": 0.7,
+     "now": 10.06,
      "base": 9.99,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 13.4,
-     "now": 146.44,
+     "pct": 12.4,
+     "now": 145.25,
      "base": 129.18,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 12.92
@@ -16649,12 +16648,12 @@
    "title": "Victor Wembanyama #136 Prices [Rookie]",
    "set": "2023 Panini Prizm",
    "prices": {
-    "Ungraded": 67.62,
-    "Grade 7": 64.12,
-    "Grade 8": 68.0,
+    "Ungraded": 68.94,
+    "Grade 7": 52.0,
+    "Grade 8": 65.55,
     "Grade 9": 99.0,
-    "Grade 9.5": 197.31,
-    "PSA 10": 355.0
+    "Grade 9.5": 176.27,
+    "PSA 10": 345.01
    },
    "monthly": {
     "Grade 9.5": [
@@ -16708,7 +16707,7 @@
      ],
      [
       1790834400,
-      197.31
+      176.27
      ]
     ],
     "Grade 7": [
@@ -16762,7 +16761,7 @@
      ],
      [
       1790834400,
-      64.12
+      52.0
      ]
     ],
     "Grade 9": [
@@ -16870,7 +16869,7 @@
      ],
      [
       1790834400,
-      355.0
+      345.01
      ]
     ],
     "Grade 8": [
@@ -16924,7 +16923,7 @@
      ],
      [
       1790834400,
-      68.0
+      65.55
      ]
     ],
     "Ungraded": [
@@ -16978,21 +16977,21 @@
      ],
      [
       1790834400,
-      67.62
+      68.94
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.0,
      "7d": null,
-     "30d": -8.0,
+     "30d": -6.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -2.8,
      "7d": null,
-     "30d": 1.4,
+     "30d": -1.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -17362,13 +17361,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -38.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -10.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -29.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -17377,16 +17376,16 @@
    "signal": {
     "Ungraded": {
      "flag": "DROP_WATCH",
-     "pct": -36.0,
-     "now": 453.0,
+     "pct": -38.6,
+     "now": 434.76,
      "base": 707.63,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 70.76
     },
     "PSA 10": {
-     "flag": "normal",
-     "pct": -22.0,
-     "now": 101683.2,
+     "flag": "DROP_WATCH",
+     "pct": -29.9,
+     "now": 91336.6,
      "base": 130285.85,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 13028.59
@@ -17404,10 +17403,10 @@
    "title": "Joe Montana #216 Prices [Rookie]",
    "set": "1981 Topps",
    "prices": {
-    "Ungraded": 104.99,
-    "Grade 7": 248.4,
-    "Grade 8": 678.25,
-    "Grade 9": 3782.0,
+    "Ungraded": 121.5,
+    "Grade 7": 244.34,
+    "Grade 8": 671.5,
+    "Grade 9": 3803.5,
     "Grade 9.5": 9697.77,
     "PSA 10": 55023.0
    },
@@ -17517,7 +17516,7 @@
      ],
      [
       1790834400,
-      248.4
+      244.34
      ]
     ],
     "Grade 9": [
@@ -17571,7 +17570,7 @@
      ],
      [
       1790834400,
-      3782.0
+      3803.5
      ]
     ],
     "PSA 10": [
@@ -17679,7 +17678,7 @@
      ],
      [
       1790834400,
-      678.25
+      671.5
      ]
     ],
     "Ungraded": [
@@ -17733,19 +17732,19 @@
      ],
      [
       1790834400,
-      104.99
+      121.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 14.9,
+     "1d": 15.7,
      "7d": null,
-     "30d": -13.7,
+     "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 7.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -17754,16 +17753,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -24.9,
-     "now": 91.39,
+     "pct": -13.7,
+     "now": 104.99,
      "base": 121.7,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 12.17
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.0,
-     "now": 51240.0,
+     "pct": 7.4,
+     "now": 55023.0,
      "base": 51240.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5124.0
@@ -17781,12 +17780,12 @@
    "title": "Jerry Rice #161 Prices [Rookie]",
    "set": "1986 Topps",
    "prices": {
-    "Ungraded": 50.5,
-    "Grade 7": 132.44,
-    "Grade 8": 429.09,
-    "Grade 9": 4218.48,
-    "Grade 9.5": 10962.72,
-    "PSA 10": 71458.77
+    "Ungraded": 56.0,
+    "Grade 7": 140.75,
+    "Grade 8": 383.59,
+    "Grade 9": 3512.7,
+    "Grade 9.5": 10762.35,
+    "PSA 10": 71455.51
    },
    "monthly": {
     "Grade 9.5": [
@@ -17840,7 +17839,7 @@
      ],
      [
       1790834400,
-      10962.72
+      10762.35
      ]
     ],
     "Grade 7": [
@@ -17894,7 +17893,7 @@
      ],
      [
       1790834400,
-      132.44
+      140.75
      ]
     ],
     "Grade 9": [
@@ -17948,7 +17947,7 @@
      ],
      [
       1790834400,
-      4218.48
+      3512.7
      ]
     ],
     "PSA 10": [
@@ -18002,7 +18001,7 @@
      ],
      [
       1790834400,
-      71458.77
+      71455.51
      ]
     ],
     "Grade 8": [
@@ -18056,7 +18055,7 @@
      ],
      [
       1790834400,
-      429.09
+      383.59
      ]
     ],
     "Ungraded": [
@@ -18110,19 +18109,19 @@
      ],
      [
       1790834400,
-      50.5
+      56.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 10.9,
      "7d": null,
-     "30d": -20.9,
+     "30d": -12.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.0,
      "7d": null,
      "30d": -0.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18870,13 +18869,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 5.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -18885,16 +18884,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 6.5,
-     "now": 18.91,
+     "pct": 5.9,
+     "now": 18.79,
      "base": 17.75,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.4,
-     "now": 271.65,
+     "pct": -4.1,
+     "now": 272.5,
      "base": 284.01,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 28.4
@@ -19612,12 +19611,12 @@
    "title": "Josh Allen #205 Prices [Rookie]",
    "set": "2018 Panini Prizm",
    "prices": {
-    "Ungraded": 129.01,
+    "Ungraded": 132.17,
     "Grade 7": 64.35,
-    "Grade 8": 122.5,
-    "Grade 9": 188.25,
-    "Grade 9.5": 207.0,
-    "PSA 10": 718.32
+    "Grade 8": 131.07,
+    "Grade 9": 199.68,
+    "Grade 9.5": 220.0,
+    "PSA 10": 750.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -19671,7 +19670,7 @@
      ],
      [
       1790834400,
-      207.0
+      220.0
      ]
     ],
     "Grade 7": [
@@ -19779,7 +19778,7 @@
      ],
      [
       1790834400,
-      188.25
+      199.68
      ]
     ],
     "PSA 10": [
@@ -19833,7 +19832,7 @@
      ],
      [
       1790834400,
-      718.32
+      750.0
      ]
     ],
     "Grade 8": [
@@ -19887,7 +19886,7 @@
      ],
      [
       1790834400,
-      122.5
+      131.07
      ]
     ],
     "Ungraded": [
@@ -19941,21 +19940,21 @@
      ],
      [
       1790834400,
-      129.01
+      132.17
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.4,
      "7d": null,
-     "30d": 14.4,
+     "30d": 17.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 4.4,
      "7d": null,
-     "30d": 25.6,
+     "30d": 31.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -19989,11 +19988,11 @@
    "title": "Lamar Jackson #212 Prices [Rookie]",
    "set": "2018 Panini Prizm",
    "prices": {
-    "Ungraded": 28.47,
+    "Ungraded": 29.99,
     "Grade 7": 26.0,
     "Grade 8": 30.0,
     "Grade 9": 53.07,
-    "Grade 9.5": 72.96,
+    "Grade 9.5": 76.51,
     "PSA 10": 350.0
    },
    "monthly": {
@@ -20048,7 +20047,7 @@
      ],
      [
       1790834400,
-      72.96
+      76.51
      ]
     ],
     "Grade 7": [
@@ -20318,15 +20317,15 @@
      ],
      [
       1790834400,
-      28.47
+      29.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 5.3,
      "7d": null,
-     "30d": -5.3,
+     "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -20701,7 +20700,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -28.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -40.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -20716,8 +20715,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -16.2,
-     "now": 3.68,
+     "pct": -40.1,
+     "now": 2.63,
      "base": 4.39,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -21832,7 +21831,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": 18.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -21847,7 +21846,7 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 2.99,
+     "now": 3.0,
      "base": 2.54
     },
     "PSA 10": {
@@ -21871,12 +21870,12 @@
    "title": "C. J. Stroud #339 Prices [Rookie]",
    "set": "2023 Panini Prizm",
    "prices": {
-    "Ungraded": 1.94,
+    "Ungraded": 1.9,
     "Grade 7": 7.5,
     "Grade 8": 8.0,
-    "Grade 9": 11.1,
-    "Grade 9.5": 12.0,
-    "PSA 10": 28.23
+    "Grade 9": 12.31,
+    "Grade 9.5": 14.0,
+    "PSA 10": 38.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -21930,7 +21929,7 @@
      ],
      [
       1790834400,
-      12.0
+      14.0
      ]
     ],
     "Grade 7": [
@@ -22038,7 +22037,7 @@
      ],
      [
       1790834400,
-      11.1
+      12.31
      ]
     ],
     "PSA 10": [
@@ -22092,7 +22091,7 @@
      ],
      [
       1790834400,
-      28.23
+      38.5
      ]
     ],
     "Grade 8": [
@@ -22200,21 +22199,21 @@
      ],
      [
       1790834400,
-      1.94
+      1.9
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -2.1,
      "7d": null,
-     "30d": -2.5,
+     "30d": -4.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 36.4,
      "7d": null,
-     "30d": -13.1,
+     "30d": 18.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -22230,7 +22229,8 @@
      "now": 28.23,
      "base": 32.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
-     "floor": 5.0
+     "floor": 5.0,
+     "day_jump": "pending confirmation"
     }
    }
   },
@@ -22245,12 +22245,12 @@
    "title": "Jayden Daniels #347 Prices [Rookie]",
    "set": "2024 Panini Prizm",
    "prices": {
-    "Ungraded": 1.59,
+    "Ungraded": 1.87,
     "Grade 7": 10.0,
     "Grade 8": 10.0,
     "Grade 9": 16.49,
     "Grade 9.5": 18.0,
-    "PSA 10": 50.5
+    "PSA 10": 50.56
    },
    "monthly": {
     "Grade 9.5": [
@@ -22466,7 +22466,7 @@
      ],
      [
       1790834400,
-      50.5
+      50.56
      ]
     ],
     "Grade 8": [
@@ -22574,21 +22574,21 @@
      ],
      [
       1790834400,
-      1.59
+      1.87
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 17.6,
      "7d": null,
-     "30d": -49.0,
+     "30d": -40.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 0.1,
      "7d": null,
-     "30d": -11.4,
+     "30d": -11.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -22622,12 +22622,12 @@
    "title": "Caleb Williams #301 Prices [Rookie]",
    "set": "2024 Panini Prizm",
    "prices": {
-    "Ungraded": 4.62,
+    "Ungraded": 5.26,
     "Grade 7": 12.98,
-    "Grade 8": 16.1,
-    "Grade 9": 31.0,
-    "Grade 9.5": 31.39,
-    "PSA 10": 301.36
+    "Grade 8": 18.67,
+    "Grade 9": 33.47,
+    "Grade 9.5": 37.0,
+    "PSA 10": 296.14
    },
    "monthly": {
     "Grade 9.5": [
@@ -22681,7 +22681,7 @@
      ],
      [
       1790834400,
-      31.39
+      37.0
      ]
     ],
     "Grade 7": [
@@ -22789,7 +22789,7 @@
      ],
      [
       1790834400,
-      31.0
+      33.47
      ]
     ],
     "PSA 10": [
@@ -22843,7 +22843,7 @@
      ],
      [
       1790834400,
-      301.36
+      296.14
      ]
     ],
     "Grade 8": [
@@ -22897,7 +22897,7 @@
      ],
      [
       1790834400,
-      16.1
+      18.67
      ]
     ],
     "Ungraded": [
@@ -22951,21 +22951,21 @@
      ],
      [
       1790834400,
-      4.62
+      5.26
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 13.9,
      "7d": null,
-     "30d": -23.0,
+     "30d": -12.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -1.7,
      "7d": null,
-     "30d": 8.7,
+     "30d": 6.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -23335,13 +23335,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -23350,16 +23350,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -4.3,
-     "now": 2315.6,
+     "pct": -4.7,
+     "now": 2305.42,
      "base": 2418.82,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 241.88
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.5,
-     "now": 584986.94,
+     "pct": -8.2,
+     "now": 580935.07,
      "base": 632563.18,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 63256.32
@@ -24469,13 +24469,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -1.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -24.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -16.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -24484,16 +24484,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -23.2,
-     "now": 2250.0,
+     "pct": -24.3,
+     "now": 2216.73,
      "base": 2929.33,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 292.93
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.7,
-     "now": 615362.82,
+     "pct": -22.7,
+     "now": 515455.07,
      "base": 666748.52,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 66674.85
@@ -24846,7 +24846,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -24861,8 +24861,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -1.2,
-     "now": 11.0,
+     "pct": -1.3,
+     "now": 10.99,
      "base": 11.13,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -25223,7 +25223,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 2.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25238,8 +25238,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -0.9,
-     "now": 96.0,
+     "pct": 1.1,
+     "now": 98.0,
      "base": 96.89,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.69
@@ -25600,7 +25600,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 4.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25615,8 +25615,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.9,
-     "now": 136.18,
+     "pct": 4.6,
+     "now": 136.99,
      "base": 131.01,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 13.1
@@ -25977,13 +25977,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -25992,8 +25992,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 7.6,
-     "now": 295.79,
+     "pct": 7.7,
+     "now": 296.1,
      "base": 275.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 27.5
@@ -26001,7 +26001,7 @@
     "PSA 10": {
      "flag": "normal",
      "pct": -4.0,
-     "now": 935.27,
+     "now": 935.0,
      "base": 973.77,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 97.38
@@ -26354,13 +26354,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 3.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -26369,16 +26369,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -0.5,
-     "now": 26.13,
+     "pct": -4.8,
+     "now": 25.0,
      "base": 26.25,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -9.8,
-     "now": 209.75,
+     "pct": -6.6,
+     "now": 217.13,
      "base": 232.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 23.25
@@ -26731,13 +26731,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -1.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 1.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -26746,16 +26746,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.9,
-     "now": 116.25,
+     "pct": -0.2,
+     "now": 115.0,
      "base": 115.24,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 11.52
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -11.6,
-     "now": 482.5,
+     "pct": -10.3,
+     "now": 490.0,
      "base": 546.11,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 54.61
@@ -27108,13 +27108,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -8.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -27123,16 +27123,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 6.9,
-     "now": 249.7,
+     "pct": 2.3,
+     "now": 238.76,
      "base": 233.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 23.35
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.3,
-     "now": 909.12,
+     "pct": -13.7,
+     "now": 836.76,
      "base": 970.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 97.0
@@ -27485,13 +27485,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 1.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -33.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 1.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 7.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -27500,16 +27500,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -34.5,
-     "now": 4.63,
+     "pct": -33.7,
+     "now": 4.69,
      "base": 7.07,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 5.9,
-     "now": 39.72,
+     "pct": 7.6,
+     "now": 40.35,
      "base": 37.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -27862,7 +27862,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 28.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -32.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -27877,7 +27877,7 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 0.99,
+     "now": 1.27,
      "base": 1.89
     },
     "PSA 10": {
@@ -27901,9 +27901,9 @@
    "title": "Julio Rodriguez #US44 Prices [Rookie]",
    "set": "2022 Topps Update",
    "prices": {
-    "Ungraded": 1.5,
+    "Ungraded": 1.25,
     "Grade 7": 3.78,
-    "Grade 8": 5.55,
+    "Grade 8": 6.63,
     "Grade 9": 11.99,
     "Grade 9.5": 13.0,
     "PSA 10": 22.33
@@ -28176,7 +28176,7 @@
      ],
      [
       1790834400,
-      5.55
+      6.63
      ]
     ],
     "Ungraded": [
@@ -28230,15 +28230,15 @@
      ],
      [
       1790834400,
-      1.5
+      1.25
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -16.7,
      "7d": null,
-     "30d": -2.0,
+     "30d": -18.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -28610,13 +28610,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -3.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -28625,16 +28625,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -8.0,
-     "now": 2.99,
+     "pct": -7.7,
+     "now": 3.0,
      "base": 3.25,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 3.7,
-     "now": 93.37,
+     "pct": 0.0,
+     "now": 90.0,
      "base": 90.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.0
@@ -28987,7 +28987,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 10.3,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -29002,8 +29002,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.5,
-     "now": 420.58,
+     "pct": 3.1,
+     "now": 463.9,
      "base": 450.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 45.0
@@ -29406,12 +29406,12 @@
    "title": "Team Rocket's Mewtwo ex #231 Prices",
    "set": "Pokemon Destined Rivals",
    "prices": {
-    "Ungraded": 385.05,
-    "Grade 7": 314.0,
-    "Grade 8": 392.78,
-    "Grade 9": 432.0,
+    "Ungraded": 372.49,
+    "Grade 7": 315.0,
+    "Grade 8": 393.34,
+    "Grade 9": 433.0,
     "Grade 9.5": 593.32,
-    "PSA 10": 895.0
+    "PSA 10": 877.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -29519,7 +29519,7 @@
      ],
      [
       1790834400,
-      314.0
+      315.0
      ]
     ],
     "Grade 9": [
@@ -29573,7 +29573,7 @@
      ],
      [
       1790834400,
-      432.0
+      433.0
      ]
     ],
     "PSA 10": [
@@ -29627,7 +29627,7 @@
      ],
      [
       1790834400,
-      895.0
+      877.5
      ]
     ],
     "Grade 8": [
@@ -29681,7 +29681,7 @@
      ],
      [
       1790834400,
-      392.78
+      393.34
      ]
     ],
     "Ungraded": [
@@ -29735,21 +29735,21 @@
      ],
      [
       1790834400,
-      385.05
+      372.49
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -3.3,
      "7d": null,
-     "30d": -5.9,
+     "30d": -9.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -2.0,
      "7d": null,
-     "30d": -2.4,
+     "30d": -4.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -30082,13 +30082,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 4.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -6.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -4.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -30097,16 +30097,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.9,
-     "now": 650.0,
+     "pct": -6.8,
+     "now": 679.79,
      "base": 729.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 72.95
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.7,
-     "now": 1466.44,
+     "pct": -11.7,
+     "now": 1401.5,
      "base": 1587.98,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 158.8
@@ -30124,10 +30124,10 @@
    "title": "Mega Charizard X ex #130 Prices",
    "set": "Pokemon Phantasmal Flames",
    "prices": {
-    "Ungraded": 227.48,
+    "Ungraded": 215.11,
     "Grade 7": 157.0,
     "Grade 8": 196.75,
-    "Grade 9": 263.66,
+    "Grade 9": 253.0,
     "Grade 9.5": 704.84,
     "PSA 10": 2081.25
    },
@@ -30271,7 +30271,7 @@
      ],
      [
       1790834400,
-      263.66
+      253.0
      ]
     ],
     "PSA 10": [
@@ -30417,19 +30417,19 @@
      ],
      [
       1790834400,
-      227.48
+      215.11
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 1.2,
+     "1d": -5.4,
      "7d": null,
-     "30d": 1.6,
+     "30d": -3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 7.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -14.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -30446,8 +30446,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -20.3,
-     "now": 1932.5,
+     "pct": -14.1,
+     "now": 2081.25,
      "base": 2424.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 242.4
@@ -30812,7 +30812,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 2.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -30827,8 +30827,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -4.1,
-     "now": 11.99,
+     "pct": -2.0,
+     "now": 12.25,
      "base": 12.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -31225,7 +31225,7 @@
     "PSA 10": {
      "flag": "normal",
      "pct": 3.0,
-     "now": 205.95,
+     "now": 205.99,
      "base": 200.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 20.0
@@ -31244,7 +31244,7 @@
    "title": "Dark Magician GFTP-EN128 Prices",
    "set": "YuGiOh Ghosts From the Past",
    "prices": {
-    "Ungraded": 547.5,
+    "Ungraded": 547.51,
     "Grade 7": 400.0,
     "Grade 8": 579.14,
     "Grade 9": 775.0,
@@ -31573,7 +31573,7 @@
      ],
      [
       1790834400,
-      547.5
+      547.51
      ]
     ]
    },
@@ -31970,8 +31970,8 @@
     "set_code": "TDGS-EN040",
     "set_price": 31.54,
     "all_printings_low": {
-     "cardmarket": 0.48,
-     "tcgplayer": 0.64,
+     "cardmarket": 0.51,
+     "tcgplayer": 0.63,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -31979,13 +31979,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.0,
+     "1d": 0.0,
      "7d": null,
      "30d": 3.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -31995,15 +31995,15 @@
     "Ungraded": {
      "flag": "normal",
      "pct": 3.6,
-     "now": 398.64,
+     "now": 398.46,
      "base": 384.75,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 38.48
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.4,
-     "now": 11667.32,
+     "pct": 0.5,
+     "now": 11673.81,
      "base": 11615.7,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 1161.57
@@ -32024,9 +32024,9 @@
    "prices": {
     "Ungraded": 165.0,
     "Grade 7": 133.26,
-    "Grade 8": 173.65,
-    "Grade 9": 304.98,
-    "Grade 9.5": 335.0
+    "Grade 8": 173.63,
+    "Grade 9": 302.19,
+    "Grade 9.5": 332.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -32080,7 +32080,7 @@
      ],
      [
       1790834400,
-      335.0
+      332.0
      ]
     ],
     "Grade 7": [
@@ -32188,7 +32188,7 @@
      ],
      [
       1790834400,
-      304.98
+      302.19
      ]
     ],
     "PSA 10": [],
@@ -32243,7 +32243,7 @@
      ],
      [
       1790834400,
-      173.65
+      173.63
      ]
     ],
     "Ungraded": [
@@ -32305,7 +32305,7 @@
     "set_code": "LED7-EN000",
     "set_price": 37.57,
     "all_printings_low": {
-     "cardmarket": 0.77,
+     "cardmarket": 0.86,
      "tcgplayer": 1.19,
      "ebay": 1.33,
      "amazon": 3.59,
@@ -32690,7 +32690,7 @@
     "set_price": 98.04,
     "all_printings_low": {
      "cardmarket": 0.48,
-     "tcgplayer": 0.45,
+     "tcgplayer": 0.46,
      "ebay": 11.95,
      "amazon": 28.99,
      "coolstuffinc": 4.99
@@ -33079,7 +33079,7 @@
     "set_price": 478.09,
     "all_printings_low": {
      "cardmarket": 0.1,
-     "tcgplayer": 0.53,
+     "tcgplayer": 0.54,
      "ebay": 2.9,
      "amazon": 5.9,
      "coolstuffinc": 1.49
@@ -33467,8 +33467,8 @@
     "set_code": "DAMA-EN100",
     "set_price": 635.43,
     "all_printings_low": {
-     "cardmarket": 0.48,
-     "tcgplayer": 0.64,
+     "cardmarket": 0.51,
+     "tcgplayer": 0.63,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -33476,13 +33476,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 3.5,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -33491,16 +33491,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -2.3,
-     "now": 190.0,
+     "pct": 1.1,
+     "now": 196.73,
      "base": 194.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 19.45
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -12.2,
-     "now": 646.21,
+     "pct": -13.8,
+     "now": 634.0,
      "base": 735.73,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 73.57
@@ -33865,13 +33865,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.7,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -6.0,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -33880,16 +33880,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 10.0,
-     "now": 5.51,
+     "pct": 10.8,
+     "now": 5.55,
      "base": 5.01,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 14.9,
-     "now": 130.23,
+     "pct": 8.0,
+     "now": 122.42,
      "base": 113.34,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 11.33
@@ -34245,7 +34245,7 @@
     "set_code": "MP25-EN102",
     "set_price": null,
     "all_printings_low": {
-     "cardmarket": 5.24,
+     "cardmarket": 5.18,
      "tcgplayer": 8.56
     }
    },
@@ -34257,7 +34257,7 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -34274,8 +34274,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.4,
-     "now": 132.69,
+     "pct": -0.5,
+     "now": 132.6,
      "base": 133.22,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 13.32
@@ -34293,12 +34293,12 @@
    "title": "Patrick Mahomes II #177 Prices [Rookie]",
    "set": "2017 Panini Donruss Optic",
    "prices": {
-    "Ungraded": 433.35,
-    "Grade 7": 400.0,
-    "Grade 8": 405.0,
-    "Grade 9": 591.0,
+    "Ungraded": 426.5,
+    "Grade 7": 392.58,
+    "Grade 8": 400.0,
+    "Grade 9": 586.5,
     "Grade 9.5": 790.0,
-    "PSA 10": 1600.0
+    "PSA 10": 1597.48
    },
    "monthly": {
     "Grade 9.5": [
@@ -34406,7 +34406,7 @@
      ],
      [
       1790834400,
-      400.0
+      392.58
      ]
     ],
     "Grade 9": [
@@ -34460,7 +34460,7 @@
      ],
      [
       1790834400,
-      591.0
+      586.5
      ]
     ],
     "PSA 10": [
@@ -34514,7 +34514,7 @@
      ],
      [
       1790834400,
-      1600.0
+      1597.48
      ]
     ],
     "Grade 8": [
@@ -34568,7 +34568,7 @@
      ],
      [
       1790834400,
-      405.0
+      400.0
      ]
     ],
     "Ungraded": [
@@ -34622,21 +34622,21 @@
      ],
      [
       1790834400,
-      433.35
+      426.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.6,
      "7d": null,
-     "30d": 3.5,
+     "30d": 1.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.2,
      "7d": null,
-     "30d": -3.7,
+     "30d": -3.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -34670,11 +34670,11 @@
    "title": "Tom Brady #236 Prices [Rookie]",
    "set": "2000 Bowman Chrome",
    "prices": {
-    "Ungraded": 3955.72,
+    "Ungraded": 3868.22,
     "Grade 7": 5000.0,
-    "Grade 8": 5900.0,
-    "Grade 9": 8708.5,
-    "Grade 9.5": 10539.95,
+    "Grade 8": 5925.0,
+    "Grade 9": 8500.0,
+    "Grade 9.5": 9800.83,
     "PSA 10": 22303.29
    },
    "monthly": {
@@ -34729,7 +34729,7 @@
      ],
      [
       1790834400,
-      10539.95
+      9800.83
      ]
     ],
     "Grade 7": [
@@ -34837,7 +34837,7 @@
      ],
      [
       1790834400,
-      8708.5
+      8500.0
      ]
     ],
     "PSA 10": [
@@ -34945,7 +34945,7 @@
      ],
      [
       1790834400,
-      5900.0
+      5925.0
      ]
     ],
     "Ungraded": [
@@ -34999,15 +34999,15 @@
      ],
      [
       1790834400,
-      3955.72
+      3868.22
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -2.2,
      "7d": null,
-     "30d": -16.3,
+     "30d": -18.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -35047,12 +35047,12 @@
    "title": "Jalen Hurts #343 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 4.41,
-    "Grade 7": 5.08,
-    "Grade 8": 16.61,
-    "Grade 9": 19.99,
-    "Grade 9.5": 21.47,
-    "PSA 10": 54.15
+    "Ungraded": 4.0,
+    "Grade 7": 5.07,
+    "Grade 8": 14.86,
+    "Grade 9": 17.99,
+    "Grade 9.5": 21.48,
+    "PSA 10": 52.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -35106,7 +35106,7 @@
      ],
      [
       1790834400,
-      21.47
+      21.48
      ]
     ],
     "Grade 7": [
@@ -35160,7 +35160,7 @@
      ],
      [
       1790834400,
-      5.08
+      5.07
      ]
     ],
     "Grade 9": [
@@ -35214,7 +35214,7 @@
      ],
      [
       1790834400,
-      19.99
+      17.99
      ]
     ],
     "PSA 10": [
@@ -35268,7 +35268,7 @@
      ],
      [
       1790834400,
-      54.15
+      52.5
      ]
     ],
     "Grade 8": [
@@ -35322,7 +35322,7 @@
      ],
      [
       1790834400,
-      16.61
+      14.86
      ]
     ],
     "Ungraded": [
@@ -35376,21 +35376,21 @@
      ],
      [
       1790834400,
-      4.41
+      4.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -9.3,
      "7d": null,
-     "30d": -12.0,
+     "30d": -20.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -3.0,
      "7d": null,
-     "30d": -5.8,
+     "30d": -8.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -35424,11 +35424,11 @@
    "title": "Cam Ward #352 Prices [Rookie]",
    "set": "2025 Panini Prizm",
    "prices": {
-    "Ungraded": 1.21,
+    "Ungraded": 1.17,
     "Grade 7": 8.55,
     "Grade 8": 11.5,
-    "Grade 9": 19.31,
-    "Grade 9.5": 41.11,
+    "Grade 9": 20.29,
+    "Grade 9.5": 41.15,
     "PSA 10": 75.0
    },
    "monthly": {
@@ -35471,7 +35471,7 @@
      ],
      [
       1790834400,
-      41.11
+      41.15
      ]
     ],
     "Grade 7": [
@@ -35535,7 +35535,7 @@
      ],
      [
       1790834400,
-      19.31
+      20.29
      ]
     ],
     "PSA 10": [
@@ -35661,15 +35661,15 @@
      ],
      [
       1790834400,
-      1.21
+      1.17
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -3.3,
      "7d": null,
-     "30d": -22.9,
+     "30d": -25.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -36084,7 +36084,7 @@
    "set": "2009 Topps Chrome",
    "prices": {
     "Ungraded": 10356.0,
-    "Grade 7": 6773.42,
+    "Grade 7": 6768.24,
     "Grade 8": 12250.0,
     "Grade 9": 16100.74,
     "Grade 9.5": 17711.0,
@@ -36196,7 +36196,7 @@
      ],
      [
       1790834400,
-      6773.42
+      6768.24
      ]
     ],
     "Grade 9": [
@@ -36460,10 +36460,10 @@
    "title": "Nikola Jokic #335 Prices [Rookie]",
    "set": "2015 Panini Prizm",
    "prices": {
-    "Ungraded": 197.35,
+    "Ungraded": 190.0,
     "Grade 7": 107.61,
     "Grade 8": 226.18,
-    "Grade 9": 332.5,
+    "Grade 9": 344.92,
     "Grade 9.5": 500.0,
     "PSA 10": 985.28
    },
@@ -36627,7 +36627,7 @@
      ],
      [
       1790834400,
-      332.5
+      344.92
      ]
     ],
     "PSA 10": [
@@ -36789,15 +36789,15 @@
      ],
      [
       1790834400,
-      197.35
+      190.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -3.7,
      "7d": null,
-     "30d": 3.9,
+     "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
@@ -37172,13 +37172,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 4.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 1.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -37187,13 +37187,13 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 2.37,
+     "now": 2.47,
      "base": 2.8
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.9,
-     "now": 55.5,
+     "pct": 2.3,
+     "now": 56.26,
      "base": 55.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.5
@@ -37211,12 +37211,12 @@
    "title": "Cooper Flagg #251 Prices [Rookie]",
    "set": "2025 Topps Chrome",
    "prices": {
-    "Ungraded": 22.1,
-    "Grade 7": 20.27,
-    "Grade 8": 24.99,
-    "Grade 9": 51.48,
-    "Grade 9.5": 58.47,
-    "PSA 10": 296.5
+    "Ungraded": 21.64,
+    "Grade 7": 20.26,
+    "Grade 8": 24.77,
+    "Grade 9": 49.0,
+    "Grade 9.5": 56.98,
+    "PSA 10": 287.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -37262,7 +37262,7 @@
      ],
      [
       1790834400,
-      58.47
+      56.98
      ]
     ],
     "Grade 7": [
@@ -37300,7 +37300,7 @@
      ],
      [
       1790834400,
-      20.27
+      20.26
      ]
     ],
     "Grade 9": [
@@ -37346,7 +37346,7 @@
      ],
      [
       1790834400,
-      51.48
+      49.0
      ]
     ],
     "PSA 10": [
@@ -37392,7 +37392,7 @@
      ],
      [
       1790834400,
-      296.5
+      287.5
      ]
     ],
     "Grade 8": [
@@ -37438,7 +37438,7 @@
      ],
      [
       1790834400,
-      24.99
+      24.77
      ]
     ],
     "Ungraded": [
@@ -37484,21 +37484,21 @@
      ],
      [
       1790834400,
-      22.1
+      21.64
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -2.1,
      "7d": null,
-     "30d": 18.6,
+     "30d": 16.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -3.0,
      "7d": null,
-     "30d": -2.1,
+     "30d": -5.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -38973,13 +38973,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -10.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 3.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -38988,16 +38988,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.1,
-     "now": 7.31,
+     "pct": -10.8,
+     "now": 6.51,
      "base": 7.3,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.5,
-     "now": 38.21,
+     "pct": -1.2,
+     "now": 39.5,
      "base": 40.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -39017,10 +39017,10 @@
    "prices": {
     "Ungraded": 33.0,
     "Grade 7": 51.69,
-    "Grade 8": 55.0,
-    "Grade 9": 96.0,
+    "Grade 8": 58.11,
+    "Grade 9": 97.0,
     "Grade 9.5": 106.98,
-    "PSA 10": 275.55
+    "PSA 10": 261.27
    },
    "monthly": {
     "Grade 9.5": [
@@ -39182,7 +39182,7 @@
      ],
      [
       1790834400,
-      96.0
+      97.0
      ]
     ],
     "PSA 10": [
@@ -39236,7 +39236,7 @@
      ],
      [
       1790834400,
-      275.55
+      261.27
      ]
     ],
     "Grade 8": [
@@ -39290,7 +39290,7 @@
      ],
      [
       1790834400,
-      55.0
+      58.11
      ]
     ],
     "Ungraded": [
@@ -39356,9 +39356,9 @@
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -5.2,
      "7d": null,
-     "30d": -6.8,
+     "30d": -11.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -39727,13 +39727,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -5.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.4,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -39742,16 +39742,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.6,
-     "now": 3.4,
+     "pct": -11.3,
+     "now": 3.23,
      "base": 3.64,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.2,
-     "now": 40.05,
+     "pct": -0.2,
+     "now": 39.9,
      "base": 39.99,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -40104,13 +40104,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -5.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 8.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -40119,16 +40119,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.5,
-     "now": 5.73,
+     "pct": -15.8,
+     "now": 5.39,
      "base": 6.4,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 8.6,
-     "now": 95.0,
+     "pct": 8.5,
+     "now": 94.93,
      "base": 87.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 8.75
@@ -41372,13 +41372,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -6.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -10.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 2.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -11.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -41387,16 +41387,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.8,
-     "now": 98.33500000000001,
+     "pct": -10.0,
+     "now": 94.92,
      "base": 105.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 10.55
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -12.4,
-     "now": 395.70500000000004,
+     "pct": -11.5,
+     "now": 399.94,
      "base": 451.74,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 45.17
@@ -41749,13 +41749,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -3.4,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -3.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -41764,16 +41764,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.1,
-     "now": 92.38,
+     "pct": 0.3,
+     "now": 90.77,
      "base": 90.49,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.05
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.7,
-     "now": 392.71500000000003,
+     "pct": -8.4,
+     "now": 385.43,
      "base": 420.83,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 42.08
@@ -41791,12 +41791,12 @@
    "title": "Ivysaur #167 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 39.29,
+    "Ungraded": 35.51,
     "Grade 7": 37.1,
-    "Grade 8": 39.0,
-    "Grade 9": 54.47,
-    "Grade 9.5": 60.0,
-    "PSA 10": 260.0
+    "Grade 8": 39.56,
+    "Grade 9": 55.2,
+    "Grade 9.5": 61.0,
+    "PSA 10": 242.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -41850,7 +41850,7 @@
      ],
      [
       1790834400,
-      60.0
+      61.0
      ]
     ],
     "Grade 7": [
@@ -41958,7 +41958,7 @@
      ],
      [
       1790834400,
-      54.47
+      55.2
      ]
     ],
     "PSA 10": [
@@ -42012,7 +42012,7 @@
      ],
      [
       1790834400,
-      260.0
+      242.5
      ]
     ],
     "Grade 8": [
@@ -42066,7 +42066,7 @@
      ],
      [
       1790834400,
-      39.0
+      39.56
      ]
     ],
     "Ungraded": [
@@ -42120,21 +42120,21 @@
      ],
      [
       1790834400,
-      39.29
+      35.51
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -9.6,
      "7d": null,
-     "30d": -8.3,
+     "30d": -17.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -6.7,
      "7d": null,
-     "30d": -12.0,
+     "30d": -17.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -42503,13 +42503,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -3.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -2.2,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -42518,16 +42518,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -2.2,
-     "now": 54.769999999999996,
+     "pct": -3.6,
+     "now": 54.0,
      "base": 56.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.6
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -14.2,
-     "now": 409.5,
+     "pct": -15.2,
+     "now": 405.0,
      "base": 477.5,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 47.75
@@ -42880,13 +42880,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.6,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": -1.8,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -42895,16 +42895,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -4.3,
-     "now": 86.14500000000001,
+     "pct": -5.6,
+     "now": 85.0,
      "base": 90.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 9.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.2,
-     "now": 572.375,
+     "pct": -7.0,
+     "now": 567.25,
      "base": 610.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 61.0
@@ -42922,12 +42922,12 @@
    "title": "Zapdos ex #192 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 10.82,
+    "Ungraded": 11.24,
     "Grade 7": 11.53,
-    "Grade 8": 21.5,
-    "Grade 9": 28.16,
+    "Grade 8": 20.75,
+    "Grade 9": 28.49,
     "Grade 9.5": 31.0,
-    "PSA 10": 82.0
+    "PSA 10": 91.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -43089,7 +43089,7 @@
      ],
      [
       1790834400,
-      28.16
+      28.49
      ]
     ],
     "PSA 10": [
@@ -43143,7 +43143,7 @@
      ],
      [
       1790834400,
-      82.0
+      91.0
      ]
     ],
     "Grade 8": [
@@ -43197,7 +43197,7 @@
      ],
      [
       1790834400,
-      21.5
+      20.75
      ]
     ],
     "Ungraded": [
@@ -43251,21 +43251,21 @@
      ],
      [
       1790834400,
-      10.82
+      11.24
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 3.9,
      "7d": null,
-     "30d": 6.2,
+     "30d": 10.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 11.0,
      "7d": null,
-     "30d": -9.9,
+     "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -43634,13 +43634,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -3.0,
+     "1d": 0.0,
      "7d": null,
      "30d": -4.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 5.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -43649,16 +43649,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -2.6,
-     "now": 25.845,
+     "pct": -4.1,
+     "now": 25.45,
      "base": 26.53,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -18.0,
-     "now": 218.245,
+     "pct": -15.6,
+     "now": 224.5,
      "base": 266.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 26.6
@@ -43676,12 +43676,12 @@
    "title": "Caterpie #172 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 17.3,
+    "Ungraded": 17.65,
     "Grade 7": 16.5,
     "Grade 8": 18.0,
     "Grade 9": 28.5,
     "Grade 9.5": 31.0,
-    "PSA 10": 170.0
+    "PSA 10": 168.43
    },
    "monthly": {
     "Grade 9.5": [
@@ -43897,7 +43897,7 @@
      ],
      [
       1790834400,
-      170.0
+      168.43
      ]
     ],
     "Grade 8": [
@@ -44005,21 +44005,21 @@
      ],
      [
       1790834400,
-      17.3
+      17.65
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": 2.0,
      "7d": null,
-     "30d": -3.5,
+     "30d": -1.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -0.9,
      "7d": null,
-     "30d": -5.6,
+     "30d": -6.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -44053,12 +44053,12 @@
    "title": "Dragonair #181 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 45.23,
+    "Ungraded": 42.01,
     "Grade 7": 31.5,
-    "Grade 8": 33.35,
+    "Grade 8": 34.62,
     "Grade 9": 49.97,
     "Grade 9.5": 72.5,
-    "PSA 10": 230.0
+    "PSA 10": 218.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -44274,7 +44274,7 @@
      ],
      [
       1790834400,
-      230.0
+      218.5
      ]
     ],
     "Grade 8": [
@@ -44328,7 +44328,7 @@
      ],
      [
       1790834400,
-      33.35
+      34.62
      ]
     ],
     "Ungraded": [
@@ -44382,21 +44382,21 @@
      ],
      [
       1790834400,
-      45.23
+      42.01
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -7.1,
      "7d": null,
-     "30d": 1.8,
+     "30d": -5.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -5.0,
      "7d": null,
-     "30d": -6.1,
+     "30d": -10.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -44430,12 +44430,12 @@
    "title": "Team Rocket's Meowth #203 Prices",
    "set": "Pokemon Destined Rivals",
    "prices": {
-    "Ungraded": 21.13,
-    "Grade 7": 20.26,
+    "Ungraded": 20.74,
+    "Grade 7": 20.33,
     "Grade 8": 26.46,
-    "Grade 9": 33.15,
+    "Grade 9": 32.17,
     "Grade 9.5": 47.0,
-    "PSA 10": 182.5
+    "PSA 10": 175.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -44543,7 +44543,7 @@
      ],
      [
       1790834400,
-      20.26
+      20.33
      ]
     ],
     "Grade 9": [
@@ -44597,7 +44597,7 @@
      ],
      [
       1790834400,
-      33.15
+      32.17
      ]
     ],
     "PSA 10": [
@@ -44651,7 +44651,7 @@
      ],
      [
       1790834400,
-      182.5
+      175.0
      ]
     ],
     "Grade 8": [
@@ -44759,21 +44759,21 @@
      ],
      [
       1790834400,
-      21.13
+      20.74
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -1.8,
      "7d": null,
-     "30d": -14.1,
+     "30d": -15.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": -4.1,
      "7d": null,
-     "30d": -18.9,
+     "30d": -22.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -44807,12 +44807,12 @@
    "title": "Team Rocket's Houndoom #191 Prices",
    "set": "Pokemon Destined Rivals",
    "prices": {
-    "Ungraded": 11.6,
+    "Ungraded": 11.55,
     "Grade 7": 12.0,
     "Grade 8": 14.75,
-    "Grade 9": 25.23,
+    "Grade 9": 24.99,
     "Grade 9.5": 28.33,
-    "PSA 10": 135.9
+    "PSA 10": 139.25
    },
    "monthly": {
     "Grade 9.5": [
@@ -44974,7 +44974,7 @@
      ],
      [
       1790834400,
-      25.23
+      24.99
      ]
     ],
     "PSA 10": [
@@ -45028,7 +45028,7 @@
      ],
      [
       1790834400,
-      135.9
+      139.25
      ]
     ],
     "Grade 8": [
@@ -45136,21 +45136,21 @@
      ],
      [
       1790834400,
-      11.6
+      11.55
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
+     "1d": -0.4,
      "7d": null,
-     "30d": -7.0,
+     "30d": -7.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 0.0,
+     "1d": 2.5,
      "7d": null,
-     "30d": -1.2,
+     "30d": 1.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
@@ -45518,7 +45518,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -8.9,
+     "1d": 0.0,
      "7d": null,
      "30d": -25.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -45533,8 +45533,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -21.8,
-     "now": 2.885,
+     "pct": -25.5,
+     "now": 2.75,
      "base": 3.69,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -45894,7 +45894,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -15.7,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -45909,8 +45909,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 1.6,
-     "now": 3.465,
+     "pct": -7.0,
+     "now": 3.17,
      "base": 3.41,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -46669,13 +46669,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": 5.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 1.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46684,16 +46684,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.1,
-     "now": 8.995000000000001,
+     "pct": 0.0,
+     "now": 8.99,
      "base": 8.99,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -1.1,
-     "now": 1087.845,
+     "pct": 1.6,
+     "now": 1117.52,
      "base": 1099.62,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 109.96
@@ -46776,7 +46776,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.1,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -46791,8 +46791,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -0.3,
-     "now": 597.065,
+     "pct": -0.4,
+     "now": 596.88,
      "base": 599.13,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 59.91
@@ -47094,7 +47094,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.3,
+     "1d": 0.0,
      "7d": null,
      "30d": 13.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -47109,8 +47109,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 13.0,
-     "now": 41.635,
+     "pct": 13.1,
+     "now": 41.69,
      "base": 36.85,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -47139,8 +47139,8 @@
     "Ungraded": 42.0,
     "Grade 7": 10.58,
     "Grade 8": 26.74,
-    "Grade 9": 85.03,
-    "Grade 9.5": 125.1,
+    "Grade 9": 90.06,
+    "Grade 9.5": 123.68,
     "PSA 10": 260.0
    },
    "monthly": {
@@ -47195,7 +47195,7 @@
      ],
      [
       1790834400,
-      125.1
+      123.68
      ]
     ],
     "Grade 7": [
@@ -47303,7 +47303,7 @@
      ],
      [
       1790834400,
-      85.03
+      90.06
      ]
     ],
     "PSA 10": [
@@ -47848,7 +47848,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 5.6,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -47863,8 +47863,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 7.9,
-     "now": 16.189999999999998,
+     "pct": 10.9,
+     "now": 16.63,
      "base": 15.0,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -48225,7 +48225,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -3.5,
+     "1d": 0.0,
      "7d": null,
      "30d": -7.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -48240,8 +48240,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -5.6,
-     "now": 42.25,
+     "pct": -7.3,
+     "now": 41.5,
      "base": 44.77,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
@@ -48601,13 +48601,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -5.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -48977,13 +48977,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -19.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -51.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -49353,13 +49353,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 10.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 88.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -49729,13 +49729,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -33.9,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -20.1,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -50105,13 +50105,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -13.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -50481,13 +50481,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -2.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -50857,13 +50857,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -15.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -51233,13 +51233,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -22.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -51609,13 +51609,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 14.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 20.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -51985,13 +51985,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -52361,13 +52361,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -8.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 24.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -52404,9 +52404,9 @@
    "prices": {
     "Ungraded": 212.13,
     "Grade 7": 260.0,
-    "Grade 8": 525.0,
+    "Grade 8": 500.0,
     "Grade 9": 754.0,
-    "Grade 9.5": 784.75,
+    "Grade 9.5": 762.89,
     "PSA 10": 6099.07
    },
    "monthly": {
@@ -52461,7 +52461,7 @@
      ],
      [
       1790834400,
-      784.75
+      762.89
      ]
     ],
     "Grade 7": [
@@ -52677,7 +52677,7 @@
      ],
      [
       1790834400,
-      525.0
+      500.0
      ]
     ],
     "Ungraded": [
@@ -52737,13 +52737,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 28.6,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -53113,13 +53113,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -21.5,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.3,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -53457,13 +53457,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 2.7,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -53498,12 +53498,12 @@
    "title": "Ash Blossom & Joyous Spring [1st Edition] MACR-EN036 Prices",
    "set": "YuGiOh Maximum Crisis",
    "prices": {
-    "Ungraded": 21.99,
+    "Ungraded": 19.99,
     "Grade 7": 32.55,
     "Grade 8": 54.04,
-    "Grade 9": 57.07,
+    "Grade 9": 57.02,
     "Grade 9.5": 63.0,
-    "PSA 10": 789.04
+    "PSA 10": 781.01
    },
    "monthly": {
     "Grade 9.5": [
@@ -53665,7 +53665,7 @@
      ],
      [
       1790834400,
-      57.07
+      57.02
      ]
     ],
     "PSA 10": [
@@ -53719,7 +53719,7 @@
      ],
      [
       1790834400,
-      789.04
+      781.01
      ]
     ],
     "Grade 8": [
@@ -53827,37 +53827,37 @@
      ],
      [
       1790834400,
-      21.99
+      19.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": -9.1,
      "7d": null,
-     "30d": 10.8,
+     "30d": 0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": -1.0,
      "7d": null,
-     "30d": -7.5,
+     "30d": -8.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 10.8,
-     "now": 21.99,
+     "pct": 5.8,
+     "now": 20.99,
      "base": 19.84,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.5,
-     "now": 789.04,
+     "pct": -8.0,
+     "now": 785.025,
      "base": 853.03,
      "basis": "PriceCharting prior-month guide value (cold start)",
      "floor": 85.3
@@ -54209,13 +54209,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -1.2,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -54585,13 +54585,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.8,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
@@ -54961,13 +54961,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": -0.0,
      "30d_src": "PriceCharting monthly history (vs prior month point)"
     },
     "PSA 10": {
-     "1d": null,
+     "1d": 0.0,
      "7d": null,
      "30d": 22.4,
      "30d_src": "PriceCharting monthly history (vs prior month point)"

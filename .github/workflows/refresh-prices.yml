@@ -23,9 +23,33 @@ jobs:
         run: pip install pillow && python scripts/make_icons.py
       - if: steps.fresh.outputs.skip != 'true'
         run: python scripts/fetch_prices.py
-      - name: Spike engine (signals.json)
+      # ---- Sales-based signals. Raw sales stay in .cache/ (never committed); only data/signals.json is. ----
+      - name: Restore sales page cache
         if: steps.fresh.outputs.skip != 'true'
-        run: python scripts/spike_engine.py --history data/history.json --prices data/prices.json --out data/signals.json
+        uses: actions/cache@v4
+        with:
+          path: .cache/sales-pages
+          key: sales-pages-${{ github.run_id }}
+          restore-keys: sales-pages-
+      - name: Scrape sold listings (1 req/s, 12h page cache)
+        id: scrape
+        if: steps.fresh.outputs.skip != 'true'
+        continue-on-error: true            # failure -> keep previous data/signals.json
+        timeout-minutes: 20
+        run: python scripts/sales/sales_scraper.py --watchlist data/watchlist.json --max-age-h 12 --out .cache/sales/sales.json
+      - name: Clean sales (wrong-bucket filter)
+        id: clean
+        if: steps.fresh.outputs.skip != 'true' && steps.scrape.outcome == 'success'
+        continue-on-error: true
+        run: python scripts/sales/clean_sales.py --sales .cache/sales/sales.json --watchlist data/watchlist.json --out .cache/sales/sales_clean.json --quarantine .cache/sales/sales_quarantine.json
+      - name: Spike engine --sales
+        id: spike
+        if: steps.fresh.outputs.skip != 'true' && steps.clean.outcome == 'success'
+        continue-on-error: true
+        run: python scripts/sales/spike_engine.py --history data/history.json --prices data/prices.json --sales .cache/sales/sales_clean.json --out .cache/sales/signals.new.json
+      - name: Promote signals (failsafe keeps previous data/signals.json)
+        if: steps.fresh.outputs.skip != 'true'
+        run: python scripts/sales/promote_signals.py --new .cache/sales/signals.new.json --dest data/signals.json
       - name: Commit snapshot
         if: steps.fresh.outputs.skip != 'true'
         run: |

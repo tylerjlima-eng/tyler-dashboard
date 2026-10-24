@@ -1,0 +1,44 @@
+name: Refresh set values
+on:
+  schedule:
+    - cron: "41 12 * * *"   # daily ~8:41 AM ET (EDT); after the price refresh
+  workflow_dispatch: {}
+permissions: { contents: write }
+concurrency: { group: refresh-prices, cancel-in-progress: false }   # shares the queue with refresh-prices so pushes never race
+jobs:
+  sets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pillow
+      - name: Restore YGOPRODeck local data cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/set_index
+          key: set-index-${{ github.run_id }}
+          restore-keys: set-index-
+      - name: Build set index (failsafe: failed sets keep old values; total failure keeps old files)
+        id: build
+        continue-on-error: true
+        timeout-minutes: 60
+        env:
+          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}   # optional; raises pokemontcg.io rate limits
+        run: |
+          cp data/set_index.json /tmp/si.bak 2>/dev/null || true; cp data/set_index_history.json /tmp/sih.bak 2>/dev/null || true
+          python scripts/set_index.py || { cp /tmp/si.bak data/set_index.json 2>/dev/null; cp /tmp/sih.bak data/set_index_history.json 2>/dev/null; exit 1; }
+          python -c "import json;d=json.load(open('data/set_index.json'));assert sum(s.get('total') is not None for s in d['sets'])>0"
+      - name: Commit
+        if: steps.build.outcome == 'success'
+        run: |
+          git config user.name "price-bot"; git config user.email "actions@users.noreply.github.com"
+          mkdir -p /tmp/out && cp data/set_index.json data/set_index_history.json data/ygo_thumbs.json /tmp/out/
+          git fetch origin main && git reset --hard origin/main
+          cp /tmp/out/set_index.json /tmp/out/set_index_history.json /tmp/out/ygo_thumbs.json data/
+          git add data/set_index.json data/set_index_history.json data/ygo_thumbs.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Set values snapshot $(TZ=America/New_York date +%F)"
+          git push origin HEAD:main
+          git push --force origin HEAD:gh-pages

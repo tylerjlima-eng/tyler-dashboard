@@ -69,9 +69,20 @@
  <div id="relList" class="list"></div>
  <p class="small muted" id="relNote"></p>
 </section>
+<!-- SET VALUES -->
+<section id="t-sets" class="tab">
+ <div class="sv-hero"><div class="sv-kick">SET VALUES</div><div class="sv-big" id="svTotal">—</div><div class="sv-sub" id="svSub">Loading sets…</div></div>
+ <div class="sv-board"><div class="sv-col hot"><h3>🔥 Hottest</h3><div id="svHot"></div></div><div class="sv-col cold"><h3>🧊 Coldest</h3><div id="svCold"></div></div></div>
+ <div class="sticky sv-sticky"><div class="cats" id="svCats"></div>
+  <div class="tools"><input id="svQ" type="search" placeholder="Search sets…" autocomplete="off"><select id="svSort" aria-label="Sort sets"><option value="total">Value ↓</option><option value="chg7">7D move ↓</option><option value="chg30">30D move ↓</option><option value="cards">Card count ↓</option><option value="name">Name A–Z</option></select></div>
+  <div class="sv-crumb" id="svCrumb"></div>
+  <div class="seg" id="svWin"><button data-v="chg7" class="on">7D</button><button data-v="chg30">30D</button></div></div>
+ <div id="svGrid" class="sv-grid"></div>
+ <p class="small muted" id="svNote"></p>
+</section>
 <section id="t-setup" class="tab"><div id="setupDoc" class="doc">Loading…</div></section>
 </main>
 <!-- sheet -->
 <div id="sheet" class="sheet" hidden><div class="sheet-bg" data-close></div><div class="sheet-body"><button class="x" data-close aria-label="Close">✕</button><div id="sheetC"></div></div></div>
-<nav class="bottom"><button data-t="market" class="on"><i>📈</i>Markets</button><button data-t="inv"><i>🗂️</i>Inventory</button><button data-t="list"><i>🏷️</i>List</button><button data-t="sched"><i>📅</i>Schedule</button><button data-t="rel"><i>🗓️</i>Releases</button><button data-t="setup"><i>⚙️</i>Setup</button></nav>
-<script src="ebay.js"></script><script src="app.js"></script></body></html>
+<nav class="bottom"><button data-t="market" class="on"><i>📈</i>Markets</button><button data-t="inv"><i>🗂️</i>Inventory</button><button data-t="list"><i>🏷️</i>List</button><button data-t="sched"><i>📅</i>Schedule</button><button data-t="sets"><i>💎</i>Sets</button><button data-t="rel"><i>🗓️</i>Releases</button><button data-t="setup"><i>⚙️</i>Setup</button></nav>
+<script src="ebay.js"></script><script src="app.js"></script><script src="sets.js"></script></body></html>

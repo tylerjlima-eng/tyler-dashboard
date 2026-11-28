@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:59:59+00:00",
+ "updated": "2026-11-28T19:00:31+00:00",
  "items": [
   {
    "cat": "pokemon",
@@ -348,7 +348,7 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": 21.1,
+     "7d": 32.9,
      "30d": 30.4,
      "30d_src": "daily snapshots"
     },
@@ -364,19 +364,17 @@
      "flag": "SPIKE_WATCH",
      "pct": 32.9,
      "now": 454.75,
-     "base": 376.89,
+     "base": 376.26,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 37.69,
-     "day_jump": "confirmed"
+     "floor": 37.63
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 22.5,
+     "pct": 14.1,
      "now": 32600.0,
-     "base": 26603.23,
+     "base": 28576.61,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 2660.32,
-     "day_jump": "confirmed"
+     "floor": 2857.66
     }
    }
   },
@@ -390,12 +388,12 @@
    "title": "Blastoise #2 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 76.82,
-    "Grade 7": 237.52,
-    "Grade 8": 357.5,
-    "Grade 9": 823.53,
-    "Grade 9.5": 906.0,
-    "PSA 10": 9167.38
+    "Ungraded": 74.47,
+    "Grade 7": 228.13,
+    "Grade 8": 336.11,
+    "Grade 9": 811.0,
+    "Grade 9.5": 892.0,
+    "PSA 10": 7927.64
    },
    "monthly": {
     "Grade 9.5": [
@@ -449,7 +447,7 @@
      ],
      [
       1793512800,
-      906.0
+      892.0
      ]
     ],
     "Grade 7": [
@@ -503,7 +501,7 @@
      ],
      [
       1793512800,
-      237.52
+      228.13
      ]
     ],
     "Grade 9": [
@@ -557,7 +555,7 @@
      ],
      [
       1793512800,
-      823.53
+      811.0
      ]
     ],
     "PSA 10": [
@@ -611,7 +609,7 @@
      ],
      [
       1793512800,
-      9167.38
+      7927.64
      ]
     ],
     "Grade 8": [
@@ -665,7 +663,7 @@
      ],
      [
       1793512800,
-      357.5
+      336.11
      ]
     ],
     "Ungraded": [
@@ -719,21 +717,21 @@
      ],
      [
       1793512800,
-      76.82
+      74.47
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 12.1,
-     "30d": -26.1,
+     "1d": -3.1,
+     "7d": 8.7,
+     "30d": -32.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 7.9,
-     "30d": -3.1,
+     "1d": -13.5,
+     "7d": -6.7,
+     "30d": -0.9,
      "30d_src": "daily snapshots"
     }
    },
@@ -766,12 +764,12 @@
    "title": "Venusaur #15 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 77.5,
-    "Grade 7": 204.98,
-    "Grade 8": 260.0,
-    "Grade 9": 550.0,
-    "Grade 9.5": 605.0,
-    "PSA 10": 3850.0
+    "Ungraded": 71.75,
+    "Grade 7": 197.0,
+    "Grade 8": 255.0,
+    "Grade 9": 563.23,
+    "Grade 9.5": 620.0,
+    "PSA 10": 3645.75
    },
    "monthly": {
     "Grade 9.5": [
@@ -825,7 +823,7 @@
      ],
      [
       1793512800,
-      605.0
+      620.0
      ]
     ],
     "Grade 7": [
@@ -879,7 +877,7 @@
      ],
      [
       1793512800,
-      204.98
+      197.0
      ]
     ],
     "Grade 9": [
@@ -933,7 +931,7 @@
      ],
      [
       1793512800,
-      550.0
+      563.23
      ]
     ],
     "PSA 10": [
@@ -987,7 +985,7 @@
      ],
      [
       1793512800,
-      3850.0
+      3645.75
      ]
     ],
     "Grade 8": [
@@ -1041,7 +1039,7 @@
      ],
      [
       1793512800,
-      260.0
+      255.0
      ]
     ],
     "Ungraded": [
@@ -1095,21 +1093,21 @@
      ],
      [
       1793512800,
-      77.5
+      71.75
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -9.9,
-     "30d": 8.6,
+     "1d": -7.4,
+     "7d": -16.6,
+     "30d": 1.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -24.9,
+     "1d": -5.3,
+     "7d": -5.3,
+     "30d": -25.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -1142,8 +1140,8 @@
    "title": "Mewtwo #10 Prices",
    "set": "Pokemon Base Set",
    "prices": {
-    "Ungraded": 19.24,
-    "Grade 7": 115.89,
+    "Ungraded": 22.0,
+    "Grade 7": 117.0,
     "Grade 8": 193.25,
     "Grade 9": 407.5,
     "Grade 9.5": 448.0,
@@ -1255,7 +1253,7 @@
      ],
      [
       1793512800,
-      115.89
+      117.0
      ]
     ],
     "Grade 9": [
@@ -1471,21 +1469,21 @@
      ],
      [
       1793512800,
-      19.24
+      22.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -23.4,
-     "30d": -32.8,
+     "1d": 14.3,
+     "7d": -12.4,
+     "30d": -27.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": 0.0,
+     "30d": 3.2,
      "30d_src": "daily snapshots"
     }
    },
@@ -1854,14 +1852,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -11.6,
-     "7d": -11.2,
+     "1d": 0.0,
+     "7d": -12.8,
      "30d": -13.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.7,
-     "7d": -3.7,
+     "1d": 0.0,
+     "7d": 0.1,
      "30d": -5.6,
      "30d_src": "daily snapshots"
     }
@@ -1869,19 +1867,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.9,
-     "now": 1825.0,
-     "base": 1772.72,
+     "pct": -12.8,
+     "now": 1612.5,
+     "base": 1776.36,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 177.27
+     "floor": 177.64
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.8,
-     "now": 3376.32,
-     "base": 3541.39,
+     "pct": 0.1,
+     "now": 3352.5,
+     "base": 3533.15,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 354.14
+     "floor": 353.31
     }
    }
   },
@@ -2231,13 +2229,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.4,
-     "7d": -4.3,
+     "1d": 0.0,
+     "7d": -1.8,
      "30d": -19.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -4.7,
+     "1d": 0.0,
      "7d": -6.4,
      "30d": -13.2,
      "30d_src": "daily snapshots"
@@ -2246,19 +2244,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.6,
-     "now": 824.99,
-     "base": 1000.0,
+     "pct": -18.6,
+     "now": 804.91,
+     "base": 988.76,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 100.0
+     "floor": 98.88
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.5,
-     "now": 1775.18,
-     "base": 1898.05,
+     "pct": -10.2,
+     "now": 1692.5,
+     "base": 1885.55,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 189.81
+     "floor": 188.56
     }
    }
   },
@@ -2608,14 +2606,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.8,
+     "1d": 0.0,
      "7d": -7.5,
      "30d": -4.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -4.3,
-     "7d": -4.3,
+     "1d": 0.0,
+     "7d": -2.3,
      "30d": -12.3,
      "30d_src": "daily snapshots"
     }
@@ -2623,19 +2621,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.7,
-     "now": 266.27,
-     "base": 298.19,
+     "pct": 0.8,
+     "now": 268.38,
+     "base": 297.1,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 29.82
+     "floor": 29.71
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 2.1,
-     "now": 1150.0,
-     "base": 1225.5,
+     "pct": -9.5,
+     "now": 1100.0,
+     "base": 1215.05,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 122.55
+     "floor": 121.51
     }
    }
   },
@@ -2650,12 +2648,12 @@
    "title": "Giratina VSTAR #GG69 Prices",
    "set": "Pokemon Crown Zenith",
    "prices": {
-    "Ungraded": 248.97,
+    "Ungraded": 241.25,
     "Grade 7": 250.5,
     "Grade 8": 255.03,
     "Grade 9": 281.0,
     "Grade 9.5": 320.0,
-    "PSA 10": 490.15
+    "PSA 10": 472.55
    },
    "monthly": {
     "Grade 9.5": [
@@ -2871,7 +2869,7 @@
      ],
      [
       1793512800,
-      490.15
+      472.55
      ]
     ],
     "Grade 8": [
@@ -2979,21 +2977,21 @@
      ],
      [
       1793512800,
-      248.97
+      241.25
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 12.5,
-     "30d": -0.7,
+     "1d": -3.1,
+     "7d": 9.1,
+     "30d": -11.4,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -2.0,
-     "30d": -3.5,
+     "1d": -3.6,
+     "7d": -5.5,
+     "30d": -6.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -3002,9 +3000,9 @@
      "flag": "normal",
      "pct": 6.0,
      "now": 248.97,
-     "base": 255.99,
+     "base": 254.95,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 25.6
+     "floor": 25.5
     },
     "PSA 10": {
      "flag": "normal",
@@ -3027,12 +3025,12 @@
    "title": "Giratina V #186 Prices",
    "set": "Pokemon Lost Origin",
    "prices": {
-    "Ungraded": 731.68,
+    "Ungraded": 708.05,
     "Grade 7": 610.0,
-    "Grade 8": 736.27,
-    "Grade 9": 807.0,
+    "Grade 8": 738.6,
+    "Grade 9": 799.85,
     "Grade 9.5": 1059.47,
-    "PSA 10": 2800.0
+    "PSA 10": 2950.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -3194,7 +3192,7 @@
      ],
      [
       1793512800,
-      807.0
+      799.85
      ]
     ],
     "PSA 10": [
@@ -3248,7 +3246,7 @@
      ],
      [
       1793512800,
-      2800.0
+      2950.0
      ]
     ],
     "Grade 8": [
@@ -3302,7 +3300,7 @@
      ],
      [
       1793512800,
-      736.27
+      738.6
      ]
     ],
     "Ungraded": [
@@ -3356,21 +3354,21 @@
      ],
      [
       1793512800,
-      731.68
+      708.05
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -1.7,
-     "30d": -1.2,
+     "1d": -3.2,
+     "7d": -4.9,
+     "30d": -6.8,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -8.2,
-     "30d": -9.5,
+     "1d": 5.4,
+     "7d": -3.3,
+     "30d": -3.3,
      "30d_src": "daily snapshots"
     }
    },
@@ -3379,17 +3377,17 @@
      "flag": "normal",
      "pct": -5.2,
      "now": 731.68,
-     "base": 750.0,
+     "base": 747.09,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 75.0
+     "floor": 74.71
     },
     "PSA 10": {
      "flag": "normal",
      "pct": -11.0,
      "now": 2800.0,
-     "base": 3067.98,
+     "base": 3050.5,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 306.8
+     "floor": 305.05
     }
    }
   },
@@ -3738,14 +3736,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 6.9,
+     "1d": 0.0,
      "7d": -1.7,
      "30d": -8.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -3.4,
-     "7d": -6.6,
+     "1d": 0.0,
+     "7d": -9.2,
      "30d": -18.8,
      "30d_src": "daily snapshots"
     }
@@ -3753,19 +3751,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -9.5,
-     "now": 371.41,
-     "base": 410.49,
+     "pct": -3.1,
+     "now": 397.0,
+     "base": 409.56,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 41.05
+     "floor": 40.96
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -11.5,
-     "now": 996.21,
-     "base": 1125.85,
+     "pct": -13.9,
+     "now": 962.5,
+     "base": 1117.98,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 112.58
+     "floor": 111.8
     }
    }
   },
@@ -4138,11 +4136,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -9.5,
+     "pct": -9.3,
      "now": 1916.25,
-     "base": 2117.84,
+     "base": 2113.0,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 211.78
+     "floor": 211.3
     }
    }
   },
@@ -4506,11 +4504,11 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 8.9,
+     "pct": -4.8,
      "now": 545.0,
-     "base": 567.62,
+     "base": 565.26,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 56.76
+     "floor": 56.53
     },
     "PSA 10": {
      "flag": "normal",
@@ -4883,7 +4881,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 15.9,
+     "pct": 6.6,
      "now": 1066.13,
      "base": 1000.5,
      "basis": "median of our snapshots 8-37 days old",
@@ -4891,7 +4889,7 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.6,
+     "pct": -3.9,
      "now": 4024.5,
      "base": 4187.5,
      "basis": "median of our snapshots 8-37 days old",
@@ -5245,14 +5243,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.8,
-     "7d": 1.9,
+     "1d": 0.0,
+     "7d": 6.2,
      "30d": -8.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.1,
-     "7d": -0.4,
+     "1d": 0.0,
+     "7d": 0.3,
      "30d": -13.6,
      "30d_src": "daily snapshots"
     }
@@ -5260,19 +5258,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 7.1,
-     "now": 225.25,
-     "base": 242.91,
+     "pct": 6.2,
+     "now": 223.48,
+     "base": 239.3,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 24.29
+     "floor": 23.93
     },
     "PSA 10": {
      "flag": "normal",
      "pct": 0.3,
-     "now": 607.85,
-     "base": 692.84,
+     "now": 607.5,
+     "base": 688.96,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 69.28
+     "floor": 68.9
     }
    }
   },
@@ -5287,12 +5285,12 @@
    "title": "Pikachu ex #238 Prices",
    "set": "Pokemon Surging Sparks",
    "prices": {
-    "Ungraded": 208.44,
+    "Ungraded": 196.44,
     "Grade 7": 157.0,
     "Grade 8": 196.25,
-    "Grade 9": 198.75,
+    "Grade 9": 200.0,
     "Grade 9.5": 385.0,
-    "PSA 10": 671.95
+    "PSA 10": 644.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -5454,7 +5452,7 @@
      ],
      [
       1793512800,
-      198.75
+      200.0
      ]
     ],
     "PSA 10": [
@@ -5508,7 +5506,7 @@
      ],
      [
       1793512800,
-      671.95
+      644.5
      ]
     ],
     "Grade 8": [
@@ -5616,21 +5614,21 @@
      ],
      [
       1793512800,
-      208.44
+      196.44
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 2.6,
-     "30d": -16.6,
+     "1d": -5.8,
+     "7d": -3.3,
+     "30d": -13.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -1.6,
-     "30d": -10.8,
+     "1d": -4.1,
+     "7d": -5.6,
+     "30d": -10.2,
      "30d_src": "daily snapshots"
     }
    },
@@ -5665,12 +5663,12 @@
    "title": "Blue-Eyes White Dragon LOB-001 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 90.0,
-    "Grade 7": 138.87,
-    "Grade 8": 238.13,
+    "Ungraded": 75.0,
+    "Grade 7": 135.0,
+    "Grade 8": 236.75,
     "Grade 9": 595.0,
     "Grade 9.5": 873.42,
-    "PSA 10": 6003.13
+    "PSA 10": 6026.57
    },
    "monthly": {
     "Grade 9.5": [
@@ -5778,7 +5776,7 @@
      ],
      [
       1793512800,
-      138.87
+      135.0
      ]
     ],
     "Grade 9": [
@@ -5886,7 +5884,7 @@
      ],
      [
       1793512800,
-      6003.13
+      6026.57
      ]
     ],
     "Grade 8": [
@@ -5940,7 +5938,7 @@
      ],
      [
       1793512800,
-      238.13
+      236.75
      ]
     ],
     "Ungraded": [
@@ -5994,7 +5992,7 @@
      ],
      [
       1793512800,
-      90.0
+      75.0
      ]
     ]
    },
@@ -6003,7 +6001,7 @@
     "set_price": 62.15,
     "all_printings_low": {
      "cardmarket": 0.02,
-     "tcgplayer": 0.14,
+     "tcgplayer": 0.16,
      "ebay": 5.95,
      "amazon": 3.9,
      "coolstuffinc": 0.99
@@ -6011,15 +6009,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 5.9,
-     "30d": -10.9,
+     "1d": -16.7,
+     "7d": -11.8,
+     "30d": -31.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -0.2,
-     "30d": 0.1,
+     "1d": 0.4,
+     "7d": 0.2,
+     "30d": 0.4,
      "30d_src": "daily snapshots"
     }
    },
@@ -6415,11 +6413,11 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.6,
+     "pct": 1.2,
      "now": 435.0,
-     "base": 432.51,
+     "base": 430.0,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 43.25
+     "floor": 43.0
     },
     "PSA 10": {
      "flag": "normal",
@@ -6804,11 +6802,11 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 19.2,
+     "pct": 19.1,
      "now": 746.74,
-     "base": 626.38,
+     "base": 627.07,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 62.64
+     "floor": 62.71
     },
     "PSA 10": {
      "flag": "normal",
@@ -7170,7 +7168,7 @@
     "set_price": 33.07,
     "all_printings_low": {
      "cardmarket": 0.02,
-     "tcgplayer": 1.85,
+     "tcgplayer": 1.92,
      "ebay": 39.99,
      "amazon": 1.29,
      "coolstuffinc": 0.99
@@ -7193,7 +7191,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -1.9,
+     "pct": 0.0,
      "now": 649.92,
      "base": 662.8,
      "basis": "median of our snapshots 8-37 days old",
@@ -7930,13 +7928,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -5.5,
+     "1d": 0.0,
      "7d": -3.7,
      "30d": -2.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.3,
+     "1d": 0.0,
      "7d": -0.7,
      "30d": -1.1,
      "30d_src": "daily snapshots"
@@ -7945,16 +7943,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.0,
-     "now": 15.54,
-     "base": 15.3,
+     "pct": -3.9,
+     "now": 14.68,
+     "base": 15.28,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.8,
-     "now": 2107.63,
+     "pct": -1.1,
+     "now": 2101.85,
      "base": 2125.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 212.5
@@ -8308,7 +8306,7 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 4.1,
-     "30d": -11.0,
+     "30d": -13.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -8347,12 +8345,12 @@
    "title": "Blue-Eyes White Dragon SDK-001 Prices",
    "set": "YuGiOh Starter Deck: Kaiba",
    "prices": {
-    "Ungraded": 15.25,
+    "Ungraded": 14.99,
     "Grade 7": 116.77,
     "Grade 8": 201.25,
     "Grade 9": 480.0,
     "Grade 9.5": 1025.0,
-    "PSA 10": 4930.57
+    "PSA 10": 4568.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -8568,7 +8566,7 @@
      ],
      [
       1793512800,
-      4930.57
+      4568.0
      ]
     ],
     "Grade 8": [
@@ -8676,21 +8674,21 @@
      ],
      [
       1793512800,
-      15.25
+      14.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -19.7,
-     "30d": 13.0,
+     "1d": -1.7,
+     "7d": -21.1,
+     "30d": 15.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -2.6,
-     "30d": -2.6,
+     "1d": -7.4,
+     "7d": -9.8,
+     "30d": -9.8,
      "30d_src": "daily snapshots"
     }
    },
@@ -9073,11 +9071,11 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -15.8,
+     "pct": -15.6,
      "now": 251.21,
-     "base": 298.22,
+     "base": 297.58,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 29.82
+     "floor": 29.76
     },
     "PSA 10": {
      "flag": "normal",
@@ -9436,13 +9434,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": 16.3,
+     "30d": 8.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -0.1,
-     "30d": -0.5,
+     "30d": -0.4,
      "30d_src": "daily snapshots"
     }
    },
@@ -10240,10 +10238,10 @@
    "title": "Jinzo PSV-000 Prices",
    "set": "YuGiOh Pharaoh's Servant",
    "prices": {
-    "Ungraded": 49.49,
+    "Ungraded": 48.08,
     "Grade 7": 84.22,
-    "Grade 8": 145.5,
-    "Grade 9": 283.0,
+    "Grade 8": 146.37,
+    "Grade 9": 271.37,
     "Grade 9.5": 396.83,
     "PSA 10": 1175.0
    },
@@ -10407,7 +10405,7 @@
      ],
      [
       1793512800,
-      283.0
+      271.37
      ]
     ],
     "PSA 10": [
@@ -10515,7 +10513,7 @@
      ],
      [
       1793512800,
-      145.5
+      146.37
      ]
     ],
     "Ungraded": [
@@ -10569,15 +10567,15 @@
      ],
      [
       1793512800,
-      49.49
+      48.08
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 4.1,
-     "30d": -17.5,
+     "1d": -2.8,
+     "7d": 1.1,
+     "30d": -19.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -10616,11 +10614,11 @@
    "title": "Yata-Garasu [1st Edition] LOD-000 Prices",
    "set": "YuGiOh Legacy of Darkness",
    "prices": {
-    "Ungraded": 82.09,
-    "Grade 7": 102.51,
+    "Ungraded": 82.21,
+    "Grade 7": 89.02,
     "Grade 8": 165.0,
-    "Grade 9": 326.22,
-    "Grade 9.5": 359.0,
+    "Grade 9": 318.06,
+    "Grade 9.5": 350.0,
     "PSA 10": 2511.41
    },
    "monthly": {
@@ -10675,7 +10673,7 @@
      ],
      [
       1793512800,
-      359.0
+      350.0
      ]
     ],
     "Grade 7": [
@@ -10729,7 +10727,7 @@
      ],
      [
       1793512800,
-      102.51
+      89.02
      ]
     ],
     "Grade 9": [
@@ -10783,7 +10781,7 @@
      ],
      [
       1793512800,
-      326.22
+      318.06
      ]
     ],
     "PSA 10": [
@@ -10945,15 +10943,15 @@
      ],
      [
       1793512800,
-      82.09
+      82.21
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -17.9,
-     "30d": -8.2,
+     "1d": 0.1,
+     "7d": -17.8,
+     "30d": -8.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -10966,11 +10964,11 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -17.7,
+     "pct": -17.9,
      "now": 82.09,
-     "base": 99.75,
+     "base": 100.0,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 9.98
+     "floor": 10.0
     },
     "PSA 10": {
      "flag": "normal",
@@ -10992,10 +10990,10 @@
    "title": "Ash Blossom & Joyous Spring [Quarter Century Secret Rare] RA01-EN008 Prices",
    "set": "YuGiOh 25th Anniversary Rarity Collection",
    "prices": {
-    "Ungraded": 43.06,
-    "Grade 7": 64.2,
-    "Grade 8": 101.74,
-    "Grade 9": 111.08,
+    "Ungraded": 43.36,
+    "Grade 7": 63.73,
+    "Grade 8": 101.02,
+    "Grade 9": 111.09,
     "Grade 9.5": 130.0,
     "PSA 10": 397.5
    },
@@ -11105,7 +11103,7 @@
      ],
      [
       1793512800,
-      64.2
+      63.73
      ]
     ],
     "Grade 9": [
@@ -11159,7 +11157,7 @@
      ],
      [
       1793512800,
-      111.08
+      111.09
      ]
     ],
     "PSA 10": [
@@ -11267,7 +11265,7 @@
      ],
      [
       1793512800,
-      101.74
+      101.02
      ]
     ],
     "Ungraded": [
@@ -11321,15 +11319,15 @@
      ],
      [
       1793512800,
-      43.06
+      43.36
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -0.7,
-     "30d": -2.1,
+     "1d": 0.7,
+     "7d": -0.0,
+     "30d": -1.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -11719,15 +11717,15 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 10.1,
+     "pct": 11.6,
      "now": 4174.0,
-     "base": 4288.82,
+     "base": 4261.14,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 428.88
+     "floor": 426.11
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 65.8,
+     "pct": 28.8,
      "now": 392225.0,
      "base": 395431.25,
      "basis": "median of our snapshots 8-37 days old",
@@ -11746,11 +11744,11 @@
    "title": "Larry Bird #9 Prices",
    "set": "1986 Fleer",
    "prices": {
-    "Ungraded": 81.13,
-    "Grade 7": 152.45,
-    "Grade 8": 256.95,
+    "Ungraded": 83.04,
+    "Grade 7": 152.48,
+    "Grade 8": 272.16,
     "Grade 9": 888.88,
-    "Grade 9.5": 1125.45,
+    "Grade 9.5": 1123.67,
     "PSA 10": 8400.0
    },
    "monthly": {
@@ -11805,7 +11803,7 @@
      ],
      [
       1793512800,
-      1125.45
+      1123.67
      ]
     ],
     "Grade 7": [
@@ -11859,7 +11857,7 @@
      ],
      [
       1793512800,
-      152.45
+      152.48
      ]
     ],
     "Grade 9": [
@@ -12021,7 +12019,7 @@
      ],
      [
       1793512800,
-      256.95
+      272.16
      ]
     ],
     "Ungraded": [
@@ -12075,15 +12073,15 @@
      ],
      [
       1793512800,
-      81.13
+      83.04
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 11.1,
-     "30d": 14.2,
+     "1d": 2.4,
+     "7d": 13.8,
+     "30d": 14.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -12460,20 +12458,20 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 7.0,
-     "30d": -0.3,
+     "30d": 4.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": 0.8,
+     "30d": -0.3,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 7.0,
+     "pct": 7.9,
      "now": 64.72,
      "base": 61.92,
      "basis": "median of our snapshots 8-37 days old",
@@ -12481,11 +12479,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.4,
+     "pct": 0.0,
      "now": 4285.35,
-     "base": 4267.47,
+     "base": 4284.94,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 426.75
+     "floor": 428.49
     }
    }
   },
@@ -12835,13 +12833,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.9,
+     "1d": 0.0,
      "7d": -4.9,
      "30d": -14.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.9,
+     "1d": 0.0,
      "7d": -1.2,
      "30d": -17.4,
      "30d_src": "daily snapshots"
@@ -12850,8 +12848,8 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.0,
-     "now": 1625.0,
+     "pct": -4.9,
+     "now": 1545.58,
      "base": 1625.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 162.5
@@ -13214,13 +13212,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": -18.6,
-     "30d": -21.0,
+     "30d": -20.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -2.7,
-     "30d": -22.5,
+     "30d": -14.4,
      "30d_src": "daily snapshots"
     }
    },
@@ -13235,11 +13233,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -18.0,
+     "pct": -16.2,
      "now": 1802.03,
-     "base": 2197.5,
+     "base": 2151.0,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 219.75
+     "floor": 215.1
     }
    }
   },
@@ -13631,12 +13629,12 @@
    "title": "LeBron James #111 Prices [Rookie]",
    "set": "2003 Topps Chrome",
    "prices": {
-    "Ungraded": 1783.59,
-    "Grade 7": 2048.5,
-    "Grade 8": 2920.96,
-    "Grade 9": 3374.0,
-    "Grade 9.5": 5024.75,
-    "PSA 10": 11412.5
+    "Ungraded": 1745.0,
+    "Grade 7": 2018.29,
+    "Grade 8": 2986.0,
+    "Grade 9": 3339.26,
+    "Grade 9.5": 4970.87,
+    "PSA 10": 11350.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -13690,7 +13688,7 @@
      ],
      [
       1793512800,
-      5024.75
+      4970.87
      ]
     ],
     "Grade 7": [
@@ -13744,7 +13742,7 @@
      ],
      [
       1793512800,
-      2048.5
+      2018.29
      ]
     ],
     "Grade 9": [
@@ -13798,7 +13796,7 @@
      ],
      [
       1793512800,
-      3374.0
+      3339.26
      ]
     ],
     "PSA 10": [
@@ -13852,7 +13850,7 @@
      ],
      [
       1793512800,
-      11412.5
+      11350.0
      ]
     ],
     "Grade 8": [
@@ -13906,7 +13904,7 @@
      ],
      [
       1793512800,
-      2920.96
+      2986.0
      ]
     ],
     "Ungraded": [
@@ -13960,21 +13958,21 @@
      ],
      [
       1793512800,
-      1783.59
+      1745.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -10.8,
-     "30d": -33.0,
+     "1d": -2.2,
+     "7d": -12.8,
+     "30d": -24.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -6.7,
-     "30d": -15.2,
+     "1d": -0.5,
+     "7d": -7.3,
+     "30d": -15.6,
      "30d_src": "daily snapshots"
     }
    },
@@ -14345,7 +14343,7 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": 1.0,
+     "30d": 0.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -14385,12 +14383,12 @@
    "title": "Giannis Antetokounmpo #290 Prices [Rookie]",
    "set": "2013 Panini Prizm",
    "prices": {
-    "Ungraded": 184.83,
+    "Ungraded": 164.47,
     "Grade 7": 122.5,
-    "Grade 8": 163.94,
-    "Grade 9": 212.99,
-    "Grade 9.5": 248.2,
-    "PSA 10": 455.0
+    "Grade 8": 165.0,
+    "Grade 9": 197.17,
+    "Grade 9.5": 229.28,
+    "PSA 10": 447.65
    },
    "monthly": {
     "Grade 9.5": [
@@ -14444,7 +14442,7 @@
      ],
      [
       1793512800,
-      248.2
+      229.28
      ]
     ],
     "Grade 7": [
@@ -14552,7 +14550,7 @@
      ],
      [
       1793512800,
-      212.99
+      197.17
      ]
     ],
     "PSA 10": [
@@ -14606,7 +14604,7 @@
      ],
      [
       1793512800,
-      455.0
+      447.65
      ]
     ],
     "Grade 8": [
@@ -14660,7 +14658,7 @@
      ],
      [
       1793512800,
-      163.94
+      165.0
      ]
     ],
     "Ungraded": [
@@ -14714,21 +14712,21 @@
      ],
      [
       1793512800,
-      184.83
+      164.47
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -3.8,
-     "30d": 11.8,
+     "1d": -11.0,
+     "7d": -14.4,
+     "30d": -6.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -9.2,
-     "30d": -30.0,
+     "1d": -1.6,
+     "7d": -10.6,
+     "30d": -31.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -14762,12 +14760,12 @@
    "title": "Jayson Tatum #16 Prices [Rookie]",
    "set": "2017 Panini Prizm",
    "prices": {
-    "Ungraded": 23.28,
+    "Ungraded": 22.04,
     "Grade 7": 16.99,
     "Grade 8": 19.5,
-    "Grade 9": 37.86,
+    "Grade 9": 39.89,
     "Grade 9.5": 53.75,
-    "PSA 10": 100.0
+    "PSA 10": 104.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -14929,7 +14927,7 @@
      ],
      [
       1793512800,
-      37.86
+      39.89
      ]
     ],
     "PSA 10": [
@@ -14983,7 +14981,7 @@
      ],
      [
       1793512800,
-      100.0
+      104.5
      ]
     ],
     "Grade 8": [
@@ -15091,21 +15089,21 @@
      ],
      [
       1793512800,
-      23.28
+      22.04
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 13.5,
-     "30d": 18.4,
+     "1d": -5.3,
+     "7d": 7.5,
+     "30d": 12.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -2.9,
-     "30d": 1.0,
+     "1d": 4.5,
+     "7d": 1.5,
+     "30d": 3.5,
      "30d_src": "daily snapshots"
     }
    },
@@ -15139,12 +15137,12 @@
    "title": "Luka Doncic #280 Prices [Rookie]",
    "set": "2018 Panini Prizm",
    "prices": {
-    "Ungraded": 68.0,
+    "Ungraded": 70.25,
     "Grade 7": 54.9,
-    "Grade 8": 58.0,
-    "Grade 9": 90.5,
-    "Grade 9.5": 140.2,
-    "PSA 10": 256.7
+    "Grade 8": 62.33,
+    "Grade 9": 90.0,
+    "Grade 9.5": 140.92,
+    "PSA 10": 251.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -15198,7 +15196,7 @@
      ],
      [
       1793512800,
-      140.2
+      140.92
      ]
     ],
     "Grade 7": [
@@ -15306,7 +15304,7 @@
      ],
      [
       1793512800,
-      90.5
+      90.0
      ]
     ],
     "PSA 10": [
@@ -15360,7 +15358,7 @@
      ],
      [
       1793512800,
-      256.7
+      251.0
      ]
     ],
     "Grade 8": [
@@ -15414,7 +15412,7 @@
      ],
      [
       1793512800,
-      58.0
+      62.33
      ]
     ],
     "Ungraded": [
@@ -15468,21 +15466,21 @@
      ],
      [
       1793512800,
-      68.0
+      70.25
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -9.6,
-     "30d": 24.2,
+     "1d": 3.3,
+     "7d": -6.7,
+     "30d": 28.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 2.7,
-     "30d": 22.7,
+     "1d": -2.2,
+     "7d": 0.4,
+     "30d": 20.0,
      "30d_src": "daily snapshots"
     }
    },
@@ -15497,11 +15495,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 21.6,
+     "pct": 21.5,
      "now": 256.7,
-     "base": 211.13,
+     "base": 211.31,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 21.11
+     "floor": 21.13
     }
    }
   },
@@ -15851,14 +15849,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 2.8,
+     "1d": 0.0,
      "7d": 0.0,
      "30d": 3.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 4.9,
-     "7d": -0.2,
+     "1d": 0.0,
+     "7d": 4.5,
      "30d": -19.1,
      "30d_src": "daily snapshots"
     }
@@ -15866,17 +15864,17 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.3,
-     "now": 4.0,
-     "base": 3.99,
+     "pct": 2.9,
+     "now": 4.11,
+     "base": 4.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -21.8,
-     "now": 20.5,
-     "base": 26.21,
+     "pct": 4.5,
+     "now": 21.5,
+     "base": 26.06,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     }
@@ -16243,7 +16241,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -24.3,
+     "pct": 0.3,
      "now": 3.0,
      "base": 3.96,
      "basis": "median of our snapshots 8-37 days old",
@@ -16251,9 +16249,9 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 8.2,
+     "pct": -13.3,
      "now": 19.75,
-     "base": 22.99,
+     "base": 22.79,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     }
@@ -16270,12 +16268,12 @@
    "title": "Anthony Edwards #258 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 8.47,
+    "Ungraded": 8.52,
     "Grade 7": 12.01,
-    "Grade 8": 19.0,
-    "Grade 9": 30.0,
-    "Grade 9.5": 33.74,
-    "PSA 10": 146.38
+    "Grade 8": 19.09,
+    "Grade 9": 34.18,
+    "Grade 9.5": 38.0,
+    "PSA 10": 153.75
    },
    "monthly": {
     "Grade 9.5": [
@@ -16329,7 +16327,7 @@
      ],
      [
       1793512800,
-      33.74
+      38.0
      ]
     ],
     "Grade 7": [
@@ -16437,7 +16435,7 @@
      ],
      [
       1793512800,
-      30.0
+      34.18
      ]
     ],
     "PSA 10": [
@@ -16491,7 +16489,7 @@
      ],
      [
       1793512800,
-      146.38
+      153.75
      ]
     ],
     "Grade 8": [
@@ -16545,7 +16543,7 @@
      ],
      [
       1793512800,
-      19.0
+      19.09
      ]
     ],
     "Ungraded": [
@@ -16599,21 +16597,21 @@
      ],
      [
       1793512800,
-      8.47
+      8.52
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -15.3,
-     "30d": -19.3,
+     "1d": 0.6,
+     "7d": -14.8,
+     "30d": -35.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -8.5,
-     "30d": -9.9,
+     "1d": 5.0,
+     "7d": -3.9,
+     "30d": -6.8,
      "30d_src": "daily snapshots"
     }
    },
@@ -16647,12 +16645,12 @@
    "title": "Victor Wembanyama #136 Prices [Rookie]",
    "set": "2023 Panini Prizm",
    "prices": {
-    "Ungraded": 66.47,
+    "Ungraded": 70.0,
     "Grade 7": 50.0,
-    "Grade 8": 62.27,
-    "Grade 9": 93.5,
-    "Grade 9.5": 158.86,
-    "PSA 10": 322.9
+    "Grade 8": 62.5,
+    "Grade 9": 91.96,
+    "Grade 9.5": 161.57,
+    "PSA 10": 352.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -16706,7 +16704,7 @@
      ],
      [
       1793512800,
-      158.86
+      161.57
      ]
     ],
     "Grade 7": [
@@ -16814,7 +16812,7 @@
      ],
      [
       1793512800,
-      93.5
+      91.96
      ]
     ],
     "PSA 10": [
@@ -16868,7 +16866,7 @@
      ],
      [
       1793512800,
-      322.9
+      352.5
      ]
     ],
     "Grade 8": [
@@ -16922,7 +16920,7 @@
      ],
      [
       1793512800,
-      62.27
+      62.5
      ]
     ],
     "Ungraded": [
@@ -16976,28 +16974,28 @@
      ],
      [
       1793512800,
-      66.47
+      70.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 5.4,
-     "30d": 3.4,
+     "1d": 5.3,
+     "7d": 11.0,
+     "30d": 8.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -3.1,
-     "30d": -2.3,
+     "1d": 9.2,
+     "7d": 5.8,
+     "30d": 6.7,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 5.4,
+     "pct": 2.6,
      "now": 66.47,
      "base": 65.66,
      "basis": "median of our snapshots 8-37 days old",
@@ -17360,13 +17358,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -4.2,
+     "1d": 0.0,
      "7d": -3.5,
-     "30d": -21.5,
+     "30d": -10.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.8,
+     "1d": 0.0,
      "7d": -18.6,
      "30d": -17.8,
      "30d_src": "daily snapshots"
@@ -17375,16 +17373,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -5.4,
-     "now": 450.99,
+     "pct": -9.4,
+     "now": 431.87,
      "base": 476.61,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 47.66
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -5.3,
-     "now": 90488.71,
+     "pct": 0.8,
+     "now": 91238.85,
      "base": 95535.17,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 9553.52
@@ -17752,7 +17750,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 14.7,
+     "pct": 13.0,
      "now": 127.5,
      "base": 112.86,
      "basis": "median of our snapshots 8-37 days old",
@@ -18114,13 +18112,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -18.1,
-     "7d": -10.0,
+     "1d": 0.0,
+     "7d": -15.2,
      "30d": -25.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -11.4,
+     "1d": 0.0,
      "7d": -11.4,
      "30d": 0.0,
      "30d_src": "daily snapshots"
@@ -18129,16 +18127,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.5,
-     "now": 61.02,
+     "pct": -15.6,
+     "now": 50.0,
      "base": 59.25,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.92
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 12.9,
-     "now": 80697.53,
+     "pct": 0.0,
+     "now": 71464.5,
      "base": 71452.67,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 7145.27
@@ -18156,12 +18154,12 @@
    "title": "Tom Brady [Autograph] #144 Prices [Rookie]",
    "set": "2000 Playoff Contenders",
    "prices": {
-    "Ungraded": 18661.68,
+    "Ungraded": 18455.84,
     "Grade 7": 32000.0,
     "Grade 8": 40000.0,
     "Grade 9": 56257.25,
     "Grade 9.5": 61883.0,
-    "PSA 10": 298069.46
+    "PSA 10": 298092.91
    },
    "monthly": {
     "Grade 9.5": [
@@ -18377,7 +18375,7 @@
      ],
      [
       1793512800,
-      298069.46
+      298092.91
      ]
     ],
     "Grade 8": [
@@ -18485,15 +18483,15 @@
      ],
      [
       1793512800,
-      18661.68
+      18455.84
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -11.6,
+     "1d": -1.1,
+     "7d": -1.1,
+     "30d": -12.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -18533,12 +18531,12 @@
    "title": "Aaron Rodgers #431 Prices [Rookie]",
    "set": "2005 Topps",
    "prices": {
-    "Ungraded": 21.0,
+    "Ungraded": 20.65,
     "Grade 7": 20.0,
     "Grade 8": 30.62,
-    "Grade 9": 56.76,
+    "Grade 9": 60.0,
     "Grade 9.5": 81.0,
-    "PSA 10": 265.0
+    "PSA 10": 285.97
    },
    "monthly": {
     "Grade 9.5": [
@@ -18700,7 +18698,7 @@
      ],
      [
       1793512800,
-      56.76
+      60.0
      ]
     ],
     "PSA 10": [
@@ -18754,7 +18752,7 @@
      ],
      [
       1793512800,
-      265.0
+      285.97
      ]
     ],
     "Grade 8": [
@@ -18862,21 +18860,21 @@
      ],
      [
       1793512800,
-      21.0
+      20.65
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 5.1,
-     "30d": 5.0,
+     "1d": -1.7,
+     "7d": 3.3,
+     "30d": -11.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -3.6,
+     "1d": 7.9,
+     "7d": 7.9,
+     "30d": 4.0,
      "30d_src": "daily snapshots"
     }
    },
@@ -18910,11 +18908,11 @@
    "title": "Patrick Mahomes II #269 Prices [Rookie]",
    "set": "2017 Panini Prizm",
    "prices": {
-    "Ungraded": 788.91,
+    "Ungraded": 709.84,
     "Grade 7": 632.0,
     "Grade 8": 888.85,
-    "Grade 9": 1650.0,
-    "Grade 9.5": 2938.0,
+    "Grade 9": 1600.0,
+    "Grade 9.5": 2885.84,
     "PSA 10": 6800.0
    },
    "monthly": {
@@ -18969,7 +18967,7 @@
      ],
      [
       1793512800,
-      2938.0
+      2885.84
      ]
     ],
     "Grade 7": [
@@ -19077,7 +19075,7 @@
      ],
      [
       1793512800,
-      1650.0
+      1600.0
      ]
     ],
     "PSA 10": [
@@ -19239,15 +19237,15 @@
      ],
      [
       1793512800,
-      788.91
+      709.84
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": 3.1,
+     "1d": -10.0,
+     "7d": -10.0,
+     "30d": -7.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -19568,14 +19566,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.2,
-     "7d": 0.0,
+     "1d": 0.0,
+     "7d": -2.2,
      "30d": -3.8,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 3.6,
-     "7d": 8.4,
+     "1d": 0.0,
+     "7d": 8.0,
      "30d": 10.3,
      "30d_src": "daily snapshots"
     }
@@ -19583,16 +19581,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.1,
-     "now": 40.9,
-     "base": 40.85,
+     "pct": -2.2,
+     "now": 40.0,
+     "base": 40.42,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 6.4,
-     "now": 207.5,
+     "pct": 10.3,
+     "now": 215.0,
      "base": 195.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 19.5
@@ -19945,7 +19943,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -5.2,
+     "1d": 0.0,
      "7d": -5.3,
      "30d": 3.5,
      "30d_src": "daily snapshots"
@@ -19960,19 +19958,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 9.0,
-     "now": 152.62,
-     "base": 140.0,
+     "pct": 0.4,
+     "now": 144.67,
+     "base": 144.16,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 14.0
+     "floor": 14.42
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 1.8,
+     "pct": 0.9,
      "now": 774.6,
-     "base": 761.25,
+     "base": 767.5,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 76.12
+     "floor": 76.75
     }
    }
   },
@@ -20323,7 +20321,7 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": -10.7,
+     "7d": -10.2,
      "30d": -19.7,
      "30d_src": "daily snapshots"
     },
@@ -20337,7 +20335,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.7,
+     "pct": -14.7,
      "now": 21.28,
      "base": 23.83,
      "basis": "median of our snapshots 8-37 days old",
@@ -20345,11 +20343,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.2,
+     "pct": -7.0,
      "now": 320.14,
-     "base": 345.0,
+     "base": 344.24,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 34.5
+     "floor": 34.42
     }
    }
   },
@@ -20701,13 +20699,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 12.7,
-     "30d": 6.0,
+     "30d": -8.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 15.7,
-     "30d": -32.6,
+     "30d": -25.3,
      "30d_src": "daily snapshots"
     }
    },
@@ -21078,11 +21076,11 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 18.5,
-     "30d": 74.4,
+     "30d": 116.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -1.4,
+     "1d": 0.0,
      "7d": 16.7,
      "30d": 55.3,
      "30d_src": "daily snapshots"
@@ -21091,9 +21089,9 @@
    "signal": {
     "Ungraded": {
      "flag": "SPIKE_ALERT",
-     "pct": 73.7,
+     "pct": 72.9,
      "now": 22.74,
-     "base": 13.09,
+     "base": 13.15,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -21118,11 +21116,11 @@
    "title": "Justin Herbert #325 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 4.99,
+    "Ungraded": 5.44,
     "Grade 7": 9.99,
-    "Grade 8": 12.16,
-    "Grade 9": 16.0,
-    "Grade 9.5": 24.17,
+    "Grade 8": 13.77,
+    "Grade 9": 15.0,
+    "Grade 9.5": 24.18,
     "PSA 10": 45.55
    },
    "monthly": {
@@ -21177,7 +21175,7 @@
      ],
      [
       1793512800,
-      24.17
+      24.18
      ]
     ],
     "Grade 7": [
@@ -21285,7 +21283,7 @@
      ],
      [
       1793512800,
-      16.0
+      15.0
      ]
     ],
     "PSA 10": [
@@ -21393,7 +21391,7 @@
      ],
      [
       1793512800,
-      12.16
+      13.77
      ]
     ],
     "Ungraded": [
@@ -21447,15 +21445,15 @@
      ],
      [
       1793512800,
-      4.99
+      5.44
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 23.2,
-     "30d": -5.5,
+     "1d": 9.0,
+     "7d": 34.3,
+     "30d": 3.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -21850,11 +21848,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.5,
+     "pct": -2.7,
      "now": 60.31,
-     "base": 61.72,
+     "base": 61.43,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 6.17
+     "floor": 6.14
     }
    }
   },
@@ -21869,11 +21867,11 @@
    "title": "C. J. Stroud #339 Prices [Rookie]",
    "set": "2023 Panini Prizm",
    "prices": {
-    "Ungraded": 2.25,
+    "Ungraded": 2.5,
     "Grade 7": 7.5,
-    "Grade 8": 9.0,
-    "Grade 9": 15.25,
-    "Grade 9.5": 17.0,
+    "Grade 8": 9.08,
+    "Grade 9": 14.99,
+    "Grade 9.5": 16.0,
     "PSA 10": 30.0
    },
    "monthly": {
@@ -21928,7 +21926,7 @@
      ],
      [
       1793512800,
-      17.0
+      16.0
      ]
     ],
     "Grade 7": [
@@ -22036,7 +22034,7 @@
      ],
      [
       1793512800,
-      15.25
+      14.99
      ]
     ],
     "PSA 10": [
@@ -22144,7 +22142,7 @@
      ],
      [
       1793512800,
-      9.0
+      9.08
      ]
     ],
     "Ungraded": [
@@ -22198,21 +22196,21 @@
      ],
      [
       1793512800,
-      2.25
+      2.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -0.4,
-     "30d": 25.0,
+     "1d": 11.1,
+     "7d": 10.6,
+     "30d": 25.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -11.8,
-     "30d": -22.1,
+     "30d": -31.3,
      "30d_src": "daily snapshots"
     }
    },
@@ -22579,13 +22577,13 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": 2.1,
+     "7d": -28.9,
      "30d": 2.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
-     "7d": 3.3,
+     "7d": 3.8,
      "30d": -12.1,
      "30d_src": "daily snapshots"
     }
@@ -22598,9 +22596,9 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 3.8,
+     "pct": 6.4,
      "now": 43.61,
-     "base": 49.62,
+     "base": 49.48,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     }
@@ -22967,7 +22965,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 13.0,
+     "pct": 3.5,
      "now": 7.76,
      "base": 7.5,
      "basis": "median of our snapshots 8-37 days old",
@@ -22977,9 +22975,9 @@
      "flag": "normal",
      "pct": -12.6,
      "now": 302.0,
-     "base": 313.5,
+     "base": 315.75,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 31.35
+     "floor": 31.58
     }
    }
   },
@@ -23344,20 +23342,20 @@
    },
    "signal": {
     "Ungraded": {
-     "flag": "SPIKE_WATCH",
-     "pct": 38.6,
+     "flag": "normal",
+     "pct": 19.7,
      "now": 3782.88,
-     "base": 2729.69,
+     "base": 3161.28,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 272.97
+     "floor": 316.13
     },
     "PSA 10": {
      "flag": "SPIKE_WATCH",
      "pct": 38.9,
      "now": 952063.27,
-     "base": 685436.73,
+     "base": 685603.45,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 68543.67
+     "floor": 68560.34
     }
    }
   },
@@ -24088,13 +24086,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 5.7,
-     "30d": -45.1,
+     "30d": -36.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 0.9,
-     "30d": -50.4,
+     "30d": -47.9,
      "30d_src": "daily snapshots"
     }
    },
@@ -24103,17 +24101,17 @@
      "flag": "normal",
      "pct": 5.7,
      "now": 2460.0,
-     "base": 3145.86,
+     "base": 2512.98,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 314.59
+     "floor": 251.3
     },
     "PSA 10": {
      "flag": "normal",
      "pct": 0.9,
      "now": 571282.45,
-     "base": 935594.34,
+     "base": 925886.88,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 93559.43
+     "floor": 92588.69
     }
    }
   },
@@ -24856,9 +24854,9 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 2.1,
+     "pct": 12.9,
      "now": 12.0,
-     "base": 11.75,
+     "base": 11.98,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -25218,26 +25216,26 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -8.5,
+     "1d": 0.0,
      "7d": 0.6,
-     "30d": 0.8,
+     "30d": 0.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -0.0,
-     "30d": -2.9,
+     "30d": 0.0,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 12.2,
-     "now": 109.4,
-     "base": 99.25,
+     "pct": 2.6,
+     "now": 100.06,
+     "base": 99.38,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 9.93
+     "floor": 9.94
     },
     "PSA 10": {
      "flag": "normal",
@@ -25610,7 +25608,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.2,
+     "pct": -5.3,
      "now": 126.15,
      "base": 133.22,
      "basis": "median of our snapshots 8-37 days old",
@@ -25995,11 +25993,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -7.1,
+     "pct": -6.5,
      "now": 860.76,
-     "base": 926.45,
+     "base": 920.5,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 92.65
+     "floor": 92.05
     }
    }
   },
@@ -26014,11 +26012,11 @@
    "title": "Aaron Judge [Rookie Debut] #US99 Prices [Rookie]",
    "set": "2017 Topps Update",
    "prices": {
-    "Ungraded": 22.8,
+    "Ungraded": 21.75,
     "Grade 7": 29.99,
     "Grade 8": 42.65,
-    "Grade 9": 51.35,
-    "Grade 9.5": 53.81,
+    "Grade 9": 51.0,
+    "Grade 9.5": 53.41,
     "PSA 10": 192.0
    },
    "monthly": {
@@ -26073,7 +26071,7 @@
      ],
      [
       1793512800,
-      53.81
+      53.41
      ]
     ],
     "Grade 7": [
@@ -26181,7 +26179,7 @@
      ],
      [
       1793512800,
-      51.35
+      51.0
      ]
     ],
     "PSA 10": [
@@ -26343,21 +26341,21 @@
      ],
      [
       1793512800,
-      22.8
+      21.75
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 1.3,
-     "30d": -3.1,
+     "1d": -4.6,
+     "7d": -3.3,
+     "30d": -12.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": -8.6,
+     "30d": -6.6,
      "30d_src": "daily snapshots"
     }
    },
@@ -26391,12 +26389,12 @@
    "title": "Shohei Ohtani #US1 Prices [Rookie]",
    "set": "2018 Topps Update",
    "prices": {
-    "Ungraded": 85.08,
+    "Ungraded": 84.93,
     "Grade 7": 93.99,
-    "Grade 8": 100.45,
-    "Grade 9": 136.11,
-    "Grade 9.5": 230.75,
-    "PSA 10": 396.41
+    "Grade 8": 100.0,
+    "Grade 9": 140.35,
+    "Grade 9.5": 220.25,
+    "PSA 10": 393.5
    },
    "monthly": {
     "Grade 9.5": [
@@ -26450,7 +26448,7 @@
      ],
      [
       1793512800,
-      230.75
+      220.25
      ]
     ],
     "Grade 7": [
@@ -26558,7 +26556,7 @@
      ],
      [
       1793512800,
-      136.11
+      140.35
      ]
     ],
     "PSA 10": [
@@ -26612,7 +26610,7 @@
      ],
      [
       1793512800,
-      396.41
+      393.5
      ]
     ],
     "Grade 8": [
@@ -26666,7 +26664,7 @@
      ],
      [
       1793512800,
-      100.45
+      100.0
      ]
     ],
     "Ungraded": [
@@ -26720,21 +26718,21 @@
      ],
      [
       1793512800,
-      85.08
+      84.93
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.9,
-     "30d": -18.0,
+     "1d": -0.2,
+     "7d": 0.7,
+     "30d": -17.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -1.3,
-     "30d": -13.8,
+     "1d": -0.7,
+     "7d": -2.0,
+     "30d": -14.0,
      "30d_src": "daily snapshots"
     }
    },
@@ -26768,12 +26766,12 @@
    "title": "Shohei Ohtani #HMT1 Prices [Rookie]",
    "set": "2018 Topps Chrome Update",
    "prices": {
-    "Ungraded": 205.0,
-    "Grade 7": 157.0,
-    "Grade 8": 196.85,
-    "Grade 9": 235.98,
+    "Ungraded": 215.0,
+    "Grade 7": 149.0,
+    "Grade 8": 186.56,
+    "Grade 9": 233.69,
     "Grade 9.5": 415.94,
-    "PSA 10": 662.79
+    "PSA 10": 651.44
    },
    "monthly": {
     "Grade 9.5": [
@@ -26881,7 +26879,7 @@
      ],
      [
       1793512800,
-      157.0
+      149.0
      ]
     ],
     "Grade 9": [
@@ -26935,7 +26933,7 @@
      ],
      [
       1793512800,
-      235.98
+      233.69
      ]
     ],
     "PSA 10": [
@@ -26989,7 +26987,7 @@
      ],
      [
       1793512800,
-      662.79
+      651.44
      ]
     ],
     "Grade 8": [
@@ -27043,7 +27041,7 @@
      ],
      [
       1793512800,
-      196.85
+      186.56
      ]
     ],
     "Ungraded": [
@@ -27097,21 +27095,21 @@
      ],
      [
       1793512800,
-      205.0
+      215.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -8.0,
-     "30d": -8.9,
+     "1d": 4.9,
+     "7d": -3.5,
+     "30d": -2.4,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -3.2,
-     "30d": -15.8,
+     "1d": -1.7,
+     "7d": -4.9,
+     "30d": -7.6,
      "30d_src": "daily snapshots"
     }
    },
@@ -27482,13 +27480,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 7.6,
-     "30d": 30.9,
+     "30d": 34.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -3.1,
-     "30d": -8.9,
+     "30d": -10.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -27863,7 +27861,7 @@
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 3.9,
+     "1d": 0.0,
      "7d": 3.9,
      "30d": 3.9,
      "30d_src": "daily snapshots"
@@ -27877,8 +27875,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.0,
-     "now": 19.15,
+     "pct": 3.9,
+     "now": 19.9,
      "base": 19.15,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
@@ -27896,12 +27894,12 @@
    "title": "Julio Rodriguez #US44 Prices [Rookie]",
    "set": "2022 Topps Update",
    "prices": {
-    "Ungraded": 1.28,
+    "Ungraded": 1.26,
     "Grade 7": 3.78,
     "Grade 8": 6.63,
-    "Grade 9": 10.5,
-    "Grade 9.5": 12.0,
-    "PSA 10": 22.08
+    "Grade 9": 10.01,
+    "Grade 9.5": 11.0,
+    "PSA 10": 21.97
    },
    "monthly": {
     "Grade 9.5": [
@@ -27955,7 +27953,7 @@
      ],
      [
       1793512800,
-      12.0
+      11.0
      ]
     ],
     "Grade 7": [
@@ -28063,7 +28061,7 @@
      ],
      [
       1793512800,
-      10.5
+      10.01
      ]
     ],
     "PSA 10": [
@@ -28117,7 +28115,7 @@
      ],
      [
       1793512800,
-      22.08
+      21.97
      ]
     ],
     "Grade 8": [
@@ -28225,21 +28223,21 @@
      ],
      [
       1793512800,
-      1.28
+      1.26
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -17.4,
-     "30d": -16.3,
+     "1d": -1.6,
+     "7d": -18.7,
+     "30d": -17.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -9.9,
+     "1d": -0.5,
+     "7d": -0.5,
+     "30d": -10.3,
      "30d_src": "daily snapshots"
     }
    },
@@ -28247,7 +28245,7 @@
     "Ungraded": {
      "flag": "below_price_floor",
      "now": 1.28,
-     "base": 1.51
+     "base": 1.52
     },
     "PSA 10": {
      "flag": "normal",
@@ -28605,8 +28603,8 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 7.1,
-     "7d": 16.1,
+     "1d": 0.0,
+     "7d": 14.1,
      "30d": 28.5,
      "30d_src": "daily snapshots"
     },
@@ -28620,7 +28618,7 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 3.24,
+     "now": 3.47,
      "base": 2.6399999999999997
     },
     "PSA 10": {
@@ -28994,7 +28992,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -16.9,
+     "pct": 5.8,
      "now": 332.5,
      "base": 375.82,
      "basis": "median of our snapshots 8-37 days old",
@@ -29356,14 +29354,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 4.9,
-     "7d": -5.0,
+     "1d": 0.0,
+     "7d": 3.9,
      "30d": 4.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.3,
-     "7d": -1.9,
+     "1d": 0.0,
+     "7d": -0.1,
      "30d": -5.1,
      "30d_src": "daily snapshots"
     }
@@ -29371,19 +29369,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -9.2,
-     "now": 100.04,
+     "pct": 3.9,
+     "now": 104.92,
      "base": 110.22,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 11.02
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.2,
-     "now": 227.35,
-     "base": 236.58,
+     "pct": -3.9,
+     "now": 226.75,
+     "base": 235.99,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 23.66
+     "floor": 23.6
     }
    }
   },
@@ -29748,19 +29746,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -14.2,
+     "pct": 1.8,
      "now": 296.54,
-     "base": 345.6,
+     "base": 343.43,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 34.56
+     "floor": 34.34
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -17.0,
+     "pct": -16.5,
      "now": 640.0,
-     "base": 770.67,
+     "base": 766.85,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 77.07
+     "floor": 76.69
     }
    }
   },
@@ -30113,19 +30111,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 5.1,
+     "pct": 9.1,
      "now": 550.06,
-     "base": 604.08,
+     "base": 602.69,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 60.41
+     "floor": 60.27
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -14.8,
+     "pct": -14.6,
      "now": 1080.46,
-     "base": 1268.38,
+     "base": 1265.44,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 126.84
+     "floor": 126.54
     }
    }
   },
@@ -30463,14 +30461,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -0.5,
-     "7d": -8.7,
+     "1d": 0.0,
+     "7d": -10.8,
      "30d": -9.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.0,
-     "7d": -3.3,
+     "1d": 0.0,
+     "7d": -2.2,
      "30d": -7.0,
      "30d_src": "daily snapshots"
     }
@@ -30478,19 +30476,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.3,
-     "now": 181.35,
-     "base": 201.22,
+     "pct": -10.8,
+     "now": 180.38,
+     "base": 200.75,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 20.12
+     "floor": 20.07
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.5,
-     "now": 1892.5,
-     "base": 2025.0,
+     "pct": -6.3,
+     "now": 1892.35,
+     "base": 2018.75,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 202.5
+     "floor": 201.88
     }
    }
   },
@@ -30854,20 +30852,20 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": -6.1,
-     "30d": -1.1,
+     "30d": -5.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": 0.0,
-     "30d": 43.2,
+     "30d": 3.9,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -6.1,
+     "pct": -5.0,
      "now": 13.3,
      "base": 14.0,
      "basis": "median of our snapshots 8-37 days old",
@@ -31242,14 +31240,14 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": -1.5,
-     "30d": -1.8,
+     "7d": -1.0,
+     "30d": -12.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
-     "7d": 0.2,
-     "30d": 0.7,
+     "7d": 0.1,
+     "30d": 0.6,
      "30d_src": "daily snapshots"
     }
    },
@@ -31284,10 +31282,10 @@
    "title": "Dark Magician GFTP-EN128 Prices",
    "set": "YuGiOh Ghosts From the Past",
    "prices": {
-    "Ungraded": 507.0,
+    "Ungraded": 471.42,
     "Grade 7": 400.0,
     "Grade 8": 576.08,
-    "Grade 9": 834.93,
+    "Grade 9": 834.69,
     "Grade 9.5": 1199.93,
     "PSA 10": 2425.0
    },
@@ -31451,7 +31449,7 @@
      ],
      [
       1793512800,
-      834.93
+      834.69
      ]
     ],
     "PSA 10": [
@@ -31613,7 +31611,7 @@
      ],
      [
       1793512800,
-      507.0
+      471.42
      ]
     ]
    },
@@ -31630,9 +31628,9 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -0.1,
-     "30d": 2.1,
+     "1d": -7.0,
+     "7d": -7.1,
+     "30d": -5.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -32010,8 +32008,8 @@
     "set_code": "TDGS-EN040",
     "set_price": 31.54,
     "all_printings_low": {
-     "cardmarket": 0.7,
-     "tcgplayer": 0.85,
+     "cardmarket": 0.56,
+     "tcgplayer": 0.81,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -32346,7 +32344,7 @@
     "set_price": 37.57,
     "all_printings_low": {
      "cardmarket": 0.6,
-     "tcgplayer": 0.8,
+     "tcgplayer": 0.79,
      "ebay": 1.33,
      "amazon": 3.59,
      "coolstuffinc": 1.99
@@ -32355,7 +32353,7 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": 2.4,
+     "7d": 0.0,
      "30d": 3.9,
      "30d_src": "daily snapshots"
     },
@@ -32730,7 +32728,7 @@
     "set_price": 98.04,
     "all_printings_low": {
      "cardmarket": 0.42,
-     "tcgplayer": 0.41,
+     "tcgplayer": 0.45,
      "ebay": 11.95,
      "amazon": 28.99,
      "coolstuffinc": 4.99
@@ -33119,7 +33117,7 @@
     "set_price": 478.09,
     "all_printings_low": {
      "cardmarket": 0.1,
-     "tcgplayer": 0.72,
+     "tcgplayer": 0.66,
      "ebay": 2.9,
      "amazon": 5.9,
      "coolstuffinc": 1.49
@@ -33133,7 +33131,7 @@
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -1.4,
+     "1d": 0.0,
      "7d": -1.4,
      "30d": -1.1,
      "30d_src": "daily snapshots"
@@ -33150,8 +33148,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -2.9,
-     "now": 199.58,
+     "pct": -4.2,
+     "now": 196.82,
      "base": 205.51,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 20.55
@@ -33507,8 +33505,8 @@
     "set_code": "DAMA-EN100",
     "set_price": 635.43,
     "all_printings_low": {
-     "cardmarket": 0.7,
-     "tcgplayer": 0.85,
+     "cardmarket": 0.56,
+     "tcgplayer": 0.81,
      "ebay": 355.0,
      "amazon": 2.49,
      "coolstuffinc": 0.99
@@ -33522,8 +33520,8 @@
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.5,
-     "7d": -6.4,
+     "1d": 0.0,
+     "7d": -0.5,
      "30d": -6.1,
      "30d_src": "daily snapshots"
     }
@@ -33539,8 +33537,8 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -5.8,
-     "now": 565.96,
+     "pct": -6.3,
+     "now": 563.38,
      "base": 601.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 60.1
@@ -33559,12 +33557,12 @@
    "title": "Maxx C CT09-EN012 Prices",
    "set": "YuGiOh Collectible Tins 2012",
    "prices": {
-    "Ungraded": 6.0,
-    "Grade 7": 8.35,
-    "Grade 8": 17.58,
+    "Ungraded": 6.03,
+    "Grade 7": 8.88,
+    "Grade 8": 18.38,
     "Grade 9": 24.9,
     "Grade 9.5": 27.0,
-    "PSA 10": 125.68
+    "PSA 10": 132.05
    },
    "monthly": {
     "Grade 9.5": [
@@ -33672,7 +33670,7 @@
      ],
      [
       1793512800,
-      8.35
+      8.88
      ]
     ],
     "Grade 9": [
@@ -33780,7 +33778,7 @@
      ],
      [
       1793512800,
-      125.68
+      132.05
      ]
     ],
     "Grade 8": [
@@ -33834,7 +33832,7 @@
      ],
      [
       1793512800,
-      17.58
+      18.38
      ]
     ],
     "Ungraded": [
@@ -33888,7 +33886,7 @@
      ],
      [
       1793512800,
-      6.0
+      6.03
      ]
     ]
    },
@@ -33897,7 +33895,7 @@
     "set_price": 27.0,
     "all_printings_low": {
      "cardmarket": 1.62,
-     "tcgplayer": 4.32,
+     "tcgplayer": 4.51,
      "ebay": 7.5,
      "amazon": 69.99,
      "coolstuffinc": 13.99
@@ -33905,15 +33903,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 6.4,
-     "30d": 0.2,
+     "1d": 0.5,
+     "7d": 0.5,
+     "30d": 0.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -1.3,
-     "30d": 2.0,
+     "1d": 5.1,
+     "7d": 5.1,
+     "30d": 7.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -33948,12 +33946,12 @@
    "title": "Mulcharmy Fuwalos MP25-EN102 Prices",
    "set": "YuGiOh 2025 Mega Pack Tin",
    "prices": {
-    "Ungraded": 19.9,
+    "Ungraded": 19.99,
     "Grade 7": 29.45,
     "Grade 8": 49.38,
     "Grade 9": 98.9,
     "Grade 9.5": 109.0,
-    "PSA 10": 153.21
+    "PSA 10": 153.04
    },
    "monthly": {
     "Grade 9.5": [
@@ -34169,7 +34167,7 @@
      ],
      [
       1793512800,
-      153.21
+      153.04
      ]
     ],
     "Grade 8": [
@@ -34277,7 +34275,7 @@
      ],
      [
       1793512800,
-      19.9
+      19.99
      ]
     ]
    },
@@ -34285,21 +34283,21 @@
     "set_code": "MP25-EN102",
     "set_price": null,
     "all_printings_low": {
-     "cardmarket": 6.02,
-     "tcgplayer": 12.39
+     "cardmarket": 6.1,
+     "tcgplayer": 11.74
     }
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": 5.0,
+     "1d": 0.5,
+     "7d": 0.5,
+     "30d": 5.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -0.6,
-     "30d": 15.3,
+     "1d": -0.1,
+     "7d": -0.7,
+     "30d": 15.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -34314,11 +34312,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 1.3,
+     "pct": -0.7,
      "now": 153.21,
-     "base": 151.27,
+     "base": 154.23,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 15.13
+     "floor": 15.42
     }
    }
   },
@@ -34683,7 +34681,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 1.0,
+     "pct": -5.0,
      "now": 378.75,
      "base": 398.67,
      "basis": "median of our snapshots 8-37 days old",
@@ -34710,11 +34708,11 @@
    "title": "Tom Brady #236 Prices [Rookie]",
    "set": "2000 Bowman Chrome",
    "prices": {
-    "Ungraded": 2847.25,
-    "Grade 7": 3705.56,
-    "Grade 8": 4773.03,
-    "Grade 9": 7703.0,
-    "Grade 9.5": 9077.29,
+    "Ungraded": 2752.5,
+    "Grade 7": 3730.12,
+    "Grade 8": 4837.58,
+    "Grade 9": 7673.98,
+    "Grade 9.5": 9100.51,
     "PSA 10": 22000.0
    },
    "monthly": {
@@ -34769,7 +34767,7 @@
      ],
      [
       1793512800,
-      9077.29
+      9100.51
      ]
     ],
     "Grade 7": [
@@ -34823,7 +34821,7 @@
      ],
      [
       1793512800,
-      3705.56
+      3730.12
      ]
     ],
     "Grade 9": [
@@ -34877,7 +34875,7 @@
      ],
      [
       1793512800,
-      7703.0
+      7673.98
      ]
     ],
     "PSA 10": [
@@ -34985,7 +34983,7 @@
      ],
      [
       1793512800,
-      4773.03
+      4837.58
      ]
     ],
     "Ungraded": [
@@ -35039,15 +35037,15 @@
      ],
      [
       1793512800,
-      2847.25
+      2752.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -23.0,
-     "30d": -30.2,
+     "1d": -3.3,
+     "7d": -25.6,
+     "30d": -32.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -35062,17 +35060,17 @@
      "flag": "normal",
      "pct": 0.6,
      "now": 2847.25,
-     "base": 3889.42,
+     "base": 3878.82,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 388.94
+     "floor": 387.88
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -0.1,
+     "pct": 0.0,
      "now": 22000.0,
-     "base": 22028.0,
+     "base": 22000.0,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 2202.8
+     "floor": 2200.0
     }
    }
   },
@@ -35087,12 +35085,12 @@
    "title": "Jalen Hurts #343 Prices [Rookie]",
    "set": "2020 Panini Prizm",
    "prices": {
-    "Ungraded": 3.24,
-    "Grade 7": 5.04,
+    "Ungraded": 3.23,
+    "Grade 7": 5.03,
     "Grade 8": 14.83,
     "Grade 9": 18.99,
-    "Grade 9.5": 21.51,
-    "PSA 10": 49.5
+    "Grade 9.5": 21.52,
+    "PSA 10": 45.63
    },
    "monthly": {
     "Grade 9.5": [
@@ -35146,7 +35144,7 @@
      ],
      [
       1793512800,
-      21.51
+      21.52
      ]
     ],
     "Grade 7": [
@@ -35200,7 +35198,7 @@
      ],
      [
       1793512800,
-      5.04
+      5.03
      ]
     ],
     "Grade 9": [
@@ -35308,7 +35306,7 @@
      ],
      [
       1793512800,
-      49.5
+      45.63
      ]
     ],
     "Grade 8": [
@@ -35416,30 +35414,30 @@
      ],
      [
       1793512800,
-      3.24
+      3.23
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -0.3,
-     "30d": -22.9,
+     "1d": -0.3,
+     "7d": -0.6,
+     "30d": -23.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 3.1,
-     "30d": -1.0,
+     "1d": -7.8,
+     "7d": -4.9,
+     "30d": -8.7,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -5.5,
+     "pct": -5.4,
      "now": 3.24,
-     "base": 3.43,
+     "base": 3.42,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -35732,7 +35730,7 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": -7.5,
+     "7d": -8.8,
      "30d": 24.0,
      "30d_src": "daily snapshots"
     },
@@ -35770,11 +35768,11 @@
    "title": "LeBron James #221 Prices [Rookie]",
    "set": "2003 Topps",
    "prices": {
-    "Ungraded": 619.19,
-    "Grade 7": 629.44,
-    "Grade 8": 742.27,
-    "Grade 9": 1294.0,
-    "Grade 9.5": 2180.89,
+    "Ungraded": 604.24,
+    "Grade 7": 604.46,
+    "Grade 8": 725.0,
+    "Grade 9": 1269.44,
+    "Grade 9.5": 2013.0,
     "PSA 10": 5612.0
    },
    "monthly": {
@@ -35829,7 +35827,7 @@
      ],
      [
       1793512800,
-      2180.89
+      2013.0
      ]
     ],
     "Grade 7": [
@@ -35883,7 +35881,7 @@
      ],
      [
       1793512800,
-      629.44
+      604.46
      ]
     ],
     "Grade 9": [
@@ -35937,7 +35935,7 @@
      ],
      [
       1793512800,
-      1294.0
+      1269.44
      ]
     ],
     "PSA 10": [
@@ -36045,7 +36043,7 @@
      ],
      [
       1793512800,
-      742.27
+      725.0
      ]
     ],
     "Ungraded": [
@@ -36099,21 +36097,21 @@
      ],
      [
       1793512800,
-      619.19
+      604.24
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -9.6,
-     "30d": -5.9,
+     "1d": -2.4,
+     "7d": -11.8,
+     "30d": -15.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -4.0,
-     "30d": -9.9,
+     "30d": -8.5,
      "30d_src": "daily snapshots"
     }
    },
@@ -36859,14 +36857,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -2.2,
+     "1d": 0.0,
      "7d": -2.4,
      "30d": -10.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.4,
-     "7d": -4.7,
+     "1d": 0.0,
+     "7d": -5.1,
      "30d": -4.6,
      "30d_src": "daily snapshots"
     }
@@ -36874,16 +36872,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -3.8,
-     "now": 174.6,
-     "base": 181.53,
+     "pct": -5.6,
+     "now": 170.72,
+     "base": 180.83,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 18.15
+     "floor": 18.08
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -5.5,
-     "now": 924.87,
+     "pct": -5.1,
+     "now": 929.0,
      "base": 974.37,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 97.44
@@ -37238,13 +37236,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": -27.3,
-     "30d": -32.2,
+     "30d": -31.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -6.4,
-     "30d": -2.3,
+     "30d": -8.3,
      "30d_src": "daily snapshots"
     }
    },
@@ -37583,20 +37581,20 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 8.3,
-     "30d": -8.4,
+     "30d": 7.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -6.9,
-     "30d": -12.6,
+     "30d": -10.2,
      "30d_src": "daily snapshots"
     }
    },
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 8.3,
+     "pct": 1.2,
      "now": 18.31,
      "base": 18.1,
      "basis": "median of our snapshots 8-37 days old",
@@ -37606,9 +37604,9 @@
      "flag": "normal",
      "pct": -11.0,
      "now": 256.0,
-     "base": 287.75,
+     "base": 287.5,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 28.78
+     "floor": 28.75
     }
    }
   },
@@ -38335,9 +38333,9 @@
      "flag": "normal",
      "pct": -0.0,
      "now": 18903.39,
-     "base": 18909.13,
+     "base": 18907.97,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 1890.91
+     "floor": 1890.8
     }
    }
   },
@@ -38687,14 +38685,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 7.4,
+     "1d": 0.0,
      "7d": 3.6,
      "30d": -5.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -3.1,
-     "7d": -7.1,
+     "1d": 0.0,
+     "7d": -4.9,
      "30d": -7.6,
      "30d_src": "daily snapshots"
     }
@@ -38702,19 +38700,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -10.7,
-     "now": 407.5,
-     "base": 456.57,
+     "pct": 3.6,
+     "now": 437.5,
+     "base": 450.34,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 45.66
+     "floor": 45.03
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -4.4,
-     "now": 908.13,
-     "base": 950.0,
+     "pct": -7.3,
+     "now": 879.78,
+     "base": 948.75,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 95.0
+     "floor": 94.88
     }
    }
   },
@@ -38729,9 +38727,9 @@
    "title": "Juan Soto #US300 Prices [Rookie]",
    "set": "2018 Topps Update",
    "prices": {
-    "Ungraded": 6.02,
-    "Grade 7": 10.71,
-    "Grade 8": 15.0,
+    "Ungraded": 6.99,
+    "Grade 7": 10.67,
+    "Grade 8": 15.5,
     "Grade 9": 18.94,
     "Grade 9.5": 23.01,
     "PSA 10": 39.5
@@ -38842,7 +38840,7 @@
      ],
      [
       1793512800,
-      10.71
+      10.67
      ]
     ],
     "Grade 9": [
@@ -39004,7 +39002,7 @@
      ],
      [
       1793512800,
-      15.0
+      15.5
      ]
     ],
     "Ungraded": [
@@ -39058,21 +39056,21 @@
      ],
      [
       1793512800,
-      6.02
+      6.99
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -7.5,
-     "30d": 0.3,
+     "1d": 16.1,
+     "7d": 7.4,
+     "30d": -3.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -1.2,
-     "30d": -1.2,
+     "30d": -2.5,
      "30d_src": "daily snapshots"
     }
    },
@@ -39441,14 +39439,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.9,
-     "7d": 3.9,
+     "1d": 0.0,
+     "7d": 9.2,
      "30d": -3.4,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -2.9,
-     "7d": -7.2,
+     "1d": 0.0,
+     "7d": -2.9,
      "30d": -7.2,
      "30d_src": "daily snapshots"
     }
@@ -39456,19 +39454,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 8.2,
-     "now": 29.22,
+     "pct": 9.2,
+     "now": 29.49,
      "base": 28.37,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -6.2,
-     "now": 243.75,
-     "base": 260.0,
+     "pct": -8.2,
+     "now": 236.75,
+     "base": 257.93,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 26.0
+     "floor": 25.79
     }
    }
   },
@@ -40192,13 +40190,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": -8.2,
+     "1d": 0.0,
      "7d": -24.1,
      "30d": -15.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 7.6,
+     "1d": 0.0,
      "7d": 7.6,
      "30d": -4.6,
      "30d_src": "daily snapshots"
@@ -40207,19 +40205,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -17.3,
-     "now": 4.5,
+     "pct": -19.6,
+     "now": 4.13,
      "base": 5.14,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -2.4,
-     "now": 91.13,
-     "base": 93.4,
+     "pct": 7.6,
+     "now": 98.04,
+     "base": 91.86,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 9.34
+     "floor": 9.19
     }
    }
   },
@@ -40533,7 +40531,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 5.3,
+     "1d": 0.0,
      "7d": 5.3,
      "30d": 5.3,
      "30d_src": "daily snapshots"
@@ -40548,7 +40546,7 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 1.5,
+     "now": 1.58,
      "base": 1.5
     },
     "PSA 10": {
@@ -41269,12 +41267,12 @@
    "title": "Mega Zygarde ex #124 Prices",
    "set": "Pokemon Perfect Order",
    "prices": {
-    "Ungraded": 80.87,
-    "Grade 7": 67.0,
-    "Grade 8": 83.56,
-    "Grade 9": 94.25,
-    "Grade 9.5": 276.0,
-    "PSA 10": 390.0
+    "Ungraded": 87.89,
+    "Grade 7": 73.72,
+    "Grade 8": 105.81,
+    "Grade 9": 169.19,
+    "Grade 9.5": 188.5,
+    "PSA 10": 737.27
    },
    "monthly": {
     "Grade 9.5": [
@@ -41312,7 +41310,7 @@
      ],
      [
       1793512800,
-      276.0
+      188.5
      ]
     ],
     "Grade 7": [
@@ -41342,7 +41340,7 @@
      ],
      [
       1793512800,
-      67.0
+      73.72
      ]
     ],
     "Grade 9": [
@@ -41380,7 +41378,7 @@
      ],
      [
       1793512800,
-      94.25
+      169.19
      ]
     ],
     "PSA 10": [
@@ -41418,7 +41416,7 @@
      ],
      [
       1793512800,
-      390.0
+      737.27
      ]
     ],
     "Grade 8": [
@@ -41444,7 +41442,7 @@
      ],
      [
       1793512800,
-      83.56
+      105.81
      ]
     ],
     "Ungraded": [
@@ -41482,21 +41480,21 @@
      ],
      [
       1793512800,
-      80.87
+      87.89
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -2.5,
-     "30d": -18.3,
+     "1d": 8.7,
+     "7d": 6.0,
+     "30d": -4.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -0.6,
-     "30d": -0.8,
+     "1d": 89.0,
+     "7d": 87.8,
+     "30d": 85.5,
      "30d_src": "daily snapshots"
     }
    },
@@ -41515,7 +41513,8 @@
      "now": 390.0,
      "base": 397.5,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 39.75
+     "floor": 39.75,
+     "day_jump": "pending confirmation"
     }
    }
   },
@@ -41531,10 +41530,10 @@
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
     "Ungraded": 88.13,
-    "Grade 7": 75.76,
-    "Grade 8": 77.17,
-    "Grade 9": 88.31,
-    "Grade 9.5": 145.29,
+    "Grade 7": 57.0,
+    "Grade 8": 71.0,
+    "Grade 9": 92.69,
+    "Grade 9.5": 145.77,
     "PSA 10": 341.24
    },
    "monthly": {
@@ -41589,7 +41588,7 @@
      ],
      [
       1793512800,
-      145.29
+      145.77
      ]
     ],
     "Grade 7": [
@@ -41643,7 +41642,7 @@
      ],
      [
       1793512800,
-      75.76
+      57.0
      ]
     ],
     "Grade 9": [
@@ -41697,7 +41696,7 @@
      ],
      [
       1793512800,
-      88.31
+      92.69
      ]
     ],
     "PSA 10": [
@@ -41805,7 +41804,7 @@
      ],
      [
       1793512800,
-      77.17
+      71.0
      ]
     ],
     "Ungraded": [
@@ -41867,13 +41866,13 @@
     "Ungraded": {
      "1d": 0.0,
      "7d": 0.5,
-     "30d": -4.1,
+     "30d": 1.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -4.5,
-     "30d": -16.0,
+     "30d": -14.7,
      "30d_src": "daily snapshots"
     }
    },
@@ -41907,11 +41906,11 @@
    "title": "Ivysaur #167 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 36.14,
-    "Grade 7": 37.0,
-    "Grade 8": 37.55,
-    "Grade 9": 46.54,
-    "Grade 9.5": 51.0,
+    "Ungraded": 36.1,
+    "Grade 7": 29.0,
+    "Grade 8": 36.0,
+    "Grade 9": 48.0,
+    "Grade 9.5": 53.0,
     "PSA 10": 206.35
    },
    "monthly": {
@@ -41966,7 +41965,7 @@
      ],
      [
       1793512800,
-      51.0
+      53.0
      ]
     ],
     "Grade 7": [
@@ -42020,7 +42019,7 @@
      ],
      [
       1793512800,
-      37.0
+      29.0
      ]
     ],
     "Grade 9": [
@@ -42074,7 +42073,7 @@
      ],
      [
       1793512800,
-      46.54
+      48.0
      ]
     ],
     "PSA 10": [
@@ -42182,7 +42181,7 @@
      ],
      [
       1793512800,
-      37.55
+      36.0
      ]
     ],
     "Ungraded": [
@@ -42236,15 +42235,15 @@
      ],
      [
       1793512800,
-      36.14
+      36.1
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -0.8,
-     "30d": 0.4,
+     "1d": -0.1,
+     "7d": -0.9,
+     "30d": 0.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -42265,11 +42264,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -13.8,
+     "pct": -12.7,
      "now": 206.35,
-     "base": 239.25,
+     "base": 236.34,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 23.93
+     "floor": 23.63
     }
    }
   },
@@ -42634,9 +42633,9 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.2,
+     "pct": 2.1,
      "now": 50.68,
-     "base": 53.05,
+     "base": 53.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.3
     },
@@ -42644,9 +42643,9 @@
      "flag": "normal",
      "pct": -9.0,
      "now": 382.5,
-     "base": 420.16,
+     "base": 420.32,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 42.02
+     "floor": 42.03
     }
    }
   },
@@ -42661,9 +42660,9 @@
    "title": "Charmander #168 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 78.02,
+    "Ungraded": 76.23,
     "Grade 7": 64.0,
-    "Grade 8": 66.52,
+    "Grade 8": 66.25,
     "Grade 9": 88.94,
     "Grade 9.5": 90.0,
     "PSA 10": 530.0
@@ -42936,7 +42935,7 @@
      ],
      [
       1793512800,
-      66.52
+      66.25
      ]
     ],
     "Ungraded": [
@@ -42990,21 +42989,21 @@
      ],
      [
       1793512800,
-      78.02
+      76.23
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.3,
-     "30d": -5.6,
+     "1d": -2.3,
+     "7d": -2.0,
+     "30d": -4.3,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -0.4,
-     "30d": -7.3,
+     "30d": -3.4,
      "30d_src": "daily snapshots"
     }
    },
@@ -43373,13 +43372,13 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.2,
-     "7d": -1.8,
+     "1d": 0.0,
+     "7d": 10.3,
      "30d": -12.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -1.1,
+     "1d": 0.0,
      "7d": -3.3,
      "30d": 2.3,
      "30d_src": "daily snapshots"
@@ -43388,16 +43387,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 10.1,
-     "now": 10.36,
-     "base": 10.95,
+     "pct": 0.2,
+     "now": 10.38,
+     "base": 10.88,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -5.9,
-     "now": 88.5,
+     "pct": -7.0,
+     "now": 87.5,
      "base": 94.09,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 9.41
@@ -43415,12 +43414,12 @@
    "title": "Mew ex #205 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 22.94,
+    "Ungraded": 22.5,
     "Grade 7": 24.0,
-    "Grade 8": 27.5,
-    "Grade 9": 50.0,
-    "Grade 9.5": 55.0,
-    "PSA 10": 209.89
+    "Grade 8": 28.03,
+    "Grade 9": 48.36,
+    "Grade 9.5": 53.0,
+    "PSA 10": 189.34
    },
    "monthly": {
     "Grade 9.5": [
@@ -43474,7 +43473,7 @@
      ],
      [
       1793512800,
-      55.0
+      53.0
      ]
     ],
     "Grade 7": [
@@ -43582,7 +43581,7 @@
      ],
      [
       1793512800,
-      50.0
+      48.36
      ]
     ],
     "PSA 10": [
@@ -43636,7 +43635,7 @@
      ],
      [
       1793512800,
-      209.89
+      189.34
      ]
     ],
     "Grade 8": [
@@ -43690,7 +43689,7 @@
      ],
      [
       1793512800,
-      27.5
+      28.03
      ]
     ],
     "Ungraded": [
@@ -43744,21 +43743,21 @@
      ],
      [
       1793512800,
-      22.94
+      22.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 2.3,
-     "30d": -10.6,
+     "1d": -1.9,
+     "7d": 0.4,
+     "30d": -1.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 2.8,
-     "30d": -5.8,
+     "1d": -9.8,
+     "7d": -7.3,
+     "30d": -15.9,
      "30d_src": "daily snapshots"
     }
    },
@@ -44128,12 +44127,12 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": 2.3,
+     "7d": -3.9,
      "30d": -9.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -2.3,
+     "1d": 0.0,
      "7d": -2.2,
      "30d": -2.8,
      "30d_src": "daily snapshots"
@@ -44142,19 +44141,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -4.5,
+     "pct": -4.4,
      "now": 15.37,
-     "base": 16.09,
+     "base": 16.07,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.2,
-     "now": 160.37,
-     "base": 166.26,
+     "pct": -4.3,
+     "now": 156.66,
+     "base": 163.75,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 16.63
+     "floor": 16.38
     }
    }
   },
@@ -44169,12 +44168,12 @@
    "title": "Dragonair #181 Prices",
    "set": "Pokemon Scarlet & Violet 151",
    "prices": {
-    "Ungraded": 37.0,
+    "Ungraded": 37.25,
     "Grade 7": 24.0,
     "Grade 8": 30.0,
     "Grade 9": 46.5,
-    "Grade 9.5": 79.63,
-    "PSA 10": 200.0
+    "Grade 9.5": 79.58,
+    "PSA 10": 199.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -44228,7 +44227,7 @@
      ],
      [
       1793512800,
-      79.63
+      79.58
      ]
     ],
     "Grade 7": [
@@ -44390,7 +44389,7 @@
      ],
      [
       1793512800,
-      200.0
+      199.0
      ]
     ],
     "Grade 8": [
@@ -44498,21 +44497,21 @@
      ],
      [
       1793512800,
-      37.0
+      37.25
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 2.3,
-     "30d": 0.0,
+     "1d": 0.7,
+     "7d": 3.0,
+     "30d": 0.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -4.7,
-     "30d": -8.5,
+     "1d": -0.5,
+     "7d": -5.2,
+     "30d": -8.9,
      "30d_src": "daily snapshots"
     }
    },
@@ -44546,10 +44545,10 @@
    "title": "Team Rocket's Meowth #203 Prices",
    "set": "Pokemon Destined Rivals",
    "prices": {
-    "Ungraded": 16.65,
-    "Grade 7": 20.48,
+    "Ungraded": 16.64,
+    "Grade 7": 20.37,
     "Grade 8": 24.96,
-    "Grade 9": 26.0,
+    "Grade 9": 25.15,
     "Grade 9.5": 46.0,
     "PSA 10": 190.0
    },
@@ -44659,7 +44658,7 @@
      ],
      [
       1793512800,
-      20.48
+      20.37
      ]
     ],
     "Grade 9": [
@@ -44713,7 +44712,7 @@
      ],
      [
       1793512800,
-      26.0
+      25.15
      ]
     ],
     "PSA 10": [
@@ -44875,15 +44874,15 @@
      ],
      [
       1793512800,
-      16.65
+      16.64
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.5,
-     "30d": -5.0,
+     "1d": -0.1,
+     "7d": 0.4,
+     "30d": -4.9,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -44896,9 +44895,9 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -8.5,
+     "pct": -7.7,
      "now": 16.65,
-     "base": 18.19,
+     "base": 18.03,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -44923,10 +44922,10 @@
    "title": "Team Rocket's Houndoom #191 Prices",
    "set": "Pokemon Destined Rivals",
    "prices": {
-    "Ungraded": 8.0,
-    "Grade 7": 10.0,
-    "Grade 8": 13.0,
-    "Grade 9": 20.27,
+    "Ungraded": 9.54,
+    "Grade 7": 13.25,
+    "Grade 8": 13.43,
+    "Grade 9": 20.05,
     "Grade 9.5": 21.0,
     "PSA 10": 155.89
    },
@@ -45036,7 +45035,7 @@
      ],
      [
       1793512800,
-      10.0
+      13.25
      ]
     ],
     "Grade 9": [
@@ -45090,7 +45089,7 @@
      ],
      [
       1793512800,
-      20.27
+      20.05
      ]
     ],
     "PSA 10": [
@@ -45198,7 +45197,7 @@
      ],
      [
       1793512800,
-      13.0
+      13.43
      ]
     ],
     "Ungraded": [
@@ -45252,15 +45251,15 @@
      ],
      [
       1793512800,
-      8.0
+      9.54
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -19.9,
-     "30d": -16.7,
+     "1d": 19.2,
+     "7d": -4.5,
+     "30d": -0.6,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -45273,19 +45272,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -25.5,
+     "pct": -24.1,
      "now": 8.0,
-     "base": 10.74,
+     "base": 10.54,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 3.9,
+     "pct": 2.6,
      "now": 155.89,
-     "base": 150.0,
+     "base": 151.88,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 15.0
+     "floor": 15.19
     }
    }
   },
@@ -45634,7 +45633,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 5.5,
+     "1d": 0.0,
      "7d": 7.7,
      "30d": 9.7,
      "30d_src": "daily snapshots"
@@ -45649,8 +45648,8 @@
    "signal": {
     "Ungraded": {
      "flag": "below_price_floor",
-     "now": 3.43,
-     "base": 2.87
+     "now": 3.62,
+     "base": 2.95
     },
     "PSA 10": {
      "flag": "normal",
@@ -45672,9 +45671,9 @@
    "title": "Blue-Eyes White Dragon LDS2-EN001 Prices",
    "set": "YuGiOh Legendary Duelists: Season 2",
    "prices": {
-    "Ungraded": 3.17,
+    "Ungraded": 3.69,
     "Grade 7": 17.36,
-    "Grade 8": 24.45,
+    "Grade 8": 29.99,
     "Grade 9": 53.99,
     "Grade 9.5": 59.0,
     "PSA 10": 64.99
@@ -45947,7 +45946,7 @@
      ],
      [
       1793512800,
-      24.45
+      29.99
      ]
     ],
     "Ungraded": [
@@ -46001,15 +46000,15 @@
      ],
      [
       1793512800,
-      3.17
+      3.69
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -13.4,
-     "30d": 5.7,
+     "1d": 16.4,
+     "7d": 0.8,
+     "30d": 23.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -46022,9 +46021,9 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -13.4,
+     "pct": -7.2,
      "now": 3.17,
-     "base": 3.17,
+     "base": 3.42,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -46050,12 +46049,12 @@
    "title": "Blue-Eyes Toon Dragon SDP-020 Prices",
    "set": "YuGiOh Starter Deck: Pegasus",
    "prices": {
-    "Ungraded": 2.49,
+    "Ungraded": 2.75,
     "Grade 7": 17.51,
     "Grade 8": 78.0,
-    "Grade 9": 83.75,
-    "Grade 9.5": 92.0,
-    "PSA 10": 101.0
+    "Grade 9": 82.07,
+    "Grade 9.5": 90.0,
+    "PSA 10": 98.0
    },
    "monthly": {
     "Grade 9.5": [
@@ -46109,7 +46108,7 @@
      ],
      [
       1793512800,
-      92.0
+      90.0
      ]
     ],
     "Grade 7": [
@@ -46217,7 +46216,7 @@
      ],
      [
       1793512800,
-      83.75
+      82.07
      ]
     ],
     "PSA 10": [
@@ -46271,7 +46270,7 @@
      ],
      [
       1793512800,
-      101.0
+      98.0
      ]
     ],
     "Grade 8": [
@@ -46379,7 +46378,7 @@
      ],
      [
       1793512800,
-      2.49
+      2.75
      ]
     ]
    },
@@ -46388,7 +46387,7 @@
     "set_price": 5.27,
     "all_printings_low": {
      "cardmarket": 0.56,
-     "tcgplayer": 2.76,
+     "tcgplayer": 2.82,
      "ebay": 14.95,
      "amazon": 4.98,
      "coolstuffinc": 1.99
@@ -46396,15 +46395,15 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -11.1,
-     "30d": 1.6,
+     "1d": 10.4,
+     "7d": -1.8,
+     "30d": -5.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": -1.9,
-     "30d": -1.9,
+     "1d": -3.0,
+     "7d": -4.9,
+     "30d": -4.9,
      "30d_src": "daily snapshots"
     }
    },
@@ -46436,8 +46435,8 @@
    "title": "Red-Eyes Black Dragon SDJ-001 Prices",
    "set": "YuGiOh Starter Deck: Joey",
    "prices": {
-    "Ungraded": 8.3,
-    "Grade 7": 47.61,
+    "Ungraded": 9.31,
+    "Grade 7": 47.28,
     "Grade 8": 73.5,
     "Grade 9": 144.68,
     "Grade 9.5": 144.86,
@@ -46549,7 +46548,7 @@
      ],
      [
       1793512800,
-      47.61
+      47.28
      ]
     ],
     "Grade 9": [
@@ -46765,7 +46764,7 @@
      ],
      [
       1793512800,
-      8.3
+      9.31
      ]
     ]
    },
@@ -46782,9 +46781,9 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -6.2,
+     "1d": 12.2,
+     "7d": 12.2,
+     "30d": 5.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -46805,11 +46804,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.1,
+     "pct": 0.0,
      "now": 1178.03,
-     "base": 1176.59,
+     "base": 1178.03,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 117.66
+     "floor": 117.8
     }
    }
   },
@@ -46926,10 +46925,10 @@
    "title": "Victor Wembanyama [Silver Prizm] #108 Prices",
    "set": "2023 Panini Hoops Premium Stock",
    "prices": {
-    "Ungraded": 57.25,
+    "Ungraded": 57.69,
     "Grade 8": 70.63,
     "Grade 9": 100.0,
-    "Grade 9.5": 152.93,
+    "Grade 9.5": 156.37,
     "PSA 10": 400.0
    },
    "monthly": {
@@ -46984,7 +46983,7 @@
      ],
      [
       1793512800,
-      152.93
+      156.37
      ]
     ],
     "Grade 7": [],
@@ -47201,15 +47200,15 @@
      ],
      [
       1793512800,
-      57.25
+      57.69
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 10.3,
-     "30d": 47.8,
+     "1d": 0.8,
+     "7d": 11.1,
+     "30d": 39.8,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -47249,7 +47248,7 @@
    "title": "Victor Wembanyama [Green] #238 Prices [Rookie]",
    "set": "2023 Panini Mosaic",
    "prices": {
-    "Ungraded": 46.59,
+    "Ungraded": 47.95,
     "Grade 7": 10.58,
     "Grade 8": 30.0,
     "Grade 9": 88.89,
@@ -47578,15 +47577,15 @@
      ],
      [
       1793512800,
-      46.59
+      47.95
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.6,
-     "30d": 9.0,
+     "1d": 2.9,
+     "7d": 3.5,
+     "30d": 12.2,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -47626,10 +47625,10 @@
    "title": "Victor Wembanyama #87 Prices [Rookie]",
    "set": "2023 Panini Select",
    "prices": {
-    "Ungraded": 14.32,
+    "Ungraded": 16.05,
     "Grade 7": 5.5,
-    "Grade 8": 20.0,
-    "Grade 9": 35.0,
+    "Grade 8": 19.99,
+    "Grade 9": 34.75,
     "Grade 9.5": 52.0,
     "PSA 10": 117.5
    },
@@ -47793,7 +47792,7 @@
      ],
      [
       1793512800,
-      35.0
+      34.75
      ]
     ],
     "PSA 10": [
@@ -47901,7 +47900,7 @@
      ],
      [
       1793512800,
-      20.0
+      19.99
      ]
     ],
     "Ungraded": [
@@ -47955,21 +47954,21 @@
      ],
      [
       1793512800,
-      14.32
+      16.05
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -14.7,
-     "30d": -7.6,
+     "1d": 12.1,
+     "7d": -4.4,
+     "30d": 5.4,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
      "7d": -2.5,
-     "30d": -8.3,
+     "30d": -1.1,
      "30d_src": "daily snapshots"
     }
    },
@@ -48338,7 +48337,7 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 10.4,
+     "1d": 0.0,
      "7d": 10.4,
      "30d": 15.7,
      "30d_src": "daily snapshots"
@@ -48353,9 +48352,9 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.4,
-     "now": 45.0,
-     "base": 43.5,
+     "pct": 13.6,
+     "now": 49.69,
+     "base": 43.75,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 5.0
     },
@@ -48714,14 +48713,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 43.7,
-     "7d": 62.2,
+     "1d": 0.0,
+     "7d": 45.6,
      "30d": 4.1,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
-     "7d": -26.4,
+     "7d": 0.0,
      "30d": 2.6,
      "30d_src": "daily snapshots"
     }
@@ -48729,12 +48728,12 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 1.4,
-     "now": 4687.5,
-     "base": 6986.22,
+     "pct": 45.6,
+     "now": 6736.22,
+     "base": 6971.16,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 698.62,
-     "day_jump": "pending confirmation"
+     "floor": 697.12,
+     "day_jump": "confirmed"
     },
     "PSA 10": {
      "flag": "normal",
@@ -49114,7 +49113,7 @@
     },
     "PSA 10": {
      "flag": "SPIKE_WATCH",
-     "pct": 37.6,
+     "pct": 25.6,
      "now": 14087.0,
      "base": 11214.42,
      "basis": "median of our snapshots 8-37 days old",
@@ -49468,8 +49467,8 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": -0.5,
-     "30d": -1.2,
+     "7d": 0.0,
+     "30d": -4.8,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -49490,11 +49489,11 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": -1.7,
+     "pct": -1.3,
      "now": 67595.0,
-     "base": 68797.5,
+     "base": 68496.88,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 6879.75
+     "floor": 6849.69
     }
    }
   },
@@ -49858,19 +49857,19 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": -7.7,
+     "pct": -4.1,
      "now": 821.47,
-     "base": 855.51,
+     "base": 856.46,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 85.55
+     "floor": 85.65
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.6,
+     "pct": 0.0,
      "now": 43823.53,
-     "base": 43543.85,
+     "base": 43823.53,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 4354.39
+     "floor": 4382.35
     }
    }
   },
@@ -49884,12 +49883,12 @@
    "title": "Blue-Eyes White Dragon [1st Edition] LOB-001 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 999.88,
-    "Grade 7": 2572.93,
-    "Grade 8": 4548.52,
-    "Grade 9": 8657.65,
+    "Ungraded": 999.0,
+    "Grade 7": 2577.5,
+    "Grade 8": 4533.68,
+    "Grade 9": 8648.92,
     "Grade 9.5": 13650.0,
-    "PSA 10": 44994.15
+    "PSA 10": 44997.08
    },
    "monthly": {
     "Grade 9.5": [
@@ -49997,7 +49996,7 @@
      ],
      [
       1793512800,
-      2572.93
+      2577.5
      ]
     ],
     "Grade 9": [
@@ -50051,7 +50050,7 @@
      ],
      [
       1793512800,
-      8657.65
+      8648.92
      ]
     ],
     "PSA 10": [
@@ -50105,7 +50104,7 @@
      ],
      [
       1793512800,
-      44994.15
+      44997.08
      ]
     ],
     "Grade 8": [
@@ -50159,7 +50158,7 @@
      ],
      [
       1793512800,
-      4548.52
+      4533.68
      ]
     ],
     "Ungraded": [
@@ -50213,15 +50212,15 @@
      ],
      [
       1793512800,
-      999.88
+      999.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": -6.2,
-     "30d": -25.4,
+     "1d": -0.1,
+     "7d": -6.3,
+     "30d": -34.7,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -50595,14 +50594,14 @@
    },
    "change": {
     "Ungraded": {
-     "1d": 0.7,
-     "7d": 7.0,
+     "1d": 0.0,
+     "7d": 0.9,
      "30d": 7.0,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": -0.4,
-     "7d": -2.2,
+     "1d": 0.0,
+     "7d": -0.9,
      "30d": 27.9,
      "30d_src": "daily snapshots"
     }
@@ -50610,16 +50609,16 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 6.2,
-     "now": 233.64,
+     "pct": 7.0,
+     "now": 235.34,
      "base": 220.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 22.0
     },
     "PSA 10": {
      "flag": "SPIKE_WATCH",
-     "pct": 26.2,
-     "now": 5867.67,
+     "pct": 25.7,
+     "now": 5843.81,
      "base": 4650.0,
      "basis": "median of our snapshots 8-37 days old",
      "floor": 465.0
@@ -51012,9 +51011,9 @@
    "title": "Gaia The Fierce Knight [1st Edition] LOB-006 Prices",
    "set": "YuGiOh Legend of Blue Eyes White Dragon",
    "prices": {
-    "Ungraded": 110.25,
+    "Ungraded": 130.5,
     "Grade 7": 415.0,
-    "Grade 8": 416.73,
+    "Grade 8": 416.19,
     "Grade 9": 1045.0,
     "Grade 9.5": 1150.0,
     "PSA 10": 5396.02
@@ -51287,7 +51286,7 @@
      ],
      [
       1793512800,
-      416.73
+      416.19
      ]
     ],
     "Ungraded": [
@@ -51341,15 +51340,15 @@
      ],
      [
       1793512800,
-      110.25
+      130.5
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 22.5,
-     "30d": -42.4,
+     "1d": 18.4,
+     "7d": 45.0,
+     "30d": -31.8,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
@@ -51738,11 +51737,11 @@
    "signal": {
     "Ungraded": {
      "flag": "DROP_WATCH",
-     "pct": -39.2,
+     "pct": -35.7,
      "now": 204.94,
-     "base": 336.88,
+     "base": 318.91,
      "basis": "median of our snapshots 8-37 days old",
-     "floor": 33.69
+     "floor": 31.89
     },
     "PSA 10": {
      "flag": "normal",
@@ -53268,7 +53267,7 @@
    "title": "Stardust Dragon [Ghost Rare 1st Edition] TDGS-EN040 Prices",
    "set": "YuGiOh The Duelist Genesis",
    "prices": {
-    "Ungraded": 1191.76,
+    "Ungraded": 1375.0,
     "Grade 7": 1499.51,
     "Grade 8": 3100.0,
     "Grade 9": 3900.0,
@@ -53569,20 +53568,20 @@
      ],
      [
       1793512800,
-      1191.76
+      1375.0
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -10.3,
+     "1d": 15.4,
+     "7d": 15.4,
+     "30d": 3.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
-     "7d": 1.6,
+     "7d": 0.0,
      "30d": 196.3,
      "30d_src": "daily snapshots"
     }
@@ -53974,7 +53973,7 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 11.3,
+     "pct": 7.6,
      "now": 829.68,
      "base": 771.08,
      "basis": "median of our snapshots 8-37 days old",
@@ -54342,7 +54341,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 3.7,
+     "pct": 2.6,
      "now": 9.45,
      "base": 9.86,
      "basis": "median of our snapshots 8-37 days old",
@@ -54704,13 +54703,13 @@
    "change": {
     "Ungraded": {
      "1d": 0.0,
-     "7d": 1.1,
-     "30d": -9.1,
+     "7d": 0.4,
+     "30d": -8.5,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
      "1d": 0.0,
-     "7d": 4.4,
+     "7d": 0.6,
      "30d": -0.6,
      "30d_src": "daily snapshots"
     }
@@ -54718,7 +54717,7 @@
    "signal": {
     "Ungraded": {
      "flag": "normal",
-     "pct": 0.4,
+     "pct": -8.2,
      "now": 4.61,
      "base": 5.02,
      "basis": "median of our snapshots 8-37 days old",
@@ -54726,7 +54725,7 @@
     },
     "PSA 10": {
      "flag": "normal",
-     "pct": 0.6,
+     "pct": -0.6,
      "now": 266.02,
      "base": 267.5,
      "basis": "median of our snapshots 8-37 days old",
@@ -54744,12 +54743,12 @@
    "title": "Red-Eyes Black Dragon  [1st Edition] SDJ-001 Prices",
    "set": "YuGiOh Starter Deck: Joey",
    "prices": {
-    "Ungraded": 25.0,
+    "Ungraded": 27.6,
     "Grade 7": 122.0,
-    "Grade 8": 147.71,
-    "Grade 9": 450.0,
+    "Grade 8": 147.83,
+    "Grade 9": 449.91,
     "Grade 9.5": 495.0,
-    "PSA 10": 4642.83
+    "PSA 10": 4618.35
    },
    "monthly": {
     "Grade 9.5": [
@@ -54911,7 +54910,7 @@
      ],
      [
       1793512800,
-      450.0
+      449.91
      ]
     ],
     "PSA 10": [
@@ -54965,7 +54964,7 @@
      ],
      [
       1793512800,
-      4642.83
+      4618.35
      ]
     ],
     "Grade 8": [
@@ -55019,7 +55018,7 @@
      ],
      [
       1793512800,
-      147.71
+      147.83
      ]
     ],
     "Ungraded": [
@@ -55073,21 +55072,21 @@
      ],
      [
       1793512800,
-      25.0
+      27.6
      ]
     ]
    },
    "change": {
     "Ungraded": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": 0.0,
+     "1d": 10.4,
+     "7d": 10.4,
+     "30d": 10.4,
      "30d_src": "daily snapshots"
     },
     "PSA 10": {
-     "1d": 0.0,
-     "7d": 0.0,
-     "30d": -2.8,
+     "1d": -0.5,
+     "7d": -0.5,
+     "30d": -2.1,
      "30d_src": "daily snapshots"
     }
    },
